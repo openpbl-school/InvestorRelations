@@ -88,7 +88,7 @@ PBL Session;
 - Continued participation in PBL sessions accelerates student employability gains;
 
 
-**vBUSINESS PLAN**
+**BUSINESS PLAN**
  
 **Entrepreneur and main executive**
 - Engineer with BA and CS MSc; CS PhD student;
@@ -142,48 +142,48 @@ PBL Session;
 
 MARIA LUCIA CASE, 2019, SÃO PAULO
 
-Maria Lúcia is 23 years old and she is the oldest daughter of a lower-middle-class family living in the city of São Paulo, Brazil. Her professional long-term goal is to be the marketing director of a large company. As the first step toward realizing her professional dream, she enrolled in a college degree in Marketing, which she hopes to complete in two years.  
+Maria Lúcia is 23 years old and she is the oldest daughter of a lower-middle-class family living in the city of São Paulo, Brazil. Her **professional long-term goal** is to be the **marketing director of a large company**. As the first step toward realizing her professional dream, she enrolled in a college degree in Marketing, which she hopes to complete in two years.  
 
-Part of the course Maria Lucia is taking is face-to-face and her classes take place at night. During the day she works as a saleswoman at a women's clothing store. Her professional short-term goal is to get a marketing analyst position in a retail chain store next year.
-…
+Part of the course Maria Lucia is taking is face-to-face and her classes take place at night. During the day she works as a saleswoman at a women's clothing store. Her **professional short-term goal** is to get a **marketing analyst position** in a retail chain store next year.
+
 On a November morning, Maria Lucia receives on her smartphone the following message:
  
-“Hi Maria Lucia. To move a little further toward your professional goals, it is important that you attend a problem-session that can address the topic 'customer service'. From your most recent achievements, I see that you're ready for this learning experience. Therefore, I suggest and encourage you to follow this path. Count on my help in this additional step of your professional growth.”
+“Hi Maria Lucia. To move a little further toward your professional goals, it is important that you attend a **problem-session** that can address the topic **Customer Service**. From your most recent achievements, I see that you're ready for this learning experience. Therefore, I suggest and encourage you to follow this path. Count on my help in this additional step of your professional growth.”
 
-Happy with the message, Maria Lucia immediately accepts the recommendation from her virtual career assistant. Further, she receives a list of problem-sessions hosted by WeLearn addressing the issue and that will occur in the following weeks in Sao Paulo city. In this list she can see the dates, places, maximum number of participants, type of dynamics and the profile of the expert authors and mentors of the problem-sessions.
+Happy with the message, Maria Lucia immediately accepts the recommendation from her **virtual career assistant**. Further, she receives a list of problem-sessions hosted by WeLearn addressing the issue and that will occur in the following weeks in Sao Paulo city. In this list she can see the dates, places, maximum number of participants, type of dynamics and the profile of the **expert authors** and **tutors** of the problem-sessions.
 
-Maria Lúcia enjoys the "challenge type" problem-sessions and has a lot of fun when the dynamics are "simulation type" or "game", but she is focusing on the "case study" problem-session. She imagines herself in the future making strategic decisions just like the case study's actors.
+Maria Lúcia enjoys the "**challenge type**" problem-sessions and has a lot of fun when the dynamics are "**simulation type**" or "**game**", but she is focusing on the "**case study**" problem-session. She imagines herself in the future making strategic decisions just like the case study's actors.
 
-Among the available options, Maria Lúcia is in doubt between two: the session that takes place very close to her home and the session that has the lowest price. She decides to attend the problem session closest to her home because, in addition to this advantage, she has an 85% “match” on the recommendation of her career assistant.
-…
-Maria Lúcia has almost all the necessary knowledge to attend the session she has chosen, but she still needs 'advanced' certification in the domain Service Marketing. Since she already has an 'intermediate' level certification for this same topic and the event will be in two weeks, she estimates that she will have enough time to prepare and obtain the certification she still lacks.
-…
-The following day, during the subway commuting to the workplace, Maria Lúcia begins preparing for certification. She begins by answering a series of questions about the subject of Service Marketing. With each error in the answers, Maria Lúcia receives several suggestions of links to articles, blogs, podcasts, videos and courses, where she can study the content she needs to eliminate her knowledge gaps.
+Among the available options, Maria Lúcia is in doubt between two: the session that takes place very **close to her home** and the session that has the **lowest price**. She decides to attend the problem session closest to her home because, in addition to this advantage, she has an 85% “match” on the recommendation of her career assistant.
+
+Maria Lúcia has almost all the necessary knowledge to attend the session she has chosen, but she still needs '**advanced level**' certification in the domain **Service Marketing**. Since she already has an '**intermediate level**' certification for this same topic and the event will be in two weeks, she estimates that she will have enough time to prepare and obtain the certification she still lacks.
+
+The following day, during the subway commuting to the workplace, Maria Lúcia begins preparing for certification. She begins by answering a series of questions about the subject of Service Marketing. With each error in the answers, Maria Lúcia receives several suggestions of links to articles, blogs, podcasts, videos and courses, where she can study the content she needs to eliminate her **knowledge gaps**.
 
 Some of the suggestions are free, some not. She'd love to take a suggested e-learning about Warthon service marketing. However, with this month's budget already exhausted, Maria Lucia decides to study only by the content of suggestions freely available on the internet.
 ...
 Throughout the following week, Maria Lúcia researches, interacts with others interested in the same certification, asks questions in specialized forums and finally answers all the questions proposed to obtain the certification she sought. Certified, she can finally complete the registration to attend the problem-session that her virtual assistant suggested.
 
-Fortunately, the session’s mentor did not require certification to be validated by a face-to-face assessment at a qualified certifier. If so, Maria Lúcia would have to schedule the test at lunch break because the movement in the store where she works is already very high at this time of year.
+Fortunately, the session’s expert author did not require certification to be validated by a **face-to-face assessment** at a **partner certifier**. If so, Maria Lúcia would have to schedule the test at lunch break because the movement in the store where she works is already very high at this time of year.
 …
-The problem-session that Maria Lúcia chose will study the case of a fictional department store. Maria Lúcia already hoped that the preparatory material provided by the session's mentor would be extensive and detailed because she opted for a type session premium. Even so, she was surprised by how many charts, tables, and simulation spreadsheets she received. She soon realized that she wouldn't see her friends over the weekend, but she's happy. It's for a good cause.
+The problem-session that Maria Lúcia chosed will study **the case of a fictional department store**. Maria Lúcia already hoped that the preparatory material provided by the session's mentor would be extensive and detailed because she opted for a type session premium. Even so, she was surprised by how many charts, tables, and simulation spreadsheets she received. She soon realized that she wouldn't see her friends over the weekend, but she's happy. It's for a good cause.
 ...
 Maria Lucia needs to read the case material very carefully and prepare her case for the questions that will be asked of her group at the initial stage of the session. In addition, this argument will be your starting point in discussions at the final and most important stage of the session.
 …
 At the scheduled day and time, Maria Lucia goes to the venue of the session. It is a co-working with a modern and very stimulating environment for her. Being with all those people, moving in harmony through the various co-working environments gave her a very positive vibe. She likes that environment. And it's not just for the good coffee they offer.
 
-She is excited but also anxious. After all, the expert is a senior manager at one of the largest supermarket chains in the country. She is sure he has the ideal profile and experience to pose a truly challenging problem for a marketing analyst of retail sector. While waiting for the other students, she wonders how many analysts have come under her command over the years. How many he would have already hired for his team. How many were really good and were promoted. Deep in her heart, she could not wait to become one of them, and this was the opportunity to get an even simulated idea of ​​what it would be like.
-…
+She is excited but also anxious. After all, **the expert author is a senior manager** at one of the largest supermarket chains in the country. She is sure he has the ideal profile and experience to pose a truly challenging problem for a marketing analyst of retail sector. While waiting for the other students, she wonders how many analysts have come under her command over the years. How many he would have already hired for his team. How many were really good and were promoted. Deep in her heart, she could not wait to become one of them, and this was the opportunity to get an even simulated idea of what it would be like.
+
 Maria Lúcia considers herself well prepared to attend the event, but is a little anxious because she is a bit shy and will have to defend her views to the tutor who will drive the session dynamics and the other 9 participating students.
 
-She will certainly receive criticisms and have to argue against it to be well evaluated by the tutor and her peers. Still, Maria Lúcia does not expect to have the same difficulties she had in the initial sessions she attended, when she didn't go well because of shyness. Since then, she has been encouraged to analyze her mistakes and successes in the videos recorded in previous sessions and to insist on problem-based learning because these sessions make up what is closest to the environments, interactions, and real problems she will face in companies where she will practice her profession.
-...
+She will certainly receive criticisms and have to argue against it to be well evaluated by the tutor and her peers. Still, Maria Lúcia does not expect to have the same difficulties she had in the initial sessions she attended, when she didn't go well because of shyness. Since then, she has been encouraged to analyze her mistakes and successes in the videos recorded in previous sessions and to insist on **problem-based learning** because these sessions make up what is closest to the environments, interactions, and real problems she will face in companies where she will practice her profession.
+
 After the session that lasted 3 hours, Maria Lúcia is exhausted, but satisfied with her performance. His professional development was noticeable this time. She wants to get home to watch the recording and the transcript of the session. She wants to check her expectation regarding the evaluation of her performance by the mentor criteria and also by the evaluation of the other students participating in the session.
 
 Maria Lúcia ends the event with the feeling that she is able to apply, with increasing security and clarity, the knowledge learned in the college that she is attending. She will no longer feel so insecure in the decisions she makes in problem-sessions, and this is gradually reflected in her behavior in the real world work environment. She really feels like moving fast toward her professional dream.
 
 WE-LEARN
-Lifelong, problem-based & assistant-led learning.
+*Lifelong, problem-based & assistant-led learning.*
 
 
 <p align="center"><a href="#start">voltar</a></p>
