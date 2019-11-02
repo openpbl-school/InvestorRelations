@@ -1,7 +1,8 @@
+<a name="start"></a>
 
 ![Image1](img/logo1_fundo_branco.png) 
 
-|  [30-SECOND PITCH](#presentation) |  PRESENTATION  |  STORYTELLING 1  |  EXECUTIVE SUMMARY  |  FINANCIAL PLAN  | 
+|  [30-SECOND PITCH](#presentation) |  [PRESENTATION](#presentation)  |  [STORYTELLING 1](#presentation)  |  [EXECUTIVE SUMMARY](#presentation)  |  [FINANCIAL PLAN](#presentation)  | 
 
 
 
@@ -22,7 +23,7 @@ In order to validate some business plan assumptions, the company needs investmen
 To proceed to the next step of starting and launching its first BU in São Paulo (Brazil), edtech needs investments of around **$ 163,000**, which will be spent mostly on the development of **software systems** and **new problem case titles**. For the investment, the entrepreneurs offer a **15% equity** interest in the company.
 
 
-Voltar
+[Voltar](#start)
 
 
 
