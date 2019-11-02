@@ -4,7 +4,7 @@
   <b></b><br>
   <a href="#pitch">PITCH</a>  |
   <a href="#presentation">PRESENTATION</a>  |
-  <a href="#storytelling">STORYTELLING</a>  |
+  <a href="#offering">OFFERING</a>  |
   <a href="#executive_summary">EXECUTIVE SUMMARY</a>  |
   <a href="https://drive.google.com/open?id=13KPg3aKLpEGyFt1RKpcl_v5G5sD4SK5Z">FINANCIAL PLAN</a>  |
   <br><br>
@@ -144,10 +144,10 @@ PBL Session;
 <br>
 <br>
 
-<a name="storytelling"></a> 
+<a name="offering"></a> 
 
 
-## STORYTELLING PITCH 
+## OFFERING STORYTELLING 
 
 MARIA LUCIA CASE, 2019, SÃO PAULO
 
