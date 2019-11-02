@@ -11,14 +11,6 @@
 </p>
 
 
-## OLD
-
-![Image1](img/logo1_fundo_branco.png) 
-
- | [30-SECOND PITCH](#presentation) |  [PRESENTATION](#presentation)  |  [STORYTELLING 1](#presentation)  |  [EXECUTIVE SUMMARY](#presentation)  |  [FINANCIAL PLAN](#presentation)  | 
-
-
-
 ## SHORT PITCH 
 Problem-based learning (PBL) is a learning strategy successfully adopted by some higher education institutions, such as Harvard, Minerva, and 42. At PBL, students learn by **solving problems** and **reflecting on their experiences**. Among its advantages, the pragmatism of the learning experiences, which **accelerates students' employability gains** in the job market.
  
@@ -34,7 +26,6 @@ In order to validate some business plan assumptions, the company needs investmen
 **Series A** <br>
 To proceed to the next step of starting and launching its first BU in São Paulo (Brazil), edtech needs investments of around **$ 163,000**, which will be spent mostly on the development of **software systems** and **new problem case titles**. For the investment, the entrepreneurs offer a **15% equity** interest in the company.
 
-[Voltar](#start)
 
 <p align="center"><a href="#start">voltar</a></p>
 
@@ -337,7 +328,6 @@ Average EV -
 
 
 
-
 Funding and exit rules 
 The minimum initial investment required for the edtech startup and launch of the first BU is $ 163,000, mostly spent on CAPEX. All investment required to implement the plan will be provided by venture capital by at least three fundraising rounds. The main exit rule for investors is the strategic sale of edtech to a global real estate or education company.
 
@@ -355,6 +345,37 @@ Development of software systems and PBL session titles;
 
 
 <p align="center"><a href="#start">voltar</a></p>
+
+<br>
+<br>
+<br>
+
+<a name="financial_plan"></a> 
+
+## FINANCIAL PLAN 
+
+THE OPPORTUNITY
+
+
+
+
+...
+
+<p align="center"><a href="#start">voltar</a></p>
+
+
+
+
+
+
+## OLD
+
+![Image1](img/logo1_fundo_branco.png) 
+
+ | [30-SECOND PITCH](#presentation) |  [PRESENTATION](#presentation)  |  [STORYTELLING 1](#presentation)  |  [EXECUTIVE SUMMARY](#presentation)  |  [FINANCIAL PLAN](#presentation)  | 
+
+
+[Voltar](#start)
 
 
 
