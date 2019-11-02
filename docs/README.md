@@ -4,9 +4,9 @@
 
 |  [30-SECOND PITCH](#presentation) |  [PRESENTATION](#presentation)  |  [STORYTELLING 1](#presentation)  |  [EXECUTIVE SUMMARY](#presentation)  |  [FINANCIAL PLAN](#presentation)  | 
 
-<p style="text-align: center;">Centered text</p>
+<p align="center>Centered text</p> 
 
-## SHORT PITCH
+## SHORT PITCH <br>
 
 Problem-based learning (PBL) is a learning strategy successfully adopted by some higher education institutions, such as Harvard, Minerva, and 42. At PBL, students learn by **solving problems** and **reflecting on their experiences**. Among its advantages, the pragmatism of the learning experiences, which **accelerates students' employability gains** in the job market.
  
