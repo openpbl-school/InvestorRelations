@@ -36,10 +36,11 @@ To proceed to the next step of starting and launching its first BU in São Paulo
 
 [Voltar](#start)
 
-<p align="center">
-<a href="#start">voltar</a> 
-</p>
+<p align="center"><a href="#start">voltar</a></p>
 
+<br>
+<br>
+<br>
 
 <a name="presentation"></a> 
 
@@ -137,9 +138,13 @@ Development of software systems and PBL session titles;
 Proposal of 15% equity interest in the company  (EV = $ 4.0 million);
 
 
+<p align="center"><a href="#start">voltar</a></p>
 
-Voltar
+<br>
+<br>
+<br>
 
+<a name="storytelling"></a> 
 
 
 ## STORYTELLING PITCH 
@@ -190,8 +195,13 @@ WE-LEARN
 Lifelong, problem-based & assistant-led learning.
 
 
-Voltar
+<p align="center"><a href="#start">voltar</a></p>
 
+<br>
+<br>
+<br>
+
+<a name="executive_summary"></a> 
 
 ## EXECUTIVE SUMMARY 
 
@@ -344,13 +354,7 @@ Mainly spent in capital expenditures;
 Development of software systems and PBL session titles;
 
 
-Voltar
-
-
-Link público deste doc:
-https://docs.google.com/document/d/e/2PACX-1vSjaSXJu7EEB-X_8PZT31Z8Gw1Za7GNjvzZWxyI0QCKrIbFPaFqKJp3uLOpv-NwDGpVk3eIG7wIaPgr/pub 
-
-
+<p align="center"><a href="#start">voltar</a></p>
 
 
 
