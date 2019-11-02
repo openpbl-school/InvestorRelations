@@ -1,7 +1,8 @@
 
-![Image1](docs/img/logo1_fundo_branco.png) 
+![Image1](img/logo1_fundo_branco.png) 
 
-|  30-SECOND PITCH  |  PRESENTATION  |  STORYTELLING 1  |  EXECUTIVE SUMMARY  |  FINANCIAL PLAN  | 
+|  [30-SECOND PITCH](https://www.linkedin.com/company/openpbl/about/) |  PRESENTATION  |  STORYTELLING 1  |  EXECUTIVE SUMMARY  |  FINANCIAL PLAN  | 
+
 
 
 ## SHORT PITCH
