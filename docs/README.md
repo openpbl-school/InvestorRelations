@@ -2,9 +2,9 @@
 |  30-SECOND PITCH  |  PRESENTATION  |  STORYTELLING 1  |  EXECUTIVE SUMMARY  |  FINANCIAL PLAN  | 
 
 
-##30-SECOND PITCH (Whats app)
+## 30-SECOND PITCH (Whats app)
 
-*SHORT PITCH*
+**SHORT PITCH** <br>
 Problem-based learning (PBL) is a learning strategy successfully adopted by some higher education institutions, such as Harvard, Minerva, and 42. At PBL, students learn by *solving problems* and *reflecting on their experiences*. Among its advantages, the pragmatism of the learning experiences, which *accelerates students' employability gains* in the job market.
  
 However, despite the advantages of using PBL, the creation of PBL-oriented educational business models that can *be replicated on a global scale* is still an *unresolved problem* for the education sector. To address the *scaling problem of PBL use*, an experienced executive of educational sector proposes an innovative *technology-intensive* strategy based on *strategic partnerships* with key suppliers.
@@ -13,12 +13,10 @@ To implement and execute the strategy, he developed the *business plan* of an *e
 
 All investment required to implement the plan will be provided by the venture capital that will be raised in at least three future investment rounds. The main *exit rule* for attracting investors is the edtech's potential *strategic sale* to a global *real estate* or *education* company.
 
-...
-Seed capital 
+**Seed capital** <br>
 In order to validate some business plan assumptions, the company needs investments of about *$ 38,000* in *pre-operating expenses*. For this early stage investment, the entrepreneur offers *5% equity* interest in the company. 
 
-…
-Series A  
+**Series A** <br>
 To proceed to the next step of starting and launching its first BU in São Paulo (Brazil), edtech needs investments of around *$ 163,000*, which will be spent mostly on the development of *software systems* and *new problem case titles*. For the investment, the entrepreneurs offer a *15% equity* interest in the company.
 
 
