@@ -22,9 +22,9 @@ In order to validate some business plan assumptions, the company needs investmen
 **Series A** <br>
 To proceed to the next step of starting and launching its first BU in São Paulo (Brazil), edtech needs investments of around **$ 163,000**, which will be spent mostly on the development of **software systems** and **new problem case titles**. For the investment, the entrepreneurs offer a **15% equity** interest in the company.
 
-
+<p style="text-align: center;"
 [Voltar](#start)
-
+</p>
 
 
 30-SECOND PITCH
