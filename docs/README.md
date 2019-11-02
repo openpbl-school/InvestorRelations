@@ -1,7 +1,7 @@
 
 ![Image1](img/logo1_fundo_branco.png) 
 
-|  [30-SECOND PITCH](https://www.linkedin.com/company/openpbl/about/) |  PRESENTATION  |  STORYTELLING 1  |  EXECUTIVE SUMMARY  |  FINANCIAL PLAN  | 
+|  [30-SECOND PITCH](#presentation) |  PRESENTATION  |  STORYTELLING 1  |  EXECUTIVE SUMMARY  |  FINANCIAL PLAN  | 
 
 
 
@@ -48,8 +48,8 @@ To proceed to the next step of starting and launching its first BU in São Paulo
 
 Voltar
 
-
-PRESENTATION 
+# <a name="presentation></a> DETAIL SECTION
+## PRESENTATION 
 
 THE OPPORTUNITY 
 
