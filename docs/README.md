@@ -28,7 +28,8 @@ In order to validate some business plan assumptions, the company needs investmen
 **Series A** <br>
 To proceed to the next step of starting and launching its first BU in São Paulo (Brazil), edtech needs investments of around **$ 163,000**, which will be spent mostly on the development of **software systems** and **new problem case titles**. For the investment, the entrepreneurs offer a **12% equity** interest in the company.
 
-
+<br>
+<br>
 <p align="center"><a href="#start">voltar</a></p>
 
 <br>
@@ -63,7 +64,10 @@ Intensive use of technology to sustain strategic partnerships with key resource 
 
 **Intensive use of technology**
 - State-of-art expert system to assist content producers in developing problem scenarios;
-- Artificial intelligence applied to assess student performance (facial recognition, speech-to-text and natural language processing); <br><br>
+- Artificial intelligence applied to assess student performance (facial recognition, speech-to-text and natural language processing); 
+
+<br>
+<br>
 
 **THE BUSINESS**
 
@@ -87,8 +91,10 @@ PBL Session;
 - Employees listed in corporate learning and development (L&D) plans (B2B target audience);
 
 **Market value proposition**
-- Continued participation in PBL sessions accelerates student employability gains;<br><br>
+- Continued participation in PBL sessions accelerates student employability gains;
 
+<br>
+<br>
 
 **BUSINESS PLAN**
  
@@ -128,9 +134,10 @@ PBL Session;
 - Investment of $ 163,000;
 - Mainly spent in capital expenditures;
 - Development of software systems and PBL session titles;
-- Proposal of 12% equity interest in the company  (EV = $ 4.0 million);<br><br>
+- Proposal of 12% equity interest in the company  (EV = $ 4.0 million);
 
-
+<br>
+<br>
 <p align="center"><a href="#start">voltar</a></p>
 
 <br>
@@ -187,7 +194,8 @@ Maria Lúcia ends the event with the feeling that she is able to apply, with inc
 WE-LEARN
 *Lifelong, problem-based & assistant-led learning.*
 
-
+<br>
+<br>
 <p align="center"><a href="#start">voltar</a></p>
 
 <br>
@@ -200,7 +208,7 @@ WE-LEARN
 
 **THE OPPORTUNITY**
 
-**Problem-based learning**
+**Problem-based learning** <br>
 Problem-based learning (PBL) is a learning strategy successfully adopted by some higher education institutions. It is possible to identify the application of PBL in some internationally recognized educational systems, such as in the case study classes of Harvard’s medical and business schools, in the “teacherless” operation of IT School “42”, and in Minerva's global course architecture. 
 
 At PBL, students learn by solving problems and reflecting on their experiences. They work in small collaborative groups where they learn what they need to solve a problem presented. In this context, the teacher acts more as a facilitator to guide student learning than as the holder of knowledge, as in traditional methods. 
@@ -209,10 +217,10 @@ Among its advantages, the pragmatism of their learning experiences accelerates s
 
 In companies, this performance is commonly estimated by the managers during the annual performance evaluation process. Thus, much of the value to companies obtained through the application of PBL is related to efficiency gains and risk reduction in the process of direct evaluation of professional performance. 
 
-**The scaling problem of PBL**
+**The scaling problem of PBL** <br>
 Despite the advantages of using PBL, the creation of PBL-oriented educational business models that can be replicated on a global scale is still an unresolved problem for the education sector. By demanding high-level educational resources for their preparation and execution, the expansion of the activities of PBL-driven educational business compromised as they do not achieve diminishing returns to scale. This scale problem entails an important constraint on PBL dissemination and universalization as learning strategy. 
 
-**Solving the scaling problem of PBL**
+**Solving the scaling problem of PBL** <br>
 To address the scaling problem of PBL use, an experienced executive of educational sector proposes an innovative technology-intensive strategy based on strategic partnerships with key suppliers. The main objective of the strategy is to keep the supply of the two largest direct cost items in the education sector - hosting and faculty- at high levels, even as company activities increase. 
 
 Unlike most edtechs that favor digital operations to achieve diminishing returns on the scale of their activities, the proposed model bases the company's scalability on: (1) the use of third party assets, and (2) atomized non-digital operations.
@@ -225,10 +233,11 @@ In order for the strategy to be executed, intensive technology support is requir
 State-of-art expert system to assist content producers in developing problem scenarios;
 Artificial intelligence applied to assess student performance (facial recognition, speech-to-text and natural language processing);
 
+<br>
+<br>
+**THE BUSINESS** <br>
 
-...
-**THE BUSINESS**
-**Edtech company**
+**Edtech company** <br>
 With the increasingly intensive use of technology, edtechs are currently assuming the role of protagonists in proposing solutions to the most varied problems in the education sector. The use of new technologies is responsible for the current role of edtechs that use them not only to design new products, but also to reduce costs and generate scale for scaling up activities.
 
 The current configuration of the educational business landscape presents an excellent window of opportunity for innovative models that set out to solve the PBL scale problem. To take advantage of the current window of opportunity in today's education sector scenario the creation of an Edtech, which address the PBL's scale problem with an innovative technology-intensive strategy based on partnership with key suppliers.
@@ -236,7 +245,7 @@ The current configuration of the educational business landscape presents an exce
 The core of edtech’ offering are career-focused and low-cost PBL experiences. Moreover, continuous offering to the target audience characterizes a scalable PBL-oriented educational business model, whose learning attributes can be summarized as:
 Lifelong, adaptive, and problem-based educational system;
 
-**Core of offering**
+**Core of offering** <br>
 The products offered by the company are face-to-face problem-solving sessions, or simply “PBL Sessions”,which can be purchased in isolation or along tailor-made student trails. Sessions can be “attended” at any time in the places where they are offered.  
 
 Each “PBL Session” is:
@@ -247,26 +256,28 @@ Each “PBL Session” is:
 - Each student's participation is recorded and made available on audiovisual media;
 - Each student receives feedback on their individual and group performance;
 
-**Target Audience**
+**Target audience** <br>
 The audience of PBL Sessions are individuals from the economically active portion of the population who are interested in promoting or accelerating the gain of their employability. The personas that fit the profile of the target audience are.  
 Students from higher schools, attending the final third of their educational programs;
 Graduated professionals seeking relocation or career advancement;
 Employees listed in corporate learning and development (L&D) plans (B2B target audience);
 
-**Market value proposition**
+**Market value proposition** <br>
 The value proposition for the market is that continued participation in PBL sessions accelerates student employability gains. 
 
+<br>
+<br>
 
-**BUSINESS PLAN**
+**BUSINESS PLAN** <br>
 
-**Edtech business model**
+**Edtech business model** <br>
 Jorge Cataldo is an engineer with 15 years of experience conducting business units of large higher education institutions for executive and corporate education. To implement and execute the strategy, he developed the business plan of an edtech company, whose financial simulations show outstanding performance after five years of operation.
 
 PBL Sessions can be marketed to the target audience, both at retail, and for companies empower its staff. The B2C trading strategy depends on the level of investment raised. With low investment available for attraction and conversion actions, sales can be accomplished through partnerships with retail channels specializing in educational products. Similarly, B2B marketing can circumvent a low level of investment through partnerships with professional associations and entities. 
 
 The main company's revenues are derived from the sale of PBL Sessions. And the direct costs are: (1) customer acquisition costs, and (2) operational execution costs of PBL sessions. Also, the edtech will focus the capital expenditure (capex) in developing the problem scenarios.
 
-**BU expected performance**
+**BU expected performance** <br>
 Under the proposed business model, it is possible to achieve an annual net revenue of $ 2.1 million (EBITDA 55%) for each new business unit launched at a cost of $ 63,000.
 
 The following assumptions were used to simulate the company's operations under the business model described in the business plan:
@@ -301,21 +312,22 @@ OBS.: As  at an unspecified location, the main business indicators are reference
 
 *EV = Enterprise value*
 
-**Funding and exit rules**
+**Funding and exit rules** <br>
 The minimum initial investment required for the edtech startup and launch of the first BU is $ 163,000, mostly spent on CAPEX. All investment required to implement the plan will be provided by venture capital by at least three fundraising rounds. The main exit rule for investors is the strategic sale of edtech to a global real estate or education company.
 
-**Seed capital**
+**Seed capital** <br>
 In order to validate some business plan assumptions, edtech needs investments of about $ 40,000 in pre-operating expenses. For the investment, the entrepreneurs offer 5% equity interest in the company (EV = $3.0 million). The main goals for the actions to be implemented by the seed capital are: 
 
 - To run a concierge MVP in three cities;
 - To validate some business plan assumptions;
 - Investor must helps on Series A funding;
 
-**Series A**
+**Series A** <br>
 To start and launch its first BU in São Paulo (Brazil), edtech needs investments of around $ 163,000, which will be spent mostly on the development of software systems and new problem case titles, as well as some working capital. For the investment, the entrepreneurs offer a 15% equity interest in the company (EV = $4.0 million). The main goals for the actions to be implemented by the Series A capital are:
 - Mainly spent in capital expenditures;
 - Development of software systems and PBL session titles;
 
-<br><br>
+<br>
+<br>
 <p align="center"><a href="#start">voltar</a></p>
 
