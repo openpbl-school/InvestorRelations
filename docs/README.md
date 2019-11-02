@@ -2,9 +2,14 @@
 
 <p align="center">
 ![Image1](img/logo1_fundo_branco.png) 
+</p> 
 
-|  [30-SECOND PITCH](#presentation) |  [PRESENTATION](#presentation)  |  [STORYTELLING 1](#presentation)  |  [EXECUTIVE SUMMARY](#presentation)  |  [FINANCIAL PLAN](#presentation)  | 
+<p align="center">
+ |  [30-SECOND PITCH](#presentation) |  [PRESENTATION](#presentation)  |  [STORYTELLING 1](#presentation)  |  [EXECUTIVE SUMMARY](#presentation)  |  [FINANCIAL PLAN](#presentation)  | 
+</p> 
 
+<p align="center">
+center
 </p> 
 
 ## SHORT PITCH <br>
