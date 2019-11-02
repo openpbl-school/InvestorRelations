@@ -16,17 +16,17 @@
 ## SHORT PITCH 
 Problem-based learning (PBL) is a learning strategy successfully adopted by some higher education institutions, such as Harvard, Minerva, and 42. At PBL, students learn by **solving problems** and **reflecting on their experiences**. Among its advantages, the pragmatism of the learning experiences, which **accelerates students' employability gains** in the job market.
  
-However, despite the advantages of using PBL, the creation of PBL-oriented educational business models that can *be replicated on a global scale* is still an *unresolved problem* for the education sector. To address the **scaling problem of PBL use**, an experienced executive of educational sector proposes an innovative **technology-intensive** strategy based on **strategic partnerships** with key suppliers.
+However, despite the advantages of using PBL, the creation of PBL-oriented educational business models that can **be replicated on a global scale** is still an **unresolved problem** for the education sector. To address the **scaling problem of PBL use**, an experienced executive of educational sector proposes an innovative **technology-intensive** strategy based on **strategic partnerships** with key suppliers.
 
-To implement and execute the strategy, he developed the *business plan* of an *edtech company*, whose financial simulations show outstanding performance after five years of operation. Under the proposed business model, annual **net revenues** of **$ 2.1 million** (EBITDA 55%) can be obtained for each new business unit launched at a cost of **$ 63,000**, with no relevant geographic limitations to scale the company's activities. The investment required for the edtech startup and launch of the first *business unit* is **$ 163,000**, mostly spent on CAPEX. 
+To implement and execute the strategy, he developed the **business plan** of an **edtech company**, whose financial simulations show outstanding performance after five years of operation. Under the proposed business model, annual **net revenues** of **$ 2.1 million** (EBITDA 55%) can be obtained for each new business unit launched at a cost of **$ 63,000**, with no relevant geographic limitations to scale the company's activities. The investment required for the edtech startup and launch of the first *business unit* is **$ 163,000**, mostly spent on CAPEX. 
 
 All investment required to implement the plan will be provided by the venture capital that will be raised in at least three future investment rounds. The main **exit rule** for attracting investors is the edtech's potential *strategic sale* to a global **real estate** or **education** company.
 
 **Seed capital** <br>
-In order to validate some business plan assumptions, the company needs investments of about **$ 38,000** in **pre-operating expenses**. For this early stage investment, the entrepreneur offers **5% equity** interest in the company. 
+In order to validate some business plan assumptions, the company needs investments of about **$ 38,000** in **pre-operating expenses**. For this early stage investment, the entrepreneur offers **3% equity** interest in the company. 
 
 **Series A** <br>
-To proceed to the next step of starting and launching its first BU in São Paulo (Brazil), edtech needs investments of around **$ 163,000**, which will be spent mostly on the development of **software systems** and **new problem case titles**. For the investment, the entrepreneurs offer a **15% equity** interest in the company.
+To proceed to the next step of starting and launching its first BU in São Paulo (Brazil), edtech needs investments of around **$ 163,000**, which will be spent mostly on the development of **software systems** and **new problem case titles**. For the investment, the entrepreneurs offer a **12% equity** interest in the company.
 
 
 <p align="center"><a href="#start">voltar</a></p>
@@ -35,23 +35,23 @@ To proceed to the next step of starting and launching its first BU in São Paulo
 <br>
 <br>
 
-<a name="presentation"></a> 
+<a name="presentation"></a>
 
 ## PRESENTATION 
 
-THE OPPORTUNITY 
+**THE OPPORTUNITY**
 
-Problem-based learning
-Successfully embraced learning strategy by Harvard, Minerva and 42;
-Students learn by solving problems and reflecting on their experiences;
-Pragmatic learning experiences that accelerate student employability gains;
+**Problem-based learning**
+- Successfully embraced learning strategy by Harvard, Minerva and 42;
+- StudentsStudents learn by solving problems and reflecting on their experiences;
+- Pragmatic learning experiences that accelerate student employability gains;
 
 The scaling problem of PBL
-PBL requires high-level resources that become scarce as school activities expand;
+- PBLPBL requires high-level resources that become scarce as school activities expand;
 
 Solving the scaling problem of PBL
-Act on the availability of the two largest direct cost items: hosting and faculty;
-Work with third party assets to ensure the high availability of these resources;
+- Act on the availability of the two largest direct cost items: hosting and faculty;
+- Work with third party assets to ensure the high availability of these resources;
 Intensive use of technology to sustain strategic partnerships with key resource providers;
 
 Strategic partnerships
