@@ -2,6 +2,7 @@
 
 <p align="center">
   <b></b><br>
+  <a href="#presentation">PITCH</a>  |
   <a href="#presentation">PRESENTATION</a>  |
   <a href="#storytelling">STORYTELLING</a>  |
   <a href="#executive_summary">EXECUTIVE SUMMARY</a>  |
@@ -346,22 +347,6 @@ Development of software systems and PBL session titles;
 
 <p align="center"><a href="#start">voltar</a></p>
 
-<br>
-<br>
-<br>
-
-<a name="financial_plan"></a> 
-
-## FINANCIAL PLAN 
-
-THE OPPORTUNITY
-
-
-
-
-...
-
-<p align="center"><a href="#start">voltar</a></p>
 
 
 
