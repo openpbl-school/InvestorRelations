@@ -7,7 +7,7 @@
   <a href="#executive_summary">EXECUTIVE SUMMARY</a>  |
   <a href="#financial_plan">FINANCIAL PLAN</a>  |
   <br><br>
-  <img src="img/logo1_fundo_branco.png">
+  <img src="img/logo1_fundo_branco_small.png">
 </p>
 
 
