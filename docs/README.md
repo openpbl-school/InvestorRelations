@@ -2,7 +2,7 @@
 
 <p align="center">
   <b></b><br>
-  <a href="#presentation">PITCH</a>  |
+  <a href="#pitch">PITCH</a>  |
   <a href="#presentation">PRESENTATION</a>  |
   <a href="#storytelling">STORYTELLING</a>  |
   <a href="#executive_summary">EXECUTIVE SUMMARY</a>  |
@@ -11,6 +11,7 @@
   <img src="img/logo1_fundo_branco_small.png">
 </p>
 
+<a name="pitch"></a> 
 
 ## SHORT PITCH 
 Problem-based learning (PBL) is a learning strategy successfully adopted by some higher education institutions, such as Harvard, Minerva, and 42. At PBL, students learn by **solving problems** and **reflecting on their experiences**. Among its advantages, the pragmatism of the learning experiences, which **accelerates students' employability gains** in the job market.
