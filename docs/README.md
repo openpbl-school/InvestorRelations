@@ -46,89 +46,87 @@ To proceed to the next step of starting and launching its first BU in São Paulo
 - StudentsStudents learn by solving problems and reflecting on their experiences;
 - Pragmatic learning experiences that accelerate student employability gains;
 
-The scaling problem of PBL
+**The scaling problem of PBL**
 - PBLPBL requires high-level resources that become scarce as school activities expand;
 
-Solving the scaling problem of PBL
+**Solving the scaling problem of PBL**
 - Act on the availability of the two largest direct cost items: hosting and faculty;
 - Work with third party assets to ensure the high availability of these resources;
 Intensive use of technology to sustain strategic partnerships with key resource providers;
 
-Strategic partnerships
-Replace teachers as content producers with experienced professionals in their careers;
-Replace traditional classes with many students with atomized learning experiences;
+**Strategic partnerships**
+- Replace teachers as content producers with experienced professionals in their careers;
+- Replace traditional classes with many students with atomized learning experiences;
 
-Intensive use of technology
-State-of-art expert system to assist content producers in developing problem scenarios;
-Artificial intelligence applied to assess student performance (facial recognition, speech-to-text and natural language processing);
+**Intensive use of technology**
+- State-of-art expert system to assist content producers in developing problem scenarios;
+- Artificial intelligence applied to assess student performance (facial recognition, speech-to-text and natural language processing);
 
 
-...
-THE BUSINESS  
+**THE BUSINESS**
 
-Edtech company 
-A scalable PBL-oriented educational business model;
-Career-focused, low-cost PBL experiences as core of offering;
-Lifelong, adaptive, and problem-based educational system;
+**Edtech company**
+- A scalable PBL-oriented educational business model;
+- Career-focused, low-cost PBL experiences as core of offering;
+- Lifelong, adaptive, and problem-based educational system;
 
-Core of offering
+**Core of offering**
 PBL Session;
-3-hour non-virtual meeting conducted by a tutor (via web conference);
-For a group of 10 students familiar with the terms and knowledge of the problem domain;
-Who have successfully completed preparatory activities;
-In order to solve and discuss solutions to real and typical problems of their jobs;
-Each student's participation is recorded and made available on audiovisual media;
-Each student receives feedback on their individual and group performance;
+- 3-hour non-virtual meeting conducted by a tutor (via web conference);
+- For a group of 10 students familiar with the terms and knowledge of the problem domain;
+- Who have successfully completed preparatory activities;
+- In order to solve and discuss solutions to real and typical problems of their jobs;
+- Each student's participation is recorded and made available on audiovisual media;
+- Each student receives feedback on their individual and group performance;
 
-Target audience
-Students from higher schools, attending the final third of their educational programs;
-Graduated professionals seeking relocation or career advancement;
-Employees listed in corporate learning and development (L&D) plans (B2B target audience);
+**Target audience**
+- Students from higher schools, attending the final third of their educational programs;
+- Graduated professionals seeking relocation or career advancement;
+- Employees listed in corporate learning and development (L&D) plans (B2B target audience);
 
-Market value proposition
-Continued participation in PBL sessions accelerates student employability gains;
+**Market value proposition**
+- Continued participation in PBL sessions accelerates student employability gains;
 
 
-...
-BUSINESS PLAN
+**vBUSINESS PLAN**
  
-Entrepreneur and main executive
-Engineer with BA and CS MSc; CS PhD student;
-15 year of experience in executive and corporate education;
-Leadership of BU of large higher education institutions;
+**Entrepreneur and main executive**
+- Engineer with BA and CS MSc; CS PhD student;
+- 15 year of experience in executive and corporate education;
+- Leadership of BU of large higher education institutions;
 
-Edtech business model
-Business units (BU) with B2C and B2B sales channels; 
-Revenue from student enrollment in PBL sessions;
-Capital expenditure (capex): Development of problem scenarios;
-Direct costs: customer acquisition costs and operational execution costs of PBL sessions;
+**Edtech business model**
+- Business units (BU) with B2C and B2B sales channels; 
+- Revenue from student enrollment in PBL sessions;
+- Capital expenditure (capex): Development of problem scenarios;
+- Direct costs: customer acquisition costs and operational execution costs of PBL sessions;
 
-BU expected performance
-Annual average sales - 1.023
-Annual Net Revenue average growth -  83,7%
-Annual Net Revenue in year 5 -  $1,2 M
-Net Revenue carry over by year-end 5 -  $0
-Year 5 EBITDA ($) -  $0,4 M
-Year 5 EBITDA (% Net Revenue) -  32,0%
-Free cash generation of year 5 ($) -  $0,2 M
+**BU expected performance**
+- Annual average sales - 1.023
+- Annual Net Revenue average growth -  83,7%
+- Annual Net Revenue in year 5 -  $1,2 M
+- Net Revenue carry over by year-end 5 -  $0
+- Year 5 EBITDA ($) -  $0,4 M
+- Year 5 EBITDA (% Net Revenue) -  32,0%
+- Free cash generation of year 5 ($) -  $0,2 M
 
-Funding and exit rules 
-All required investment will be provided by venture capital;
-At least three funding rounds; 
-Strategic sale to a global real estate or education company as main exit rule;
+**Funding and exit rules**
+- All required investment will be provided by venture capital;
+- At least three funding rounds; 
+- Strategic sale to a global real estate or education company as main exit rule;
 
-Seed capital
-Investment of $ 38,000;
-To run a concierge MVP in three cities;
-With goal to validate some business plan assumptions;
-Investor must helps on Series A funding;
-Proposal of 5% equity interest in the company (EV = $ 3.0 million);
+**Seed capital**
+- Investment of $ 38,000;
+- To run a concierge MVP in three cities;
+- With goal to validate some business plan assumptions;
+- Investor must helps on Series A funding;
+- Proposal of 5% equity interest in the company (EV = $ 3.0 million);
 
-Series A
-Investment of $ 163,000;
-Mainly spent in capital expenditures;
-Development of software systems and PBL session titles;
-Proposal of 15% equity interest in the company  (EV = $ 4.0 million);
+**Series A**
+- Investment of $ 163,000;
+- Mainly spent in capital expenditures;
+- Development of software systems and PBL session titles;
+- Proposal of 15% equity interest in the company  (EV = $ 4.0 million);
 
 
 <p align="center"><a href="#start">voltar</a></p>
