@@ -19,7 +19,7 @@
 
 
 
-## SHORT PITCH <br>
+## SHORT PITCH 
 Problem-based learning (PBL) is a learning strategy successfully adopted by some higher education institutions, such as Harvard, Minerva, and 42. At PBL, students learn by **solving problems** and **reflecting on their experiences**. Among its advantages, the pragmatism of the learning experiences, which **accelerates students' employability gains** in the job market.
  
 However, despite the advantages of using PBL, the creation of PBL-oriented educational business models that can *be replicated on a global scale* is still an *unresolved problem* for the education sector. To address the **scaling problem of PBL use**, an experienced executive of educational sector proposes an innovative **technology-intensive** strategy based on **strategic partnerships** with key suppliers.
@@ -41,7 +41,7 @@ To proceed to the next step of starting and launching its first BU in São Paulo
 </p>
 
 
-<a name="presentation></a> 
+<a name="presentation"></a> 
 
 ## PRESENTATION 
 
@@ -142,7 +142,7 @@ Voltar
 
 
 
-##STORYTELLING PITCH 
+## STORYTELLING PITCH 
 
 MARIA LUCIA CASE, 2019, SÃO PAULO
 
@@ -193,7 +193,7 @@ Lifelong, problem-based & assistant-led learning.
 Voltar
 
 
-##EXECUTIVE SUMMARY 
+## EXECUTIVE SUMMARY 
 
 THE OPPORTUNITY
 
