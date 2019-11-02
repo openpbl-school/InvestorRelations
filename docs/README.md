@@ -12,6 +12,28 @@
 center
 </p> 
 
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+
+<p align="center">
+  <b></b><br>
+  <a href="#presentation">PRESENTATION</a>  |
+  <a href="#">STORYTELLING</a>  |
+  <a href="#">EXECUTIVE SUMMARY</a>  |
+  <a href="#">FINANCIAL PLAN</a>  |
+  <br><br>
+  <img src="img/logo1_fundo_branco.png">
+</p>
+
+
+
 ## SHORT PITCH <br>
 
 Problem-based learning (PBL) is a learning strategy successfully adopted by some higher education institutions, such as Harvard, Minerva, and 42. At PBL, students learn by **solving problems** and **reflecting on their experiences**. Among its advantages, the pragmatism of the learning experiences, which **accelerates students' employability gains** in the job market.
