@@ -191,7 +191,7 @@ After the session that lasted 3 hours, Maria Lúcia is exhausted, but satisfied 
 
 Maria Lúcia ends the event with the feeling that she is able to apply, with increasing security and clarity, the knowledge learned in the college that she is attending. She will no longer feel so insecure in the decisions she makes in problem-sessions, and this is gradually reflected in her behavior in the real world work environment. She really feels like moving fast toward her professional dream.
 
-WE-LEARN
+WE-LEARN <br>
 *Lifelong, problem-based & assistant-led learning.*
 
 <br>
@@ -316,14 +316,14 @@ OBS.: As  at an unspecified location, the main business indicators are reference
 The minimum initial investment required for the edtech startup and launch of the first BU is $ 163,000, mostly spent on CAPEX. All investment required to implement the plan will be provided by venture capital by at least three fundraising rounds. The main exit rule for investors is the strategic sale of edtech to a global real estate or education company.
 
 **Seed capital** <br>
-In order to validate some business plan assumptions, edtech needs investments of about $ 40,000 in pre-operating expenses. For the investment, the entrepreneurs offer 5% equity interest in the company (EV = $3.0 million). The main goals for the actions to be implemented by the seed capital are: 
+In order to validate some business plan assumptions, edtech needs investments of about $ 40,000 in pre-operating expenses. For the investment, the entrepreneurs offer 3% equity interest in the company (EV = $3.0 million). The main goals for the actions to be implemented by the seed capital are: 
 
 - To run a concierge MVP in three cities;
 - To validate some business plan assumptions;
 - Investor must helps on Series A funding;
 
 **Series A** <br>
-To start and launch its first BU in São Paulo (Brazil), edtech needs investments of around $ 163,000, which will be spent mostly on the development of software systems and new problem case titles, as well as some working capital. For the investment, the entrepreneurs offer a 15% equity interest in the company (EV = $4.0 million). The main goals for the actions to be implemented by the Series A capital are:
+To start and launch its first BU in São Paulo (Brazil), edtech needs investments of around $ 163,000, which will be spent mostly on the development of software systems and new problem case titles, as well as some working capital. For the investment, the entrepreneurs offer a 12% equity interest in the company (EV = $4.0 million). The main goals for the actions to be implemented by the Series A capital are:
 - Mainly spent in capital expenditures;
 - Development of software systems and PBL session titles;
 
