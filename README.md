@@ -2,7 +2,11 @@
 
 
 ... <br>
-15abr20 <br>
+18abr20 <br>
+
+
+
+
 Pitch inicial versão Inglês. <br>
 https://exxponentialllc.github.io/miniliftDIY/private/BusinessPitch#english
 
