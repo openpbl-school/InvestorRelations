@@ -7,6 +7,15 @@
 https://welearnpbl.github.io/openpbl-ir/SumarioExecutivo18abr 
 
 
+https://welearnpbl.github.io/openpbl-ir/roadshow/ExecutiveSummary#portuguese
+
+https://welearnpbl.github.io/openpbl-ir/roadshow/BusinessPitch#portuguese
+
+https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese
+
+
+
+
 Pitch inicial versão Inglês. <br>
 https://exxponentialllc.github.io/miniliftDIY/private/BusinessPitch#english
 
