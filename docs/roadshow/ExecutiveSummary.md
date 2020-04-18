@@ -21,7 +21,7 @@ Companies are increasingly demanding professionals from **all hierarchical level
 
 *1. The "Non Disclousure Agreement" for access to the **business plan** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
 
-*2. For more details of OpenPBL professional school, see a <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#english">storytelling</a> of its standard product (only the portuguese version available).*
+*2. For more details of OpenPBL professional school, see a <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese">storytelling</a> of its standard product (only the portuguese version available).*
 
 <br>
 <p align="center">    
@@ -289,7 +289,7 @@ A captação atual considera o *valuation* atual de R$ 5,4 milhões.
 
 *1. O "Non Disclousure Agreement" para acesso ao **plano de negócios** está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
 
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#portuguese">storytelling</a> do seu produto-tipo.* 
+*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese">storytelling</a> do seu produto-tipo.* 
 
 <br>
 <p align="center">    
