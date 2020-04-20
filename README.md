@@ -1,7 +1,7 @@
 ### Links criados para o roadmap
 
 
-18abr20 - Atualização<br>
+18abr20 - Redireciona para Sumário Executivo <br>
 https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr 
 
 
