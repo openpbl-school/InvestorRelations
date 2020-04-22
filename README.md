@@ -14,7 +14,7 @@ https://bit.ly/SumarioExecutivo18abr20 <br>
 ### Inglês
 
 **Business Pitch** <br> 
-https://bit.ly/OpenPBL-Pitch-Inicial
+https://bit.ly/OpenPBL-BusinessPitch
 
 **Redirect to Executive Summary** <br>
 https://bit.ly/SumarioExecutivo18abr20 <br><br>
