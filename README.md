@@ -1,33 +1,38 @@
 ### Links criados para o roadmap
 
-
-18abr20 - Redireciona para Sumário Executivo <br>
-
-
-
-Página Relacionamento com investidores <br>
+**Página Relacionamento com investidores** <br>
 https://bit.ly/OpenPBL-IR
 https://openpbl-school.github.io/InvestorRelations 
 
+## PORTUGUÊS
 
-
-Business pitch e Executive Summary <br> 
-
-
-EXECUTIVE SUMMARY
-https://bit.ly/SumarioExecutivo18abr20
-https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr 
-
-https://openpbl-school.github.io/InvestorRelations/roadshow/ExecutiveSummary#english 
-
-BUSINESS PITCH 
+**Pitch inicial** <br> 
 https://bit.ly/OpenPBL-Pitch-Inicial
 
-https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPitch#portuguese
+**Redireciona para Sumário Executivo** <br>
+https://bit.ly/SumarioExecutivo18abr20
+ 
 
+## INGLÊS
 
+**Business Pitch** <br> 
+https://bit.ly/OpenPBL-Pitch-Inicial
 
+**Redireciona para Executive Summary** <br>
+https://bit.ly/SumarioExecutivo18abr20
+ 
+
+## ORIGINAL LINKS
+
+**Business pitch** <br>
 https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPitch#english
+
+**Redireciona para Executive Summary** <br>
+https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr 
+
+**Executive Summary** <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/ExecutiveSummary#english 
+
 
 <br>
 
