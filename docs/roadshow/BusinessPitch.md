@@ -99,9 +99,7 @@ Para aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacita
 **O negócio e a execução** <br>
 Os idealizadores elaboraram um plano de negócios para criar a Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que utiliza o modelo proposto para ofertar programas baseados em PBL. O plano prevê o desenvolvimento de **sistemas de software** para automatizar o modelo e garantir uma rápida **expansão das atividades da escola**. 
 
-As simulações financeiras do plano de negócios mostram que é necessário um **investimento** inicial **mínimo** de R$ 160.000 em **produção de conteúdo** para alcançar uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação. 
-
-Graças ao potencial de escalabilidade do modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) pode ser replicado ou ampliado proporcionalmente sem custos adicionais.
+As simulações financeiras do plano de negócios mostram que é necessário um **investimento** inicial **mínimo** de R$ 160.000 em **produção de conteúdo** para alcançar uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação. Graças ao potencial de escalabilidade do modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) pode ser replicado ou ampliado proporcionalmente sem custos adicionais.
 
 **Financiamento** <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
