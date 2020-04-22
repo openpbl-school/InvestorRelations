@@ -6,7 +6,7 @@ https://bit.ly/OpenPBL-IR <br>
 **Links enviados** <br>
 22abr20 - Pitch e Sumário (pt-br) - André <br>
 18abr20 - Pitch e Sumário (pt-br) - Lucas <br>
-04abr20 - Sumário (pt-br) - Pitombo <br>
+04abr20 - Sumário (pt-br) - Pitombo <br><br>
 
 ### Português
 
