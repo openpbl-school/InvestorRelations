@@ -3,7 +3,9 @@
 **Página Relacionamento com investidores** <br>
 https://bit.ly/OpenPBL-IR
 
-## Português
+<br>
+
+### Português
 
 **Pitch inicial** <br> 
 https://bit.ly/OpenPBL-Pitch-Inicial
@@ -11,6 +13,7 @@ https://bit.ly/OpenPBL-Pitch-Inicial
 **Redireciona para Sumário Executivo** <br>
 https://bit.ly/SumarioExecutivo18abr20
  
+<br>
 
 ## Inglês
 
@@ -20,6 +23,7 @@ https://bit.ly/OpenPBL-Pitch-Inicial
 **Redireciona para Executive Summary** <br>
 https://bit.ly/SumarioExecutivo18abr20
  
+<br>
 
 ## Original links
 
