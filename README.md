@@ -1,5 +1,15 @@
 ### Links criados para o roadmap
 
+**Redireciona para Executive Summary** <br>
+22abr20 - Português - André 
+
+
+22abr20 - Português - André 
+
+
+
+<br> 
+
 **Página Relacionamento com investidores** <br>
 https://bit.ly/OpenPBL-IR <br>
 
@@ -9,7 +19,7 @@ https://bit.ly/OpenPBL-IR <br>
 https://bit.ly/OpenPBL-Pitch-Inicial
 
 **Redireciona para Sumário Executivo** <br>
-https://bit.ly/SumarioExecutivo18abr20 <br>
+https://bit.ly/SumarioExecutivo18abr20 <br><br>
 
 ### Inglês
 
@@ -17,7 +27,7 @@ https://bit.ly/SumarioExecutivo18abr20 <br>
 https://bit.ly/OpenPBL-BusinessPitch
 
 **Redirect to Executive Summary** <br>
-https://bit.ly/SumarioExecutivo18abr20 <br><br>
+https://bit.ly/OpenPBL-ExecutiveSummary-Apr22 <br><br
 
 ## Original links
 
