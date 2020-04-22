@@ -17,9 +17,9 @@ https://bit.ly/SumarioExecutivo18abr20 <br>
 https://bit.ly/OpenPBL-Pitch-Inicial
 
 **Redireciona para Executive Summary** <br>
-https://bit.ly/SumarioExecutivo18abr20 <br>
+https://bit.ly/SumarioExecutivo18abr20 <br><br>
 
-### Original links
+## Original links
 
 **Investor Relations** <br>
 https://openpbl-school.github.io/InvestorRelations 
