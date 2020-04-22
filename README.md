@@ -16,7 +16,7 @@ https://bit.ly/SumarioExecutivo18abr20 <br>
 **Business Pitch** <br> 
 https://bit.ly/OpenPBL-Pitch-Inicial
 
-**Redireciona para Executive Summary** <br>
+**Redirect to Executive Summary** <br>
 https://bit.ly/SumarioExecutivo18abr20 <br><br>
 
 ## Original links
