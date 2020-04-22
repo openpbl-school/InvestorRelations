@@ -2,7 +2,6 @@
 
 **Página Relacionamento com investidores** <br>
 https://bit.ly/OpenPBL-IR
-https://openpbl-school.github.io/InvestorRelations 
 
 ## PORTUGUÊS
 
@@ -23,6 +22,9 @@ https://bit.ly/SumarioExecutivo18abr20
  
 
 ## ORIGINAL LINKS
+
+**Investor Relations** <br>
+https://openpbl-school.github.io/InvestorRelations 
 
 **Business pitch** <br>
 https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPitch#english
