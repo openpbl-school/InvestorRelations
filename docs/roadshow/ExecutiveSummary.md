@@ -91,9 +91,11 @@ Um relatório publicado em 2018 pelo Fórum Econômico Mundial consolidou a opin
 <br> 
 
 **Desequilíbrio**<br>
-Se por um lado, mais e mais empresas (e organizações) vêm demandando que profissionais de **todos os níveis hierárquicos** detenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional". Por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num curto prazo. 
+Se por um lado, mais e mais empresas (e organizações) vêm demandando que profissionais de **todos os níveis hierárquicos** detenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional". Por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável. 
 
-A **experiência** acumulada com o emprego **contínuo** dos conhecimentos e habilidades **técnicas** nas **situações reais** do dia-a-dia promove naturalmente o desenvolvimento destas competências, mas demanda tempo. Além isso, alguns **programas educacionais** específicos buscam simular algumas destas situações reais em ambientes controlados com o objetivo de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
+Sabe-se que o emprego **contínuo** de conhecimentos e habilidades **técnicas** nas **situações reais** do dia-a-dia promove naturalmente o desenvolvimento destas competências, mas demanda tempo. 
+
+Além isso, alguns **programas educacionais** específicos buscam simular algumas destas situações reais em ambientes controlados com o objetivo de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
 
 <table style="width:100%">
   <tr>
