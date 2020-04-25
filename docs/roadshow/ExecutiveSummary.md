@@ -90,7 +90,7 @@ Um relatório publicado em 2018 pelo Fórum Econômico Mundial consolidou a opin
 
 <br> 
 
-**Desenvolvendo competências*<br>
+**Desenvolvendo competências** <br>
 Sabe-se que o emprego **contínuo** dos conhecimentos e habilidades **técnicas** de um profissional nas **situações reais** do dia-a-dia promove naturalmente o desenvolvimento as competências comportamentais, mas isso demanda tempo. Para acelerar esse processo, alguns **programas educacionais** específicos buscam simular estas situações reais para, assim, estimular o seu desenvolvimento. 
 
 É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
@@ -111,21 +111,31 @@ Se por um lado, mais e mais empresas (e organizações) vêm demandando que prof
 
 Grande parte deste **desequilíbrio** ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
 
-Diante deste cenário, os idealizadores do projeto entendem que o desequilibrio atual do mercado configura uma excelente **janela de oportunidades** a ser explorada.<br><br>
+Assim, diante deste cenário, o atual desequilibrio do mercado educacional configura uma excelente **janela de oportunidades** a ser explorada.<br><br>
 
 ### PROPOSTA PARA EXPLORAR A OPORTUNIDADE 
-A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a demanda atual do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para uma **execução** em larga escala:
-- Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docentes e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
+A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a demanda atual do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para **execução** em larga escala:
+- Seu processo de execução requer que "docentes" e "infraestrutura física" (dois dos mais relevantes **recursos educacionais** em termos de custo) sejam **desenvolvidos sob medida** para cada instituição de ensino;
 - O modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
 
-Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atual, os idealizadores do projeto propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**.
-
-Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do modelo está em sua proposta de escalar **cada etapa** do processo de execução da PBL de forma **diferente**.<br><br>
+**Escalando a PBL** <br>
+Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atual, experientes executivos do setor educacional desenvolveram um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**. Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do modelo está em sua proposta de escalar **cada etapa** do processo de execução da PBL de forma **única**.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
   <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
 </p><br><br>
+
+**Integração estratégica do modelo** <br>
+Quanto à utilização de **ativos de terceiros**: 
+- Garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
+- Espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permitem que o custo do recurso seja tratado como direto e não mais fixo;
+- Profissionais experientes viabilizam a produção de conteúdo funcional e setorial ao mesmo tempo (“hiper funcionalização”).
+
+Quanto ao uso intensivo de **inteligência artificial**: 
+- Viabiliza a “extração” e a codificação da experiência dos profissionais especialistas;
+- Automatiza as tarefas docentes e reduz drasticamente o custo da operação; 
+- A atomização da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, NLP e algoritmos de clusterização.<br><br>
 
 <p align="center">
 <b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
