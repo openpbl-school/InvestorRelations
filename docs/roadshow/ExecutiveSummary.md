@@ -114,9 +114,7 @@ Apesar da crescente demanda por **profissionais** e **entrantes** no mercado de 
 
 Grande parte deste **desequilíbrio** no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
 
-Diante deste cenário, os idealizadores do projeto entendem que o desequilibrio atual do mercado configura uma excelente **janela de oportunidades** a ser explorada. 
-
-<br>
+Diante deste cenário, os idealizadores do projeto entendem que o desequilibrio atual do mercado configura uma excelente **janela de oportunidades** a ser explorada.<br><br>
 
 ### PROPOSTA PARA EXPLORAR A OPORTUNIDADE 
 A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a demanda atual do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para uma **execução** em larga escala:
@@ -152,7 +150,7 @@ Diferentemente do paradigma de execução 100% digital para escalar atividades e
 <br><br>
 <img src="img/sum_processo3.png">
 <em>Sessão presencial atomizada e assistida por software.</em>
-</p><br><br>
+</p><br>
 
 ### O NEGÓCIO 
 Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio.
