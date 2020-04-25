@@ -116,7 +116,7 @@ Assim, diante deste cenário, o atual desequilibrio do mercado educacional confi
 ### PROPOSTA PARA EXPLORAR A OPORTUNIDADE 
 A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a demanda atual do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para **execução** em larga escala:
 - Seu processo de execução requer que "docentes" e "infraestrutura física" (dois dos mais relevantes **recursos educacionais** em termos de custo) sejam **desenvolvidos sob medida** para cada instituição de ensino;
-- O modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
+- O modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;<br><br>
 
 **Escalando a PBL** <br>
 Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atual, experientes executivos do setor educacional desenvolveram um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**. Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do modelo está em sua proposta de escalar **cada etapa** do processo de execução da PBL de forma **única**.<br><br>
@@ -124,18 +124,24 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atu
 <p align="center">
   <img src="img/sum_quadro3.png">
   <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
-</p><br><br>
+</p><br>
 
 **Integração estratégica do modelo** <br>
-Quanto à utilização de **ativos de terceiros**: 
+Quanto à utilização de **ativos de terceiros**, o modelo: 
 - Garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
 - Espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permitem que o custo do recurso seja tratado como direto e não mais fixo;
 - Profissionais experientes viabilizam a produção de conteúdo funcional e setorial ao mesmo tempo (“hiper funcionalização”).
 
-Quanto ao uso intensivo de **inteligência artificial**: 
+Quanto ao uso intensivo de **inteligência artificial**, o modelo: 
 - Viabiliza a “extração” e a codificação da experiência dos profissionais especialistas;
 - Automatiza as tarefas docentes e reduz drasticamente o custo da operação; 
 - A atomização da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, NLP e algoritmos de clusterização.<br><br>
+
+**Processos de execução** <br>
+A execução do modelo proposto é consolidada em **três** processos chave:
+- Produção de conteúdo automatizada
+- Aprendizagem adaptativa
+- Atomização da execução presencial<br><br> 
 
 <p align="center">
 <b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
@@ -153,16 +159,18 @@ Quanto ao uso intensivo de **inteligência artificial**:
 </p><br><br>
 
 <p align="center">
-<b>ATOMIZAÇÃO DA DISCUSSÃO</b>
+<b>ATOMIZAÇÃO DA EXECUÇÃO PRESENCIAL</b>
 <br><br>
 <img src="img/sum_processo3.png">
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br>
 
 ### O NEGÓCIO 
-Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio.
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio.
 
-O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizadores para a criação da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas baseados em PBL para **profissionais** e **alunos em formação**, entrantes do mercado de trabalho.<br><br>
+<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>
+
+O modelo de negócios proposto para escalar a PBL foi utilizado para a criação da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas baseados em PBL para **profissionais** e **alunos em formação**, entrantes do mercado de trabalho.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
