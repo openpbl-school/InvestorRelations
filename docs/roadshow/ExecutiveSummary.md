@@ -76,14 +76,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 ### OPEN-PBL - SUMÁRIO EXECUTIVO
 Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
 
-## O PROBLEMA E A OPORTUNIDADE
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial, que consolidou a opinião de gestores de RH de todo o mundo, elencou as dez competências profissionais mais desejadas para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, são as **competências comportamentais** que determinam a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
-
-Na prática, cada uma das competências listadas compõe o arsenal necessário para que os profissionais das diversas áreas, não só alcancem os **resultados esperados** por suas empresas e organizações, mas que o façam da forma **mais eficiente** possível. 
-
-<br><br>
-
-**O PROBLEMA E A OPORTUNIDADE** <br>
+### O PROBLEMA E A OPORTUNIDADE
 Um relatório publicado em 2018 pelo Fórum Econômico Mundial, que consolidou a opinião de gestores de RH de todo o mundo, elencou as dez competências profissionais mais desejadas para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, são as **competências comportamentais** que determinam a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
 
 Na prática, cada uma das competências listadas compõe o arsenal necessário para que os profissionais das diversas áreas, não só alcancem os **resultados esperados** por suas empresas e organizações, mas que o façam da forma **mais eficiente** possível. 
@@ -125,7 +118,7 @@ Diante deste cenário, os idealizadores do projeto entendem que o desequilibrio 
 
 <br>
 
-**PROPOSTA PARA EXPLORAR A OPORTUNIDADE** <br>
+### PROPOSTA PARA EXPLORAR A OPORTUNIDADE 
 A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a demanda atual do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para uma **execução** em larga escala:
 - Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo (docentes e infraestrutura física) sejam **desenvolvidos sob medida** para as instituições de ensino;
 - O modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;
@@ -161,7 +154,7 @@ Diferentemente do paradigma de execução 100% digital para escalar atividades e
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br><br>
 
-**O NEGÓCIO** <br>
+### O NEGÓCIO 
 Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio.
 
 O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizadores para a criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
@@ -211,7 +204,7 @@ A política de **canais B2C** é baseada em parcerias com empresas **ativadoras 
 
 A Política de **canais B2B** é baseada em parcerias com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.<br><br>
 
-**O PLANO DE NEGÓCIOS** <br>
+### O PLANO DE NEGÓCIOS 
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola.<br><br> 
 
 <p align="center">
@@ -260,7 +253,7 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 - Taxa de "*no show*" esperada - 10%
 - Preço sugerido para a oferta avulsa do título - R$ 323 por aluno.<br><br>
 
-**EXPANSÃO** <br>
+### EXPANSÃO
 Graças ao modelo escalável, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento prévio de um sistema de software para automatizar seus processos e etapas.
 
 Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) em **desenvolvimento de software**. 
@@ -274,7 +267,7 @@ Os **sete** componentes que compõem o software do sistema educacional são:
 - *Machine learning model* capaz de avaliar automaticamente o desempenho dos alunos.
 - *API* para integração com bases de dados de recrutamento profissional.<br><br>
 
-**STARTUP** <br>
+### STARTUP
 O *startup* da escola, previsto para o **primeiro ano** de operação da escola, tem como objetivos: 
 - Testes com um “**concierge MVP**” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
 - Abertura formal da empresa e pré-operação. 
@@ -283,7 +276,7 @@ O *startup* da escola, previsto para o **primeiro ano** de operação da escola,
 - Produção do estoque inicial de títulos (CAPEX);
 - Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. <br><br>
 
-**FINANCIAMENTO DO PROJETO** <br>
+### FINANCIAMENTO DO PROJETO
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
 Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
