@@ -130,7 +130,7 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atu
 Quanto à utilização de **ativos de terceiros**, o modelo: 
 - Garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
 - Espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permitem que o custo do recurso seja tratado como direto e não mais fixo;
-- Profissionais experientes viabilizam a produção de conteúdo funcional e setorial ao mesmo tempo (“hiper funcionalização”).
+- Profissionais experientes viabilizam a produção de conteúdo funcional e setorial ao mesmo tempo (“hiper funcionalização”).<br>
 
 Quanto ao uso intensivo de **inteligência artificial**, o modelo: 
 - Viabiliza a “extração” e a codificação da experiência dos profissionais especialistas;
