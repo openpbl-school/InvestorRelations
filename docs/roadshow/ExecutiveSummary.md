@@ -131,7 +131,7 @@ Diferentemente do paradigma de execução 100% digital para escalar atividades e
 </p><br><br>
 
 <p align="center">
-<b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
+<em>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</em>
 <br><br>
 <img src="img/sum_processo1.png">
 <em>Sistema especialista para extração de conhecimento dos profissionais experientes.</em>
