@@ -166,10 +166,6 @@ A execução do modelo proposto é consolidada em **três** processos chave:
 </p><br>
 
 ### O NEGÓCIO 
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio.
-
-<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>
-
 O modelo de negócios proposto para escalar a PBL foi utilizado para a criação da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas baseados em PBL para **profissionais** e **alunos em formação**, entrantes do mercado de trabalho.<br><br>
 
 <p align="center">
@@ -188,15 +184,15 @@ Todos os cursos têm formato **híbrido** (semi-presencial) e são compostos de 
 1. Uma etapa preliminar, com atividades **online**, que representam 95% da carga horária total do curso e; 
 2. Uma sessão final de três horas, conduzida por um tutor, onde dez alunos se reunem **presencialmente** para analisar e discutir o problema proposto. 
 
-Na etapa inicial de preparação, o aluno: 
+Na etapa inicial de **preparação**, o aluno: 
 1. Recebe o conteúdo descritivo do problema proposto e todo o material de apoio associado;
 2. Realiza **testes** para aferir os conhecimentos necessários para a análise do problema proposto; 
 3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
-4. Por fim, propõe uma solução para o problema proposto e escolhe a data e o local para realizar a etapa final do curso.
+4. Por fim, propõe uma solução para o problema proposto e escolhe a data e o local para realizar a etapa final do curso.<br>
 
-Na etapa final, o aluno: 
+Na etapa final de **discussão**, o aluno: 
 1. Comparece à sessão presencial, realizada em local adequado (infraestrutura e facilidades) para abrigar uma turma com 10 alunos e; 
-2. Participa da dinâmica de discussões em torno do problema proposto, conduzidas pelo tutor da sessão.
+2. Participa da dinâmica de discussões em torno do problema proposto, conduzidas pelo tutor da sessão.<br>
 
 Posteriormente, o aluno: 
 1. Recebe um **registro audiovisual** da sua participação na sessão de discussões e; 
@@ -237,7 +233,10 @@ A política de **canais B2C** da escola é baseada em **parcerias** firmadas com
 
 A Política de **canais B2B** é baseada em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.<br><br>
 
-### O PLANO DE NEGÓCIOS 
+### EXECUÇÃO 
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio. Essa experiência acumulada os credenciam para a condução do plano.  
+- <a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a> 
+
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola.<br><br> 
 
 <p align="center">
