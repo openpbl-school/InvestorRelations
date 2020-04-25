@@ -73,13 +73,13 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <a name="portuguese"></a> 
 <br>
 
-### OPEN-PBL - SUMÁRIO EXECUTIVO
+## OPEN-PBL - SUMÁRIO EXECUTIVO
 Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
 
 ### O PROBLEMA E A OPORTUNIDADE
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial, que consolidou a opinião de gestores de RH de todo o mundo, elencou as dez competências profissionais mais desejadas para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, são as **competências comportamentais** que determinam a diferença entre os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial consolidou a opinião de gestores de RH de todo o mundo e elencou as dez competências profissionais mais desejadas para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, são as **competências comportamentais** que diferenciam os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
 
-Na prática, cada uma das competências listadas compõe o arsenal necessário para que os profissionais das diversas áreas, não só alcancem os **resultados esperados** por suas empresas e organizações, mas que o façam da forma **mais eficiente** possível. 
+A justificativa para isso reside no fato de que essas competências compõem o arsenal necessário para que os profissionais de todas as áreas, não só alcancem os **resultados esperados** por suas organizações, mas que o façam da forma **mais eficiente** possível. 
 
 <br><br>
 
