@@ -166,41 +166,60 @@ O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizado
 <br>
 
 **Produtos** <br>
-Todos os produtos da escola têm o **formato** de um **curso híbrido** (semi-presencial), onde o aluno participa de uma experiência de aprendizagem baseada na discussão de **um problema real** e **típico** da sua carreira. 
+Cada curso profissionalizante oferecido pela escola proporciona ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
-Para garantir uma experiência PBL **completa**, o **formato padronizado** prevê: 
-- Uma etapa de preparação **online**, onde o aluno: (1) recebe o conteúdo descritivo do problema, (2) realiza testes de capacitação técnica, (3) acessa material de apoio e (4) recebe curadoria **adaptativa** com recomendações de conteúdo adicional. 
-- Uma etapa de discussão **presencial**, onde o aluno: (1) acessa infraestrutura física e facilities para uma turma com 10 alunos, (2) tutoria da sessão, (3) registro audiovisual da sua participação e, posteriormente, (4) *feedback* com avaliação do seu desempenho.
+Todos os cursos têm formato **híbrido** (semi-presencial) e são compostos de duas etapas:
+1. Uma etapa preliminar, com atividades **online**, que representam 95% da carga horária total do curso e; 
+2. Uma sessão final de três horas, conduzida por um tutor, onde dez alunos se reunem **presencialmente** para analisar e discutir o problema proposto. 
 
-Cada problema específico abordado nesse formato padronizado determina a oferta de um **título**. Cada **título** pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, que são “curadas” para promover a capacitação para uma determinada função de uma carreira profissional. 
+Na etapa inicial de preparação, o aluno: 
+1. Recebe o conteúdo descritivo do problema proposto e todo o material de apoio associado;
+2. Realiza **testes** para aferir os conhecimentos necessários para a análise do problema proposto; 
+3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
+4. Por fim, propõe uma solução para o problema proposto e escolhe a data e o local para realizar a etapa final do curso.
 
-A oferta dos produtos educacionais no formato de **trilhas de carreira** é a principal ação estratégica para a organização da OpenPBL em torno de **Escolas Funcionais** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante.
+Na etapa final, o aluno: 
+1. Comparece à sessão presencial, realizada em local adequado (infraestrutura e facilidades) para abrigar uma turma com 10 alunos e; 
+2. Participa da dinâmica de discussões em torno do problema proposto, conduzidas pelo tutor da sessão.
+
+Posteriormente, o aluno: 
+1. Recebe um **registro audiovisual** da sua participação na sessão de discussões e; 
+2. Recebe ainda um *feedback* com a avaliação do seu desempenho.
+
+**Escolas funcionais OpenPBL**
+Os problemas reais abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico representa a oferta de um título no catálogo da OpenPBL. 
+
+Cada título pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, organizadas para promover a capacitação do aluno em "funções" específicas das diversas carreiras profissionais.
+
+A oferta dos títulos agregados em "trilhas de carreira" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma organização educacional segmentada por "escolas funcionais" e não por áreas do conhecimento como é usual no mercado de educação profissionalizante.
 
 *(i) Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região.* <br><br>
 
 **Benefícios ao público alvo**<br>
-A **participação continuada** do aluno em experiências PBL promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Na OpenPBL, esse ganho é conseguido com o desenvolvimento das seguintes competências comportamentais profissionais:
-- A estruturação de problemas mal definidos; 
-- A tomada de decisão envolvendo incertezas e objetivos conflitantes; 
-- A tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
-- A atuação sob pressão de prazo, desempenho e opiniões diversas; 
-- a atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- A visão orçamentária, atitude empreendedora.<br><br>
+A **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
+
+Na OpenPBL, esse ganho é conseguido com o desenvolvimento de **seis** grupos de **competências comportamentais** profissionais. São elas:
+- Estruturação de **problemas mal definidos**; 
+- Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
+- Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
+- Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
+- Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
+- Visão orçamentária, atitude empreendedora.<br><br>
 
 **Diferenciais** <br>
-Os diferenciais das trilhas de carreira baseadas em PBL, quando comparadas com programas educacionais tradicionais para desenvolvimento de competências comportamentais, são:
+As trilhas de carreira baseadas em PBL, quando comparadas com programas educacionais tradicionais para desenvolvimento de competências comportamentais, se diferenciam segundo:
 - **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos.
 - **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona para adequar-se à disponibilidade de tempo dos alunos.
 - **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica para adequar-se às restrições de deslocamento do alunos.
-- **Eficácia**. Programas funcionais **setoriais** (trilhas de carreira) aumentam **ainda mais** a diferenciação e, consequentemente, o ganho de empregabilidade promovido pela PBL. <br><br>
+- **Eficácia**. Programas de "escolas funcionais" (leia-se "trilhas de carreira") reforçam ainda mais a diferenciação e, consequentemente, o ganho de empregabilidade promovido pela PBL. <br><br>
 
 **Canais de comercialização B2C e B2B** <br>
-A política de **canais B2C** é baseada em parcerias com empresas **ativadoras de tráfego** e **conversão** do público-alvo. Entre elas:
+A política de **canais B2C** da escola é baseada em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre elas:
 - Marketplaces digitais: (1) generalistas (*Amazon, ...*); (2) foco educacional (*Udemy, ...*);
 - Escolas profissionalizantes: (1) ensino médio; (2) instituições de ensino superior - IES;
 - Agências recrutadoras: (1) generalistas; (2) especialistas; 
 
-A Política de **canais B2B** é baseada em parcerias com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.<br><br>
+A Política de **canais B2B** é baseada em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.<br><br>
 
 ### O PLANO DE NEGÓCIOS 
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola.<br><br> 
