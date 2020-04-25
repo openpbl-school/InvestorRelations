@@ -90,10 +90,10 @@ Um relatório publicado em 2018 pelo Fórum Econômico Mundial consolidou a opin
 
 <br> 
 
-**Desequilíbrio**<br>
-Se por um lado, mais e mais empresas (e organizações) vêm demandando que profissionais de **todos os níveis hierárquicos** detenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional". Por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável. 
+**Desenvolvendo competências*<br>
+Sabe-se que o emprego **contínuo** dos conhecimentos e habilidades **técnicas** de um profissional nas **situações reais** do dia-a-dia promove naturalmente o desenvolvimento as competências comportamentais, mas isso demanda tempo. Para acelerar esse processo, alguns **programas educacionais** específicos buscam simular estas situações reais para, assim, estimular o seu desenvolvimento. 
 
-Sabe-se que o emprego **contínuo** dos conhecimentos e habilidades **técnicas** de um profissional nas **situações reais** do dia-a-dia promove naturalmente o desenvolvimento destas competências, mas isso demanda tempo. Para acelerar esse processo, alguns **programas educacionais** específicos buscam simular estas situações reais para, assim, estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
+É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -106,9 +106,10 @@ Sabe-se que o emprego **contínuo** dos conhecimentos e habilidades **técnicas*
 
 <br>
 
-Apesar da crescente demanda por **profissionais** e **entrantes** no mercado de trabalho dotados de competências comportamentais relevantes, a oferta de programas educacionais específicos para esse fim **não é suficiente** para suprir este aumento da demanda. 
+**Desequilíbrio**<br>
+Se por um lado, mais e mais empresas (e organizações) vêm demandando que profissionais de **todos os níveis hierárquicos** detenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional". Por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável. Apesar da crescente demanda das empresas, a oferta de programas educacionais específicos para esse fim **não é suficiente** para suprir este aumento da demanda. 
 
-Grande parte deste **desequilíbrio** no mercado educacional ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
+Grande parte deste **desequilíbrio** ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
 
 Diante deste cenário, os idealizadores do projeto entendem que o desequilibrio atual do mercado configura uma excelente **janela de oportunidades** a ser explorada.<br><br>
 
