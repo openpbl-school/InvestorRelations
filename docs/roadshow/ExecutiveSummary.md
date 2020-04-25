@@ -165,7 +165,8 @@ O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizado
 
 <br>
 
-**Produtos** <br><br>
+**Produtos** 
+<br>
 Cada curso profissionalizante oferecido pela escola proporciona ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Todos os cursos têm formato **híbrido** (semi-presencial) e são compostos de duas etapas:
@@ -184,7 +185,7 @@ Na etapa final, o aluno:
 
 Posteriormente, o aluno: 
 1. Recebe um **registro audiovisual** da sua participação na sessão de discussões e; 
-2. Recebe ainda um *feedback* com a avaliação do seu desempenho.
+2. Recebe ainda um *feedback* com a avaliação do seu desempenho.<br><br> 
 
 **Escolas funcionais OpenPBL** <br>
 Os problemas reais abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico representa a oferta de um título no catálogo da OpenPBL. 
