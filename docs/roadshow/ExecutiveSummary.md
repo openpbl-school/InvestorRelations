@@ -77,9 +77,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
 
 ### O PROBLEMA E A OPORTUNIDADE
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial consolidou a opinião de gestores de RH de todo o mundo e elencou as dez competências profissionais mais desejadas para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, são as **competências comportamentais** que diferenciam os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. 
-
-A justificativa para isso reside no fato de que essas competências compõem o arsenal necessário para que os profissionais de todas as áreas, não só alcancem os **resultados esperados** por suas organizações, mas que o façam da forma **mais eficiente** possível. 
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial consolidou a opinião de gestores de RH de todo o mundo e elencou as dez competências profissionais mais desejadas para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, são algumas **competências comportamentais** (e não as técnicas, como antes) que diferenciam os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. A justificativa é que este conjunto de competências compõem o arsenal necessário para que os profissionais de todas as áreas, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. 
 
 <br><br>
 
@@ -95,7 +93,7 @@ A justificativa para isso reside no fato de que essas competências compõem o a
 <br> 
 
 **Desequilíbrio**<br>
-Se por um lado, mais e mais empresas vêm demandando que profissionais de **todos os níveis hierárquicos** tenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional". Por outro lado, estes mesmos profissionais encontram dificuldades para desenvolve-las. 
+Se por um lado, mais e mais empresas (e organizações) vêm demandando que profissionais de **todos os níveis hierárquicos** tenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional". Por outro lado, estes mesmos profissionais encontram dificuldades para desenvolve-las. 
 
 A **experiência** acumulada com o emprego **contínuo** dos conhecimentos e habilidades **técnicas** nas **situações reais** do dia-a-dia promove naturalmente o desenvolvimento destas competências, mas demanda tempo. Além isso, alguns **programas educacionais** específicos buscam simular algumas destas situações reais em ambientes controlados com o objetivo de estimular o seu desenvolvimento. É o caso, por exemplo, das escolas que ofertam programas apoiados por *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
 
