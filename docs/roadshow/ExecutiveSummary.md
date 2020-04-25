@@ -155,7 +155,7 @@ Diferentemente do paradigma de execução 100% digital para escalar atividades e
 ### O NEGÓCIO 
 Os empreendedores que conceberam e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio.
 
-O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizadores para a criação da Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que oferta programas baseados em PBL para **profissionais** e **entrantes** do mercado de trabalho.<br><br>
+O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizadores para a criação da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas baseados em PBL para **profissionais** e **alunos em formação**, entrantes do mercado de trabalho.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
@@ -165,7 +165,7 @@ O modelo de negócios proposto para escalar a PBL foi utilizado pelos idealizado
 
 <br>
 
-**Produtos** <br>
+**Produtos** <br><br>
 Cada curso profissionalizante oferecido pela escola proporciona ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Todos os cursos têm formato **híbrido** (semi-presencial) e são compostos de duas etapas:
@@ -186,7 +186,7 @@ Posteriormente, o aluno:
 1. Recebe um **registro audiovisual** da sua participação na sessão de discussões e; 
 2. Recebe ainda um *feedback* com a avaliação do seu desempenho.
 
-**Escolas funcionais OpenPBL**
+**Escolas funcionais OpenPBL** <br>
 Os problemas reais abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico representa a oferta de um título no catálogo da OpenPBL. 
 
 Cada título pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, organizadas para promover a capacitação do aluno em "funções" específicas das diversas carreiras profissionais.
