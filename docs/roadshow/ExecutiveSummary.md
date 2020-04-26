@@ -120,7 +120,7 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 - O paradigma da **execução 100% digital** das **Edtechs** ainda não foi capaz de resolver o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL.<br><br>
 
 **Escalando a PBL** <br>
-Para dar **escalabilidade à execução da PBL** e aproveitar a janela de oportunidades, os idealizadores do projeto desenvolveram um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**.<br><br>
+Para dar **escalabilidade à execução da PBL** e aproveitar a atual janela de oportunidades, os idealizadores do projeto desenvolveram um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
@@ -128,7 +128,7 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a janela de oportu
 </p><br>
 
 **Integração estratégica do modelo** <br>
-Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do modelo está em sua proposta de escalar **cada etapa** do processo de execução da PBL de forma **única**, mas que se integram para garantir a escalabilidade do modelo.   
+Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do novo modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **única**, mas de forma integrada para garantir a escalabilidade da execução. 
 
 Sobre a utilização de **ativos de terceiros**: 
 - O modelo garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
@@ -169,9 +169,9 @@ A execução de experiências PBL pelo modelo proposto pode ser operacionalizada
 </p><br>
 
 ### O NEGÓCIO 
-Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um plano de negócios para a criação da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas educacionais unicamente baseados em *Problem-based Learning*.<br><br>
+Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um plano de negócios de cinco anos para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas educacionais unicamente baseados em *Problem-based Learning*.
 
-O público-alvo da escola é composto pelos **profissionais** (e **aspirantes a profissionais**) com necessidades diversas em fases distintas da carreira, mas com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. 
+O público-alvo da escola são os **profissionais** (e **aspirantes a profissional**) com necessidades diversas e em fases distintas da carreira, mas com o **objetivo comum** da diferenciação no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. <br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
@@ -183,11 +183,20 @@ O público-alvo da escola é composto pelos **profissionais** (e **aspirantes a 
 
 **Produtos** 
 <br>
-Cada curso profissionalizante oferecido pela escola proporciona ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+Cada um dos cursos profissionalizantes oferecidos pela escola deve proporcionar ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
-Todos os cursos têm formato **híbrido** (semi-presencial) e são compostos de duas etapas:
+Os problemas reais abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico representa a oferta de um título no catálogo da OpenPBL. 
+
+Cada título pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, organizadas para promover a capacitação do aluno em "funções" específicas das diversas carreiras profissionais.
+
+A oferta dos títulos agregados em "trilhas de carreira" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma organização educacional segmentada por "escolas funcionais" e não por áreas do conhecimento como é usual no mercado de educação profissionalizante.
+
+*(i) Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região.* <br><br>
+
+**Dinâmica dos cursos** <br>
+Os cursos têm formato **híbrido** (semi-presencial) e são compostos de duas etapas:
 1. Uma etapa preliminar, com atividades **online**, que representam 95% da carga horária total do curso e; 
-2. Uma sessão final de três horas, conduzida por um tutor, onde dez alunos se reunem **presencialmente** para analisar e discutir o problema proposto. 
+2. Uma sessão final de três horas, conduzida por um tutor, onde dez alunos se reunem **presencialmente** para analisar e discutir o problema proposto no curso. 
 
 Na etapa inicial de **preparação**, o aluno: 
 1. Recebe o conteúdo descritivo do problema proposto e todo o material de apoio associado;
@@ -203,14 +212,8 @@ Posteriormente, o aluno:
 1. Recebe um **registro audiovisual** da sua participação na sessão de discussões e; 
 2. Recebe ainda um *feedback* com a avaliação do seu desempenho.<br><br> 
 
-**Escolas funcionais OpenPBL** <br>
-Os problemas reais abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico representa a oferta de um título no catálogo da OpenPBL. 
 
-Cada título pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, organizadas para promover a capacitação do aluno em "funções" específicas das diversas carreiras profissionais.
 
-A oferta dos títulos agregados em "trilhas de carreira" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma organização educacional segmentada por "escolas funcionais" e não por áreas do conhecimento como é usual no mercado de educação profissionalizante.
-
-*(i) Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região.* <br><br>
 
 **Benefícios ao público alvo**<br>
 A **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
