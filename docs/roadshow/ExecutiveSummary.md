@@ -106,10 +106,10 @@ Sabe-se que o emprego **contínuo** dos conhecimentos e habilidades **técnicas*
 
 <br>
 
-**DESEQUILÍBRIO**<br>
-Se por um lado, mais e mais empresas (e organizações) vêm demandando que profissionais de **todos os níveis hierárquicos** detenham competências comportamentais complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional". Por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável. Apesar da crescente demanda das empresas, a oferta de programas educacionais específicos para esse fim **não é suficiente** para suprir este aumento da demanda. 
+**Desequilíbrio**<br>
+Se por um lado, empresas (e organizações) vêm demandando cada vez mais que profissionais de **todos os níveis hierárquicos** detenham competências complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional", por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que a oferta de programas educacionais específicos para esse fim **não é suficiente**.
 
-Grande parte deste **desequilíbrio** ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
+Grande parte deste **desequilíbrio** entre oferta e demanda ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
 
 Assim, diante deste cenário, o atual desequilibrio do mercado educacional configura uma excelente **janela de oportunidades** a ser explorada.<br><br>
 
