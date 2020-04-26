@@ -90,7 +90,7 @@ Um relatório publicado em 2018 pelo Fórum Econômico Mundial elencou as dez co
 
 <br> 
 
-**DESENVOLVENDO COMPETÊNCIAS** <br>
+**Desenvolvendo competências** <br>
 Sabe-se que o emprego **contínuo** dos conhecimentos e habilidades **técnicas** de um profissional nas **situações reais** do dia-a-dia ao longo da carreira promove naturalmente o desenvolvimento de importantes competências comportamentais, mas que demanda tempo. Para acelerar este processo, alguns **programas educacionais** se propõem a simular estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. 
 
 É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. <br><br>
@@ -109,17 +109,18 @@ Sabe-se que o emprego **contínuo** dos conhecimentos e habilidades **técnicas*
 **Desequilíbrio**<br>
 Se por um lado, empresas (e organizações) vêm demandando cada vez mais que profissionais de **todos os níveis hierárquicos** detenham competências complexas, tais como "pensamento crítico", "julgamento e tomada de decisão" e "inteligência emocional", por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que a oferta de programas educacionais específicos para esse fim **não é suficiente**.
 
-Grande parte deste **desequilíbrio** entre oferta e demanda ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar as bases para a universalização deste tipo de programa educacional.
+Grande parte deste **desequilíbrio** entre oferta e demanda ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de criar (ainda) as bases para a universalização deste tipo de programa educacional.
 
-Assim, diante deste cenário, o atual desequilibrio do mercado educacional configura uma excelente **janela de oportunidades** a ser explorada.<br><br>
+Diante deste cenário, experientes executivos do setor educacional entenderam que o atual desequilibrio do mercado educacional configura uma excelente **janela de oportunidades** a ser explorada e, assim, idealizaram um projeto para explorá-la.<br><br>
+
 
 ### PROPOSTA PARA EXPLORAR A OPORTUNIDADE 
-A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a demanda atual do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para **execução** em larga escala:
-- Seu processo de execução requer que "docentes" e "infraestrutura física" (dois dos mais relevantes **recursos educacionais** em termos de custo) sejam **desenvolvidos sob medida** para cada instituição de ensino;
-- O modelo da **execução 100% digital** das **Edtechs** ainda não resolve o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL;<br><br>
+A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a atual demanda do mercado educacional. Contudo, a PBL encontra os seguintes **obstáculos** para **execução em larga escala**:
+- Seu processo de execução requer que "docentes" e "infraestrutura física" (dois dos mais relevantes **recursos educacionais** em termos de custo) sejam **desenvolvidos sob medida** para cada instituição de ensino.
+- O paradigma da **execução 100% digital** das **Edtechs** ainda não foi capaz de resolver o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL.<br><br>
 
 **Escalando a PBL** <br>
-Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atual, experientes executivos do setor educacional desenvolveram um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**. Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do modelo está em sua proposta de escalar **cada etapa** do processo de execução da PBL de forma **única**.<br><br>
+Para dar **escalabilidade à execução da PBL** e aproveitar a janela de oportunidades, os idealizadores do projeto desenvolveram um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
@@ -127,18 +128,20 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a oportunidade atu
 </p><br>
 
 **Integração estratégica do modelo** <br>
-Quanto à utilização de **ativos de terceiros**, o modelo: 
-- Garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
+Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do modelo está em sua proposta de escalar **cada etapa** do processo de execução da PBL de forma **única**, mas que se integram para garantir a escalabilidade do modelo.   
+
+Sobre a utilização de **ativos de terceiros**: 
+- O modelo garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
 - Espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permitem que o custo do recurso seja tratado como direto e não mais fixo;
 - Profissionais experientes viabilizam a produção de conteúdo funcional e setorial ao mesmo tempo (“hiper funcionalização”).<br>
 
-Quanto ao uso intensivo de **inteligência artificial**, o modelo: 
-- Viabiliza a “extração” e a codificação da experiência dos profissionais especialistas;
-- Automatiza as tarefas docentes e reduz drasticamente o custo da operação; 
+Sobre o uso intensivo de **inteligência artificial**: 
+- O modelo viabiliza a “extração” (e a codificação) da experiência de profissionais especialistas;
+- O modelo automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
 - A atomização da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, NLP e algoritmos de clusterização.<br><br>
 
 **Processos de execução** <br>
-A execução do modelo proposto é consolidada em **três** processos chave:
+A execução de experiências PBL pelo modelo proposto pode ser operacionalizada por **três** processos chave:
 - Produção de conteúdo automatizada
 - Aprendizagem adaptativa
 - Atomização da execução presencial<br><br> 
@@ -166,7 +169,9 @@ A execução do modelo proposto é consolidada em **três** processos chave:
 </p><br>
 
 ### O NEGÓCIO 
-O modelo de negócios proposto para escalar a PBL foi utilizado para a criação da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas baseados em PBL para **profissionais** e **alunos em formação**, entrantes do mercado de trabalho.<br><br>
+Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um plano de negócios para a criação da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas educacionais unicamente baseados em *Problem-based Learning*.<br><br>
+
+O público-alvo da escola é composto pelos **profissionais** (e **aspirantes a profissionais**) com necessidades diversas em fases distintas da carreira, mas com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. 
 
 <p align="center">
   <img src="img/sum_quadro2.png">
