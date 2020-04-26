@@ -192,31 +192,27 @@ Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,0
 A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br>
 
 **Dinâmica dos cursos** <br>
-Os cursos têm formato **híbrido** (semi-presencial) e são compostos de duas etapas:
-1. Uma etapa preliminar, com atividades **online**, que representam 95% da carga horária total do curso e; 
-2. Uma sessão final de três horas, conduzida por um tutor, onde dez alunos se reunem **presencialmente** para analisar e discutir o problema proposto no curso. 
+Os cursos têm formato **híbrido** (semi-presencial) e são executados em duas etapas:
+1. Uma etapa preliminar de preparação, com atividades **online**, que representam 95% da carga horária total do curso; 
+2. Uma sessão final de três horas, conduzida por um tutor, onde dez alunos se reunem **presencialmente** para **analisar e discutir** o problema proposto no curso. 
 
-Na etapa inicial de **preparação**, o aluno: 
-1. Recebe o conteúdo descritivo do problema proposto e todo o material de apoio associado;
-2. Realiza **testes** para aferir os conhecimentos necessários para a análise do problema proposto; 
+Na etapa de **preparação**, o aluno: 
+1. Recebe o **conteúdo descritivo** do problema, bem como todo o material de apoio para o seu entendimento;
+2. Afere os **conhecimentos necessários** para a análise do problema; 
 3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
-4. Por fim, propõe uma solução para o problema proposto e escolhe a data e o local para realizar a etapa final do curso.<br>
+4. Por fim, **propõe uma solução** para o problema.<br>
 
-Na etapa final de **discussão**, o aluno: 
-1. Comparece à sessão presencial, realizada em local adequado (infraestrutura e facilidades) para abrigar uma turma com 10 alunos e; 
-2. Participa da dinâmica de discussões em torno do problema proposto, conduzidas pelo tutor da sessão.<br>
+Na etapa de **discussão**, o aluno: 
+1. Escolhe a data e o local para realizar a etapa final do curso;
+2. Comparece à sessão presencial, realizada em local adequado (infraestrutura e facilidades) para abrigar uma turma com 10 alunos e; 
+3. Participa da **dinâmica de discussões** em torno do problema proposto, conduzidas pelo **tutor** da sessão.<br>
 
-Posteriormente, o aluno: 
-1. Recebe um **registro audiovisual** da sua participação na sessão de discussões e; 
-2. Recebe ainda um *feedback* com a avaliação do seu desempenho.<br><br> 
-
-
-
+Ao final de cada curso, o aluno recebe: 
+1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
+2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
 
 **Benefícios ao público alvo**<br>
-A **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
-
-Na OpenPBL, esse ganho é conseguido com o desenvolvimento de **seis** grupos de **competências comportamentais** profissionais. São elas:
+A **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Na OpenPBL, este ganho é conseguido com o desenvolvimento de **seis** grupos de **competências comportamentais** que melhoram o **desempenho na resolução de problemas** do dia-a-dia profissional. São elas:
 - Estruturação de **problemas mal definidos**; 
 - Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
 - Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
@@ -225,11 +221,27 @@ Na OpenPBL, esse ganho é conseguido com o desenvolvimento de **seis** grupos de
 - Visão orçamentária, atitude empreendedora.<br><br>
 
 **Diferenciais** <br>
-As trilhas de carreira baseadas em PBL, quando comparadas com programas educacionais tradicionais para desenvolvimento de competências comportamentais, se diferenciam segundo:
-- **Custo**. Custo baixo das experiências completas de aprendizagem PBL para caber em orçamentos de vários tamanhos.
-- **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona para adequar-se à disponibilidade de tempo dos alunos.
-- **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica para adequar-se às restrições de deslocamento do alunos.
-- **Eficácia**. Programas de "escolas funcionais" (leia-se "trilhas de carreira") reforçam ainda mais a diferenciação e, consequentemente, o ganho de empregabilidade promovido pela PBL. <br><br>
+Os programas profissionalizantes OpenPBL, quando comparadas com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
+- **Custo**. Custo baixo das experiências completas de aprendizagem PBL **para** caber em orçamentos de vários tamanhos.
+- **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
+- **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
+- **Eficácia**. Cursos segmentados em trilhas funcionais **para** concentrar a capacitação no objetivo principal de diferenciação (e empregabilidade) em uma carreira específica. <br><br>
+
+
+### EXECUÇÃO 
+
+**Time executivo** <br>
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec, Estácio e outras. Essa experiência acumulada credencia esses executivos para liderarem o *startup* do plano de negócios.  
+- <a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a> <br><br>
+
+**Startup** <br>
+O *startup* da escola, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
+- Testes com um “**concierge MVP**” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente).
+- Abertura formal e pré-operação da empresa na cidade São Paulo. 
+- Estudos de mercado e **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo.
+- Produção do estoque inicial de títulos (CAPEX).
+- Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. 
+- Desenvolvimento dos sistemas de software proprietários (CAPEX).<br><br>
 
 **Canais de comercialização B2C e B2B** <br>
 A política de **canais B2C** da escola é baseada em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre elas:
@@ -239,21 +251,18 @@ A política de **canais B2C** da escola é baseada em **parcerias** firmadas com
 
 A Política de **canais B2B** é baseada em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.<br><br>
 
-### EXECUÇÃO 
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec e Estácio. Essa experiência acumulada os credenciam para a condução do plano.  
-- <a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a> 
-
+**Desempenho** <br>
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola.<br><br> 
 
 <p align="center">
   <img src="img/dre.png">
 </p>
-<p align="center"><em>Demostrativo de resultados, geração de caixa livre e balanço patrimonial resultantes de simulação do modelo de negócios.</em>
+<p align="center"><em>Demostrativo de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
 </p><br><br>
 
-As simulações utilizaram as seguintes premissas de **atração** e **conversão**:<br>
+As simulações financeiras do plano de negócios utilizaram as seguintes premissas de **atração** e **conversão**:<br>
 
-**Premissas de captação no ano 2**
+1. **Premissas de captação no ano 2** <br>
 - Preço da oferta de trilha com **8 Títulos** - R$ 2.560 por aluno;
 - % da ROB destinada à captação (atração e conversão) - 15% ROB
 - % da captação alocado para atração - 70% 
@@ -267,7 +276,7 @@ As simulações utilizaram as seguintes premissas de **atração** e **conversã
 
 *SAL -> Sales accepted leads* <br><br>
 
-**Premissas de crescimento das vendas** 
+2. **Premissas de crescimento das vendas** 
 - Crescimento das vendas (ano 2-1) - 80,0%
 - Crescimento das vendas (ano 3-2) - 100,0%
 - Crescimento das vendas (ano 4-3) - 100,0%
@@ -281,7 +290,7 @@ As simulações utilizaram as seguintes premissas de **atração** e **conversã
 
 As simulações do DRE consideraram ainda as seguintes premissas:<br>
 
-**Premissas de custos e preços no ano 2**
+3. **Premissas de custos e preços no ano 2**
 - Custo direto total para execução de um título - R$ 701
 - Custo com conteúdo (amortização) - R$ 60 
 - Custo com locação da sala - R$ 458 (3 horas x R$ 152)
@@ -304,15 +313,6 @@ Os **sete** componentes que compõem o software do sistema educacional são:
 - *Software system* para assistir e orientar o tutor da sessão presencial.
 - *Machine learning model* capaz de avaliar automaticamente o desempenho dos alunos.
 - *API* para integração com bases de dados de recrutamento profissional.<br><br>
-
-### STARTUP
-O *startup* da escola, previsto para o **primeiro ano** de operação da escola, tem como objetivos: 
-- Testes com um “**concierge MVP**” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente);
-- Abertura formal da empresa e pré-operação. 
-- Desenvolvimento dos sistemas de software (CAPEX); 
-- Estudos de mercado e **escolha das “escolas funcionais”** para oferta inicial na cidade São Paulo;
-- Produção do estoque inicial de títulos (CAPEX);
-- Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. <br><br>
 
 ### FINANCIAMENTO DO PROJETO
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
