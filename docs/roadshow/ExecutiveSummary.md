@@ -77,7 +77,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
 
 ### O PROBLEMA E A OPORTUNIDADE
-Um relatório publicado em 2018 pelo Fórum Econômico Mundial consolidou a opinião de gestores de RH de todo o mundo e elencou as dez competências profissionais mais desejadas para os profissionais do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, são algumas **competências comportamentais** (e não as técnicas) que irão diferenciar os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado**. A justificativa para isso é que estas competências são as ferramentas necessárias para que os profissionais de todas as áreas, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+Um relatório publicado em 2018 pelo Fórum Econômico Mundial elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que diferencia os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado** não é o domínio de competências técnicas, mas de algumas importantes **competências comportamentais**. A justificativa é que este conjunto de competências é fundamental para que profissionais de todas as áreas, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <table style="width:100%">
   <tr>
