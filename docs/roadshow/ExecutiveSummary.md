@@ -181,17 +181,15 @@ O público-alvo da escola são os **profissionais** (e **aspirantes a profission
 
 <br>
 
-**Produtos** 
+**Cursos e programas OpenPBL** 
 <br>
 Cada um dos cursos profissionalizantes oferecidos pela escola deve proporcionar ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
-Os problemas reais abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico representa a oferta de um título no catálogo da OpenPBL. 
+Os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina  a oferta de um **título no catálogo** da OpenPBL. 
 
-Cada título pode ser adquirido de forma **avulsa** pelo preço alvo de R$ 320,00 ou em conjunto, agrupado em **trilhas**, organizadas para promover a capacitação do aluno em "funções" específicas das diversas carreiras profissionais.
+Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
-A oferta dos títulos agregados em "trilhas de carreira" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma organização educacional segmentada por "escolas funcionais" e não por áreas do conhecimento como é usual no mercado de educação profissionalizante.
-
-*(i) Trilhas de carreira para **setores específicos** também podem ser ofertadas, embora dependam da viabilidade logística de cada região.* <br><br>
+A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br>
 
 **Dinâmica dos cursos** <br>
 Os cursos têm formato **híbrido** (semi-presencial) e são compostos de duas etapas:
