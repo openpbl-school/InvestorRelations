@@ -120,30 +120,30 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 - O paradigma da **execução 100% digital** das **Edtechs** ainda não foi capaz de resolver o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL.<br><br>
 
 **Escalando a PBL** <br>
-Para dar **escalabilidade à execução da PBL** e aproveitar a atual janela de oportunidades, os idealizadores do projeto desenvolveram um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL.<br><br>
+Para dar **escalabilidade à execução da PBL** e aproveitar a atual janela de oportunidades, os idealizadores do projeto desenvolveram um método **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
   <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
 </p><br>
 
-**Integração estratégica do modelo de negócios** <br>
-Diferentemente do paradigma de execução 100% digital para escalar todas as atividades educacionais, a essência inovadora do modelo proposto está em escalar **cada etapa** do processo de execução da PBL de forma **única**, contudo essa integração se dá de forma integrada para garantir a escalabilidade da execução das atividades. 
+**Integração estratégica do método** <br>
+Diferentemente do paradigma de execução 100% digital para escalar, indiscriminadamente, todas as atividades educacionais, a essência inovadora do método proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**. Contudo, essa diferenciação é planejada para que se dê de forma integrada, de forma a garantir a escalabilidade da execução das atividades. 
 
-Sob esse aspecto, os pilares do novo método, (1) "*utilização de ativos de terceiros*" e (2)"*uso intensivo de inteligência artificial*" se complementam. 
+Sob esse aspecto, os pilares do novo método, (1) "*utilização de ativos de terceiros*" e (2)"*uso intensivo de inteligência artificial*" se complementam:
 
-Quanto à utilização de **ativos de terceiros**: 
+1. Quanto à utilização de **ativos de terceiros**: 
 - O modelo garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
 - Espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permitem que o custo do recurso seja tratado como direto e não mais fixo;
 - Profissionais experientes viabilizam a produção de conteúdo funcional e setorial ao mesmo tempo (“hiper funcionalização”).<br>
 
-Quanto ao uso intensivo de **inteligência artificial**: 
+2. Quanto ao uso intensivo de **inteligência artificial**: 
 - O modelo viabiliza a “extração” (e a codificação) da experiência de profissionais especialistas;
 - O modelo automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
 - A atomização da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, NLP e algoritmos de clusterização.<br><br>
 
 **Sistema de Ensino** <br>
-A execução de experiências PBL pelo método proposto é operacionalizada com **três** processos chave:
+A execução de experiências PBL pelo método proposto é operacionalizada com **três** processos chave, com cada um deles responsável pela intervenção em uma as etapas do processo de execução da estratégia de aprendizagem baseada em problemas.
 - Produção de conteúdo automatizada
 - Aprendizagem adaptativa
 - Atomização da execução presencial<br><br>
@@ -170,11 +170,11 @@ A execução de experiências PBL pelo método proposto é operacionalizada com 
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br>
 
-O desenvolvimento de um **sistema de software** para automatizar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, **único** no setor educacional.<br><br> 
+O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, **único** no setor educacional.<br><br> 
 
 
 ### O NEGÓCIO 
-Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **sistema de ensino** inovador que permite a oferta de um amplo conjunto de programas educacionais baseados unicamente em *Problem-based Learning*.
+Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador que permite a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.
 
 O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a profissional**) com necessidades diversas e em fases distintas da carreira, mas com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. <br><br>
 
@@ -188,7 +188,7 @@ O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a
 
 **Cursos e programas OpenPBL** 
 <br>
-Cada um dos cursos profissionalizantes oferecidos pela escola deve proporcionar ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina  a oferta de um **título no catálogo** da OpenPBL. 
 
@@ -233,6 +233,9 @@ Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradici
 - Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
 - Cursos segmentados em trilhas funcionais **para** concentrar a capacitação na diferenciação (e empregabilidade) em uma carreira específica. <br><br>
+
+**Sistema de Ensino OpenPBL** <br>
+O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho pelo método inovador empregado, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para **instituições de ensino diversas**. Inicialmente, para escolas profissionalizantes, mas, num segundo momento, para ser aplicado em um espectro mais abrangente de escolas do setor educacional.   
 
 
 ### EXECUÇÃO 
