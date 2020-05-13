@@ -19,9 +19,9 @@ Companies are increasingly demanding professionals from **all hierarchical level
 
 ...
 
-*1. The "Non Disclousure Agreement" for access to the **business plan** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. The "Non Disclousure Agreement" for access to the **business plan** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
 
-*2. For more details of OpenPBL professional school, see a <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese">storytelling</a> of its standard product (only the portuguese version available).*
+*2. For more details of OpenPBL professional school, see a <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese" target="_blank">storytelling</a> of its standard product (only the portuguese version available).*
 
 <br>
 <p align="center">    
@@ -50,9 +50,9 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 (Pronto también disponible en la versión en español)
 ...
 
-*1. El "Acuerdo de no divulgación" para el acceso al **plan de negocios** está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. El "Acuerdo de no divulgación" para el acceso al **plan de negocios** está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
 
-*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#spanish">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
+*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
 
 <br>
 <p align="center">    
@@ -319,15 +319,15 @@ Todas as etapas de expansão previstas no plano serão financiadas por **capital
 
 Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de R$ 652.000 (divididas em **quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para **capital de giro** durante o *startup* da empresa na cidade de São Paulo.
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de R$ 652.000 (divididas em **quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para **capital de giro** durante o *startup* da empresa na cidade de São Paulo.
 
 A captação atual considera o *valuation* atual de R$ 5,4 milhões. 
 
 ... 
 
-*1. O "Non Disclousure Agreement" para acesso ao **plano de negócios** está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. O "Non Disclousure Agreement" para acesso ao **plano de negócios** está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
 
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese">storytelling</a> do seu produto-tipo.* 
+*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* 
 
 <br>
 <p align="center">    
@@ -355,9 +355,9 @@ A captação atual considera o *valuation* atual de R$ 5,4 milhões.
 
 ...
 
-*1。 对<a href="http://bit.ly/NDA-OpenPBL"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
+*1。 对<a href="http://bit.ly/NDA-OpenPBL" target="_blank"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
 
-*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#chinese">讲故事</a>（仅提供葡萄牙语版本）*
+*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#chinese" target="_blank">讲故事</a>（仅提供葡萄牙语版本）*
 
 <br>
 <p align="center">    
