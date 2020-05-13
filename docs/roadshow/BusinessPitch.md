@@ -37,7 +37,7 @@ The purpose of the current roadshow - published at <a href="https://www.crunchba
 
 *1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
 
-*2. For more details of OpenPBL professional school, see a <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#english">storytelling</a> of its standard product (only the portuguese version available).*
+*2. For more details of OpenPBL professional school, see a <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#english" target="_blank">storytelling</a> of its standard product (only the portuguese version available).*
 
 <br>
 <p align="center">    
