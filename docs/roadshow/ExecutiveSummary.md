@@ -235,7 +235,7 @@ Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradici
 - Cursos segmentados em trilhas funcionais **para** concentrar a capacitação na diferenciação (e empregabilidade) em uma carreira específica. <br><br>
 
 **Sistema de Ensino OpenPBL** <br>
-O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho pelo método inovador empregado, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para **instituições de ensino diversas**. Inicialmente, para escolas profissionalizantes, mas, num segundo momento, para ser aplicado em um espectro mais abrangente de escolas do setor educacional.   
+O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho pelo método inovador empregado, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para **instituições de ensino diversas**. Inicialmente, para escolas profissionalizantes, mas, num segundo momento, para ser aplicado em um espectro mais abrangente de escolas do setor educacional. <br><br> 
 
 
 ### EXECUÇÃO 
