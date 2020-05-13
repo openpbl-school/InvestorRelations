@@ -239,16 +239,7 @@ Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradici
 **Sistema de Ensino OpenPBL** <br>
 O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para outras instituições educacionais. Inicialmente, para escolas profissionalizantes e, num segundo momento, para um espectro mais amplo de instituições. 
 
-A produtização do **sistema de ensino baseado em PBL** tem ainda a vantagem de viabilizar o desenvolvimento sistemático de trilhas funcionais totalmente **customizadas** para que empresas promovam a **capacitação de seus funcionários e colaboradores**.
-
-Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** são: 
-- *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
-- *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
-- *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
-- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método.
-- *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
-- *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
-- *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br> 
+A produtização do **sistema de ensino baseado em PBL** tem ainda a vantagem de viabilizar o desenvolvimento sistemático de trilhas funcionais totalmente **customizadas** para que empresas promovam a **capacitação de seus funcionários e colaboradores**.<br><br> 
 
 ### EXECUÇÃO DO PLANO DE NEGÓCIOS
 
@@ -280,7 +271,9 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
   <img src="img/dre.png">
 </p>
 <p align="center"><em>Demostrativo de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
-</p><br><br>
+</p>
+
+<br>
 
 **Premissas** <br>
 As simulações utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime" após o startup) e as premissas de **crescimento de vendas e de custos** para modelar os anos posteriores de operação, além da fase do startup da empresa.  
@@ -313,13 +306,24 @@ As seguintes premissas de **crescimento de vendas e de custos** foram usadas par
   <img src="img/dre_vendas.png">
 </p>
 <p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
-</p><br><br>
+</p>
 
+<br>
 
-### EXPANSÃO
-Graças ao modelo escalável, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento anterior do **Sistema Educacional OpenPBL**, um sistema de software para automatizar os processos e etapas do método. 
+**Expansão** <br>
+Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método. 
 
-Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) para **desenvolvimento de software**. <br><br>
+Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) para **desenvolvimento de software**. 
+
+Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** são: 
+- *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
+- *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
+- *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
+- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método.
+- *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
+- *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
+- *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br>
+
 
 ### FINANCIAMENTO DO PROJETO
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
