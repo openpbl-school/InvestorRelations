@@ -91,17 +91,17 @@ Resumen del roadshow de recaudación de fondos de 2020.
 
 ### OPEN-PBL - IDEIA 
 
-**A oportunidade e a proposta** <br>
+**A OPORTUNIDADE E A PROPOSTA** <br>
 Cada vez mais, as empresas vêm demandando dos profissionais de **todos os seus níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. No entanto, a atual oferta de **programas educacionais** que desenvolvem esse tipo de competência **não é suficiente** para suprir a necessidade de **profissionais** e **entrantes** no mercado de trabalho.
 
 Para aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. O modelo aumenta consideravelmente a **escalabilidade** de programas educacionais que utilizam a *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. 
 
-**O negócio e a execução** <br>
+**O NEGÓCIO E A EXECUÇÃO** <br>
 Os idealizadores elaboraram um plano de negócios para criar a Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que utiliza o modelo proposto para ofertar programas baseados em PBL. O plano prevê o desenvolvimento de **sistemas de software** para automatizar o modelo e garantir uma rápida **expansão das atividades da escola**. 
 
 As simulações financeiras do plano de negócios mostram que é necessário um **investimento** inicial **mínimo** de R$ 160.000 em **produção de conteúdo** para alcançar uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação. Graças ao potencial de escalabilidade do modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) pode ser replicado ou ampliado proporcionalmente sem custos adicionais.
 
-**Financiamento** <br>
+**FINANCIAMENTO** <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
 O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de R$ 652.000 (**quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
