@@ -178,7 +178,8 @@ O desenvolvimento de um **sistema de software** para automatizar e coordenar a e
 ### O NEGÓCIO 
 Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador que permite a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.
 
-O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a profissional**) com necessidades diversas e em fases distintas da carreira, mas com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. <br><br>
+**Perfil dos alunos** <br>
+O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a profissional**) com necessidades diversas e em **fases distintas** da carreira, mas todos com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. <br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
@@ -188,18 +189,15 @@ O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a
 
 <br>
 
-**Cursos e programas OpenPBL** 
-<br>
+**Posicionamento da escola** <br>
 Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
-Os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina  a oferta de um **título no catálogo** da OpenPBL. 
-
-Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
+Para tal, os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
 A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br>
 
-**Dinâmica dos cursos** <br>
-Os cursos têm **formato padronizado**. São oferecidos na modalidade **híbrido** (ou semi-presencial) e são executados sempre em duas etapas:
+**Dinâmica dos cursos e programas OpenPBL** <br>
+Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online**, que correspondem a 95% da carga horária total do curso; 
 2. Uma etapa final de **discussão**, com uma sessão **presencial** de três horas, conduzida por um tutor, onde dez alunos se reunem para **analisar** as possíveis soluções para o problema proposto no curso. 
 
@@ -219,7 +217,9 @@ Após esta última etapa, o aluno recebe:
 2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
 
 **Benefícios ao público alvo**<br>
-Conforme defendido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Na escola profissionalizante OpenPBL, este ganho é alcançado com atividades educacionais como o objetivo de desenvolver **seis** grupos de **competências comportamentais**: 
+Conforme relatado pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
+
+Na escola profissionalizante OpenPBL, este ganho é alcançado com atividades educacionais que têm o objetivo de desenvolver no aluno **seis** grupos de **competências comportamentais**: 
 - Estruturação de **problemas mal definidos**; 
 - Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
 - Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
@@ -227,35 +227,34 @@ Conforme defendido pelo Fórum Econômico Mundial, a **participação continuada
 - Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
 - Visão orçamentária e atitude empreendedora.
 
-Em conjunto, essas características melhoram o **desempenho do aluno na resolução de problemas** do dia-a-dia profissional.<br><br>
+Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas** e **aumentam a eficiência** da sua atuação no dia-a-dia profissional.<br><br>
 
 **Diferenciais** <br>
 Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
 - **Custo baixo** das experiências completas de aprendizagem PBL **para** caber em orçamentos de vários tamanhos.
 - Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
-- Cursos segmentados em trilhas funcionais **para** concentrar a capacitação na diferenciação (e empregabilidade) em uma carreira específica. <br><br>
+- Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. <br><br>
 
 **Sistema de Ensino OpenPBL** <br>
-O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho pelo método inovador empregado, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para **instituições diversas** do setor educacional. Inicialmente, para escolas profissionalizantes, mas, num segundo momento, para ser aplicado em um espectro escolar mais abrangente. 
+O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para outras instituições educacionais. Inicialmente, para escolas profissionalizantes e, num segundo momento, para um espectro mais amplo de instituições. 
+
+A produtização do **sistema de ensino baseado em PBL** tem ainda a vantagem de viabilizar o desenvolvimento sistemático de trilhas funcionais totalmente **customizadas** para que empresas promovam a **capacitação de seus funcionários e colaboradores**.
 
 Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** são: 
-- *Expert system* para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver.
-- *Machine learning model* capaz de produzir automaticamente os cenários de problemas com títulos em **português**, **inglês** e **espanhol**.
-- *Adaptive learning system* para acelerar a etapa de SDL dos alunos.
-- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL dos alunos.
-- *Software system* para assistir e orientar o tutor da sessão presencial.
-- *Machine learning model* capaz de avaliar automaticamente o desempenho dos alunos.
-- *API* para integração com bases de dados de recrutamento profissional
-
-A produtização do **sistema de ensino baseado em PBL** tem ainda a vantagem de viabilizar o desenvolvimento sistemático de trilhas funcionais totalmente **customizadas** para que empresas e organizações em geral promovam a **capacitação de seus funcionários e colaboradores**. <br><br> 
-
+- *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
+- *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
+- *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
+- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método.
+- *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
+- *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
+- *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br> 
 
 ### EXECUÇÃO DO PLANO DE NEGÓCIOS
 
 **Time executivo** <br>
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec, Estácio e outras. Essa experiência acumulada credencia esses executivos para liderarem a fase de *startup* do plano de negócios.  
-- <a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a> <br><br>
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. Esse perfil profissional os credenciam para liderarem a fase de *startup* do plano de negócios.  
+- Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>). <br><br>
 
 **Startup** <br>
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
@@ -266,15 +265,13 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. 
 - Desenvolvimento dos componentes de software do **Sistema Educacional proprietário** da empresa (CAPEX).<br><br>
 
-**Canais de comercialização B2C e B2B** <br>
-A política de **canais B2C** da **Escola OpenPBL** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
+**Canais de comercialização** <br>
+A política de **canais B2C** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
 - Marketplaces digitais com foco educacional (*Udemy, ...*); 
 - Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
-- Agências recrutadoras de profissionais.
+- Agências intermediadoras de recrutamento e seleção profissional.
 
-Da mesma forma, a Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.
-
-A partir da conclusão do **Sistema Educacional**, prevista para o segundo ano de operação, a atuação B2B deverá incluir **instituções de ensino de nível médio e superior** como clientes-alvo. <br><br>
+A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas. A partir da conclusão do **Sistema Educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** como clientes-alvo. <br><br>
 
 **Desempenho** <br>
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da empresa.<br><br> 
@@ -286,7 +283,7 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 </p><br><br>
 
 **Premissas** <br>
-As simulações financeiras utilizaram **premissas de marketing e de custo** para modelar o primeiro ano de operação "em regime" da empresa (ano 2), além de **premissas de crescimento de vendas e custos** para modelar os anos seguintes e o startup da empresa.  
+As simulações utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime" após o startup) e as premissas de **crescimento de vendas e de custos** para modelar os anos posteriores de operação, além da fase do startup da empresa.  
 
 As seguintes premissas de **atração** e **conversão** foram usadas para modelar o **ano 2**:<br>
 - Preço da oferta de trilha com **8 Títulos** - R$ 2.560 por aluno;
@@ -298,13 +295,7 @@ As seguintes premissas de **atração** e **conversão** foram usadas para model
 - Custo de atração (por SAL) - R$ 27,15
 - Custo de conversão (por venda) - R$ 116,37
 - Nr de alunos capacitados ao longo do ano 2 – 347 (sem recorrência); 
-- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês). <br><br>
-
-<p align="center">
-  <img src="img/dre_vendas.png">
-</p>
-<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
-</p><br><br>
+- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).<br> 
 
 As seguintes premissas de **custos** e **preços** foram usadas para modelar o **ano 2**:<br>
 - Custo direto total para execução de um título - R$ 701
@@ -314,7 +305,16 @@ As seguintes premissas de **custos** e **preços** foram usadas para modelar o *
 - Custo do serviço de vídeo – residual 
 - Impostos sobre serviços educacionais – 8,65%
 - Taxa de "*no show*" esperada - 10%
-- Preço sugerido para a oferta avulsa do título - R$ 323 por aluno.<br><br>
+- Preço sugerido para a oferta avulsa do título - R$ 323 por aluno.<br>
+
+As seguintes premissas de **crescimento de vendas e de custos** foram usadas para modelar os demais anos:<br>
+
+<p align="center">
+  <img src="img/dre_vendas.png">
+</p>
+<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
+</p><br><br>
+
 
 ### EXPANSÃO
 Graças ao modelo escalável, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento anterior do **Sistema Educacional OpenPBL**, um sistema de software para automatizar os processos e etapas do método. 
