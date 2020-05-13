@@ -154,7 +154,7 @@ A execução de experiências PBL pelo método proposto é operacionalizada atra
 <b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
 <br><br>
 <img src="img/sum_processo1.png">
-<em>Sistema especialista para extração de conhecimento dos profissionais experientes.</em>
+<em>Sistema para extração de conhecimento dos profissionais especialistas.</em>
 </p><br><br>
 
 <p align="center">
@@ -162,7 +162,7 @@ A execução de experiências PBL pelo método proposto é operacionalizada atra
 <br><br>
 <img src="img/sum_processo2.png">
 <br><br>
-<em>Adaptive learning para acelerar a fase de "self-directed learning".</em>
+<em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
 </p><br><br>
 
 <p align="center">
