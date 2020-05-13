@@ -1,7 +1,5 @@
 ### Links criados para o roadmap
 
-https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf
-
 **Página Relacionamento com investidores** <br>
 https://bit.ly/OpenPBL-IR <br>
 
@@ -37,10 +35,11 @@ https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPitch#englis
 **Redireciona para Executive Summary** <br>
 https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22 
 
-
 **Executive Summary** <br> 
 https://openpbl-school.github.io/InvestorRelations/roadshow/ExecutiveSummary#english 
 
+**Non Disclosure Agreement** <br> 
+https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf
 
 <br>
 
