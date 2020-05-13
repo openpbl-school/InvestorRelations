@@ -127,24 +127,26 @@ Para dar **escalabilidade à execução da PBL** e aproveitar a atual janela de 
   <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
 </p><br>
 
-**Integração estratégica do modelo** <br>
-Diferentemente do paradigma de execução 100% digital para escalar atividades educacionais, a essência inovadora do novo modelo está na proposta de escalar **cada etapa** do processo de execução da PBL de forma **única**, mas de forma integrada para garantir a escalabilidade da execução. 
+**Integração estratégica do modelo de negócios** <br>
+Diferentemente do paradigma de execução 100% digital para escalar todas as atividades educacionais, a essência inovadora do modelo proposto está em escalar **cada etapa** do processo de execução da PBL de forma **única**, contudo essa integração se dá de forma integrada para garantir a escalabilidade da execução das atividades. 
 
-Sobre a utilização de **ativos de terceiros**: 
+Sob esse aspecto, os pilares do novo método, (1) "*utilização de ativos de terceiros*" e (2)"*uso intensivo de inteligência artificial*" se complementam. 
+
+Quanto à utilização de **ativos de terceiros**: 
 - O modelo garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
 - Espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permitem que o custo do recurso seja tratado como direto e não mais fixo;
 - Profissionais experientes viabilizam a produção de conteúdo funcional e setorial ao mesmo tempo (“hiper funcionalização”).<br>
 
-Sobre o uso intensivo de **inteligência artificial**: 
+Quanto ao uso intensivo de **inteligência artificial**: 
 - O modelo viabiliza a “extração” (e a codificação) da experiência de profissionais especialistas;
 - O modelo automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
 - A atomização da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, NLP e algoritmos de clusterização.<br><br>
 
-**Processos de execução** <br>
-A execução de experiências PBL pelo modelo proposto pode ser operacionalizada por **três** processos chave:
+**Sistema de Ensino** <br>
+A execução de experiências PBL pelo método proposto é operacionalizada com **três** processos chave:
 - Produção de conteúdo automatizada
 - Aprendizagem adaptativa
-- Atomização da execução presencial<br><br> 
+- Atomização da execução presencial<br><br>
 
 <p align="center">
 <b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
@@ -168,10 +170,13 @@ A execução de experiências PBL pelo modelo proposto pode ser operacionalizada
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br>
 
-### O NEGÓCIO 
-Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um plano de negócios de cinco anos para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** que oferece programas educacionais unicamente baseados em *Problem-based Learning*.
+O desenvolvimento de um **sistema de software** para automatizar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, **único** no setor educacional.<br><br> 
 
-O público-alvo da escola são os **profissionais** (e **aspirantes a profissional**) com necessidades diversas e em fases distintas da carreira, mas com o **objetivo comum** da diferenciação no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. <br><br>
+
+### O NEGÓCIO 
+Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **sistema de ensino** inovador que permite a oferta de um amplo conjunto de programas educacionais baseados unicamente em *Problem-based Learning*.
+
+O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a profissional**) com necessidades diversas e em fases distintas da carreira, mas com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. <br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png">
@@ -192,40 +197,42 @@ Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,0
 A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br>
 
 **Dinâmica dos cursos** <br>
-Os cursos têm formato **híbrido** (semi-presencial) e são executados em duas etapas:
-1. Uma etapa preliminar de preparação, com atividades **online**, que representam 95% da carga horária total do curso; 
-2. Uma sessão final de três horas, conduzida por um tutor, onde dez alunos se reunem **presencialmente** para **analisar e discutir** o problema proposto no curso. 
+Todos os cursos têm formato padronizado. São oferecidos na modalidade **híbrido** (ou semi-presencial) e são executados em duas etapas:
+1. Uma etapa preliminar de preparação, com atividades **online**, que correspondem a 95% da carga horária total do curso; 
+2. Uma etapa final de discussão, com uma sessão **presencial** de três horas, conduzida por um tutor, onde dez alunos se reunem para **analisar** as possíveis soluções para o problema proposto no curso. 
 
 Na etapa de **preparação**, o aluno: 
 1. Recebe o **conteúdo descritivo** do problema, bem como todo o material de apoio para o seu entendimento;
 2. Afere os **conhecimentos necessários** para a análise do problema; 
 3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
-4. Por fim, **propõe uma solução** para o problema.<br>
+4. Ao final, **propõe a sua solução** ou soluções para o problema.<br>
 
 Na etapa de **discussão**, o aluno: 
-1. Escolhe a data e o local para realizar a etapa final do curso;
-2. Comparece à sessão presencial, realizada em local adequado (infraestrutura e facilidades) para abrigar uma turma com 10 alunos e; 
+1. Recebe uma lista de locais com infraestrutura e facilidades para abrigar uma sessão presencial com 10 alunos; 
+2. Agenda a data e o local mais adequados;
 3. Participa da **dinâmica de discussões** em torno do problema proposto, conduzidas pelo **tutor** da sessão.<br>
 
-Ao final de cada curso, o aluno recebe: 
+Após a etapa de discussão, o aluno recebe: 
 1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
 2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
 
 **Benefícios ao público alvo**<br>
-A **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Na OpenPBL, este ganho é conseguido com o desenvolvimento de **seis** grupos de **competências comportamentais** que melhoram o **desempenho na resolução de problemas** do dia-a-dia profissional. São elas:
+Conforme defendido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Na escola profissionalizante OpenPBL, este ganho é alcançado com atividades educacionais como o objetivo de desenvolver **seis** grupos de **competências comportamentais**: 
 - Estruturação de **problemas mal definidos**; 
 - Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
 - Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
 - Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
 - Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- Visão orçamentária, atitude empreendedora.<br><br>
+- Visão orçamentária e atitude empreendedora.
+
+Em conjunto, essas características melhoram o **desempenho do aluno na resolução de problemas** do dia-a-dia profissional.<br><br>
 
 **Diferenciais** <br>
-Os programas profissionalizantes OpenPBL, quando comparadas com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
-- **Custo**. Custo baixo das experiências completas de aprendizagem PBL **para** caber em orçamentos de vários tamanhos.
-- **Tempo síncrono**. Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
-- **Deslocamento e acesso**. Etapa presencial com muitas opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
-- **Eficácia**. Cursos segmentados em trilhas funcionais **para** concentrar a capacitação no objetivo principal de diferenciação (e empregabilidade) em uma carreira específica. <br><br>
+Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
+- **Custo baixo** das experiências completas de aprendizagem PBL **para** caber em orçamentos de vários tamanhos.
+- Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
+- Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
+- Cursos segmentados em trilhas funcionais **para** concentrar a capacitação na diferenciação (e empregabilidade) em uma carreira específica. <br><br>
 
 
 ### EXECUÇÃO 
