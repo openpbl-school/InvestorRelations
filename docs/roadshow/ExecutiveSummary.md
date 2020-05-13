@@ -197,22 +197,22 @@ Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,0
 A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br>
 
 **Dinâmica dos cursos** <br>
-Todos os cursos têm formato padronizado. São oferecidos na modalidade **híbrido** (ou semi-presencial) e são executados em duas etapas:
-1. Uma etapa preliminar de preparação, com atividades **online**, que correspondem a 95% da carga horária total do curso; 
-2. Uma etapa final de discussão, com uma sessão **presencial** de três horas, conduzida por um tutor, onde dez alunos se reunem para **analisar** as possíveis soluções para o problema proposto no curso. 
+Os cursos têm **formato padronizado**. São oferecidos na modalidade **híbrido** (ou semi-presencial) e são executados sempre em duas etapas:
+1. Uma etapa preliminar de **preparação**, com atividades **online**, que correspondem a 95% da carga horária total do curso; 
+2. Uma etapa final de **discussão**, com uma sessão **presencial** de três horas, conduzida por um tutor, onde dez alunos se reunem para **analisar** as possíveis soluções para o problema proposto no curso. 
 
 Na etapa de **preparação**, o aluno: 
 1. Recebe o **conteúdo descritivo** do problema, bem como todo o material de apoio para o seu entendimento;
-2. Afere os **conhecimentos necessários** para a análise do problema; 
+2. Tem os seus **conhecimentos**, necessários para a análise do problema, **aferidos** por testes *online*, personalizados para a sua proficiência no assunto; 
 3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
-4. Ao final, **propõe a sua solução** ou soluções para o problema.<br>
+4. Ao final, **propõe a sua solução** ou soluções para o problema objeto do curso.<br>
 
 Na etapa de **discussão**, o aluno: 
-1. Recebe uma lista de locais com infraestrutura e facilidades para abrigar uma sessão presencial com 10 alunos; 
+1. Recebe uma lista de locais com detalhes da **infraestrutura**, **facilidades** e **tutoria** para uma sessão presencial de 3 horas com uma turma de 10 alunos; 
 2. Agenda a data e o local mais adequados;
-3. Participa da **dinâmica de discussões** em torno do problema proposto, conduzidas pelo **tutor** da sessão.<br>
+3. Participa da **dinâmica de discussões** em torno do problema proposto no curso, conduzidas pelo **tutor** da sessão.<br>
 
-Após a etapa de discussão, o aluno recebe: 
+Após esta última etapa, o aluno recebe: 
 1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
 2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
 
@@ -235,34 +235,47 @@ Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradici
 - Cursos segmentados em trilhas funcionais **para** concentrar a capacitação na diferenciação (e empregabilidade) em uma carreira específica. <br><br>
 
 **Sistema de Ensino OpenPBL** <br>
-O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho pelo método inovador empregado, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para **instituições de ensino diversas**. Inicialmente, para escolas profissionalizantes, mas, num segundo momento, para ser aplicado em um espectro mais abrangente de escolas do setor educacional. <br><br> 
+O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho pelo método inovador empregado, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para **instituições diversas** do setor educacional. Inicialmente, para escolas profissionalizantes, mas, num segundo momento, para ser aplicado em um espectro escolar mais abrangente. 
+
+Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** são: 
+- *Expert system* para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver.
+- *Machine learning model* capaz de produzir automaticamente os cenários de problemas com títulos em **português**, **inglês** e **espanhol**.
+- *Adaptive learning system* para acelerar a etapa de SDL dos alunos.
+- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL dos alunos.
+- *Software system* para assistir e orientar o tutor da sessão presencial.
+- *Machine learning model* capaz de avaliar automaticamente o desempenho dos alunos.
+- *API* para integração com bases de dados de recrutamento profissional
+
+A produtização do **sistema de ensino baseado em PBL** tem ainda a vantagem de viabilizar o desenvolvimento sistemático de trilhas funcionais totalmente **customizadas** para que empresas e organizações em geral promovam a **capacitação de seus funcionários e colaboradores**. <br><br> 
 
 
-### EXECUÇÃO 
+### EXECUÇÃO DO PLANO DE NEGÓCIOS
 
 **Time executivo** <br>
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec, Estácio e outras. Essa experiência acumulada credencia esses executivos para liderarem o *startup* do plano de negócios.  
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**, tais como Ibmec, Estácio e outras. Essa experiência acumulada credencia esses executivos para liderarem a fase de *startup* do plano de negócios.  
 - <a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a> <br><br>
 
 **Startup** <br>
-O *startup* da escola, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
-- Testes com um “**concierge MVP**” para validar as premissas iniciais de eficácia e custos da execução das sessões presenciais (capital semente).
-- Abertura formal e pré-operação da empresa na cidade São Paulo. 
+O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
+- Abertura formal e pré-operação da empresa na **cidade São Paulo**. 
+- Elaborar testes com um “**concierge MVP**” para validar as premissas de **custos de execução** das sessões presenciais (utilização do *capital semente*).
 - Estudos de mercado e **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo.
 - Produção do estoque inicial de títulos (CAPEX).
-- Lançamento das primeiras trilhas, validação das premissas de mercado e ajustes na campanha. 
-- Desenvolvimento dos sistemas de software proprietários (CAPEX).<br><br>
+- Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. 
+- Desenvolvimento dos componentes de software do **Sistema Educacional proprietário** da empresa (CAPEX).<br><br>
 
 **Canais de comercialização B2C e B2B** <br>
-A política de **canais B2C** da escola é baseada em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre elas:
-- Marketplaces digitais: (1) generalistas (*Amazon, ...*); (2) foco educacional (*Udemy, ...*);
-- Escolas profissionalizantes: (1) ensino médio; (2) instituições de ensino superior - IES;
-- Agências recrutadoras: (1) generalistas; (2) especialistas; 
+A política de **canais B2C** da **Escola OpenPBL** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
+- Marketplaces digitais com foco educacional (*Udemy, ...*); 
+- Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
+- Agências recrutadoras de profissionais.
 
-A Política de **canais B2B** é baseada em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.<br><br>
+Da mesma forma, a Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e **organizações diversas**.
+
+A partir da conclusão do **Sistema Educacional**, prevista para o segundo ano de operação, a atuação B2B deverá incluir **instituções de ensino de nível médio e superior** como clientes-alvo. <br><br>
 
 **Desempenho** <br>
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da escola.<br><br> 
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da empresa.<br><br> 
 
 <p align="center">
   <img src="img/dre.png">
@@ -270,27 +283,20 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 <p align="center"><em>Demostrativo de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
 </p><br><br>
 
-As simulações financeiras do plano de negócios utilizaram as seguintes premissas de **atração** e **conversão**:<br>
+**Premissas** <br>
+As simulações financeiras utilizaram **premissas de marketing e de custo** para modelar o primeiro ano de operação "em regime" da empresa (ano 2), além de **premissas de crescimento de vendas e custos** para modelar os anos seguintes e o startup da empresa.  
 
-1. **Premissas de captação no ano 2** <br>
+As seguintes premissas de **atração** e **conversão** foram usadas para modelar o **ano 2**:<br>
 - Preço da oferta de trilha com **8 Títulos** - R$ 2.560 por aluno;
 - % da ROB destinada à captação (atração e conversão) - 15% ROB
 - % da captação alocado para atração - 70% 
-- Leads (tipo "SAL") gerados no ano - 3.466 
+- Leads SAL(*sales accepted leads*) gerados no ano - 3.466 
 - Taxa de conversão (VENDAS/SAL) - 10,0% 
 - Produtos vendidos no ano – 347 trilhas 
 - Custo de atração (por SAL) - R$ 27,15
 - Custo de conversão (por venda) - R$ 116,37
 - Nr de alunos capacitados ao longo do ano 2 – 347 (sem recorrência); 
-- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).
-
-*SAL -> Sales accepted leads* <br><br>
-
-2. **Premissas de crescimento das vendas** 
-- Crescimento das vendas (ano 2-1) - 80,0%
-- Crescimento das vendas (ano 3-2) - 100,0%
-- Crescimento das vendas (ano 4-3) - 100,0%
-- Crescimento das vendas (ano 5-4) - 80,0% <br><br>
+- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês). <br><br>
 
 <p align="center">
   <img src="img/dre_vendas.png">
@@ -298,9 +304,7 @@ As simulações financeiras do plano de negócios utilizaram as seguintes premis
 <p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
 </p><br><br>
 
-As simulações do DRE consideraram ainda as seguintes premissas:<br>
-
-3. **Premissas de custos e preços no ano 2**
+As seguintes premissas de **custos** e **preços** foram usadas para modelar o **ano 2**:<br>
 - Custo direto total para execução de um título - R$ 701
 - Custo com conteúdo (amortização) - R$ 60 
 - Custo com locação da sala - R$ 458 (3 horas x R$ 152)
@@ -311,18 +315,9 @@ As simulações do DRE consideraram ainda as seguintes premissas:<br>
 - Preço sugerido para a oferta avulsa do título - R$ 323 por aluno.<br><br>
 
 ### EXPANSÃO
-Graças ao modelo escalável, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento prévio de um sistema de software para automatizar seus processos e etapas.
+Graças ao modelo escalável, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento anterior do **Sistema Educacional OpenPBL**, um sistema de software para automatizar os processos e etapas do método. 
 
-Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) em **desenvolvimento de software**. 
-
-Os **sete** componentes que compõem o software do sistema educacional são: 
-- *Expert system* para parametrizar as relações causais entre um problema proposto pelo especialista e as competências superiores que propõe desenvolver.
-- *Machine learning model* capaz de produzir automaticamente os cenários de problemas com títulos em **português**, **inglês** e **espanhol**.
-- *Adaptive learning system* para acelerar a etapa de SDL dos alunos.
-- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL dos alunos.
-- *Software system* para assistir e orientar o tutor da sessão presencial.
-- *Machine learning model* capaz de avaliar automaticamente o desempenho dos alunos.
-- *API* para integração com bases de dados de recrutamento profissional.<br><br>
+Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) para **desenvolvimento de software**. <br><br>
 
 ### FINANCIAMENTO DO PROJETO
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
@@ -331,13 +326,13 @@ Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **
 
 O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de R$ 652.000 (divididas em **quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para **capital de giro** durante o *startup* da empresa na cidade de São Paulo.
 
-A captação atual considera o *valuation* atual de R$ 5,4 milhões. 
+A captação atual considera o *pre money valuation* de R$ 5,4 milhões. 
 
 ... 
 
-*1. O "Non Disclousure Agreement" para acesso ao **plano de negócios** está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
+*1. O "Non Disclousure Agreement" para acesso ao **plano de negócios** detalhado está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
 
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* 
+*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um exemplo de <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese" target="_blank">storytelling</a> da execução de um curso típico.* 
 
 <br>
 <p align="center">    
