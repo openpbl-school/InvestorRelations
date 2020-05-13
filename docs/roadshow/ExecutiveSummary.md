@@ -93,7 +93,7 @@ Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as de
 **Desenvolvendo competências** <br>
 O emprego **contínuo** dos conhecimentos e habilidades **técnicas** de um profissional nas **situações reais** do dia-a-dia ao longo da carreira promove naturalmente o desenvolvimento destas importantes competências comportamentais, mas isso demanda tempo. Como forma de acelerar este processo de "aprendizagem pela experiência profissional", alguns **programas educacionais** simulam estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. 
 
-É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href:"https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Wikipedia</a>).<br><br>
+É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Wikipedia</a>).<br><br>
 
 <table style="width:100%">
   <tr>
