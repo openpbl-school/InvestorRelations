@@ -31,11 +31,11 @@ For the detailed design, implementation and testing of the **OpenPBL educational
 **FINANCING** <br>
 All expansion steps provided for in the plan will be financed by **venture capital** and the main exit rule to attract investors is the **strategic sale** of the company to an educational group. 
 
-The purpose of the current roadshow - published at <a href="https://www.crunchbase.com/organization/openpbl#section-overview"> CrunchBase.com </a> - is to capture **four quotas** from of US $ 34,000 to **develop software systems** and the company **startup** in the city of São Paulo.
+The purpose of the current roadshow - published at <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank"> CrunchBase.com </a> - is to capture **four quotas** from of US $ 34,000 to **develop software systems** and the company **startup** in the city of São Paulo.
 
 ...
 
-*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
 
 *2. For more details of OpenPBL professional school, see a <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#english" target="_blank">storytelling</a> of its standard product (only the portuguese version available).*
 
@@ -66,9 +66,9 @@ Resumen del roadshow de recaudación de fondos de 2020.
 (Pronto también disponible en la versión en español)
 ...
 
-*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
 
-*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#spanish">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
+*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
 
 <br>
 <p align="center">    
@@ -104,13 +104,13 @@ As simulações financeiras do plano de negócios mostram que é necessário um 
 **FINANCIAMENTO** <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview">CrunchBase.com</a> - é a captação de R$ 652.000 (**quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de R$ 652.000 (**quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
 
 ... 
 
-*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL">OpenPBL NDA</a>.*
+*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
 
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#portuguese">storytelling</a> do seu produto-tipo.* 
+*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* 
 
 
 
@@ -140,9 +140,9 @@ O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/
 （很快也有中文版本）
 ...
 
-*1。 对<a href="http://bit.ly/NDA-OpenPBL"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
+*1。 对<a href="http://bit.ly/NDA-OpenPBL" target="_blank"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
 
-*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#chinese">讲故事</a>（仅提供葡萄牙语版本）*
+*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#chinese" target="_blank">讲故事</a>（仅提供葡萄牙语版本）*
 
 <br>
 <p align="center">    
