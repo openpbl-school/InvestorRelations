@@ -237,18 +237,22 @@ Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradici
 - Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. <br><br>
 
 **Sistema de Ensino OpenPBL** <br>
-O sucesso no objetivo de diferenciar seus alunos no mercado de trabalho, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para outras instituições educacionais. Inicialmente, para escolas profissionalizantes e, num segundo momento, para um espectro mais amplo de instituições de ensino. 
+O sucesso no objetivo de diferenciar os alunos da escola profissionalizante no mercado de trabalho, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para outras instituições. Inicialmente, para escolas profissionalizantes e, num segundo momento, para um espectro mais amplo de instituições de ensino.
 
-A produtização do **sistema de ensino baseado em PBL** tem ainda a vantagem de viabilizar o desenvolvimento sistemático de trilhas funcionais totalmente **customizadas** para que empresas promovam a **capacitação de seus funcionários e colaboradores**.
+As ofertas baseadas no *Sistema de Ensino OpenPBL* deve necessariamente envolver:
+- O valor dos serviços de **implantação** do sistema;
+- Um contrato de utilização não inferior a **24 meses**;
+- A franquia para a utilização ilimitada de uma **quantidade máxima de usuários**;
+- O valor da proposta deve ser apresentada como o **valor mensal por usuário** para cada faixa da franquia.<br><br>
 
 **Educação corporativa** <br>
-Os clientes Alvo são grandes e médias empresas ou organizações que viabilizem relacionamento de parceria e recorrência comercial de longo prazo. 
+A produtização do **sistema de ensino baseado em PBL** tem a vantagem de viabilizar o desenvolvimento sistemático de **trilhas funcionais** totalmente **customizadas** para que empresas promovam a **capacitação de seus funcionários e colaboradores**. Os clientes alvo são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo. 
 
-Os profissionais de Treinamento e Desenvolvimento (T&D) da empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa. Assim, as soluções são organizadas em 5 grupos para que os profissionais de T&D tenham suporte em todas as suas demandas, desde o planejamento até a gestão da execução de um projeto de educação corporativa. 
+Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa. Assim, as soluções são organizadas em 5 grupos para que os profissionais de T&D tenham suporte em todas as suas demandas, desde o planejamento até a gestão da execução de um **projeto de educação corporativa baseado em *Problem-based Learning*.** 
 - **Soluções de Planejamento Educacional.** As soluções para essa etapa têm caráter de consultoria educacional para os profissionais de T&D. 
-- **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo de cursos da Estácio ou requerer a produção de conteúdos customizados.
+- **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
 - **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
-- **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online de várias unidades da Estácio.
+- **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
 - **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br> 
 
 ### EXECUÇÃO DO PLANO DE NEGÓCIOS
