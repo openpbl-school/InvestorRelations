@@ -73,10 +73,10 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <a name="portuguese"></a> 
 <br>
 
-## OPEN-PBL - SUMÁRIO EXECUTIVO
+# OPEN-PBL - SUMÁRIO EXECUTIVO
 Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
 
-### O PROBLEMA E A OPORTUNIDADE
+## O PROBLEMA E A OPORTUNIDADE
 Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que diferencia os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado** não é o domínio de competências técnicas, mas a utilização no dia-a-dia de algumas importantes **competências comportamentais**, indispensáveis para que, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <table style="width:100%">
@@ -175,7 +175,7 @@ A execução de experiências PBL pelo método proposto é operacionalizada atra
 O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, que tem características **únicas** na atual conjuntura do mercado educacional.<br><br> 
 
 
-### O NEGÓCIO 
+## O NEGÓCIO 
 Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador que permite a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.
 
 **Perfil dos alunos** <br>
@@ -255,11 +255,19 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
 - **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
 - **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br> 
 
-### EXECUÇÃO DO PLANO DE NEGÓCIOS
+## EXECUÇÃO DO PLANO DE NEGÓCIOS
 
 **Time executivo** <br>
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de unidades de negócios de instituições de ensino superior de **grande porte**. Esse perfil profissional os credenciam para liderarem a fase de *startup* do plano de negócios.  
-- Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>). <br><br>
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**. Em especial, os empreendedores têm experiências complementares (comercial e operações) na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
+1. Grande abrangência territorial e diversidade de infraestrutura presencial;
+2. Grande quantidade e dispersão dos colaboradores envolvidos; 
+3. Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
+4. Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
+5. Grande necessidade de engajamento e fidelização dos colaboradores.<br>
+
+Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
+- Perfil executivo 1(<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
+- Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
 
 **Startup** <br>
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
@@ -268,15 +276,18 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 - Estudos de mercado e **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo.
 - Produção do estoque inicial de títulos (CAPEX).
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. 
-- Desenvolvimento dos componentes de software do **Sistema Educacional proprietário** da empresa (CAPEX).<br><br>
+- Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br><br>
 
-**Canais de comercialização** <br>
+**Canais de comercialização B2C** <br>
 A política de **canais B2C** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
 - Marketplaces digitais com foco educacional (*Udemy, ...*); 
 - Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
 - Agências intermediadoras de recrutamento e seleção profissional.
 
-A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas. A partir da conclusão do **Sistema Educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** como clientes-alvo. <br><br>
+**Canais de comercialização B2B** <br>
+A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas.
+
+A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
 
 **Desempenho** <br>
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de R$ 160.000 para a **produção de conteúdo**, é possível atingir uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação da empresa.<br><br> 
@@ -284,14 +295,14 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 <p align="center">
   <img src="img/dre.png">
 </p>
-<p align="center"><em>Demostrativo de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
+<p align="center"><em>Demostração de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
 </p>
 
 <br>
 
-**Premissas** <br>
-As simulações utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime" após o startup) e as premissas de **crescimento de vendas e de custos** para modelar os anos posteriores de operação, além da fase do startup da empresa.  
+As simulações financeiras utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime") e premissas de **crescimento de vendas e de custos** para modelar os anos posteriores de operação, além do startup da empresa.<br><br> 
 
+**Premissas de marketing e custo** <br>
 As seguintes premissas de **atração** e **conversão** foram usadas para modelar o **ano 2**:<br>
 - Preço da oferta de trilha com **8 Títulos** - R$ 2.560 por aluno;
 - % da ROB destinada à captação (atração e conversão) - 15% ROB
@@ -312,9 +323,10 @@ As seguintes premissas de **custos** e **preços** foram usadas para modelar o *
 - Custo do serviço de vídeo – residual 
 - Impostos sobre serviços educacionais – 8,65%
 - Taxa de "*no show*" esperada - 10%
-- Preço sugerido para a oferta avulsa do título - R$ 323 por aluno.<br>
+- Preço sugerido para a oferta avulsa do título - R$ 323 por aluno.<br><br>
 
-As seguintes premissas de **crescimento de vendas e de custos** foram usadas para modelar os demais anos:<br>
+**Premissas de crescimento** <br>
+As seguintes premissas de **crescimento de vendas e de custos** foram usadas para modelar os anos 1, 3, 4 e 5 de operação da empresa.
 
 <p align="center">
   <img src="img/dre_vendas.png">
@@ -324,10 +336,11 @@ As seguintes premissas de **crescimento de vendas e de custos** foram usadas par
 
 <br>
 
-**Expansão** <br>
+## EXPANSÃO
 Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método. 
 
-Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em grande parte, como "despesa de capital" (CAPEX) para **desenvolvimento de software**. 
+**Desenvolvimento de software** <br>
+Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em sua maior parte, como despesa de capital" (CAPEX) para **desenvolvimento de software**. 
 
 Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** são: 
 - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
@@ -338,13 +351,35 @@ Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL
 - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
 - *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br>
 
+**Novas praças de distribuição** <br>
+O desenvolvimento do sistema educacional permite a expansão dos negócios da empresa em três novas frentes:
+- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outro países (*Green field*);
+- Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
+- Venda de projetos capacitação baseados em PBL para empresas e organizações em geral como complemento de suas atividades de educação corporativa;
+
+Estas três novas frentes têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior:
+- Investimento inicial de R$ 160.000;
+- ROL de R$ 5 milhões (EBITDA 55% RL) no ano 5;
+- *Business valuation* de R$ 4,8 milhões.<br><br>
+
+Para serem exploradas, as novas frentes necessitarão de investimentos adicionais que deverão nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
 
 ### FINANCIAMENTO DO PROJETO
-Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
+Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco**, captado ao longo de sucessivas rodadas de captação conforme estratégia de expansão.
 
+**Regra de saída** <br>
+A principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.<br><br> 
+
+**Governança** <br>
+A participação dos investidores nas decisões executivas da empresa é garantia pela adoção das melhores práticas de *governança corporativa* vigentes.  
+
+**Capital Semente** <br>
 Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de R$ 652.000 (divididas em **quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para **capital de giro** durante o *startup* da empresa na cidade de São Paulo.
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de R$ 652.000 (divididas em **quatro quotas** de R$ 163.000), que deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
+- Desenvolver sistemas de software;
+- Produzir conteúdo;
+- Copital de giro.<br><br> 
 
 A captação atual considera o *pre money valuation* de R$ 5,4 milhões. 
 
