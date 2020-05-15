@@ -347,7 +347,6 @@ A avaliação do valor da empresa para a simulação acima utilizou a média ent
 
 <br>
 
-
 ## EXPANSÃO
 Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
 
@@ -376,7 +375,7 @@ Estas três novas frentes têm potencial de **multiplicar o desempenho** simulad
 
 Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
 
-### FINANCIAMENTO DO PROJETO
+## FINANCIAMENTO DO PROJETO
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco**, captado ao longo de sucessivas rodadas de captação conforme estratégia de expansão.<br><br>
 
 **Regra de saída** <br>
