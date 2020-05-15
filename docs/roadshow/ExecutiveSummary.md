@@ -282,7 +282,7 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 A política de **canais B2C** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
 - Marketplaces digitais com foco educacional (*Udemy, ...*); 
 - Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
-- Agências intermediadoras de recrutamento e seleção profissional.
+- Agências intermediadoras de recrutamento e seleção profissional.<br><br>
 
 **Canais de comercialização B2B** <br>
 A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas.
@@ -300,7 +300,7 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 
 <br>
 
-As simulações financeiras utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime") e premissas de **crescimento de vendas e de custos** para modelar os anos posteriores de operação, além do startup da empresa.<br><br> 
+As simulações financeiras utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime") e premissas de **crescimento de vendas e de custos** para modelar os demais períodos de operação.<br><br> 
 
 **Premissas de marketing e custo** <br>
 As seguintes premissas de **atração** e **conversão** foram usadas para modelar o **ano 2**:<br>
@@ -336,13 +336,25 @@ As seguintes premissas de **crescimento de vendas e de custos** foram usadas par
 
 <br>
 
+**Business Valuation** <br>
+A avaliação do valor da empresa para a simulação acima utilizou a média entre os valores obtidos pelos métodos do *fluxo de caixa descontado* e dos *multiplicadores de receita*, conforme quadro a seguir:
+
+<p align="center">
+  <img src="img/dre_vendas.png">
+</p>
+<p align="center"><em>Business Valuation da simulação de operação da empresa.</em>
+</p>
+
+<br>
+
+
 ## EXPANSÃO
-Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método. 
+Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
 
 **Desenvolvimento de software** <br>
-Para desenho, implantação e testes do **sistema educacional** são necessários investimentos de R$ 492.000, contabilizados, em sua maior parte, como despesa de capital" (CAPEX) para **desenvolvimento de software**. 
+Para desenho, implantação e testes do **sistema educacional** são necessários investimentos que devem ser contabilizados, em sua maior parte, como despesa de capital" (CAPEX) para **desenvolvimento de software**. 
 
-Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** são: 
+Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** a ser desenvolvido são: 
 - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
 - *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
 - *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
@@ -351,32 +363,32 @@ Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL
 - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
 - *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br>
 
-**Novas praças de distribuição** <br>
-O desenvolvimento do sistema educacional permite a expansão dos negócios da empresa em três novas frentes:
-- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outro países (*Green field*);
+**Novas frentes de negócios** <br>
+O desenvolvimento do sistema educacional permite a expansão dos negócios da empresa em **três novas frentes**:
+- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Green field*);
 - Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
-- Venda de projetos capacitação baseados em PBL para empresas e organizações em geral como complemento de suas atividades de educação corporativa;
+- Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
 
 Estas três novas frentes têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior:
 - Investimento inicial de R$ 160.000;
 - ROL de R$ 5 milhões (EBITDA 55% RL) no ano 5;
-- *Business valuation* de R$ 4,8 milhões.<br><br>
+- *Business valuation* de R$ 4,8 milhões.
 
-Para serem exploradas, as novas frentes necessitarão de investimentos adicionais que deverão nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
+Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
 
 ### FINANCIAMENTO DO PROJETO
-Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco**, captado ao longo de sucessivas rodadas de captação conforme estratégia de expansão.
+Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco**, captado ao longo de sucessivas rodadas de captação conforme estratégia de expansão.<br><br>
 
 **Regra de saída** <br>
 A principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.<br><br> 
 
 **Governança** <br>
-A participação dos investidores nas decisões executivas da empresa é garantia pela adoção das melhores práticas de *governança corporativa* vigentes.  
+A participação dos investidores nas decisões executivas da empresa é garantia pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
 
 **Capital Semente** <br>
 Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de R$ 652.000 (divididas em **quatro quotas** de R$ 163.000), que deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de R$ 652.000 (divididos em **quatro quotas** de R$ 163.000), que deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
 - Copital de giro.<br><br> 
