@@ -376,18 +376,18 @@ Estas três novas frentes têm potencial de **multiplicar o desempenho** simulad
 Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
 
 ## FINANCIAMENTO DO PROJETO
-Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco**, captado ao longo de sucessivas rodadas de captação conforme estratégia de expansão.<br><br>
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** que deverá ser captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão decidida.<br><br>
 
 **Regra de saída** <br>
 A principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.<br><br> 
 
 **Governança** <br>
-A participação dos investidores nas decisões executivas da empresa é garantia pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
+A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
 
 **Capital Semente** <br>
 Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de R$ 652.000 (divididos em **quatro quotas** de R$ 163.000), que deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de R$ 652.000 (divididos em **quatro quotas** de R$ 163.000). Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
 - Copital de giro.<br><br> 
