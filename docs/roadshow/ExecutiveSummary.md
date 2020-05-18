@@ -203,7 +203,9 @@ Aguns destes segmentos são segmentos tradicionais do setor educacional, tais co
 <br>
 
 **Benefícios ao público alvo**<br>
-Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. Para avaliar se essa afirmação encontra eco entre os componentes do público alvo da escola, foi realizada no Brasil recentemente uma pesquisa com elementos de uma amostra de 120 pessoas com perfis profissionais condizentes com segmento II.  
+Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
+
+Para avaliar se essa afirmação encontra eco no público alvo da escola, foi realizada no Brasil recentemente uma pesquisa quantitativa voluntária com 120 pessoas cujos perfis profissionais são enquadrados no segmento II. Os resultados da pesquisa, foram validados com entrevistas posteriores com um extrato menor de voluntários da pesquisa.<br><br>
 
 <p align="center">
 <img src="img/pesquisa-20201.png" width="800">
@@ -214,9 +216,7 @@ Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada*
 
 <br>
 
-A pesquisa continha 9 questões e o seguinte enunciado inicial: *"Cada questão a seguir possui uma lista com ATIVIDADES EDUCACIONAIS usualmente empregadas em programas PROFISSIONALIZANTES. Em cada lista, assinale os dois itens  que você considera os mais importantes e os dois que, na sua opinião, são os menos importantes."*. <br>
-
-Duas questões em especial, buscaram avaliar a receptividade dos benefícios ao público alvo da OpenPBL.<br><br>
+A pesquisa continha 9 questões do tipo múltipla escolha sobre atividades educacionais em cursos profissionalizantes. Duas questões em especial, buscaram avaliar a receptividade dos benefícios da PBL ao público alvo da escola.<br><br>
 
 <p align="center">
 <img src="img/pesquisa-quadro-resumo.png" width="700">
@@ -227,7 +227,7 @@ Duas questões em especial, buscaram avaliar a receptividade dos benefícios ao 
 
 <br>
 
-As respostas apuradas indicam de forma clara que:
+A consolidação das respostas apuradas indicam de forma clara que:
 1. Os alunos percebem uma maior importância na avaliação da escola na **capacidade profissional de resolução de problemas** em comparação com outros objetivos de avaliação.
 2. O alunos percebem igual utilidade em quase todas as **competências comportamentais** que lhes foram apresentadas, não destacando importância entre elas.<br><br>
 
