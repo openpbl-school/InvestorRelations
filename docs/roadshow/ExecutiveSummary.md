@@ -291,8 +291,7 @@ A cidade de São Paulo foi escolhida para o lançamento da escola profissionaliz
 Segundo o INEP, o tamanho deste segmento na cidade de São Paulo é de **50.000** potenciais clientes, se considerarmos apenas os cursos superiores tradicionalmente mais demandados, como:
 - Administração, economia e afins;
 - Engenharia e afins;
-- Medicina e cursos afins;
-
+- Medicina e cursos afins;<br><br>
 
 **Startup** <br>
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
