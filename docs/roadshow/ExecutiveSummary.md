@@ -178,10 +178,10 @@ O desenvolvimento de um **sistema de software** para automatizar e coordenar a e
 Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador que permite a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.
 
 **Perfil dos alunos** <br>
-O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a profissional**) com necessidades diversas e em **fases distintas** da carreira, mas todos com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. <br><br>
+O público-alvo dos alunos da escola são os **profissionais** (e aspirantes) com necessidades diversas e em **fases distintas** da carreira, porém todos eles com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio das competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
 
 <p align="center">
-  <img src="img/sum_quadro2.png" width="600">
+  <img src="img/sum_quadro2.png" width="800">
 </p>
 <p align="center"><em>Detalhamento do público-alvo da OpenPBL em função das suas necessidades.</em>
 </p>
@@ -227,7 +227,7 @@ Em conjunto, essas competências melhoram o **desempenho do aluno na resolução
 Para avaliar se a solução da capacitação baseada em problemas encontra eco entre os componentes do público alvo da escola, uma recente pesquisa foi aplicada, no Brasil, em uma amostra de 120 pessoas com perfis do público do segmento II.  
 
 <p align="center">
-<img src="img/pesquisa-20201.png" width="500">
+<img src="img/pesquisa-20201.png" width="800">
 </p>
 <p align="center">
 <em>Detalhes da pesquisa entre alunos do segmento II</em>
@@ -257,7 +257,7 @@ Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcio
 
 Para tal, os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
-A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br>
+A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
 
 **Dinâmica dos cursos e programas OpenPBL** <br>
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
