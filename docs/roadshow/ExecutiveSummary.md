@@ -174,12 +174,6 @@ A execução de experiências PBL pelo método proposto é operacionalizada atra
 
 O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, que tem características **únicas** na atual conjuntura do mercado educacional.<br><br> 
 
-<p align="center">
-<img src="img/target-segments.png" width="500">
-<em>Segmentos alvo da PenPBL e a atuação tradicional no mercado educacional.</em>
-</p>
-
-<br>
 ## O NEGÓCIO 
 Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador que permite a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.
 
@@ -288,7 +282,12 @@ A combinação destes dois critérios forma um conjunto de **seis segmentos** de
 
 Assim, os dados destes segmentos devem ser avaliados pontualmente para o desenho da estratégia de abordagem inicial para cada diferente localidade geográfica.  
 
+<p align="center">
+<img src="img/target-segments.png" width="500">
+<em>Segmentos alvo da OpenPBL e a atuação tradicional no mercado educacional.</em>
+</p>
 
+<br>
 
 No Brasil, a base de dados do MEC/INEP é uma fonte confiável de dados estratificados do segmento de _"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"_. Segundo o INEP, o Brasil registrou em 2019, um total de aproximadamente 300.000 universitários. Dentre estes, cerca de **80.000** correspondem ao público alvo da escola por estarem cursando o terço final de seus programas de capacitação profissionalizante. 
 
