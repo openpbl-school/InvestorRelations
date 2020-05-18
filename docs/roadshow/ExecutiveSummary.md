@@ -188,6 +188,29 @@ O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a
 
 <br>
 
+**Mercado potencial** <br>
+Uma estimativa do mercado potencial da escola profissionalizante OpenPBL deve considerar as **três classes** de público alvo:
+- Alunos em fase de conclusão dos seus cursos profissionalizantes;
+- Profissionais insatisfeitos com o próprio desempenho e;
+- Empresas buscando eficiência de seus colaboradores.<br>
+
+Além de considerar também, **dois níveis** da progressão de ensino regular:
+- Nível médio profissionalizante;
+- Nível superior;
+
+A combinação destes dois critérios forma um conjunto de **seis segmentos** de atuação potencial da escola. Vários destes segmentos de mercado são segmentos tradicionais do setor educacional, tais como **educação executiva**, **educação corporativa** e outros. <br><br>
+
+<p align="center">
+<img src="img/target-segments.png" width="500">
+</p>
+<p align="center">
+<em>Segmentos alvo da OpenPBL e a atuação tradicional no mercado educacional.</em>
+</p>
+
+<br>
+
+Os dados dos seis segmentos-alvo da escola devem ser avaliados pontualmente para o desenho da estratégia de abordagem inicial **em cada diferente localidade geográfica** onde é considerada a atuação da escola.<br><br>
+
 **Posicionamento da escola** <br>
 Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
@@ -268,37 +291,16 @@ Os perfis profissionais complementares credenciam os idealizadores a liderarem a
 - Perfil executivo 1(<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
 - Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
 
-**Mercado potencial** <br>
-Uma estimativa do mercado potencial da escola profissionalizante OpenPBL deve considerar as **três classes** de público alvo:
-- Alunos em fase de conclusão dos seus cursos profissionalizantes;
-- Profissionais insatisfeitos com o próprio desempenho e;
-- Empresas buscando eficiência de seus colaboradores.<br>
 
-Além de considerar também, **dois níveis** da progressão de ensino regular:
-- Nível médio profissionalizante;
-- Nível superior;
+**Mercado inicial** <br>
+No Brasil, a base de dados do MEC/INEP é uma fonte confiável de dados estratificados do segmento _"II - alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"_. Segundo o INEP, o Brasil registrou em 2019, um total de aproximadamente um milhão de universitários. Dentre estes, cerca de **250.000** correspondem ao público alvo da escola por estarem cursando o terço final de seus programas de capacitação profissionalizante. 
 
-A combinação destes dois critérios forma um conjunto de **seis segmentos** de atuação potencial da escola, muitos destes consolidados como segmentos tradicionais do setor educacional, tais como os segmentos de **educação executiva**, **escolas técnicas** e **educação corporativa**. 
-
-Assim, os dados destes segmentos devem ser avaliados pontualmente para o desenho da estratégia de abordagem inicial para cada diferente localidade geográfica.  
-
-<p align="center">
-<img src="img/target-segments.png" width="500">
-</p>
-<p align="center">
-<em>Segmentos alvo da OpenPBL e a atuação tradicional no mercado educacional.</em>
-</p>
-
-<br>
-
-No Brasil, a base de dados do MEC/INEP é uma fonte confiável de dados estratificados do segmento de _"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"_. Segundo o INEP, o Brasil registrou em 2019, um total de aproximadamente 300.000 universitários. Dentre estes, cerca de **80.000** correspondem ao público alvo da escola por estarem cursando o terço final de seus programas de capacitação profissionalizante. 
-
-A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante pelas seguintes razões:
+A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante por apresentar:
 - Grande densidade populacional;
 - Grande variedade de cursos de graduação;
 - Muitas oções de co-workings; 
 
-Segundo o INEP, o tamanho deste segmento na cidade de São Paulo é de **50.000** potenciais clientes, se considerarmos apenas os cursos superiores tradicionalmente mais demandados, como:
+Segundo o INEP, o tamanho do segmento II na cidade de São Paulo é de **20.000** potenciais alunos, se considerarmos apenas os cursos superiores tradicionalmente mais demandados, como:
 - Administração, economia e afins;
 - Engenharia e afins;
 - Medicina e cursos afins;<br><br>
