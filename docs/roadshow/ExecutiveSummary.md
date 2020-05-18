@@ -284,6 +284,8 @@ Assim, os dados destes segmentos devem ser avaliados pontualmente para o desenho
 
 <p align="center">
 <img src="img/target-segments.png" width="500">
+</p>
+<p align="center">
 <em>Segmentos alvo da OpenPBL e a atuação tradicional no mercado educacional.</em>
 </p>
 
