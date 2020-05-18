@@ -269,6 +269,31 @@ Os perfis profissionais complementares credenciam os idealizadores a liderarem a
 - Perfil executivo 1(<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
 - Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
 
+**Mercado potencial** <br>
+Uma estimativa do mercado potencial da escola profissionalizante OpenPBL deve considerar as **três classes** de público alvo:
+- Alunos em fase de conclusão dos seus cursos profissionalizantes;
+- Profissionais insatisfeitos com o próprio desempenho e;
+- Empresas buscando eficiência de seus colaboradores.<br>
+
+Além de considerar também, **dois níveis** da progressão de ensino regular:
+- Nível médio profissionalizante;
+- Nível superior;
+
+A combinação destes dois critérios forma um conjunto de **seis segmentos** de atuação potencial da escola, muitos destes consolidados como segmentos tradicionais do setor educacional, tais como os segmentos de **educação executiva**, **escolas técnicas** e **educação corporativa**. Assim, os dados destes segmentos devem ser avaliados pontualmente para o desenho da estratégia de abordagem inicial para cada diferente localidade geográfica.  
+
+No Brasil, a base de dados do MEC/INEP é uma fonte confiável de dados estratificados do segmento de _"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"_. Segundo o INEP, o Brasil registrou em 2019, um total de aproximadamente 300.000 universitários. Dentre estes, cerca de **80.000** correspondem ao público alvo por estarem cursando o terço final de seus programas de capacitação profissionalizante. 
+
+A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante pelas seguintes razões:
+- Grande densidade populacional;
+- Grande variedade de cursos de graduação;
+- Muitas oções de co-workings; 
+
+Segundo o INEP, o tamanho deste segmento na cidade de São Paulo é de **50.000** potenciais clientes, se considerarmos apenas os cursos superiores tradicionalmente mais demandados, como:
+- Administração, economia e afins;
+- Engenharia e afins;
+- Medicina e cursos afins;
+
+
 **Startup** <br>
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
 - Abertura formal e pré-operação da empresa na **cidade São Paulo**. 
