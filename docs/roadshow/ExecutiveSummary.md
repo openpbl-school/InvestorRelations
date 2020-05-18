@@ -181,7 +181,7 @@ Como forma de por em prática a proposta para escalar a PBL, os idealizadores do
 O público-alvo dos alunos da escola são os **profissionais** (e **aspirantes a profissional**) com necessidades diversas e em **fases distintas** da carreira, mas todos com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio, cada vez mais importante, das competências comportamentais demandadas por empresas e organizações. <br><br>
 
 <p align="center">
-  <img src="img/sum_quadro2.png">
+  <img src="img/sum_quadro2.png" width="600">
 </p>
 <p align="center"><em>Detalhamento do público-alvo da OpenPBL em função das suas necessidades.</em>
 </p>
@@ -240,7 +240,7 @@ A pesquisa continha 9 questões e o seguinte enunciado inicial: *"Cada questão 
 Duas questões em especial, buscaram avaliar a receptividade dos benefícios ao público alvo da OpenPBL.<br><br>
 
 <p align="center">
-<img src="img/pesquisa-quadro-resumo.png" width="500">
+<img src="img/pesquisa-quadro-resumo.png" width="700">
 </p>
 <p align="center">
 <em>A pesquisa completa com alunos do segmento II pode ser acessada em <a href="https://docs.google.com/forms/d/1AtVWKqeECtwsmQpiBUlhZVVezaOU_rUCCRduIeS1CpA/edit#responses" target="_blank">pesquisa</a>.</em>
