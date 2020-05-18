@@ -344,7 +344,7 @@ A partir da conclusão do **sistema educacional**, prevista para o início do se
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de US $ 47.000 para a **produção de conteúdo**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de R$ 1 milhão (EBITDA 14% RL) no **quinto ano** de operação da escola.<br><br> 
 
 <p align="center">
-  <img src="img/dre.png" width="700">
+  <img src="img/dre.png" width="600">
 </p>
 <p align="center"><em>Demostração de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
 </p>
@@ -407,7 +407,7 @@ As seguintes premissas de **crescimento de vendas e de custos** foram usadas par
 A avaliação do valor da empresa para a simulação acima utilizou a média entre os valores obtidos pelos métodos do *fluxo de caixa descontado* e dos *multiplicadores de receita*, conforme quadro a seguir:
 
 <p align="center">
-  <img src="img/enterprise-valuation.png" width="500">
+  <img src="img/enterprise-valuation.png" width="300">
 </p>
 <p align="center"><em>Business Valuation da simulação de operação da empresa.</em>
 </p>
