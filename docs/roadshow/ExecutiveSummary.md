@@ -211,6 +211,47 @@ A combinação destes dois critérios forma um conjunto de **seis segmentos** de
 
 Os dados dos seis segmentos-alvo da escola devem ser avaliados pontualmente para o desenho da estratégia de abordagem inicial **em cada diferente localidade geográfica** onde é considerada a atuação da escola.<br><br>
 
+**Benefícios ao público alvo**<br>
+Conforme relatado pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
+
+Na escola profissionalizante OpenPBL, este ganho é alcançado com atividades educacionais que têm o objetivo de desenvolver no aluno **seis** grupos de **competências comportamentais**: 
+- Estruturação de **problemas mal definidos**; 
+- Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
+- Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
+- Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
+- Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
+- Visão orçamentária e atitude empreendedora.
+
+Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas** e **aumentam a eficiência** da sua atuação no dia-a-dia profissional.
+
+Para avaliar se a solução da capacitação baseada em problemas encontra eco entre os componentes do público alvo da escola, uma recente pesquisa foi aplicada, no Brasil, em uma amostra de 120 pessoas com perfis do público do segmento II.  
+
+<p align="center">
+<img src="img/pesquisa-20201.png" width="500">
+</p>
+<p align="center">
+<em>Detalhes da pesquisa entre alunos do segmento II</em>
+</p>
+
+<br>
+
+A pesquisa continha 9 questões e o seguinte enunciado inicial: *"Cada questão a seguir possui uma lista com ATIVIDADES EDUCACIONAIS usualmente empregadas em programas PROFISSIONALIZANTES. Em cada lista, assinale os dois itens  que você considera os mais importantes e os dois que, na sua opinião, são os menos importantes."*. <br>
+
+Duas questões em especial, buscaram avaliar a receptividade dos benefícios ao público alvo da OpenPBL.<br><br>
+
+<p align="center">
+<img src="img/pesquisa-quadro-resumo.png" width="500">
+</p>
+<p align="center">
+<em>A pesquisa completa com alunos do segmento II pode ser acessada em <a href="https://docs.google.com/forms/d/1AtVWKqeECtwsmQpiBUlhZVVezaOU_rUCCRduIeS1CpA/edit#responses" target="_blank">pesquisa</a>.</em>
+</p>
+
+<br>
+
+As respostas apuradas indicam de forma clara que:
+1. Os alunos percebem uma maior importância na avaliação da escola na **capacidade profissional de resolução de problemas** em comparação com outros objetivos de avaliação.
+2. O alunos percebem igual utilidade em quase todas as **competências comportamentais** que lhes foram apresentadas, não destacando importância entre elas.<br><br>
+
 **Posicionamento da escola** <br>
 Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
@@ -237,19 +278,6 @@ Na etapa de **discussão**, o aluno:
 Após esta última etapa, o aluno recebe: 
 1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
 2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
-
-**Benefícios ao público alvo**<br>
-Conforme relatado pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
-
-Na escola profissionalizante OpenPBL, este ganho é alcançado com atividades educacionais que têm o objetivo de desenvolver no aluno **seis** grupos de **competências comportamentais**: 
-- Estruturação de **problemas mal definidos**; 
-- Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
-- Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
-- Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
-- Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- Visão orçamentária e atitude empreendedora.
-
-Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas** e **aumentam a eficiência** da sua atuação no dia-a-dia profissional.<br><br>
 
 **Diferenciais** <br>
 Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
