@@ -267,7 +267,7 @@ A dinâmica dos cursos e programas OpenPBL têm o objetivo de desenvolver no alu
 - Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
 - Visão orçamentária e atitude empreendedora.
 
-Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.
+Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.<br><br>
 
 **Diferenciais** <br>
 Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
@@ -356,7 +356,7 @@ As simulações financeiras utilizaram premissas de **marketing e custos** para 
 **Premissas de marketing e custo** <br>
 As seguintes premissas de **atração** e **conversão** foram usadas para modelar o **ano 2**:<br>
 <p align="center">
-  <img src="img/customer-acquisition-assumption.png" width="700">
+  <img src="img/customer-acquisition-assumption.png" width="500">
 </p>
 <p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
 </p>
@@ -376,7 +376,7 @@ As seguintes premissas de **atração** e **conversão** foram usadas para model
 
 As seguintes premissas de **custos** e **preços** foram usadas para modelar o **ano 2**:<br>
 <p align="center">
-  <img src="img/cost-assumption.png">
+  <img src="img/costs-assumption.png">
 </p>
 <p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
 </p>
@@ -407,7 +407,7 @@ As seguintes premissas de **crescimento de vendas e de custos** foram usadas par
 A avaliação do valor da empresa para a simulação acima utilizou a média entre os valores obtidos pelos métodos do *fluxo de caixa descontado* e dos *multiplicadores de receita*, conforme quadro a seguir:
 
 <p align="center">
-  <img src="img/enterprise-valuation.png" width="700">
+  <img src="img/enterprise-valuation.png" width="500">
 </p>
 <p align="center"><em>Business Valuation da simulação de operação da empresa.</em>
 </p>
