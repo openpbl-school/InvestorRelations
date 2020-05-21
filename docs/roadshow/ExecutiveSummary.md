@@ -121,7 +121,7 @@ A ideia para aproveitar a atual janela de oportunidades é buscar uma forma **ef
 A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, seria **candidata natural** para suprir a atual demanda do mercado educacional. Contudo, a PBL ainda encontra alguns **obstáculos** para **execução em larga escala**.<br><br>
 
 <p align="center">
-  <img src="img/pbl_tutorial1_pt-br.png">
+  <img src="img/pbl_tutorial2_pt-br.png" width="500">
   <em>Pela PBL os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.</em>
 </p><br>
 
