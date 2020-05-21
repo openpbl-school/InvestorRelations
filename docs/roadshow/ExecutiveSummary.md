@@ -155,7 +155,7 @@ A proposta prevê ainda que a execução do processo completo da PBL seja operac
 2. Aprendizagem adaptativa
 3. Atomização da execução presencial
 
-Cada um destes sub-processos responde por uma parte da intervenção em uma ou mais etapas do processo de execução.<br><br>
+Cada um destes sub-processos responde por uma parte da intervenção em uma ou mais etapas do processo de execução.<br>
 
 __Produção de conteúdo automatizada__ <br>
 A produção de conteúdo para PBL envolve a _"elaboração pedagogicamente estruturada de cenários descritivos de problemas”_. Tradicionalmemte esta produção é executada por docentes "criadores de conteúdo" que entrevistam profissionais e especialistas de mercado para buscar possíveis cenários e seus problemas associados. A **produção automatizada** prevê a interação direta dos especialistas como um software _"expert system"_. Os “títulos”, cenários e as competências comportamentais alvo são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado pelo software. <br>
@@ -170,7 +170,6 @@ Na etapa de _“self-directed learning” (SDL)_ da execução da PBL, os alunos
 
 <p align="center">
 <img src="img/sum_processo2.png" width="800"><br>
-<br><br>
 <em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
 </p><br><br>
 
@@ -180,7 +179,7 @@ As sessões de discussão são reuniões agendadas conforme demanda em _“organ
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
 <em>Sessão presencial atomizada e assistida por software.</em>
-</p><br>
+</p><br><br>
 
 O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, que tem características **únicas** na atual conjuntura do mercado educacional.<br><br> 
 
