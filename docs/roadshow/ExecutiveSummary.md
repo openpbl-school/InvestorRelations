@@ -107,7 +107,7 @@ Como forma de acelerar e tornar mais acertivo este processo de _"aprendizagem pe
 <br>
 
 **Desequilíbrio**<br>
-Se por um lado, empresas (e organizações) vêm, cada vez mais, demandando profissionais com competências complexas, tais como "*pensamento crítico*", "*julgamento e tomada de decisão*" e "*inteligência emocional*", por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que a oferta de cursos e programas educacionais específicos para esse fim **não é suficiente** para atender os requisitos de preço e disponibilidade.
+Se por um lado, empresas (e organizações) vêm, cada vez mais, demandando profissionais com competências, tais como "*pensamento crítico*", "*julgamento e tomada de decisão*" e "*inteligência emocional*", por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade**.
 
 Grande parte deste **desequilíbrio** entre oferta e demanda ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de estimular a universalização deste tipo de programa educacional.
 
@@ -115,14 +115,21 @@ Diante deste cenário, experientes executivos do setor educacional enxergaram ne
 
 
 ### PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO 
-A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, candidata natural para suprir a atual demanda do mercado educacional. Contudo, a PBL encontra alguns **obstáculos** para **execução em larga escala**. Assim, a ideia para aproveitar a atual janela de oportunidades é buscar uma forma eficaz de escalar a execução da PBL.<br><br>
+A ideia para aproveitar a atual janela de oportunidades é buscar uma forma **eficaz** de escalar a execução da PBL. <br><br>
 
 **Escalando a PBL** <br>
+A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, seria **candidata natural** para suprir a atual demanda do mercado educacional. Contudo, a PBL ainda encontra alguns **obstáculos** para **execução em larga escala**.<br><br>
+
+<p align="center">
+  <img src="img/pbl_tutorial1_pt-br.png">
+  <em>Pela PBL os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.</em>
+</p><br>
+
 Os **obstáculos** para **execução em larga escala** das atividades da PBL são: 
 - Seu processo de execução requer que "docentes" e "infraestrutura física" (dois dos mais relevantes **recursos educacionais** em termos de custo) sejam **desenvolvidos sob medida** para cada instituição de ensino.
 - O paradigma da **execução 100% digital** das **Edtechs** ainda não foi capaz de resolver o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL.
 
-Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto desenvolveram um método **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL.<br><br>
+Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto desenvolveram um método **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL. Diferentemente do paradigma de execução 100% digital para escalar, indiscriminadamente, todas as atividades educacionais, a **essência inovadora** do método proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png">
@@ -130,25 +137,25 @@ Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto de
 </p><br>
 
 **Integração estratégica do método** <br>
-Diferentemente do paradigma de execução 100% digital para escalar, indiscriminadamente, todas as atividades educacionais, a **essência inovadora** do método proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, mas de forma a manter a **integração** da ações propostas no método. 
-
-Sob esse aspecto, os pilares do novo método, (1) "*utilização de ativos de terceiros*" e (2)"*uso intensivo de inteligência artificial*" se complementam:
+Além em escalar cada etapa do processo de execução da PBL, é preciso garantir a **integração** das ações propostas no método. Sob esse aspecto, os pilares do novo método, (1) "*utilização de ativos de terceiros*" e (2)"*uso intensivo de inteligência artificial*" se complementam:
 
 1. Quanto à utilização de **ativos de terceiros**: 
-- O modelo garante o nível de disponibilidade de dois importantes recursos educacionais (espaço físico e docentes), mesmo com o aumento das atividades da empresa;
-- Espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permitem que o custo do recurso seja tratado como direto e não mais fixo;
-- Profissionais experientes viabilizam a produção de conteúdo funcional e setorial ao mesmo tempo (“hiper funcionalização”).<br>
+- O modelo garante o nível de disponibilidade de dois importantes recursos educacionais (**espaço físico** e **docentes**), mesmo com o aumento das atividades da empresa;
+- A adoção de espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permite que a gestão deste recurso seja tratado como um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
+- A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que tenha, simultaneamente, carater **funcional** e **setorial** (_“hiper funcionalização”_ de trilhas).<br>
 
 2. Quanto ao uso intensivo de **inteligência artificial**: 
-- O modelo viabiliza a “extração” (e a codificação) da experiência de profissionais especialistas;
+- O modelo viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
 - O modelo automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
-- A atomização da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, NLP e algoritmos de clusterização.<br><br>
+- A "**atomização**" da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por _machine learning_.<br><br>
 
 **Sistema de Ensino** <br>
-A execução de experiências PBL pelo método proposto é operacionalizada através de **três processos chave**, onde cada um deles é responsável pela intervenção em uma etapa do processo:
-- Produção de conteúdo automatizada
-- Aprendizagem adaptativa
-- Atomização da execução presencial<br><br>
+A proposta prevê ainda que a execução do processo completo da PBL seja operacionalizada em **três sub-processos chave**:
+1. Produção de conteúdo automatizada
+2. Aprendizagem adaptativa
+3. Atomização da execução presencial
+
+Cada um destes sub-processos é responsável pela intervenção em uma etapa do processo:<br><br>
 
 <p align="center">
 <b>PRODUÇÃO DE CONTEÚDO AUTOMATIZADA.</b>
