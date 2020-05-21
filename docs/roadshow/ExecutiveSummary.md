@@ -322,9 +322,9 @@ Os perfis profissionais complementares credenciam os idealizadores a liderarem a
 - Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
 
 **Greenfield** <br>
-No Brasil, a base de dados do MEC/INEP é considerada uma fonte confiável de dados estratificados do segmento II, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2019, um total de aproximadamente um milhão de alunos universitários e, dentre estes, cerca de **250.000** pertencem ao segmento II do público-alvo da escola por estarem cursando o terço final de seus programas de capacitação profissionalizante. 
+No Brasil, a base de dados do MEC/INEP é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente 8.450.000 de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.2560.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
 
-A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante por apresentar **grande densidade populacional**, **grande variedade de cursos de graduação**, além de **muitas oções de co-workings**. Segundo o INEP, o tamanho do segmento II na cidade de São Paulo é de **20.000** potenciais alunos, se considerarmos apenas os cursos superiores tradicionalmente mais demandados, como:
+A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante por apresentar **grande densidade populacional**, **grande variedade de cursos de graduação**, além de **muitas oções de co-workings**. Segundo o INEP, o tamanho do segmento II na cidade de São Paulo é de **130.000** potenciais alunos, se considerarmos apenas os cursos superiores tradicionalmente mais demandados, como:
 - Administração, economia e afins;
 - Engenharia e afins;
 - Medicina e cursos afins;<br><br>
@@ -333,7 +333,6 @@ A cidade de São Paulo foi escolhida para o lançamento da escola profissionaliz
 <img src="img/2018-sao-paulo-market.png" width="600"><br>
 <em>Alunos concluintes em 2018 na cidade de São Paulo.</em>
 </p><br><br>
-
 
 **Startup** <br>
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
