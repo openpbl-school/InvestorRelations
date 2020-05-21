@@ -77,7 +77,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
 
 ## O PROBLEMA E A OPORTUNIDADE
-Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que diferencia os profissionais num mundo cada vez mais **globalizado**, **dinâmico** e **automatizado** não é o domínio de competências técnicas, mas a utilização no dia-a-dia de algumas importantes **competências comportamentais**, indispensáveis para que, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é o domínio de competências técnicas, mas a utilização no dia-a-dia de algumas importantes **competências comportamentais**. Recursos indispensáveis para que estes profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -85,7 +85,7 @@ Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as de
     <th><img src="img/sum_sofia1.png"></th>
   </tr>
 </table>
-<p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw">Vídeo</a> da entrevista com a consultora de RH, Sofia Esteves, sobre competências comportamentais.</em>
+<p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo</a> da entrevista com a consultora de RH, Sofia Esteves, sobre competências comportamentais.</em>
 </p>
 
 <br> 
