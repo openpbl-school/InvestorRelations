@@ -329,6 +329,12 @@ A cidade de São Paulo foi escolhida para o lançamento da escola profissionaliz
 - Engenharia e afins;
 - Medicina e cursos afins;<br><br>
 
+<p align="center">
+<img src="img/2018-sao-paulo-market.png" width="600"><br>
+<em>Alunos concluintes em 2018 na cidade de São Paulo.</em>
+</p><br><br>
+
+
 **Startup** <br>
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
 - Abertura formal e pré-operação da empresa na **cidade São Paulo**. 
