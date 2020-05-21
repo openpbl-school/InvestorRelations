@@ -132,7 +132,7 @@ Os **obstáculos** para **execução em larga escala** das atividades da PBL sã
 Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto desenvolveram um método **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL. Diferentemente do paradigma de execução 100% digital para escalar, indiscriminadamente, todas as atividades educacionais, a **essência inovadora** do método proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
 
 <p align="center">
-  <img src="img/sum_quadro3.png">
+  <img src="img/sum_quadro3.png" width="800">
   <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
 </p><br>
 
@@ -158,27 +158,27 @@ A proposta prevê ainda que a execução do processo completo da PBL seja operac
 Cada um destes sub-processos responde por uma parte da intervenção em uma ou mais etapas do processo de execução.<br><br>
 
 **Produção de conteúdo automatizada** <br>
-A produção de conteúdo para PBL envolve a _"elaboração pedagogicamente estruturada de cenários descritivos de problemas”_. Tradicionalmemte esta produção é executada por docentes "criadores de conteúdo" que entrevistam profissionais e especialistas de mercado para buscar possíveis cenários e seus problemas associados. A **produção automatizada** prevê a interação direta dos especialistas como um software _"expert system"_. Os “títulos”, cenários e as competências comportamentais alvo são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado pelo software. <br><br>
+A produção de conteúdo para PBL envolve a _"elaboração pedagogicamente estruturada de cenários descritivos de problemas”_. Tradicionalmemte esta produção é executada por docentes "criadores de conteúdo" que entrevistam profissionais e especialistas de mercado para buscar possíveis cenários e seus problemas associados. A **produção automatizada** prevê a interação direta dos especialistas como um software _"expert system"_. Os “títulos”, cenários e as competências comportamentais alvo são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado pelo software. <br>
 
 <p align="center">
-<img src="img/sum_processo1.png">
+<img src="img/sum_processo1.png" width="800">
 <em>Sistema para extração de conhecimento dos profissionais especialistas.</em>
 </p><br><br>
 
 **Aprendizagem adaptativa** <br> 
-Na etapa de _“self-directed learning” (SDL)_ da execução da PBL, os alunos _"identificam e buscam eliminar os gaps de conhecimento para resolver o problema em questão"_. O sub-processo de **aprendizagem adaptativa** testa os conhecimento dos alunos para acelerar a fase de SDL. O processo utiliza o conceito de **nano certificação** (proprietária ou de terceiros) para habilitação dos alunos à etapa de discussão e dois software combinados, um de _assessment_ e o outro, um _ recommender system_. 
+Na etapa de _“self-directed learning” (SDL)_ da execução da PBL, os alunos _"identificam e buscam eliminar os gaps de conhecimento para resolver o problema em questão"_. O sub-processo de **aprendizagem adaptativa** testa os conhecimento dos alunos para acelerar a fase de SDL. O processo utiliza o conceito de **nano certificação** (proprietária ou de terceiros) para habilitação dos alunos à etapa de discussão e dois software combinados, um de _assessment_ e o outro, um _ recommender system_.  <br>
 
 <p align="center">
-<img src="img/sum_processo2.png">
+<img src="img/sum_processo2.png" width="800">
 <br><br>
 <em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
 </p><br><br>
 
 **Atomização da execução presencial** <br>
-As sessões de discussão são reuniões agendadas conforme demanda em _“organizações gestoras de espaços compartilhados de trabalho ou espaços de coworking"_. O sub-processo prevê que as dinâmicas PBL, orientadas por tutores por video conferência, sejam assistidas por software e que a avaliação do desempenho dos alunos seja siga critérios objetivos, executada pelo software capaz de editar automaticamente o vídeo da gravação da sessão e avaliar o desempenho de cada aluno individualmente.
+As sessões de discussão são reuniões agendadas conforme demanda em _“organizações gestoras de espaços compartilhados de trabalho ou espaços de coworking"_. O sub-processo prevê que as dinâmicas PBL, orientadas por tutores por video conferência, sejam assistidas por software e que a avaliação do desempenho dos alunos seja siga critérios objetivos, executada pelo software capaz de editar automaticamente o vídeo da gravação da sessão e avaliar o desempenho de cada aluno individualmente. <br>
 
 <p align="center">
-<img src="img/sum_processo3.png">
+<img src="img/sum_processo3.png" width="800">
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br>
 
