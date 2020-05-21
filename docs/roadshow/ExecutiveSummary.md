@@ -77,7 +77,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
 
 ## O PROBLEMA E A OPORTUNIDADE
-Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é o domínio de competências técnicas, mas a utilização no dia-a-dia de algumas importantes **competências comportamentais**. Recursos indispensáveis para que estes profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é o domínio de competências técnicas, mas a utilização no dia-a-dia de algumas importantes **competências comportamentais**. Ter o domínio destas competências é fundamental para que estes profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -85,15 +85,15 @@ Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as de
     <th><img src="img/sum_sofia1.png"></th>
   </tr>
 </table>
-<p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo</a> da entrevista com a consultora de RH, Sofia Esteves, sobre competências comportamentais.</em>
+<p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo</a> da entrevista com a consultora de RH Sofia Esteves sobre competências comportamentais.</em>
 </p>
 
 <br> 
 
 **Desenvolvendo competências** <br>
-O emprego **contínuo** dos conhecimentos e habilidades **técnicas** de um profissional nas **situações reais** do dia-a-dia ao longo da carreira promove naturalmente o desenvolvimento destas importantes competências comportamentais, mas isso demanda tempo. Como forma de acelerar este processo de "aprendizagem pela experiência profissional", alguns **programas educacionais** simulam estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. 
+O desenvolvimento das competências comportamentais profissionais ocorre naturalmente ao longo da carreira com o emprego **contínuo** dos conhecimentos e habilidades **técnicas** nas **situações reais** do dia-a-dia. Entretanto, esse processo experimental raramente é orientado, de forma que o desenvolvimento das competências pode levar muito tempo para ocorrer ou, até mesmo, não ocorrer. 
 
-É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (**PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Wikipedia</a>).<br><br>
+Como forma de acelerar e tornar mais acertivo este processo de _"aprendizagem pela experiência profissional"_, alguns **programas educacionais** se propõem a simular estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
 
 <table style="width:100%">
   <tr>
