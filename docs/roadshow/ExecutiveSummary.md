@@ -110,6 +110,11 @@ Para **acelerar** e tornar mais **assertivo** este processo de aprendizagem, alg
 <p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
 </p>
 
+<p align="center">
+  <img src="img/benchmark-pbl.png" width="800"><br>
+  <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
+</p><br>
+
 <br>
 
 **Desequilíbrio**<br>
