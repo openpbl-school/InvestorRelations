@@ -101,19 +101,10 @@ Na maioria das vezes, este desenvolvimento de competências comportamentais é *
 
 Para **acelerar** e tornar mais **assertivo** este processo de aprendizagem, alguns **programas educacionais** se propõem a simular estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
 
-<table style="width:100%">
-  <tr>
-    <th><img src="img/sum_harvard1.png"></th>
-    <th><img src="img/sum_minerva1.png"></th> 
-  </tr>
-</table>
-<p align="center"><em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
-</p>
-
 <p align="center">
-  <img src="img/benchmark-pbl.png" width="800"><br>
-  <em>Intervenção em cada uma das etapas do processo de execução da PBL.</em>
-</p><br>
+  <img src="img/benchmark-pbl.png" width="400"><br>
+  <em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+</p>
 
 <br>
 
