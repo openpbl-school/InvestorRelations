@@ -74,7 +74,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 # OPEN-PBL - SUMÁRIO EXECUTIVO
-Resumo da execução do plano de negócios proposto no *road show* para captação de recursos 2020.1. <br><br>
+Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
 ## O PROBLEMA E A OPORTUNIDADE
 Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é o domínio de competências técnicas, mas a utilização no dia-a-dia de algumas importantes **competências comportamentais**. Ter o domínio destas competências é fundamental para que estes profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
