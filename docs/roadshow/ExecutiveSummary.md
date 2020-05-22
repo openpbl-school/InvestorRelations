@@ -113,7 +113,7 @@ Se por um lado, empresas (e organizações) vêm, cada vez mais, demandando prof
 
 Grande parte deste **desequilíbrio** entre oferta e demanda ocorre porque as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos utilizam modelos de negócios que não geram **economias de escala** suficientes para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais foi capaz de estimular a universalização deste tipo de programa educacional.
 
-Diante deste cenário, experientes executivos do setor educacional enxergaram neste atual desequilibrio do mercado educacional uma excelente **janela de oportunidades** a ser explorada.<br><br>
+Diante deste cenário, experientes executivos do setor educacional enxergaram neste atual desequilibrio do mercado educacional uma excelente **janela de oportunidades** a ser explorada.<br><br><br>
 
 
 ### PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO 
@@ -159,7 +159,7 @@ A proposta prevê ainda que a execução do processo completo da PBL seja operac
 
 Cada um destes sub-processos responde por uma parte da intervenção em uma ou mais etapas do processo de execução.<br>
 
-__Produção de conteúdo automatizada__ <br>
+**Produção de conteúdo automatizada** <br>
 A produção de conteúdo para PBL envolve a _"elaboração pedagogicamente estruturada de cenários descritivos de problemas”_. Tradicionalmemte esta produção é executada por docentes "criadores de conteúdo" que entrevistam profissionais e especialistas de mercado para buscar possíveis cenários e seus problemas associados. A **produção automatizada** prevê a interação direta dos especialistas como um software _"expert system"_. Os “títulos”, cenários e as competências comportamentais alvo são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado pelo software. <br>
 
 <p align="center">
@@ -167,23 +167,23 @@ A produção de conteúdo para PBL envolve a _"elaboração pedagogicamente estr
 <em>Sistema para extração de conhecimento dos profissionais especialistas.</em>
 </p><br><br>
 
-__Aprendizagem adaptativa__ <br> 
+**Aprendizagem adaptativa** <br> 
 Na etapa de _“self-directed learning” (SDL)_ da execução da PBL, os alunos _"identificam e buscam eliminar os gaps de conhecimento para resolver o problema em questão"_. O sub-processo de **aprendizagem adaptativa** testa os conhecimento dos alunos para acelerar a fase de SDL. O processo utiliza o conceito de **nano certificação** (proprietária ou de terceiros) para habilitação dos alunos à etapa de discussão e dois software combinados, um de _assessment_ e o outro, um _ recommender system_.  <br>
 
 <p align="center">
 <img src="img/sum_processo2.png" width="800"><br>
 <em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
-</p><br><br>
+</p><br>
 
-__Atomização da execução presencial__ <br>
+**Atomização da execução presencial** <br>
 As sessões de discussão são reuniões agendadas conforme demanda em _“organizações gestoras de espaços compartilhados de trabalho ou espaços de coworking"_. O sub-processo prevê que as dinâmicas PBL, orientadas por tutores por video conferência, sejam assistidas por software e que a avaliação do desempenho dos alunos seja siga critérios objetivos, executada pelo software capaz de editar automaticamente o vídeo da gravação da sessão e avaliar o desempenho de cada aluno individualmente. <br>
 
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
 <em>Sessão presencial atomizada e assistida por software.</em>
-</p><br><br>
+</p><br>
 
-O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, que tem características **únicas** na atual conjuntura do mercado educacional.<br><br> 
+O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, que tem características **únicas** na atual conjuntura do mercado educacional.<br><br><br>
 
 ## O NEGÓCIO 
 Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador responsável por viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.<br><br>
@@ -205,7 +205,7 @@ A estimativa da dimensão do **mercado potencial da escola** deve considerar a p
 Aguns destes segmentos são segmentos tradicionais do setor educacional, tais como a **educação executiva** e a **educação corporativa** e devem ser avaliados pontualmente por ocasião da definição da estratégia de abordagem inicial **em cada diferente localidade geográfica** onde é considerada a atuação da escola. <br><br>
 
 <p align="center">
-<img src="img/target-segments.png" width="500">
+<img src="img/target-segments.png" width="400">
 </p>
 <p align="center">
 <em>Segmentos alvo da OpenPBL comparados com a segmentação tradicional do mercado educacional.</em>
@@ -304,10 +304,8 @@ Os clientes-alvo da OpenPBL nestes segmentos de educação corporativa são **gr
 - **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
 - **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
 - **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
-- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br> 
+- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br><br>
 
-**Core business** <br>
-A oferta de 
 
 ## EXECUÇÃO DO PLANO DE NEGÓCIOS
 
@@ -321,7 +319,9 @@ Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios 
 
 Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
 - Perfil executivo 1(<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
-- Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
+- Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). 
+
+<br><br>
 
 **Greenfield** <br>
 No Brasil, a base de dados do MEC/INEP é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente 8.450.000 de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.2560.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
@@ -334,7 +334,7 @@ A cidade de São Paulo foi escolhida para o lançamento da escola profissionaliz
 <p align="center">
 <img src="img/2018-sao-paulo-market.png" width="600"><br>
 <em>Alunos concluintes em 2018 na cidade de São Paulo.</em>
-</p><br><br>
+</p><br>
 
 **Startup** <br>
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
@@ -363,7 +363,7 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
   <img src="img/dre.png" width="600">
 </p>
 <p align="center"><em>Demostração de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
-</p>
+</p> 
 
 <br>
 
@@ -379,17 +379,6 @@ As seguintes premissas de **atração** e **conversão** foram usadas para model
 
 <br>
 
-- Preço da oferta de trilha com **8 Títulos** - R$ 2.560 por aluno;
-- % da ROB destinada à captação (atração e conversão) - 15% ROB
-- % da captação alocado para atração - 70% 
-- Leads SAL(*sales accepted leads*) gerados no ano - 3.466 
-- Taxa de conversão (VENDAS/SAL) - 10,0% 
-- Produtos vendidos no ano – 347 trilhas 
-- Custo de atração (por SAL) - R$ 27,15
-- Custo de conversão (por venda) - R$ 116,37
-- Nr de alunos capacitados ao longo do ano 2 – 347 (sem recorrência); 
-- Sessões presenciais executadas no ano 2 – 35 sessões (2,9 por mês).<br> 
-
 As seguintes premissas de **custos** e **preços** foram usadas para modelar o **ano 2**:<br>
 <p align="center">
   <img src="img/costs-assumption.png">
@@ -398,15 +387,6 @@ As seguintes premissas de **custos** e **preços** foram usadas para modelar o *
 </p>
 
 <br>
-
-- Custo direto total para execução de um título - R$ 701
-- Custo com conteúdo (amortização) - R$ 60 
-- Custo com locação da sala - R$ 458 (3 horas x R$ 152)
-- Custo com o tutor - R$ 183 (4 horas x R$ 45)
-- Custo do serviço de vídeo – residual 
-- Impostos sobre serviços educacionais – 8,65%
-- Taxa de "*no show*" esperada - 10%
-- Preço sugerido para a oferta avulsa do título - R$ 323 por aluno.<br><br>
 
 **Premissas de crescimento** <br>
 As seguintes premissas de **crescimento de vendas e de custos** foram usadas para modelar os anos 1, 3, 4 e 5 de operação da empresa.
@@ -428,7 +408,7 @@ A avaliação do valor da empresa para a simulação acima utilizou a média ent
 <p align="center"><em>Business Valuation da simulação de operação da empresa.</em>
 </p>
 
-<br>
+<br><br>
 
 ## EXPANSÃO
 Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
@@ -456,7 +436,7 @@ Estas três novas frentes têm potencial de **multiplicar o desempenho** simulad
 - ROL de R$ 5 milhões (EBITDA 55% RL) no ano 5;
 - *Business valuation* de R$ 4,8 milhões.
 
-Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
+Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br><br>
 
 ## FINANCIAMENTO DO PROJETO
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** que deverá ser captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão decidida.<br><br>
