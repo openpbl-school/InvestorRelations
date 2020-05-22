@@ -77,7 +77,9 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
 ## O PROBLEMA E A OPORTUNIDADE
-Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é o domínio de competências técnicas, mas a utilização no dia-a-dia de algumas importantes **competências comportamentais**. Ter o domínio destas competências é fundamental para que estes profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
+
+Para os gestores de RH consultados na elaboração do relatório, características como "tomada de decisão em ambientes de incerteza", "atuação sob pressão da opinão pública", "negociação intra-equipe" e "visão orçamentária", entre outras, são consideradas fundamentais para que profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -90,10 +92,16 @@ Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as de
 
 <br> 
 
-**Desenvolvendo competências** <br>
-O desenvolvimento das competências comportamentais profissionais ocorre naturalmente ao longo da carreira com o emprego **contínuo** dos conhecimentos e habilidades **técnicas** nas **situações reais** do dia-a-dia. Entretanto, esse processo experimental raramente é orientado, de forma que o desenvolvimento das competências pode levar muito tempo para ocorrer ou, até mesmo, não ocorrer. 
+**Desenvolvendo competências comportamentais** <br>
+Ao contrário das **habilidades** comportamentais, que dependendem de características biológicas, cognitivas e socioemocionais desenvolvidas, em geral, antes da vida adulta, o desenvolvimento das **competências** comportamentais ocorre **naturalmente** ao longo da carreira de um profissional. 
 
-Como forma de acelerar e tornar mais acertivo este processo de _"aprendizagem pela experiência profissional"_, alguns **programas educacionais** se propõem a simular estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
+À medida que emprega seus conhecimentos e habilidades **técnicas** nas situações do dia-a-dia, um profissional vai testando e descobrindo as ferramentas e estratégias mais adequadas às suas habilidades comportamentais para obter os resultados esperados, mesmo diante de situações sujeitas à incertezas, assimetrias de informação, restrições de recursos e pressões diversas. Como consequência, cada profissional desenvolve um conjunto próprio de técnicas e conhecimentos para atingir os resultados esperados.
+
+Em geral, o desenvolvimento de competências comportamentais é auto patrocinado de forma inconsciente pelos profissionais e, dependendo dos estímulos à que são submetidos, este processo pode levar muito tempo para ocorrer ou, até mesmo, não ocorrer. 
+
+Formou-se o consenso de que o papel da empresa na avaliação da influência das **habilidades** comportamentais de um indivíduo no seu desempenho profissional se limitar a medir e classifica-las, utilizando os diversos modelos de avaliação comportamental disponíveis (DICC, MBTI, Big Five). 
+
+Para acelerar e tornar mais acertivo este processo de aprendizagem, alguns **programas educacionais** se propõem a simular estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
 
 <table style="width:100%">
   <tr>
