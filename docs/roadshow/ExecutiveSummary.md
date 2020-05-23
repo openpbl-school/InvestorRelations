@@ -118,7 +118,9 @@ Grande parte do desequilíbrio entre a oferta e a demanda de cursos e programas 
 Diante deste cenário, experientes executivos do setor educacional enxergaram neste atual **desequilibrio do mercado educacional** uma excelente **janela de oportunidades** a ser explorada.<br><br><br>
 
 
-### PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
+
+
+## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
 A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, seria **candidata natural** para suprir a atual demanda do mercado educacional. Contudo, a PBL ainda encontra alguns **obstáculos** para **execução em larga escala**. A ideia para aproveitar a atual janela de oportunidades é buscar formas de contornar esses obstáculos para escalar o processo de execução da PBL. <br><br>
 
@@ -151,9 +153,9 @@ A **complementação estratégica** das ações propostas no modelo, podem ser a
  - A "**atomização**" da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
 
 **Método de Ensino baseado na PBL** <br>
-Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **três sub-processos chave**:
+Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **três sub-processos** chave:
 1. Extração automatizada de cenários reais;
-2. Eliminação individualizada das deficiências dos alunos;
+2. Eliminação individualizada das deficiências técnicas;
 3. Atomização e automatização das discussões;
 
 Cada um destes sub-processos responde **de forma integrada** pela intervenção em uma ou mais etapas do processo completo de execução da PBL.<br><br>
@@ -168,7 +170,7 @@ No entanto, a **produção automatizada** prevê a interação direta dos especi
 <em>Sistema para extração de conhecimento dos profissionais especialistas.</em>
 </p><br><br>
 
-**Eliminação individualizada das deficiências de alunos** <br> 
+**Eliminação individualizada das deficiências técnicas** <br> 
 Na etapa de *“self-directed learning” (SDL)* da execução da PBL, os alunos *"buscam eliminar os gaps de conhecimento para resolver o problema a foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
 
 O sub-processo de **aprendizagem adaptativa** acelera esta fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
@@ -182,7 +184,7 @@ O sub-processo de **aprendizagem adaptativa** acelera esta fase da SDL. Um *"ass
 Tradicionalmente, as sessões de discussão, características do processo de execussão da PBL, são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos sem comprometer a qualidade das discussões, menor a apropriação do custo da infra-estrutura física. De fato, para a manutenção da qualidade das discussões, <br><br>
 
 <p align="center">
-<img src="img/harvard-classroom.png" width="800"><br>
+<img src="img/harvard-classroom.png" width="600"><br>
 <em>Investimento em infraestrutura para manter a qualidade das discussões em grupos grandes de alunos.</em>
 </p><br>
 
@@ -193,21 +195,18 @@ Na atomização da execução presencial as sessões de discussão são agendada
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br>
 
-O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, que tem características **únicas** na atual conjuntura do mercado educacional.
+**Sistema de Ensino baseado na PBL** <br>
+O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução dos três sub-processos, bem como para garantir **integridade**, **eficácia** e **escalabilidade** da execução conjunta deve considerar os seguintes componentes:
+ - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
+ - *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
+ - *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
+ - *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método.
+ - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
+ - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
 
-Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** a ser desenvolvido são: 
-
-- *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
-- *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
-
-- *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
-- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método.
-
-- *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
-- *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
+Um **Sistema de Ensino** com estes componentes tem características **únicas** na atual conjuntura do mercado educacional, uma vez que será capaz de suportar atividades de ensino e capacitação baseadas em PBL de escolas e empresas.<br><br><br>
 
 
-<br><br><br>
 
 ## O NEGÓCIO 
 Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador responsável por viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.<br><br>
