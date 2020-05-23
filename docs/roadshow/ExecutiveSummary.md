@@ -90,6 +90,14 @@ Para os gestores de RH consultados para a elaboração do relatório, caracterí
 <p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo</a> da entrevista com a consultora de RH Sofia Esteves sobre competências comportamentais.</em>
 </p>
 
+<p align="center">
+  <img src="img/behavior-skills.png" width="500"><br>
+  <em><em><a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
+</p>
+
+<br>
+
+
 <br> 
 
 **Desenvolvendo competências comportamentais** <br>
