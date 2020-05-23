@@ -113,13 +113,14 @@ Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas 
 **Desequilíbrio de mercado**<br>
 Se por um lado (conforme sugere o Fórum Econômico Mundial), empresas devem demandar cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
 
+Grande parte do desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais ocorre porque as escolas que atuam tradicionalmente neste segmento não geram **economias de escala suficientes** para **popularizarem seus cursos**. Nem mesmo a recente introdução de tecnologias digitais nas práticas educacionais foi capaz de estimular a universalização deste tipo de programa.  
+
 Diante deste cenário, experientes executivos do setor educacional enxergaram neste atual **desequilibrio do mercado educacional** uma excelente **janela de oportunidades** a ser explorada.<br><br><br>
 
 
-### PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO 
-Grande parte do desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais ocorre porque as escolas que tradicionalmente atuam neste segmento não geram **economias de escala suficientes** para popularizar seus cursos. Nem mesmo a recente introdução de tecnologias digitais na educação foi capaz de estimular a universalização deste tipo de programa. 
+### PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
-A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, seria **candidata natural** para suprir a atual demanda do mercado educacional. Contudo, a PBL ainda encontra alguns **obstáculos** para **execução em larga escala**. A ideia para aproveitar a atual janela de oportunidades é buscar uma forma **eficaz** de escalar a execução da PBL. <br><br>
+A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, seria **candidata natural** para suprir a atual demanda do mercado educacional. Contudo, a PBL ainda encontra alguns **obstáculos** para **execução em larga escala**. A ideia para aproveitar a atual janela de oportunidades é buscar formas de contornar esses obstáculos para escalar o processo de execução da PBL. <br><br>
 
 <p align="center">
   <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
@@ -138,25 +139,61 @@ Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto de
   <em>Intervenção em cada uma das etapas clássicas do processo de execução da PBL.</em>
 </p><br>
 
-A integração e complementação estratégica das ações propostas no modelo, podem ser avaliadas:
+A **complementação estratégica** das ações propostas no modelo, podem ser avaliadas:
 1. Quanto à utilização de **ativos de terceiros**: 
-- O modelo garante o nível de disponibilidade de dois importantes recursos educacionais (**espaço físico** e **docentes**), mesmo com o aumento das atividades da empresa;
-- A adoção de espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permite que a gestão deste recurso seja tratado como um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
-- A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que tenha, simultaneamente, carater **funcional** e **setorial** (*“hiper funcionalização”* de trilhas).<br>
+ - O modelo garante o nível de disponibilidade de dois importantes recursos educacionais (**espaço físico** e **docentes**), mesmo com o aumento das atividades da empresa;
+ - A adoção de espaços físicos, cuja oferta já consideram as facilities (atendimento, limpeza, segurança, agendamento, etc), permite que a gestão deste recurso seja tratado como um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
+ - A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que tenha, simultaneamente, carater **funcional** e **setorial** (*“hiper funcionalização”* de trilhas).<br>
 
 2. Quanto ao uso intensivo de **inteligência artificial**: 
-- O modelo viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
-- O modelo automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
-- A "**atomização**" da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
+ - O modelo viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
+ - O modelo automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
+ - A "**atomização**" da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
 
 **Método de Ensino baseado na PBL** <br>
-Baseado no modelo proposto, os idealizadores desenvolveram um **método** para executar o processso completo da PBL com **três sub-processos chave**:
-1. Produção de conteúdo automatizada
-2. Aprendizagem adaptativa 
-3. Atomização e automatização da execução presencial
+Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **três sub-processos chave**:
+1. Extração automatizada de cenários reais;
+2. Eliminação individualizada das deficiências dos alunos;
+3. Atomização e automatização das discussões;
 
-Cada um destes sub-processos responde **de forma integrada** por uma parte da intervenção em uma ou mais etapas do processo completo de execução da PBL.<br><br>
+Cada um destes sub-processos responde **de forma integrada** pela intervenção em uma ou mais etapas do processo completo de execução da PBL.<br><br>
 
+**Extração automatizada de cenários reais** <br>
+A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" que entrevistam profissionais e especialistas de mercado para explicitar e classificar cenários do dia-a-dia profissional e seus possíveis problemas associados. 
+
+No entanto, a **produção automatizada** prevê a interação direta dos especialistas como um software do tipo *"expert system"*. Os “títulos”, cenários e as competências comportamentais alvo do processo de aprendizagem são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado por software baseado em *"machine learning"*. <br><br>
+
+<p align="center">
+<img src="img/sum_processo1.png" width="800"><br>
+<em>Sistema para extração de conhecimento dos profissionais especialistas.</em>
+</p><br><br>
+
+**Eliminação individualizada das deficiências de alunos** <br> 
+Na etapa de *“self-directed learning” (SDL)* da execução da PBL, os alunos *"buscam eliminar os gaps de conhecimento para resolver o problema a foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
+
+O sub-processo de **aprendizagem adaptativa** acelera esta fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
+
+<p align="center">
+<img src="img/sum_processo2.png" width="800"><br>
+<em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
+</p><br>
+
+**Atomização e automatização das discussões** <br>
+Tradicionalmente, as sessões de discussão, características do processo de execussão da PBL, são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos sem comprometer a qualidade das discussões, menor a apropriação do custo da infra-estrutura física. De fato, para a manutenção da qualidade das discussões, <br><br>
+
+<p align="center">
+<img src="img/harvard-classroom.png" width="800"><br>
+<em>Investimento em infraestrutura para manter a qualidade das discussões em grupos grandes de alunos.</em>
+</p><br>
+
+Na atomização da execução presencial as sessões de discussão são agendadas conforme demanda em *organizações gestoras de espaços compartilhados de trabalho (coworking)*. As dinâmicas PBL da sessão são orientadas por tutores via video conferência e assistidas por software e que a avaliação do desempenho dos alunos seja siga critérios objetivos, executada pelo software capaz de editar automaticamente o vídeo da gravação da sessão e avaliar o desempenho de cada aluno individualmente. <br><br>
+
+<p align="center">
+<img src="img/sum_processo3.png" width="800"><br>
+<em>Sessão presencial atomizada e assistida por software.</em>
+</p><br>
+
+O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, que tem características **únicas** na atual conjuntura do mercado educacional.
 
 Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** a ser desenvolvido são: 
 
@@ -170,42 +207,7 @@ Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL
 - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
 
 
-**Extração automatizada de cenários reais** <br>
-A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" que entrevistam profissionais e especialistas de mercado para explicitar e classificar cenários do dia-a-dia profissional e seus possíveis problemas associados. 
-
-No entanto, a **produção automatizada** prevê a interação direta dos especialistas como um software do tipo *"expert system"*. Os “títulos”, cenários e as competências comportamentais alvo do processo de aprendizagem são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado por software baseado em *"machine learning"*. <br><br>
-
-<p align="center">
-<img src="img/sum_processo1.png" width="800"><br>
-<em>Sistema para extração de conhecimento dos profissionais especialistas.</em>
-</p><br><br>
-
-**Aprendizagem adaptativa** <br> 
-Na etapa de *“self-directed learning” (SDL)* da execução da PBL, os alunos *"buscam eliminar os gaps de conhecimento para resolver o problema a foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
-
-O sub-processo de **aprendizagem adaptativa** acelera esta fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
-
-<p align="center">
-<img src="img/sum_processo2.png" width="800"><br>
-<em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
-</p><br>
-
-**Atomização da execução presencial** <br>
-Tradicionalmente, as sessões de discussão, características do processo de execussão da PBL, são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos sem comprometer a qualidade das discussões, menor a apropriação do custo da infra-estrutura física. De fato, para a manutenção da qualidade das discussões, <br><br>
-
-<p align="center">
-<img src="img/sum_processo2.png" width="800"><br>
-<em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
-</p><br>
-
-Na atomização da execução presencial as sessões de discussão são agendadas conforme demanda em *organizações gestoras de espaços compartilhados de trabalho (coworking)*. As dinâmicas PBL da sessão são orientadas por tutores via video conferência e assistidas por software e que a avaliação do desempenho dos alunos seja siga critérios objetivos, executada pelo software capaz de editar automaticamente o vídeo da gravação da sessão e avaliar o desempenho de cada aluno individualmente. <br><br>
-
-<p align="center">
-<img src="img/sum_processo3.png" width="800"><br>
-<em>Sessão presencial atomizada e assistida por software.</em>
-</p><br>
-
-O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução destes processos, bem como para garantir suas **integridades**, **eficácias** e **escalabilidade** é a base para construção de um **Sistema de Ensino** baseado em PBL, que tem características **únicas** na atual conjuntura do mercado educacional.<br><br><br>
+<br><br><br>
 
 ## O NEGÓCIO 
 Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador responsável por viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.<br><br>
