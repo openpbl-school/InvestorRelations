@@ -79,7 +79,7 @@ Resumo da execução do plano de negócios proposto no *road show* 2020.1 para c
 ## O PROBLEMA E A OPORTUNIDADE
 Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
-Para os gestores de RH consultados na elaboração do relatório, características como "tomada de decisão em ambientes de incerteza", "atuação sob pressão da opinão pública", "negociação intra-equipe" e "visão orçamentária", entre outras, são consideradas fundamentais para que profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+Para os gestores de RH consultados para a elaboração do relatório, características como "tomada de decisão em ambientes de incerteza", "atuação sob pressão da opinão pública" e "negociação intra-equipe", dentre outras, são fundamentais para que profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <table style="width:100%">
   <tr>
@@ -93,16 +93,18 @@ Para os gestores de RH consultados na elaboração do relatório, característic
 <br> 
 
 **Desenvolvendo competências comportamentais** <br>
-Ao contrário das **habilidades** comportamentais, que dependendem de características biológicas, cognitivas e socioemocionais que são normalmente desenvolvidas **antes da vida adulta** de um indivídio, o desenvolvimento das **competências** comportamentais se dá, em geral, de forma natural, **ao longo** da sua carreira profissional. 
+Ao contrário das **habilidades** comportamentais, que dependendem de características biológicas, cognitivas e socio-emocionais que são normalmente desenvolvidas **antes da vida adulta** de um indivídio, o desenvolvimento das **competências** comportamentais se dá, em geral, de forma natural, **ao longo** da sua carreira profissional. 
 
-À medida que emprega seus conhecimentos e habilidades técnicas nas situações do dia-a-dia, um profissional vai **testando e descobrindo** as **ferramentas e técnica mais adequadas** às suas próprias habilidades comportamentais para atingir os resultados esperados, mesmo diante de situações sujeitas à incertezas, assimetrias de informação, restrições de recursos e pressões diversas. Assim, cada indivíduo **incorpora à sua atuação profissional** um conjunto próprio de conhecimentos, sob a forma de técnicas, estratégias e modelos com o objetivo de atingir os resultados esperados da forma mais eficiente possível.  
+As escolas de formação profissionalizante se concentram em desenvolver as **competências técnicas mínimas** para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Isso equivale a avaliar o desempenho dos alunos apenas pela qualidade de suas respostas técnicas diante de situações hipotéticas e isentas do outros fatores, tais como riscos, incertezas e preferências.
 
-Na maioria das vezes, este desenvolvimento de competências comportamentais é **auto patrocinado** e executado de forma **inconsciente** pelos profissionais, uma vez que as empresas se limitam apenas a medir e classificar suas **habilidades** comportamentais, utilizando os diversos modelos de avaliação disponíveis no mercado (DISC, MBTI, Big Five). Contudo, dependendo dos estímulos à que são submetidos estes profissionais, o processo natural de desenvolvimento de competências comportamentais pode levar muito tempo para ocorrer ou, até mesmo, não ocorrer. 
+À medida que um profissional emprega seus conhecimentos e habilidades técnicas nas situações do dia-a-dia, ele vai **testando e descobrindo** as ferramentas **mais adequadas às suas próprias habilidades** comportamentais para atingir os resultados esperados, mesmo diante de situações sujeitas à incertezas, assimetrias de informação, restrições de recursos e pressões diversas. Assim, cada indivíduo **incorpora à sua atuação profissional** um repertório próprio de conhecimentos, técnicas, estratégias e modelos com o objetivo de atingir os resultados esperados da forma mais eficiente possível.  
 
-Para **acelerar** e tornar mais **assertivo** este processo de aprendizagem, alguns **programas educacionais** se propõem a simular estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
+Na maioria das vezes, este desenvolvimento é **auto patrocinado** e executado de forma **inconsciente** pelos profissionais, uma vez que as empresas se limitam apenas a medir e classificar suas **habilidades** comportamentais, utilizando os diversos modelos de avaliação disponíveis no mercado (DISC, MBTI, Big Five). Contudo, dependendo dos estímulos à que são submetidos estes profissionais, este processo **natural** de desenvolvimento de competências comportamentais pode levar **muito tempo** para ocorrer ou, até mesmo, não ocorrer. 
+
+Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas educacionais** se propõem a simular estas situações reais em atividades de treinamemto para, assim, estimular o desenvolvimento destas competências. É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
 
 <p align="center">
-  <img src="img/benchmark-pbl.png" width="400"><br>
+  <img src="img/benchmark-pbl.png" width="500"><br>
   <em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
 </p>
 
