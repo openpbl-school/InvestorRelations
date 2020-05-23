@@ -357,7 +357,9 @@ A Política de **canais B2B** para os **dois primeiros anos de operação** deve
 A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
 
 **Desempenho** <br>
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de US $ 47.000 para a **produção de conteúdo**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de R$ 1 milhão (EBITDA 14% RL) no **quinto ano** de operação da escola.<br><br> 
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de US $ 47.000 para a **produção de conteúdo**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de R$ 1 milhão (EBITDA 14% RL) no **quinto ano** de operação da escola.
+
+As simulações financeiras utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime") e premissas de **crescimento de vendas e de custos** para modelar os demais anos.<br><br> 
 
 <p align="center">
   <img src="img/dre.png" width="600">
@@ -367,10 +369,8 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 
 <br>
 
-As simulações financeiras utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime") e premissas de **crescimento de vendas e de custos** para modelar os demais períodos de operação.<br><br> 
-
 **Premissas de marketing e custo** <br>
-As seguintes premissas de **atração** e **conversão** foram usadas para modelar o **ano 2**:<br>
+Premissas de **atração** e **conversão** utilizadas para modelar o **ano 2**:<br>
 <p align="center">
   <img src="img/customer-acquisition-assumption.png" width="500">
 </p>
@@ -379,7 +379,7 @@ As seguintes premissas de **atração** e **conversão** foram usadas para model
 
 <br>
 
-As seguintes premissas de **custos** e **preços** foram usadas para modelar o **ano 2**:<br>
+Premissas de **custos** e **preços** utilizadas para modelar o **ano 2**:<br>
 <p align="center">
   <img src="img/costs-assumption.png">
 </p>
@@ -389,7 +389,7 @@ As seguintes premissas de **custos** e **preços** foram usadas para modelar o *
 <br>
 
 **Premissas de crescimento** <br>
-As seguintes premissas de **crescimento de vendas e de custos** foram usadas para modelar os anos 1, 3, 4 e 5 de operação da empresa.
+Premissas de **crescimento de vendas e de custos** utilizadas para modelar os anos 1, 3, 4 e 5 de operação da empresa.
 
 <p align="center">
   <img src="img/sales-assumption.png" width="700">
@@ -426,20 +426,15 @@ Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL
 - *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br>
 
 **Novas frentes de negócios** <br>
-O desenvolvimento do sistema educacional permite a expansão dos negócios da empresa em **três novas frentes**:
+A partir do desenvolvimento do sistema educacional será possível a expansão dos negócios da empresa em **três novas frentes**:
 - Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Green field*);
 - Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
 - Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
 
-Estas três novas frentes têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior:
-- Investimento inicial de R$ 160.000;
-- ROL de R$ 5 milhões (EBITDA 55% RL) no ano 5;
-- *Business valuation* de R$ 4,8 milhões.
-
-Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br><br>
+Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br><br>
 
 ## FINANCIAMENTO DO PROJETO
-Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** que deverá ser captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão decidida.<br><br>
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão adotada.<br><br>
 
 **Regra de saída** <br>
 A principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.<br><br> 
@@ -450,7 +445,9 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 **Capital Semente** <br>
 Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de R$ 652.000 (divididos em **quatro quotas** de R$ 163.000). Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de R$ 652.000 (divididos em **quatro quotas** de R$ 163.000). 
+
+Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
 - Copital de giro.<br><br> 
