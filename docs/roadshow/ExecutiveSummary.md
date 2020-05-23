@@ -81,24 +81,12 @@ Um relatório publicado em 2018 pelo **Fórum Econômico Mundial** elencou as de
 
 Para os gestores de RH consultados para a elaboração do relatório, características como "tomada de decisão em ambientes de incerteza", "atuação sob pressão da opinão pública" e "negociação intra-equipe", dentre outras, são fundamentais para que profissionais, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
-<table style="width:100%">
-  <tr>
-    <th><img src="img/sum_quadro12.png"></th> 
-    <th><img src="img/sum_sofia1.png"></th>
-  </tr>
-</table>
-<p align="center"><em><a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo</a> da entrevista com a consultora de RH Sofia Esteves sobre competências comportamentais.</em>
-</p>
-
 <p align="center">
-  <img src="img/behavior-skills.png" width="500"><br>
-  <em><em><a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
+  <img src="img/behavior-skills.png" width="400"><br>
+  <em><em> <a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo 2</a> ecom consultores de RH sobre competências comportamentais.</em>
 </p>
 
 <br>
-
-
-<br> 
 
 **Desenvolvendo competências comportamentais** <br>
 Ao contrário das **habilidades** comportamentais, que dependendem de características biológicas, cognitivas e socio-emocionais que são normalmente desenvolvidas **antes da vida adulta** de um indivídio, o desenvolvimento das **competências** comportamentais se dá, em geral, de forma natural, **ao longo** da sua carreira profissional. 
