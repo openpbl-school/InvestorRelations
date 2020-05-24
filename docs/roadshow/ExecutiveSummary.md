@@ -186,14 +186,14 @@ O principal objetivo da **Eliminação Individualizada das Deficiências Técnic
 </p><br>
 
 **Atomização e Automatização das Discussões** <br>
-Tradicionalmente, as sessões de discussão, características do processo de execussão da PBL, são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos sem que haja comprometimento da qualidade das discussões, menor o valor da apropriação do custo da infra-estrutura física no preço dos cursos. De fato, as escolas tradicionais investem em equipamentos sofisticados para garantir a qualidade das interações entre os alunos em grandes grupos.<br><br>
+Tradicionalmente, as sessões presenciais de discussão são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos, sem que haja comprometimento da qualidade das discussões, menor o impacto do valor da apropriação do custo da infra-estrutura física no preço dos cursos. De fato, as escolas tradicionais investem em equipamentos sofisticados para garantir a qualidade das interações entre os alunos em grandes grupos.<br><br>
 
 <p align="center">
 <img src="img/harvard-classroom.png" width="600"><br>
 <em>Investimento em infraestrutura para manter a qualidade das discussões em grupos grandes de alunos.</em>
 </p><br>
 
-Na atomização da execução presencial as sessões de discussão são agendadas conforme demanda em *organizações gestoras de espaços compartilhados de trabalho (coworking)*. As dinâmicas PBL da sessão são orientadas por tutores via video conferência e assistidas por software e que a avaliação do desempenho dos alunos seja siga critérios objetivos, executada pelo software capaz de editar automaticamente o vídeo da gravação da sessão e avaliar o desempenho de cada aluno individualmente. <br><br>
+Na **Atomização e Automatização das Discussões** as sessões presenciais de discussão são agendadas, conforme demanda, em *organizações gestoras de espaços compartilhados de trabalho (coworking)*. As dinâmicas da sessão são orientadas por tutores via video conferência e assistidas por software. A avaliação do desempenho individual dos alunos nas discussão é executada por software que também edita automaticamente o vídeo da gravação da sessão.<br><br>
 
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
