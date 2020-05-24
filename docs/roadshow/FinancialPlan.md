@@ -80,19 +80,20 @@ O relatório de uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial*
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 47.000** (R$ 0.000) para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de **US $ 1 milhão** (R$ 0,0 milhões) (EBITDA 14% RL) no **quinto ano** de operação da escola. As simulações utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
 
 <p align="center">
-  <img src="img/dre.png" width="600">
+  <img src="img/fin-plan-summary.png" width="600">
 </p>
-<p align="center"><em>Demostração de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
+<p align="center"><em>Resumo do desempenho.</em>
 </p> 
 
 <br>
 
-**Premissas de marketing e custo** <br>
+**Premissas do ano 2** <br>
 Premissas de **atração** e **conversão** utilizadas para modelar o **ano 2**:<br>
+
 <p align="center">
   <img src="img/customer-acquisition-assumption.png" width="500">
 </p>
-<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
+<p align="center"><em>Premissas de atração e conversão.</em>
 </p>
 
 <br>
@@ -101,7 +102,7 @@ Premissas de **custos** e **preços** utilizadas para modelar o **ano 2**:<br>
 <p align="center">
   <img src="img/costs-assumption.png">
 </p>
-<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
+<p align="center"><em>Premissas de custos e preços.</em>
 </p>
 
 <br>
@@ -116,6 +117,9 @@ Premissas de **crescimento de vendas e de custos** utilizadas para modelar os an
 </p>
 
 <br>
+
+
+
 
 **Business Valuation** <br>
 A avaliação do valor da empresa para a simulação acima utilizou a média entre os valores obtidos pelos métodos do *fluxo de caixa descontado* e dos *multiplicadores de receita*, conforme quadro a seguir:
