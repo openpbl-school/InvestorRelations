@@ -96,8 +96,8 @@ Por restrições diversas, as escolas de formação profissionalizante se concen
 À medida que experimenta situações reais, ele vai **testando e descobrindo** as ferramentas **mais adequadas** às suas **próprias** habilidades comportamentais para atingir os resultados esperados, no tempo necessário e com os recursos disponíveis. Assim, cada indivíduo **incorpora à sua atuação profissional** um **repertório próprio** de conhecimentos, técnicas, estratégias e modelos com os quais ele conta, juntamente com suas competências técnicas, para desempenhar as suas funções.  
 
 <p align="center">
-  <img src="img/sum_quadr1.png" width="500"><br>
-  <em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+  <img src="img/sum_quadro1.png" width="500"><br>
+  <em>Cada indivíduo incorpora à sua atuação profissional um repertório próprio.</em>
 </p>
 
 <br>
