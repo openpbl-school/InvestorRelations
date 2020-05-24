@@ -38,6 +38,9 @@ https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22
 **Executive Summary** <br> 
 https://openpbl-school.github.io/InvestorRelations/roadshow/ExecutiveSummary#english 
 
+**Financial Plan** <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#english 
+
 **Non Disclosure Agreement** <br> 
 https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf
 
