@@ -353,8 +353,8 @@ Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios 
 5. Grande necessidade de engajamento e fidelização dos colaboradores.<br>
 
 Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
-- Perfil executivo 1(<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
-- Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
+- Perfil executivo 1 (<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
+- Perfil executivo 2 (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
 
 **Greenfield** <br>
 No Brasil, a base de dados do MEC/INEP é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente 8.450.000 de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.2560.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
@@ -390,9 +390,7 @@ A Política de **canais B2B** para os **dois primeiros anos de operação** deve
 A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
 
 **Desempenho** <br>
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de US $ 47.000 para a **produção de conteúdo**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de R$ 1 milhão (EBITDA 14% RL) no **quinto ano** de operação da escola.
-
-As simulações financeiras utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e premissas de **crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 47.000** (R$ 0.000) para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de **US $ 1 milhão** (R$ 0,0 milhões) (EBITDA 14% RL) no **quinto ano** de operação da escola. As simulações utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
 
 <p align="center">
   <img src="img/dre.png" width="600">
@@ -476,16 +474,16 @@ A principal regra de saída para atrair investidores é a **venda estratégica**
 A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
 
 **Capital Semente** <br>
-Ao todo, já foram captados R$ 150.000 à título de **capital semente** para **validações iniciais** do modelo. 
+Ao todo, já foram captados **US $ 0.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de R$ 652.000 (divididos em **quatro quotas** de R$ 163.000). 
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de **US $ 0.000** (R$ 652.000) divididos em **quatro quotas** de **US $ 0.000** (R$ 163.000). 
 
 Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
 - Copital de giro.<br><br> 
 
-A captação atual considera o *pre money valuation* de R$ 5,4 milhões. 
+A captação atual considera o *pre money valuation* de **US $ 0.000** (R$ 5,4 milhões). 
 
 ... 
 
