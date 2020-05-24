@@ -354,9 +354,7 @@ Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios 
 
 Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
 - Perfil executivo 1(<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
-- Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). 
-
-<br><br>
+- Perfil executivo 2(<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
 
 **Greenfield** <br>
 No Brasil, a base de dados do MEC/INEP é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente 8.450.000 de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.2560.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
@@ -394,7 +392,7 @@ A partir da conclusão do **sistema educacional**, prevista para o início do se
 **Desempenho** <br>
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de US $ 47.000 para a **produção de conteúdo**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de R$ 1 milhão (EBITDA 14% RL) no **quinto ano** de operação da escola.
 
-As simulações financeiras utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano de operação "em regime") e premissas de **crescimento de vendas e de custos** para modelar os demais anos.<br><br> 
+As simulações financeiras utilizaram premissas de **marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e premissas de **crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
 
 <p align="center">
   <img src="img/dre.png" width="600">
