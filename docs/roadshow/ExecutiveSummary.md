@@ -193,15 +193,16 @@ Tradicionalmente, as sessões presenciais de discussão são reuniões com 40 al
 <em>Investimento em infraestrutura para manter a qualidade das discussões em grupos grandes de alunos.</em>
 </p><br>
 
-Na **Atomização e Automatização das Discussões** as sessões presenciais de discussão são agendadas, conforme demanda, em *organizações gestoras de espaços compartilhados de trabalho (coworking)*. As dinâmicas da sessão são orientadas por tutores via video conferência e assistidas por software. A avaliação do desempenho individual dos alunos nas discussão é executada por software que também edita automaticamente o vídeo da gravação da sessão.<br><br>
+Na **Atomização e Automatização das Discussões**, as sessões presenciais de discussão são agendadas, conforme demanda, em *organizações gestoras de espaços compartilhados de trabalho (coworking)*. As dinâmicas da sessão são orientadas por tutores via video conferência e assistidas por software. A avaliação do desempenho individual dos alunos nas discussões é executada por software que também edita automaticamente o vídeo da gravação da sessão.<br><br>
 
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br>
 
-**Sistema de Ensino baseado na PBL** <br>
-O desenvolvimento de um **sistema de software** para automatizar e coordenar a execução dos três sub-processos, bem como para garantir **integridade**, **eficácia** e **escalabilidade** da execução conjunta deve considerar os seguintes componentes:
+**Sistema de Ensino baseado em problemas** <br>
+
+Para **automatizar** e **integrar** os três sub-processos, os idealizadores do projeto propõem o desenvolvimento de um **sistema de software**. O software deve garantir **integridade**, **eficácia** e **escalabilidade** da execução conjunta dos seguintes componentes:
  - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
  - *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
  - *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
@@ -209,7 +210,8 @@ O desenvolvimento de um **sistema de software** para automatizar e coordenar a e
  - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
  - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
 
-Um **Sistema de Ensino** com estes componentes tem características **únicas** na atual conjuntura do mercado educacional, uma vez que será capaz de suportar atividades de ensino e capacitação baseadas em PBL de escolas e empresas.<br><br><br>
+Um **Sistema de Ensino** com estas características é **único** no mercado educacional. Seus componentes suportam as atividades de capacitação baseadas em problemas de escolas e empresas.<br><br><br>
+
 
 
 
