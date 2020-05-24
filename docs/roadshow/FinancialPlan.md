@@ -82,7 +82,7 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 <br>
 
-**overall-performance** <br>
+**overall-performance** <br><br>
 
 <p align="center">
   <img src="img/overall-performance.png" width="600">
@@ -96,7 +96,7 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 <br>
 
-**b2c-offerings** <br>
+**b2c-offerings** <br><br>
 
 <p align="center">
   <img src="img/b2c-offerings.png" width="600">
@@ -106,7 +106,7 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 <br>
 
-**b2b-offerings** <br>
+**b2b-offerings** <br><br>
 
 <p align="center">
   <img src="img/b2b-offerings.png" width="600">
