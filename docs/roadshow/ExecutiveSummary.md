@@ -19,9 +19,9 @@ Companies are increasingly demanding professionals from **all hierarchical level
 
 ...
 
-*1. The "Non Disclousure Agreement" for access to the **business plan** is available to investors interested in <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
+*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
 
-*2. For more details of OpenPBL professional school, see a <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese" target="_blank">storytelling</a> of its standard product (only the portuguese version available).*
+*2. For more details of OpenPBL professional school, see a <a href="https://openpbl-school.github.io/Storytelling/#english" target="_blank">storytelling</a> of its standard product (only the portuguese version available).*
 
 <br>
 <p align="center">    
@@ -50,9 +50,9 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 (Pronto también disponible en la versión en español)
 ...
 
-*1. El "Acuerdo de no divulgación" para el acceso al **plan de negocios** está disponible para inversores interesados en <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
+*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
 
-*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
+*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://openpbl-school.github.io/Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
 
 <br>
 <p align="center">    
@@ -400,6 +400,9 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 
 <br>
 
+O Plano financeiro detalha todos os indicadores e premissas.  
+
+
 **Premissas de marketing e custo** <br>
 Premissas de **atração** e **conversão** utilizadas para modelar o **ano 2**:<br>
 <p align="center">
@@ -487,9 +490,9 @@ A captação atual considera o *pre money valuation* de **US $ 0.000** (R$ 5,4 m
 
 ... 
 
-*1. O "Non Disclousure Agreement" para acesso ao **plano de negócios** detalhado está disponível para investidores interessados em <a href="http://bit.ly/NDA-OpenPBL" target="_blank">OpenPBL NDA</a>.*
+*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
 
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um exemplo de <a href="https://welearnpbl.github.io/openpbl-ir/roadshow/Storytelling#portuguese" target="_blank">storytelling</a> da execução de um curso típico.* 
+*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* 
 
 <br>
 <p align="center">    
@@ -507,6 +510,13 @@ A captação atual considera o *pre money valuation* de **US $ 0.000** (R$ 5,4 m
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
+
+
+
+
+
+
+
 <a name="chinese"></a> 
 <br>
 
@@ -517,9 +527,9 @@ A captação atual considera o *pre money valuation* de **US $ 0.000** (R$ 5,4 m
 
 ...
 
-*1。 对<a href="http://bit.ly/NDA-OpenPBL" target="_blank"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
+*1。 对<a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
 
-*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://jorgecataldo.github.io/OpenPBL-Storytelling/#chinese" target="_blank">讲故事</a>（仅提供葡萄牙语版本）*
+*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://openpbl-school.github.io/Storytelling/#chinese" target="_blank">讲故事</a>（仅提供葡萄牙语版本）*
 
 <br>
 <p align="center">    
