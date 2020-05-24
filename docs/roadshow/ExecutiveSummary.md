@@ -89,6 +89,7 @@ Para os gestores de RH consultados na pesquisa, certas características como "to
 <br>
 
 **Desenvolvendo competências comportamentais** <br>
+
 Ao contrário das **habilidades** comportamentais, resultado de características biológicas, cognitivas e socio-emocionais moldadas **antes da vida adulta**, as **competências** comportamentais, em geral, só começam a ser desenvolvidas depois da sua formação e graças ao desempenho das suas atribuições profissionais. 
 
 Por restrições diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Raramente, elas se empenham em avaliar as respostas técnicas de seus alunos para questões que não sejam colocadas em **condições ideais** e isentas de fatores inerentes da vida real, tais como riscos, incertezas e preferências. Somente, quando o profissional emprega seus conhecimentos e habilidades técnicas nas situações do dia-a-dia de sua carreira, ele se depara com situações sujeitas à incertezas, assimetrias de informação, restrições de recursos e pressões diversas.
@@ -114,6 +115,7 @@ Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas 
 <br>
 
 **Desequilíbrio de mercado**<br>
+
 Se por um lado, empresas demandam cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
 
 Grande parte deste desequilíbrio ocorre porque as escolas que atuam tradicionalmente neste segmento não geram **economias de escala suficientes** para **popularizarem seus cursos**. Nem mesmo a recente introdução de tecnologias digitais nas práticas educacionais foi capaz de estimular a universalização deste tipo de programa.  
@@ -133,6 +135,7 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 </p><br><br>
 
 **Escalando a PBL** <br>
+
 O caminho escolhido para aproveitar a atual janela de oportunidades é buscar formas viáveis de contornar os obstáculos para escalar o processo de execução da PBL. Os **obstáculos** para **execução em larga escala** das atividades típicas da PBL são: 
 - Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
 - O paradigma da **execução 100% digital** das **Edtechs** ainda não foi capaz de resolver o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL.
@@ -156,6 +159,7 @@ A **complementação estratégica** das ações propostas no modelo, podem ser a
  - A "**atomização**" da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
 
 **Método de Ensino** <br>
+
 Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **três processos**:
 1. Extração automatizada de cenários reais;
 2. Eliminação individualizada das deficiências técnicas;
@@ -164,6 +168,7 @@ Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **
 Cada um destes processos responde **de forma integrada** pela intervenção em uma ou mais etapas do processo completo de execução da PBL.<br><br>
 
 **Extração Automatizada de Cenários Reais** <br>
+
 A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" cuja tarefa é entrevistar profissionais e especialistas de mercado para explicitar **cenários do dia-a-dia profissional** e seus possíveis **problemas associados**. 
 
 No entanto, a **Extração Automatizada de Cenários Reais** prevê a interação direta dos especialistas como um software do tipo *"expert system"*. Os “títulos”, cenários e as competências comportamentais alvo do processo de aprendizagem são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado por software baseado em *"machine learning"*. <br><br>
@@ -174,6 +179,7 @@ No entanto, a **Extração Automatizada de Cenários Reais** prevê a interaçã
 </p><br><br>
 
 **Eliminação Individualizada das Deficiências Técnicas** <br> 
+
 Na etapa de *“self-directed learning” (SDL)*, os alunos *"buscam os conhecimentos para resolver o problema a foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
 
 O principal objetivo da **Eliminação Individualizada das Deficiências Técnicas** é acelerar a fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
@@ -184,6 +190,7 @@ O principal objetivo da **Eliminação Individualizada das Deficiências Técnic
 </p><br>
 
 **Atomização e Automatização das Discussões** <br>
+
 Tradicionalmente, as sessões presenciais de discussão são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos, sem que haja comprometimento da qualidade das discussões, menor o impacto do valor da apropriação do custo da infra-estrutura física no preço dos cursos. De fato, as escolas tradicionais investem em equipamentos sofisticados para garantir a qualidade das interações entre os alunos em grandes grupos.<br><br>
 
 <p align="center">
