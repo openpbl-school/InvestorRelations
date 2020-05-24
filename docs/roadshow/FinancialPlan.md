@@ -80,6 +80,8 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 ## Desempenho global 
 
+<br>
+
 **overall-performance** <br>
 
 <p align="center">
@@ -90,8 +92,9 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 <br>
 
-
 ## Ofertas 
+
+<br>
 
 **b2c-offerings** <br>
 
@@ -113,8 +116,8 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 <br>
 
-
 ## Custos 
+
 
 **costs-year2-school** <br>
 
