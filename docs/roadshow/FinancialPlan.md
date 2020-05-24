@@ -73,9 +73,12 @@ Financial plan of the 2020 fundraising Business Plan.<br><br>
 ## OPEN-PBL - PLANO FINANCEIRO
 Plano financeiro proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
-## Premissas 
+### Metodologia  
 
-As simulações financeiras do modelo de negócios utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
+As simulações financeiras do modelo de negócios utilizaram:
+- **Premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime");
+- **Premissas de crescimento de vendas e de custos** para modelar os demais anos. 
+- A abordagem do Fluxo de Caixa Descontado para calcular o valor do negócio.<br><br> 
 
 
 ## Desempenho global 
@@ -85,7 +88,7 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 **overall-performance** <br><br>
 
 <p align="center">
-  <img src="img/overall-performance.png" width="600">
+  <img src="img/overall-performance.png" width="500">
 </p>
 <p align="center"><em>overall-performance.</em>
 </p> 
@@ -118,21 +121,22 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 ## Custos 
 
+<br>
 
-**costs-year2-school** <br>
+**costs-year2-school** <br><br>
 
 <p align="center">
-  <img src="img/costs-year2-school.png" width="600">
+  <img src="img/costs-year2-school.png" width="500">
 </p>
 <p align="center"><em>costs-year2-school.</em>
 </p> 
 
 <br>
 
-**costs-year2-system** <br>
+**costs-year2-system** <br><br>
 
 <p align="center">
-  <img src="img/costs-year2-system.png" width="600">
+  <img src="img/costs-year2-system.png" width="500">
 </p>
 <p align="center"><em>costs-year2-system.</em>
 </p> 
@@ -141,18 +145,19 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 ## Campanha  
 
-**customer-acquisition-year2** <br>
+<br>
+
+**customer-acquisition-year2** <br><br>
 
 <p align="center">
-  <img src="img/customer-acquisition-year2.png" width="600">
+  <img src="img/customer-acquisition-year2.png" width="500">
 </p>
 <p align="center"><em>customer-acquisition-year2.</em>
 </p> 
 
 <br>
 
-
-**5years-sales** <br>
+**5years-sales** <br><br>
 
 <p align="center">
   <img src="img/5years-sales.png" width="600">
@@ -162,42 +167,44 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 <br>
 
-## Demosntração dos resultados   
+## Demonstração dos resultados   
 
-**5years-profit-and-loss** <br>
+<br>
+
+**5years-profit-and-loss** <br><br>
 
 <p align="center">
-  <img src="img/5years-profit-and-loss.png" width="600">
+  <img src="img/5years-profit-and-loss.png" width="650">
 </p>
 <p align="center"><em>5years-profit-and-loss.</em>
 </p> 
 
 <br>
 
-**5years-investment-rounds** <br>
+**5years-investment-rounds** <br><br>
 
 <p align="center">
-  <img src="img/5years-investment-rounds.png" width="600">
+  <img src="img/5years-investment-rounds.png" width="650">
 </p>
 <p align="center"><em>5years-investment-rounds.</em>
 </p> 
 
 <br>
 
-**5years-cashflow** <br>
+**5years-cashflow** <br><br>
 
 <p align="center">
-  <img src="img/5years-cashflow.png" width="600">
+  <img src="img/5years-cashflow.png" width="650">
 </p>
 <p align="center"><em>5years-cashflow.</em>
 </p> 
 
 <br>
 
-**5years-balance-sheet** <br>
+**5years-balance-sheet** <br><br>
 
 <p align="center">
-  <img src="img/5years-balance-sheet.png" width="600">
+  <img src="img/5years-balance-sheet.png" width="650">
 </p>
 <p align="center"><em>5years-balance-sheet.</em>
 </p> 
@@ -206,20 +213,22 @@ As simulações financeiras do modelo de negócios utilizaram **premissas de mar
 
 ## Valor do negócio
 
-**enterprise-valuation** <br>
+<br>
+
+**enterprise-valuation** <br><br>
 
 <p align="center">
-  <img src="img/enterprise-valuation.png" width="600">
+  <img src="img/enterprise-valuation.png" width="400">
 </p>
 <p align="center"><em>enterprise-valuation.</em>
 </p> 
 
 <br>
 
-**business-shareholders** <br>
+**business-shareholders** <br><br>
 
 <p align="center">
-  <img src="img/business-shareholders.png" width="600">
+  <img src="img/business-shareholders.png" width="400">
 </p>
 <p align="center"><em>business-shareholders.</em>
 </p> 
