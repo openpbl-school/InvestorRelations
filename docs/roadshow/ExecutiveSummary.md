@@ -224,31 +224,32 @@ Um **Sistema de Ensino** com estas características é **único** no mercado edu
 Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador responsável por viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.<br><br>
 
 **Público-alvo** <br>
+
 Os cursos e programas são destinados à **profissionais** (e aspirantes) com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio de competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
 
 <p align="center">
-  <img src="img/sum_quadro2.png" width="800"><br>
+  <img src="img/sum_quadro2.png" width="700"><br>
 </p>
 <p align="center"><em>Público-alvo com necessidades diversas e em fases distintas da carreira.</em>
 </p>
 
 <br>
 
-**Dimensão do mercado** <br>
-A estimativa da dimensão do **mercado potencial da escola** deve considerar a parcela da população composta pelos integrantes das **três classes** de público-alvo da escola em cada um dois **dois níveis** de progressão de ensino regular. A combinação destes dois critérios requer a análise independente de **seis segmentos** de mercado, possíveis para a atuação da escola. 
+**Mercado** <br>
 
-Aguns destes segmentos são segmentos tradicionais do setor educacional, tais como a **educação executiva** e a **educação corporativa** e devem ser avaliados pontualmente por ocasião da definição da estratégia de abordagem inicial **em cada diferente localidade geográfica** onde é considerada a atuação da escola. <br><br>
+A combinação das **três classes** de público-alvo da escola com os dois **dois níveis** de progressão de ensino regular definem os **seis segmentos** de mercado, elegíveis para a atuação da escola. Alguns destes segmentos são tradicionais no setor educacional, tais como **educação executiva** e **educação corporativa**. Assim, o cálculo do tamanho do **mercado potencial da escola**, deve considerar as variáveis demográficas e cada **localidade geográfica** onde é analisada a atuação da escola. <br><br>
 
 <p align="center">
 <img src="img/target-segments.png" width="400">
 </p>
 <p align="center">
-<em>Segmentos alvo da OpenPBL comparados com a segmentação tradicional do mercado educacional.</em>
+<em>Segmentos-alvo da OpenPBL e os segmentos tradicionais do mercado educacional.</em>
 </p>
 
 <br>
 
 **Benefícios ao público alvo**<br>
+
 Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
 
 Para avaliar se essa afirmação encontra eco no público alvo da escola, foi realizada no Brasil recentemente uma pesquisa quantitativa voluntária com 120 pessoas cujos perfis profissionais são enquadrados no segmento II. Os resultados da pesquisa, foram validados com entrevistas posteriores com um extrato menor de voluntários da pesquisa.<br><br>
@@ -390,7 +391,9 @@ A Política de **canais B2B** para os **dois primeiros anos de operação** deve
 A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
 
 **Desempenho global** <br>
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 47.000** (R$ 0.000) para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de **US $ 1 milhão** (R$ 0,0 milhões) (EBITDA 14% RL) no **quinto ano** de operação da escola. As simulações utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 47.000** para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de **760 alunos** na escola profissionalizante e **7.500 alunos** licenciados no Sistema de Ensino e **receitas líquidas** de **US $ 1,94 milhão** (EBITDA 42% RL) no **quinto ano** de operação da empresa. 
+
+As simulações utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
 
 <p align="center">
   <img src="img/overall-performance.png" width="500">
@@ -401,7 +404,7 @@ Simulações financeiras do modelo de negócios mostram que, com um **investimen
 <br>
 
 **Plano financeiro** <br>
-O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_">OpenPBL Plano Financeiro</a>)
+O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a>)
 
 <br><br>
 
