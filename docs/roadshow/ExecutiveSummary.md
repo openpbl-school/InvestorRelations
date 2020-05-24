@@ -389,58 +389,19 @@ A Política de **canais B2B** para os **dois primeiros anos de operação** deve
 
 A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
 
-**Desempenho** <br>
+**Desempenho global** <br>
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 47.000** (R$ 0.000) para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de 2.300 alunos e **receitas líquidas** de **US $ 1 milhão** (R$ 0,0 milhões) (EBITDA 14% RL) no **quinto ano** de operação da escola. As simulações utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
 
 <p align="center">
-  <img src="img/dre.png" width="600">
+  <img src="img/overall-performance.png" width="500">
 </p>
-<p align="center"><em>Demostração de resultados, geração de caixa livre e balanço patrimonial resultantes da simulação do modelo de negócios.</em>
+<p align="center"><em>Desempenho da simulação para 5 anos de operação da empresa.</em>
 </p> 
 
 <br>
 
-O Plano financeiro detalha todos os indicadores e premissas.  
-
-
-**Premissas de marketing e custo** <br>
-Premissas de **atração** e **conversão** utilizadas para modelar o **ano 2**:<br>
-<p align="center">
-  <img src="img/customer-acquisition-assumption.png" width="500">
-</p>
-<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
-</p>
-
-<br>
-
-Premissas de **custos** e **preços** utilizadas para modelar o **ano 2**:<br>
-<p align="center">
-  <img src="img/costs-assumption.png">
-</p>
-<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
-</p>
-
-<br>
-
-**Premissas de crescimento** <br>
-Premissas de **crescimento de vendas e de custos** utilizadas para modelar os anos 1, 3, 4 e 5 de operação da empresa.
-
-<p align="center">
-  <img src="img/sales-assumption.png" width="700">
-</p>
-<p align="center"><em>Panorama das vendas de acordo com as premissas de captação e crescimento.</em>
-</p>
-
-<br>
-
-**Business Valuation** <br>
-A avaliação do valor da empresa para a simulação acima utilizou a média entre os valores obtidos pelos métodos do *fluxo de caixa descontado* e dos *multiplicadores de receita*, conforme quadro a seguir:
-
-<p align="center">
-  <img src="img/enterprise-valuation.png" width="300">
-</p>
-<p align="center"><em>Business Valuation da simulação de operação da empresa.</em>
-</p>
+**Plano financeiro** <br>
+O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_">OpenPBL Plano Financeiro</a>)
 
 <br><br>
 
