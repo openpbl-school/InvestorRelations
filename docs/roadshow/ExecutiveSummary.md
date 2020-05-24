@@ -93,7 +93,7 @@ Ao contrário das **habilidades** comportamentais, resultado de características
 
 Por restrições diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Raramente, elas se empenham em avaliar as respostas técnicas de seus alunos para questões que não sejam colocadas em **condições ideais** e isentas de fatores inerentes da vida real, tais como riscos, incertezas e preferências. Somente, quando o profissional emprega seus conhecimentos e habilidades técnicas nas situações do dia-a-dia de sua carreira, ele se depara com situações sujeitas à incertezas, assimetrias de informação, restrições de recursos e pressões diversas.
 
-À medida que experimenta situações reais, ele vai **testando e descobrindo** as ferramentas **mais adequadas** às suas **próprias** habilidades comportamentais para atingir os resultados esperados, no tempo necessário e com os recursos disponíveis. Assim, cada indivíduo **incorpora à sua atuação profissional** um **repertório próprio** de conhecimentos, técnicas, estratégias e modelos com os quais ele conta, juntamente com suas competências técnicas, para desempenhar as suas funções.  
+À medida que experimenta situações reais, ele vai **testando e descobrindo** as ferramentas **mais adequadas** às suas **próprias** habilidades comportamentais para atingir os resultados esperados, no tempo necessário e com os recursos disponíveis. Assim, cada indivíduo **incorpora à sua atuação profissional** um **repertório próprio** de conhecimentos, técnicas, estratégias e modelos com os quais ele conta, juntamente com suas competências técnicas, para desempenhar as suas funções.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro1.png" width="500"><br>
@@ -114,7 +114,7 @@ Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas 
 <br>
 
 **Desequilíbrio de mercado**<br>
-Se por um lado (conforme sugere o Fórum Econômico Mundial), empresas devem demandar cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
+Se por um lado, empresas demandam cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
 
 Grande parte do desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais ocorre porque as escolas que atuam tradicionalmente neste segmento não geram **economias de escala suficientes** para **popularizarem seus cursos**. Nem mesmo a recente introdução de tecnologias digitais nas práticas educacionais foi capaz de estimular a universalização deste tipo de programa.  
 
@@ -125,7 +125,9 @@ Diante deste cenário, experientes executivos do setor educacional enxergaram ne
 
 ## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
-A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, seria **candidata natural** para suprir a atual demanda do mercado educacional. Contudo, a PBL ainda encontra alguns **obstáculos** para **execução em larga escala**. A ideia para aproveitar a atual janela de oportunidades é buscar formas de contornar esses obstáculos para escalar o processo de execução da PBL. <br><br>
+A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, seria **candidata natural** para suprir a atual demanda do mercado educacional. Contudo, a PBL ainda encontra alguns **obstáculos** para **execução em larga escala**. 
+
+A ideia para aproveitar a atual janela de oportunidades é buscar formas de contornar esses obstáculos para escalar o processo de execução da PBL. <br><br>
 
 <p align="center">
   <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
@@ -134,7 +136,7 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 
 **Escalando a PBL** <br>
 Os **obstáculos** para **execução em larga escala** das atividades típicas da PBL são: 
-- Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo, **docentes** e **infraestrutura física**, sejam **desenvolvidos sob medida** para cada instituição de ensino.
+- Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
 - O paradigma da **execução 100% digital** das **Edtechs** ainda não foi capaz de resolver o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL.
 
 Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto desenvolveram um modelo **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL. Diferentemente do paradigma de execução 100% digital para escalar, indiscriminadamente, todas as atividades educacionais, a **essência inovadora** do modelo proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
@@ -163,28 +165,28 @@ Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **
 
 Cada um destes sub-processos responde **de forma integrada** pela intervenção em uma ou mais etapas do processo completo de execução da PBL.<br><br>
 
-**Extração automatizada de cenários reais** <br>
-A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" que entrevistam profissionais e especialistas de mercado para explicitar e classificar cenários do dia-a-dia profissional e seus possíveis problemas associados. 
+**Extração Automatizada de Cenários Reais** <br>
+A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" cuja tarefa é entrevistar profissionais e especialistas de mercado para explicitar **cenários do dia-a-dia profissional** e seus possíveis **problemas associados**. 
 
-No entanto, a **produção automatizada** prevê a interação direta dos especialistas como um software do tipo *"expert system"*. Os “títulos”, cenários e as competências comportamentais alvo do processo de aprendizagem são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado por software baseado em *"machine learning"*. <br><br>
+No entanto, a **Extração Automatizada de Cenários Reais** prevê a interação direta dos especialistas como um software do tipo *"expert system"*. Os “títulos”, cenários e as competências comportamentais alvo do processo de aprendizagem são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado por software baseado em *"machine learning"*. <br><br>
 
 <p align="center">
 <img src="img/sum_processo1.png" width="800"><br>
 <em>Sistema para extração de conhecimento dos profissionais especialistas.</em>
 </p><br><br>
 
-**Eliminação individualizada das deficiências técnicas** <br> 
-Na etapa de *“self-directed learning” (SDL)* da execução da PBL, os alunos *"buscam eliminar os gaps de conhecimento para resolver o problema a foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
+**Eliminação Individualizada das Deficiências Técnicas** <br> 
+Na etapa de *“self-directed learning” (SDL)*, os alunos *"buscam os conhecimentos para resolver o problema a foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
 
-O sub-processo de **aprendizagem adaptativa** acelera esta fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
+O principal objetivo da **Eliminação Individualizada das Deficiências Técnicas** é acelerar a fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
 
 <p align="center">
 <img src="img/sum_processo2.png" width="800"><br>
 <em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
 </p><br>
 
-**Atomização e automatização das discussões** <br>
-Tradicionalmente, as sessões de discussão, características do processo de execussão da PBL, são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos sem comprometer a qualidade das discussões, menor a apropriação do custo da infra-estrutura física. De fato, para a manutenção da qualidade das discussões, <br><br>
+**Atomização e Automatização das Discussões** <br>
+Tradicionalmente, as sessões de discussão, características do processo de execussão da PBL, são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos sem que haja comprometimento da qualidade das discussões, menor o valor da apropriação do custo da infra-estrutura física no preço dos cursos. De fato, as escolas tradicionais investem em equipamentos sofisticados para garantir a qualidade das interações entre os alunos em grandes grupos.<br><br>
 
 <p align="center">
 <img src="img/harvard-classroom.png" width="600"><br>
