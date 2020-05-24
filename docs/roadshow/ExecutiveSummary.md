@@ -95,6 +95,13 @@ Por restrições diversas, as escolas de formação profissionalizante se concen
 
 À medida que experimenta situações reais, ele vai **testando e descobrindo** as ferramentas **mais adequadas** às suas **próprias** habilidades comportamentais para atingir os resultados esperados, no tempo necessário e com os recursos disponíveis. Assim, cada indivíduo **incorpora à sua atuação profissional** um **repertório próprio** de conhecimentos, técnicas, estratégias e modelos com os quais ele conta, juntamente com suas competências técnicas, para desempenhar as suas funções.  
 
+<p align="center">
+  <img src="img/sum_quadr1.png" width="500"><br>
+  <em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
+</p>
+
+<br>
+
 Embora algumas empresas avaliem e informem as **habilidades** comportamentais de seus colaboradores com os diversos modelos disponíveis no mercado (DISC, MBTI, Big Five), na maioria das vezes, o desenvolvimento das competências comportamentais é **auto patrocinado** e executado de forma **natural** e **inconsciente**. Al´sm disso, dependendo dos estímulos à que são submetidos diferentes profissionais, este processo de desenvolvimento pode durar **muito tempo** até se concluir ou, até mesmo, não se concluir. 
 
 Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas educacionais** se propõem a utilizar as situações reais do dia-a-dia em atividades de aprendizagem para, assim, estimular, de forma personalizada, o desenvolvimento das competências comportamentais. É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
