@@ -441,9 +441,9 @@ A principal regra de saída para atrair investidores é a **venda estratégica**
 A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
 
 **Capital Semente** <br>
-Ao todo, já foram captados **US $ 0.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo. 
+Ao todo, já foram captados **US $ 27.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo. 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de **US $ 0.000** (R$ 652.000) divididos em **quatro quotas** de **US $ 0.000** (R$ 163.000). 
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de **US $ 132.000** (R$ 727.000) divididos em **quatro quotas** de **US $ 33.000** (R$ 181.000). 
 
 Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
