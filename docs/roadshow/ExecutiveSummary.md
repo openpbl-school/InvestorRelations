@@ -47,6 +47,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 **...**
 
 (Pronto también disponible en la versión en español)
+
 ...
 
 *1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
@@ -76,7 +77,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
 ## O PROBLEMA E A OPORTUNIDADE
-O relatório de uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro, segundo gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a> da pesquisa, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
 Para os gestores de RH consultados na pesquisa, certas características como "tomar decisões em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
