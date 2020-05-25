@@ -450,7 +450,7 @@ Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de 
 - Produzir conteúdo;
 - Copital de giro.<br><br> 
 
-A captação atual considera o *pre money valuation* de **US $ 0.000** (R$ 5,4 milhões). 
+A captação atual considera o *pre money valuation* de **US $ 900.000** (R$ 4,8 milhões). 
 
 ... 
 
