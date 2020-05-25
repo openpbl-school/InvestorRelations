@@ -99,7 +99,7 @@ Somente quando o profissional emprega os conhecimentos e habilidades técnicas n
 À medida que o profissional experimenta situações reais, ele inicia uma fase de **testes** e **descobertas** na busca pelas ferramentas **mais adequadas** às suas **próprias** habilidades comportamentais para atingir os resultados esperados. Com consequencia, cada indivíduo reúne e **incorpora à sua atuação profissional** um **repertório único** de conhecimentos, técnicas, estratégias e modelos com os quais ele irá contar, juntamente com suas competências técnicas, para desempenhar as diversas funções e desafios a que é submetido.<br><br>
 
 <p align="center">
-  <img src="img/sum_quadro1.png" width="500"><br>
+  <img src="img/learning-behavior-skills.png" width="500"><br>
   <em>Cada indivíduo incorpora à sua atuação profissional um repertório próprio.</em>
 </p>
 
