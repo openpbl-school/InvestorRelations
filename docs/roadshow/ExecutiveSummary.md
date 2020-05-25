@@ -77,9 +77,9 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
 ## O PROBLEMA E A OPORTUNIDADE
-Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro, segundo gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório</a> da pesquisa, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro, segundo gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
-Para os gestores de RH consultados na pesquisa, certas características como "tomar decisões em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+Para os especialistas consultados na pesquisa, certas competências como "tomar decisões em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
   <img src="img/behavior-skills.png" width="400"><br>
@@ -90,7 +90,7 @@ Para os gestores de RH consultados na pesquisa, certas características como "to
 
 **Desenvolvendo competências comportamentais** <br>
 
-Ao contrário das **habilidades** comportamentais, resultado de características biológicas, cognitivas e socio-emocionais moldadas **antes da vida adulta**, as **competências** comportamentais, em geral, só começam a ser desenvolvidas depois da sua formação e graças ao desempenho das suas atribuições profissionais. 
+Ao contrário das **habilidades** comportamentais, que resultam de características biológicas, cognitivas e socio-emocionais moldadas **antes da vida adulta**, as **competências** comportamentais profissionais só podem ser desenvolvidas ao término da formação profissionalizante de um indivíduo. Apesar de já estar preparado para desenvolver essas competências no terço final da sua formação, este processo de desenvolvimento só vai acontecer longo da carreira. 
 
 Por restrições diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Raramente, elas se empenham em avaliar as respostas técnicas de seus alunos para questões que não sejam colocadas em **condições ideais** e isentas de fatores inerentes da vida real, tais como riscos, incertezas e preferências. Somente, quando o profissional emprega seus conhecimentos e habilidades técnicas nas situações do dia-a-dia de sua carreira, ele se depara com situações sujeitas à incertezas, assimetrias de informação, restrições de recursos e pressões diversas.
 
