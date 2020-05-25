@@ -90,11 +90,13 @@ Para os especialistas consultados na pesquisa, certas competências como "tomar 
 
 **Desenvolvendo competências comportamentais** <br>
 
-Ao contrário das **habilidades** comportamentais, que resultam de características biológicas, cognitivas e socio-emocionais moldadas **antes da vida adulta**, as **competências** comportamentais profissionais só podem ser desenvolvidas ao término da formação profissionalizante de um indivíduo. Apesar de já estar preparado para desenvolver essas competências no terço final da sua formação, este processo de desenvolvimento só vai acontecer longo da carreira. 
+Ao contrário das **habilidades** comportamentais, que resultam de características biológicas, cognitivas e socio-emocionais moldadas **antes da vida adulta**, as **competências** comportamentais profissionais só podem ser desenvolvidas ao término da formação profissionalizante de um indivíduo. Apesar de já estar preparado para desenvolvê-las no terço final da sua formação, em grande parte dos casos, este desenvolvimento só acontece ao longo da carreira. 
 
-Por restrições diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Raramente, elas se empenham em avaliar as respostas técnicas de seus alunos para questões que não sejam colocadas em **condições ideais** e isentas de fatores inerentes da vida real, tais como riscos, incertezas e preferências. Somente, quando o profissional emprega seus conhecimentos e habilidades técnicas nas situações do dia-a-dia de sua carreira, ele se depara com situações sujeitas à incertezas, assimetrias de informação, restrições de recursos e pressões diversas.
+Por razões diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Raramente, elas se empenham em avaliar as respostas técnicas de seus alunos para questões que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes da vida real, tais como riscos, incertezas e preferências. 
 
-À medida que experimenta situações reais, ele vai **testando e descobrindo** as ferramentas **mais adequadas** às suas **próprias** habilidades comportamentais para atingir os resultados esperados, no tempo necessário e com os recursos disponíveis. Assim, cada indivíduo **incorpora à sua atuação profissional** um **repertório próprio** de conhecimentos, técnicas, estratégias e modelos com os quais ele conta, juntamente com suas competências técnicas, para desempenhar as suas funções.<br><br>
+Somente quando o profissional emprega os conhecimentos e habilidades técnicas nas situações do dia-a-dia da carreira, ele se depara com aspectos práticos importantes, como assimetrias de informação, restrições de recursos e pressões diversas.
+
+À medida que o profissional experimenta situações reais, ele vai **testando e descobrindo** as ferramentas **mais adequadas** às suas **próprias** habilidades comportamentais para atingir os resultados esperados. Assim, cada indivíduo **incorpora à sua atuação profissional** um **repertório próprio** de conhecimentos, técnicas, estratégias e modelos com os quais ele irá contar, juntamente com suas competências técnicas, para desempenhar as suas funções.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro1.png" width="500"><br>
@@ -103,9 +105,13 @@ Por restrições diversas, as escolas de formação profissionalizante se concen
 
 <br>
 
-Embora algumas empresas avaliem e informem as **habilidades** comportamentais de seus colaboradores com os diversos modelos disponíveis no mercado (DISC, MBTI, Big Five), na maioria das vezes, o desenvolvimento das competências comportamentais é **auto patrocinado** e executado de forma **natural** e **inconsciente**. Al´sm disso, dependendo dos estímulos à que são submetidos diferentes profissionais, este processo de desenvolvimento pode durar **muito tempo** até se concluir ou, até mesmo, não se concluir. 
+Embora algumas empresas avaliem e informem as **habilidades** comportamentais de seus colaboradores com os diversos modelos disponíveis no mercado (DISC, MBTI, Big Five), na maioria das vezes, o desenvolvimento das competências comportamentais é **auto patrocinado** e executado de forma **natural** e **inconsciente**. 
 
-Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas educacionais** se propõem a utilizar as situações reais do dia-a-dia em atividades de aprendizagem para, assim, estimular, de forma personalizada, o desenvolvimento das competências comportamentais. É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
+Além disso, dependendo dos estímulos à que são submetidos diferentes profissionais, este processo de desenvolvimento pode durar **muito tempo** até se concluir ou, até mesmo, não se concluir. 
+
+Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas educacionais** se propõem a utilizar as situações reais do dia-a-dia em atividades de aprendizagem. Desta forma, estimulam o desenvolvimento personalizado das competências comportamentais. 
+
+É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
 
 <p align="center">
   <img src="img/benchmark-pbl.png" width="500"><br>
