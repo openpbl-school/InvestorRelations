@@ -13,7 +13,7 @@ CLAUSE 1. The RECIPIENT acknowledges that the PROVIDER has provided him with CON
 CLAUSE 2. The CONFIDENTIAL INFORMATION OF THE SUPPLIER is disclosed to the RECIPIENT in absolute secrecy, so that the RECIPIENT, its employees, associated consultants and authorized auditors must use the information, solely and exclusively, to enable and develop the BUSINESS.
 § 1 - The sending and receiving of CONFIDENTIAL INFORMATION must always be done by a single interlocutor from each of the parties, appointed in this agreement.
 § 2 - The replacement of the interlocutor must be the subject of an amendment to this agreement.
-§ 3 - The interlocutors named for this agreement are: JORGE LUIZ CATALDO FALBO SANTO (Jorge.cataldo.br@gmail.com), by the PROVIDER, and:
+§ 3 - The interlocutors named for this agreement are: JORGE LUIZ CATALDO FALBO SANTO (jorge.cataldo.br@gmail.com), by the PROVIDER, and:
   
 by the RECIPIENT.
 
