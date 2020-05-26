@@ -231,6 +231,7 @@ Como forma de monetizar a inovação, os idealizadores elaboraram um **plano de 
 
 A função da **escola profissionalizante OpenPBL** é tangibilizar os benefícios do Sistema de Ensino, com o sucesso na tarefa de diferenciar os alunos da escola no mercado de trabalho. <br><br>
 
+
 **Dinâmica do Sistema de Ensino OpenPBL** <br>
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
@@ -253,7 +254,7 @@ Após esta última etapa, o aluno recebe:
 2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
 
 
-**Benefícios para o público alvo da escola**<br>
+**Benefícios para usuários do Sistema de Ensino**<br>
 
 Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
 
@@ -284,6 +285,13 @@ A consolidação das respostas apuradas indicam de forma clara que:
 2. O alunos percebem igual utilidade em quase todas as **competências comportamentais** que lhes foram apresentadas, não destacando importância entre elas.<br><br>
 
 
+**Escola profissionalizante OpenPBL** <br>
+
+Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+
+Para tal, os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
+
+A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
 
 
 **Público-alvo da escola** <br>
@@ -312,18 +320,9 @@ A combinação das **três classes** de público-alvo da escola com os dois **do
 <br>
 
 
-**Posicionamento da escola** <br>
-
-Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
-
-Para tal, os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
-
-A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
-
-
 **Objetivos de aprendizagem** <br>
 
-A dinâmica dos cursos e programas OpenPBL têm o objetivo de desenvolver no aluno **seis** grupos de **competências comportamentais**: 
+A dinâmica dos cursos e programas da **Escola OpenPBL** têm o objetivo de desenvolver no aluno **seis** grupos de **competências comportamentais**: 
 - Estruturação de **problemas mal definidos**; 
 - Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
 - Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
@@ -334,9 +333,9 @@ A dinâmica dos cursos e programas OpenPBL têm o objetivo de desenvolver no alu
 Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.<br><br>
 
 
-**Diferenciais** <br>
+**Diferenciais da escola** <br>
 
-Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
+Os cursos profissionalizantes da **Escola OpenPBL**, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
 - **Custo baixo** das experiências completas de aprendizagem PBL **para** caber em orçamentos de vários tamanhos.
 - Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
