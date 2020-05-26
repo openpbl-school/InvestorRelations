@@ -44,6 +44,8 @@ https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#englis
 **Non Disclosure Agreement** <br> 
 https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf
 
+https://openpbl-school.github.io/InvestorRelations/NDA
+
 <br>
 
 
