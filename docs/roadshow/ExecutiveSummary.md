@@ -221,40 +221,37 @@ Para **automatizar** e **integrar** os três sub-processos, os idealizadores do 
  - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
  - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
 
-Um **Sistema de Ensino** com estas características é **único** no mercado educacional. Seus componentes suportam as atividades de capacitação baseadas em problemas de escolas e empresas.<br><br><br>
+Um **Sistema de Ensino** com estas características é **único** no mercado educacional. Seus componentes integrados compõem um Sistema de Ensino capaz de viabilizar a oferta **sistemática** e **contínua** de atividades educacionais baseados unicamente em PBL.<br><br><br>
 
 
 
 
 ## O NEGÓCIO 
-Como forma de monetizar a inovação, os idealizadores elaboraram um **plano de negócios de cinco anos** para **produtizar** o método proposto na forma de um **Sistema de Ensino** e, com isso, criar da Edtech **OpenPBL**, uma **escola profissionalizante** capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em PBL.
+Como forma de monetizar a inovação, os idealizadores elaboraram um **plano de negócios de cinco anos** para criar a Edtech **OpenPBL**. As receitas da Edtech são provenientes do **licenciamento do Sistema de Ensino OpenPBL** para escolas e empresas e da **venda de cursos profissionalizantes** por uma escola própria. 
 
-As receitas da Edtech são provenientes da **venda de cursos profissionalizantes** e do **licenciamento do Sistema de Ensino** para escolas e empresas. <br><br>
+A função da **escola profissionalizante OpenPBL** é tangibilizar os benefícios do Sistema de Ensino, com o sucesso na tarefa de diferenciar os alunos da escola no mercado de trabalho. <br><br>
 
-**Público-alvo da escola** <br>
+**Dinâmica do Sistema de Ensino OpenPBL** <br>
 
-Os cursos e programas são destinados à **profissionais** (e aspirantes) com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio de competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
+Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
+1. Uma etapa preliminar de **preparação**, com atividades **online**, que correspondem a 95% da carga horária total do curso; 
+2. Uma etapa final de **discussão**, com uma sessão **presencial** de três horas, conduzida por um tutor, onde dez alunos se reunem para **analisar** as possíveis soluções para o problema proposto no curso. 
 
-<p align="center">
-  <img src="img/sum_quadro2.png" width="700"><br>
-</p>
-<p align="center"><em>Público-alvo com necessidades diversas e em fases distintas da carreira.</em>
-</p>
+Na etapa de **preparação**, o aluno: 
+1. Recebe o **conteúdo descritivo** do problema, bem como todo o material de apoio para o seu entendimento;
+2. Tem os seus **conhecimentos**, necessários para a análise do problema, **aferidos** por testes *online*, personalizados para a sua proficiência no assunto; 
+3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
+4. Ao final, **propõe a sua solução** ou soluções para o problema objeto do curso.<br>
 
-<br>
+Na etapa de **discussão**, o aluno: 
+1. Recebe uma lista de locais com detalhes da **infraestrutura**, **facilidades** e **tutoria** para uma sessão presencial de 3 horas com uma turma de 10 alunos; 
+2. Agenda a data e o local mais adequados;
+3. Participa da **dinâmica de discussões** em torno do problema proposto no curso, conduzidas pelo **tutor** da sessão.<br>
 
-**Mercado da escola** <br>
+Após esta última etapa, o aluno recebe: 
+1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
+2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
 
-A combinação das **três classes** de público-alvo da escola com os dois **dois níveis** de progressão de ensino regular definem os **seis segmentos** de mercado, elegíveis para a atuação da escola. Alguns destes segmentos são tradicionais no setor educacional, tais como **educação executiva** e **educação corporativa**. Assim, o cálculo do tamanho do **mercado potencial da escola**, deve considerar as variáveis demográficas e cada **localidade geográfica** onde é analisada a atuação da escola. <br><br>
-
-<p align="center">
-<img src="img/target-segments.png" width="400">
-</p>
-<p align="center">
-<em>Segmentos-alvo da OpenPBL e os segmentos tradicionais do mercado educacional.</em>
-</p>
-
-<br>
 
 **Benefícios para o público alvo da escola**<br>
 
@@ -287,6 +284,34 @@ A consolidação das respostas apuradas indicam de forma clara que:
 2. O alunos percebem igual utilidade em quase todas as **competências comportamentais** que lhes foram apresentadas, não destacando importância entre elas.<br><br>
 
 
+
+
+**Público-alvo da escola** <br>
+
+Os cursos e programas são destinados à **profissionais** (e aspirantes) com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio de competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
+
+<p align="center">
+  <img src="img/sum_quadro2.png" width="700"><br>
+</p>
+<p align="center"><em>Público-alvo com necessidades diversas e em fases distintas da carreira.</em>
+</p>
+
+<br>
+
+**Mercado da escola** <br>
+
+A combinação das **três classes** de público-alvo da escola com os dois **dois níveis** de progressão de ensino regular definem os **seis segmentos** de mercado, elegíveis para a atuação da escola. Alguns destes segmentos são tradicionais no setor educacional, tais como **educação executiva** e **educação corporativa**. Assim, o cálculo do tamanho do **mercado potencial da escola**, deve considerar as variáveis demográficas e cada **localidade geográfica** onde é analisada a atuação da escola. <br><br>
+
+<p align="center">
+<img src="img/target-segments.png" width="400">
+</p>
+<p align="center">
+<em>Segmentos-alvo da OpenPBL e os segmentos tradicionais do mercado educacional.</em>
+</p>
+
+<br>
+
+
 **Posicionamento da escola** <br>
 
 Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
@@ -294,26 +319,6 @@ Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcio
 Para tal, os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
 A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
-
-**Dinâmica dos cursos e programas OpenPBL** <br>
-Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
-1. Uma etapa preliminar de **preparação**, com atividades **online**, que correspondem a 95% da carga horária total do curso; 
-2. Uma etapa final de **discussão**, com uma sessão **presencial** de três horas, conduzida por um tutor, onde dez alunos se reunem para **analisar** as possíveis soluções para o problema proposto no curso. 
-
-Na etapa de **preparação**, o aluno: 
-1. Recebe o **conteúdo descritivo** do problema, bem como todo o material de apoio para o seu entendimento;
-2. Tem os seus **conhecimentos**, necessários para a análise do problema, **aferidos** por testes *online*, personalizados para a sua proficiência no assunto; 
-3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
-4. Ao final, **propõe a sua solução** ou soluções para o problema objeto do curso.<br>
-
-Na etapa de **discussão**, o aluno: 
-1. Recebe uma lista de locais com detalhes da **infraestrutura**, **facilidades** e **tutoria** para uma sessão presencial de 3 horas com uma turma de 10 alunos; 
-2. Agenda a data e o local mais adequados;
-3. Participa da **dinâmica de discussões** em torno do problema proposto no curso, conduzidas pelo **tutor** da sessão.<br>
-
-Após esta última etapa, o aluno recebe: 
-1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
-2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
 
 
 **Objetivos de aprendizagem** <br>
@@ -362,9 +367,6 @@ Os clientes-alvo da OpenPBL nestes segmentos de educação corporativa são **gr
 
 
 ## EXECUÇÃO DO PLANO DE NEGÓCIOS
-
-**Time executivo** <br>
-
 Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**. Em especial, os empreendedores têm experiências complementares (comercial e operações) na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
 1. Grande abrangência territorial e diversidade de infraestrutura presencial;
 2. Grande quantidade e dispersão dos colaboradores envolvidos; 
@@ -429,7 +431,7 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
 
 **Plano financeiro** <br>
 
-O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a>)
+O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a>
 
 <br><br>
 
