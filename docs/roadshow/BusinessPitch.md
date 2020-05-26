@@ -66,21 +66,21 @@ The objective of the current roadshow is to raise US $ 132,000 divided into four
 
 ### OPEN-PBL - IDEA DE NEGOCIO
 
-Según una encuesta reciente realizada por el Foro Económico Mundial con **gerentes de recursos humanos**, lo que diferencia a los profesionales en un mundo cada vez más globalizado, dinámico y automatizado ya no es el dominio de los conocimientos y habilidades técnicas de la profesión, sino el uso de algunos importantes. **habilidades de comportamiento** en las tareas del día a día.
+Según una encuesta reciente realizada por el Foro Económico Mundial con **gerentes de recursos humanos**, lo que diferencia a los profesionales en un mundo cada vez más globalizado, dinámico y automatizado ya no es el dominio de los conocimientos y habilidades técnicas de la profesión, sino el uso de algunas importantes **habilidades de comportamiento** en las tareas del día a día.
 
-Aunque las empresas exigen cada vez más profesionales con estas habilidades, la **oferta** de cursos y programas educativos específicos para desarrollarlos **no es suficiente** para cumplir con los requisitos de precio y disponibilidad requeridos por **profesionales** y **entrantes** en el mercado laboral.
+Aunque las empresas exigen cada vez más profesionales con estas habilidades, la **oferta** de cursos y programas educativos específicos para desarrollarlas **no es suficiente** por no cumplir con los requisitos de precios y alcance que están siendo requeridos por **profesionales** y **entrantes** en el mercado laboral.
 
-Para aprovechar la oportunidad generada por este **desequilibrio**, los ejecutivos experimentados en el sector educativo proponen un método **innovador**, basado en el uso de **activos de terceros** y el **uso intensivo de inteligencia artificial**.
+Para aprovechar la oportunidad generada por este **desequilibrio**, ejecutivos experimentados en el sector educativo proponen un método **innovador**, basado en el uso de **activos de terceros** y el **uso intensivo de inteligencia artificial**.
 
-El método aumenta considerablemente la **escalabilidad** de la ejecución de cursos que utilizan una **estrategia de aprendizaje** probada **efectiva** en el desarrollo de habilidades de comportamiento: a *Aprendizaje basado en problemas (PBL)*.
+El método aumenta considerablemente la **escalabilidad** de la ejecución de cursos que utilizan una **estrategia de aprendizaje** probada **efectiva** en el desarrollo de habilidades de comportamiento: el *Aprendizaje basado en problemas (PBL)*.
 
 <p align = "center">
     ...
 </p>
 
-Como una forma de monetizar la innovación, los creadores desarrollaron un plan de negocios para producir el método propuesto en forma de un **Sistema de Enseñanza** y, con eso, crear una ** escuela vocacional ** capaz de hacer el sistema sistemático y programas educativos basados únicamente en PBL.
+Como una forma de monetizar la innovación, los creadores desarrollaron un plan de negocios para producir el método propuesto en forma de un **Sistema de Enseñanza** y, con eso, crear una **escuela vocacional** capaz de viabilizar la oferta sistemática y contínua de programas educativos basados únicamente en PBL.
 
-Los ingresos de Edtech provienen de la **venta de cursos vocacionales** y la **icencia del Sistema Educativo** para escuelas y empresas. Las simulaciones financieras del modelo de negocio muestran que, con una inversión inicial mínima de US $ 47,000 para **producción de contenido** y **capital de trabajo**, es posible lograr ingresos netos de US $ 1.94 millones (EBITDA 42% NR) en el quinto año de operación de la compañía.
+Los ingresos de Edtech provienen de la **venta de cursos vocacionales** y la **venta de licencia del Sistema de Enseñanza** para escuelas y empresas. Las simulaciones financieras del modelo de negocio muestran que, con una inversión inicial mínima de US $ 47,000 para **producción de contenido** y **capital de trabajo**, es posible lograr ingresos netos de US $ 1.94 millones (EBITDA 42% NR) en el quinto año de operación de la compañía.
 
 <p align = "center">
     ...
@@ -88,7 +88,7 @@ Los ingresos de Edtech provienen de la **venta de cursos vocacionales** y la **i
 
 Todos los pasos de expansión previstos en el plan serán financiados por **capital de riesgo** y la principal regla de salida para atraer inversores es la **venta estratégica** de la compañía a un grupo educativo.
 
-El objetivo del roadshow actual es recaudar US $ 132,000 dividido en cuatro cuotas de US $ 33,000 para **desarrollar sistemas de software**, **producir contenido** y para **capital de trabajo** requerido en el período *startup* de la empresa en la ciudad de São Paulo.
+El objetivo del roadshow actual es recaudar US $ 132,000 dividido en cuatro cuotas de US $ 33,000 para **desarrollar sistemas de software**, **producir contenido** y **capital de trabajo** requerido en el período *startup* de la empresa en la ciudad de São Paulo.
 
 <p align = "center">
     ...
