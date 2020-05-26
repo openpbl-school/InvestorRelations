@@ -26,10 +26,9 @@ CLAUSE 5. This Agreement shall be governed by the laws of BRAZIL without regard 
 IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date set forth above.<br><br>
 
 <p align="center">    
-    ---
+    ____________________________________
 </p>
 
-<br>
 <p align="center">    
     <a href="https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
 </p>
