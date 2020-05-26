@@ -25,7 +25,9 @@ CLAUSE 5. This Agreement shall be governed by the laws of BRAZIL without regard 
 
 IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date set forth above.<br><br>
 
-<hr/>
+<p align="center">    
+    ---
+</p>
 
 <br>
 <p align="center">    
