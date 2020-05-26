@@ -29,8 +29,8 @@ RIO DE JANEIRO,
 Witnesses:
 
 
-
-<a href="https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
-
+<p align="center">    
+    <a href="https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
+</p>
 
 
