@@ -99,7 +99,6 @@ Para aproveitar a oportunidade gerada por este **desequilíbrio**, experientes e
 
 O método aumenta consideravelmente a **escalabilidade** da execução de cursos que utilizam uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
 
-<br>
 <p align="center">    
     ... 
 </p> 
