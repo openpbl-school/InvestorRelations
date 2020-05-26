@@ -27,7 +27,7 @@ The method considerably increases the **scalability** of the execution of course
 
 As a way to monetize innovation, the creators developed a business plan to produce the proposed method in the form of a **Teaching System** and, with that, create a **vocational school** capable of making the systematic and education programs based solely on PBL.
 
-Edtech's revenues come from the **sale of vocational courses** and the **licensing of the Education System** for schools and companies. Financial simulations of the business model show that, with a minimum initial investment of US $ 47,000 for **content production** and **working capital**, it is possible to achieve net revenues of US $ 1.94 million (EBITDA 42% NR) in the company's fifth year of operation.
+Edtech's revenues come from the **sale of vocational courses** and the **licensing of the Teaching System** for schools and companies. Financial simulations of the business model show that, with a minimum initial investment of US $ 47,000 for **content production** and **working capital**, it is possible to achieve net revenues of US $ 1.94 million (EBITDA 42% NR) in the company's fifth year of operation.
 
 <p align = "center">
     ...
@@ -64,15 +64,37 @@ The objective of the current roadshow is to raise US $ 132,000 divided into four
 <a name="spanish"></a> 
 <br>
 
-### OPEN-PBL - PRESENTACIÓN DE IDEA DE NEGOCIO
-Resumen del roadshow de recaudación de fondos de 2020.
+### OPEN-PBL - IDEA DE NEGOCIO
 
-**...**
+Según una encuesta reciente realizada por el Foro Económico Mundial con **gerentes de recursos humanos**, lo que diferencia a los profesionales en un mundo cada vez más globalizado, dinámico y automatizado ya no es el dominio de los conocimientos y habilidades técnicas de la profesión, sino el uso de algunos importantes. **habilidades de comportamiento** en las tareas del día a día.
 
-(Pronto también disponible en la versión en español)
-...
+Aunque las empresas exigen cada vez más profesionales con estas habilidades, la **oferta** de cursos y programas educativos específicos para desarrollarlos **no es suficiente** para cumplir con los requisitos de precio y disponibilidad requeridos por **profesionales** y **entrantes** en el mercado laboral.
 
-*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
+Para aprovechar la oportunidad generada por este **desequilibrio**, los ejecutivos experimentados en el sector educativo proponen un método **innovador**, basado en el uso de **activos de terceros** y el **uso intensivo de inteligencia artificial**.
+
+El método aumenta considerablemente la **escalabilidad** de la ejecución de cursos que utilizan una **estrategia de aprendizaje** probada **efectiva** en el desarrollo de habilidades de comportamiento: a *Aprendizaje basado en problemas (PBL)*.
+
+<p align = "center">
+    ...
+</p>
+
+Como una forma de monetizar la innovación, los creadores desarrollaron un plan de negocios para producir el método propuesto en forma de un **Sistema de Enseñanza** y, con eso, crear una ** escuela vocacional ** capaz de hacer el sistema sistemático y programas educativos basados únicamente en PBL.
+
+Los ingresos de Edtech provienen de la **venta de cursos vocacionales** y la **icencia del Sistema Educativo** para escuelas y empresas. Las simulaciones financieras del modelo de negocio muestran que, con una inversión inicial mínima de US $ 47,000 para **producción de contenido** y **capital de trabajo**, es posible lograr ingresos netos de US $ 1.94 millones (EBITDA 42% NR) en el quinto año de operación de la compañía.
+
+<p align = "center">
+    ...
+</p>
+
+Todos los pasos de expansión previstos en el plan serán financiados por **capital de riesgo** y la principal regla de salida para atraer inversores es la **venta estratégica** de la compañía a un grupo educativo.
+
+El objetivo del roadshow actual es recaudar US $ 132,000 dividido en cuatro cuotas de US $ 33,000 para **desarrollar sistemas de software**, **producir contenido** y para **capital de trabajo** requerido en el período *startup* de la empresa en la ciudad de São Paulo.
+
+<p align = "center">
+    ...
+</p>
+
+*1. El **resumen ejecutivo** del plan está disponible para inversores interesados ​​en <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank"> Resumen ejecutivo de OpenPBL </a>.*
 
 *2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://openpbl-school.github.io/Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
 
