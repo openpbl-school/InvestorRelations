@@ -108,13 +108,17 @@ produtizar o método proposto na forma de um **Sistema de Ensino** e, com isso, 
 
 As receitas da Edtech são provenientes da **venda de cursos** profissionalizantes e do **licenciamento do Sistema de Ensino** para escolas e empresas. Simulações financeiras do modelo de negócios mostram que, com um investimento inicial mínimo de US $ 47.000 para a **produção de conteúdo** e **capital de giro**, é possível atingir receitas líquidas de US $ 1,94 milhão (EBITDA 42% RL) no quinto ano de operação da empresa.
 
-...
+<p align="center">    
+    ... 
+</p> 
 
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
 O objetivo do atual roadshow é a captação de US $ 132.000 divididos em quatro quotas de US $ 33.000 para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
 
-... 
+<p align="center">    
+    ... 
+</p>  
 
 *1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank">OpenPBL Executive Summary</a>.*
 
