@@ -91,20 +91,22 @@ Resumen del roadshow de recaudación de fondos de 2020.
 
 ### OPEN-PBL - IDEIA 
 
-**A OPORTUNIDADE E A PROPOSTA** <br>
-Cada vez mais, as empresas vêm demandando dos profissionais de **todos os seus níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. No entanto, a atual oferta de **programas educacionais** que desenvolvem esse tipo de competência **não é suficiente** para suprir a necessidade de **profissionais** e **entrantes** no mercado de trabalho.
+Cada vez mais, as empresas vêm demandando dos profissionais de **todos os seus níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. No entanto, a atual oferta de **programas educacionais** que desenvolvem esses tipos de competência **não é suficiente** para suprir a necessidade de **profissionais** e **entrantes** no mercado de trabalho.
 
-Para aproveitar a oportunidade gerada pelo desequilíbrio no mercado de capacitação profissional, experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. O modelo aumenta consideravelmente a **escalabilidade** de programas educacionais que utilizam a *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. 
+Para aproveitar a oportunidade gerada pelo **desequilíbrio** no mercado de capacitação profissional, experientes executivos do setor educacional propõem um modelo de negócios **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. O modelo aumenta consideravelmente a **escalabilidade** de programas educacionais que utilizam a *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais. 
 
-**O NEGÓCIO E A EXECUÇÃO** <br>
-Os idealizadores elaboraram um plano de negócios para criar a Edtech **OpenPBL**, uma **escola profissionalizante de educação continuada** que utiliza o modelo proposto para ofertar programas baseados em PBL. O plano prevê o desenvolvimento de **sistemas de software** para automatizar o modelo e garantir uma rápida **expansão das atividades da escola**. 
+... <br>
 
-As simulações financeiras do plano de negócios mostram que é necessário um **investimento** inicial **mínimo** de R$ 160.000 em **produção de conteúdo** para alcançar uma base de 2.500 alunos e **receitas líquidas** de R$ 5 milhões (EBITDA 55% RL) no **quinto ano** de operação. Graças ao potencial de escalabilidade do modelo, este **desempenho** (*"investimento em conteúdo -> receita no quinto ano"*) pode ser replicado ou ampliado proporcionalmente sem custos adicionais.
+Os idealizadores elaboraram um plano de negócios para criar a Edtech **OpenPBL**, uma **escola profissionalizante** apoiada em um **Sistema de Ensino** inovador, capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*. As receitas da Edtech são provenientes da **venda de cursos** e do **licenciamento do Sistema de Ensino** para escolas e empresas.  
 
-**FINANCIAMENTO** <br>
+Simulações financeiras do modelo de negócios mostram que, com um investimento inicial mínimo de US $ 47.000 para a **produção de conteúdo** e **capital de giro**, é possível atingir receitas líquidas de US $ 1,94 milhão (EBITDA 42% RL) no quinto ano de operação da empresa.
+
+... <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de R$ 652.000 (**quatro quotas** de R$ 163.000) para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
+O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de US $ 132.000 divididos em quatro quotas de US $ 33.000 para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
+
+O **sumário executivo** está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL Executive Summary</a>.
 
 ... 
 
