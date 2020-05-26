@@ -110,13 +110,11 @@ As receitas da Edtech são provenientes da **venda de cursos** profissionalizant
 
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação de US $ 132.000 divididos em quatro quotas de US $ 33.000 para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
-
-O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL Executive Summary</a>.
+O objetivo do atual roadshow é a captação de US $ 132.000 divididos em quatro quotas de US $ 33.000 para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
 
 ... 
 
-*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
+*1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank">OpenPBL Executive Summary</a>.*
 
 *2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* 
 
