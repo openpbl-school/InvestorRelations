@@ -1,4 +1,6 @@
-**NON-DISCLOSURE AGREEMENT**
+<p align="center">    
+ <b> NON-DISCLOSURE AGREEMENT </b>
+</p>
 
 Under this agreement and in the best form of law, the company *GAVEAPAR SERVIÇOS DE APOIO ADMINISTRATIVO LTDA*, an Brazilian company registered with the ID *CNPJ 17.829.571/0001-36*, headquartered at *Rua Coronel Madureira, 40 - loja 9, Centro, Município de Saquarema, RJ, Brasil, CEP 28990-000*, hereby represented as required in its bylaws, hereinafter referred to as PROVIDER, and:
   
