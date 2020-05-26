@@ -227,9 +227,11 @@ Um **Sistema de Ensino** com estas características é **único** no mercado edu
 
 
 ## O NEGÓCIO 
-Como forma de por em prática a proposta para escalar a PBL, os idealizadores do projeto elaboraram um **plano de negócios de cinco anos** para a criação e a expansão da Edtech **OpenPBL**, uma **escola profissionalizante** com um **Sistema de Ensino** inovador responsável por viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em *Problem-based Learning*.<br><br>
+Como forma de monetizar a inovação, os idealizadores elaboraram um **plano de negócios de cinco anos** para **produtizar** o método proposto na forma de um **Sistema de Ensino** e, com isso, criar da Edtech **OpenPBL**, uma **escola profissionalizante** capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em PBL.
 
-**Público-alvo** <br>
+As receitas da Edtech são provenientes da **venda de cursos profissionalizantes** e do **licenciamento do Sistema de Ensino** para escolas e empresas. <br><br>
+
+**Público-alvo da escola** <br>
 
 Os cursos e programas são destinados à **profissionais** (e aspirantes) com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio de competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
 
@@ -241,7 +243,7 @@ Os cursos e programas são destinados à **profissionais** (e aspirantes) com o 
 
 <br>
 
-**Mercado** <br>
+**Mercado da escola** <br>
 
 A combinação das **três classes** de público-alvo da escola com os dois **dois níveis** de progressão de ensino regular definem os **seis segmentos** de mercado, elegíveis para a atuação da escola. Alguns destes segmentos são tradicionais no setor educacional, tais como **educação executiva** e **educação corporativa**. Assim, o cálculo do tamanho do **mercado potencial da escola**, deve considerar as variáveis demográficas e cada **localidade geográfica** onde é analisada a atuação da escola. <br><br>
 
@@ -254,7 +256,7 @@ A combinação das **três classes** de público-alvo da escola com os dois **do
 
 <br>
 
-**Benefícios ao público alvo**<br>
+**Benefícios para o público alvo da escola**<br>
 
 Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
 
@@ -284,7 +286,9 @@ A consolidação das respostas apuradas indicam de forma clara que:
 1. Os alunos percebem uma maior importância na avaliação da escola na **capacidade profissional de resolução de problemas** em comparação com outros objetivos de avaliação.
 2. O alunos percebem igual utilidade em quase todas as **competências comportamentais** que lhes foram apresentadas, não destacando importância entre elas.<br><br>
 
+
 **Posicionamento da escola** <br>
+
 Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Para tal, os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
@@ -311,7 +315,9 @@ Após esta última etapa, o aluno recebe:
 1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
 2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
 
+
 **Objetivos de aprendizagem** <br>
+
 A dinâmica dos cursos e programas OpenPBL têm o objetivo de desenvolver no aluno **seis** grupos de **competências comportamentais**: 
 - Estruturação de **problemas mal definidos**; 
 - Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
@@ -322,14 +328,18 @@ A dinâmica dos cursos e programas OpenPBL têm o objetivo de desenvolver no alu
 
 Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.<br><br>
 
+
 **Diferenciais** <br>
+
 Os cursos profissionalizantes OpenPBL, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
 - **Custo baixo** das experiências completas de aprendizagem PBL **para** caber em orçamentos de vários tamanhos.
 - Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
 - Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. <br><br>
 
+
 **Sistema de Ensino OpenPBL** <br>
+
 O sucesso na tarefa de diferenciar os alunos da escola no mercado de trabalho, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para outras instituições do setor educacional. Inicialmente, para outras escolas profissionalizantes e, num segundo momento, para um espectro mais amplo de instituições de ensino.
 
 As ofertas comerciais para licenciamento do *Sistema de Ensino OpenPBL* discriminam necessariamente:
@@ -338,7 +348,9 @@ As ofertas comerciais para licenciamento do *Sistema de Ensino OpenPBL* discrimi
 - As faixas de franquia divididas por **quantidade de usuários** para a utilização ilimitada do sistema;
 - O **valor mensal por usuário** para cada faixa de franquia.<br><br>
 
+
 **Educação corporativa** <br>
+
 A produtização e comercialização do **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **trilhas funcionais** baseadas em PBL totalmente **customizadas** para terceiros. Assim, é possível explorar os segmentos V e VI do público-alvo com a ofertas comerciais com soluções para que empresas promovam a **desenvolvimento de competências comportamentais em seus funcionários e colaboradores**.  
 
 Os clientes-alvo da OpenPBL nestes segmentos de educação corporativa são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo. Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa. Assim, as soluções são organizadas em 5 grupos para que os profissionais de T&D tenham suporte em todas as suas demandas, desde o planejamento até a gestão da execução de um **projeto de educação corporativa baseado em *Problem-based Learning*.** 
@@ -352,6 +364,7 @@ Os clientes-alvo da OpenPBL nestes segmentos de educação corporativa são **gr
 ## EXECUÇÃO DO PLANO DE NEGÓCIOS
 
 **Time executivo** <br>
+
 Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**. Em especial, os empreendedores têm experiências complementares (comercial e operações) na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
 1. Grande abrangência territorial e diversidade de infraestrutura presencial;
 2. Grande quantidade e dispersão dos colaboradores envolvidos; 
@@ -364,6 +377,7 @@ Os perfis profissionais complementares credenciam os idealizadores a liderarem a
 - Perfil executivo 2 (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
 
 **Greenfield** <br>
+
 No Brasil, a base de dados do MEC/INEP é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente 8.450.000 de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.2560.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
 
 A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante por apresentar **grande densidade populacional**, **grande variedade de cursos de graduação**, além de **muitas oções de co-workings**. Segundo o INEP, o tamanho do segmento II na cidade de São Paulo é de **130.000** potenciais alunos, se considerarmos apenas os cursos superiores tradicionalmente mais demandados, como:
@@ -377,6 +391,7 @@ A cidade de São Paulo foi escolhida para o lançamento da escola profissionaliz
 </p><br>
 
 **Startup** <br>
+
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
 - Abertura formal e pré-operação da empresa na **cidade São Paulo**. 
 - Elaborar testes com um “**concierge MVP**” para validar as premissas de **custos de execução** das sessões presenciais (utilização do *capital semente*).
@@ -386,17 +401,20 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 - Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br><br>
 
 **Canais de comercialização B2C** <br>
+
 A política de **canais B2C** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
 - Marketplaces digitais com foco educacional (*Udemy, ...*); 
 - Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
 - Agências intermediadoras de recrutamento e seleção profissional.<br><br>
 
 **Canais de comercialização B2B** <br>
+
 A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas.
 
 A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
 
 **Desempenho global** <br>
+
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 47.000** para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de **760 alunos** na escola profissionalizante e **7.500 alunos** licenciados no Sistema de Ensino e **receitas líquidas** de **US $ 1,94 milhão** (EBITDA 42% RL) no **quinto ano** de operação da empresa. 
 
 As simulações utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
@@ -410,6 +428,7 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
 <br>
 
 **Plano financeiro** <br>
+
 O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a>)
 
 <br><br>
@@ -418,6 +437,7 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
 Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
 
 **Desenvolvimento de software** <br>
+
 Para desenho, implantação e testes do **sistema educacional** são necessários investimentos que devem ser contabilizados, em sua maior parte, como despesa de capital" (CAPEX) para **desenvolvimento de software**. 
 
 Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** a ser desenvolvido são: 
@@ -430,6 +450,7 @@ Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL
 - *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br>
 
 **Novas frentes de negócios** <br>
+
 A partir do desenvolvimento do sistema educacional será possível a expansão dos negócios da empresa em **três novas frentes**:
 - Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Green field*);
 - Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
@@ -437,16 +458,21 @@ A partir do desenvolvimento do sistema educacional será possível a expansão d
 
 Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br><br>
 
+
+
 ## FINANCIAMENTO DO PROJETO
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão adotada.<br><br>
 
 **Regra de saída** <br>
+
 A principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.<br><br> 
 
 **Governança** <br>
+
 A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
 
 **Capital Semente** <br>
+
 Ao todo, já foram captados **US $ 27.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo. 
 
 O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de **US $ 132.000** (R$ 727.000) divididos em **quatro quotas** de **US $ 33.000** (R$ 181.000). 
