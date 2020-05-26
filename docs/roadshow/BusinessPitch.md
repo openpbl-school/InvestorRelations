@@ -116,7 +116,7 @@ O objetivo do atual roadshow é a captação de US $ 132.000 divididos em quatro
 
 *1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank">OpenPBL Executive Summary</a>.*
 
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* 
+*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br>
 
 
 
