@@ -23,11 +23,11 @@ CLAUSE 4. If the partnership is not implemented, the PROVIDER will remain the ho
 § 1 - The PROVIDER is entitled to decide, at any time, on the termination of the partner and the termination of this AGREEMENT.
 CLAUSE 5. This Agreement shall be governed by the laws of BRAZIL without regard to conflicts of law rules. Each  of  the  parties hereto agrees that  (a) any legal action brought in connection  with  this  Agreement shall  be  brought  in  the  federal  or  state  courts  located  within  the City of RIO DE JANEIRO, RJ, and (b) any right of the undersigned to trial by jury with respect to any claim or action arising out of this Agreement is waived.
 
-IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date set forth above.
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date set forth above.<br>
 
-<hl>
+<hr/>
 
-
+<br>
 <p align="center">    
     <a href="https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
 </p>
