@@ -91,21 +91,19 @@ Resumen del roadshow de recaudación de fondos de 2020.
 
 ### OPEN-PBL - IDEIA 
 
-Cada vez mais, as empresas vêm demandando dos profissionais de **todos os seus níveis hierárquicos** que desenvolvam as **competências comportamentais** que lhes permitam, não só alcançar os **resultados esperados**, mas alcançá-los da forma **mais eficiente** possível. No entanto, a atual oferta de **programas educacionais** que desenvolvem esses tipos de competência **não é suficiente** para suprir a necessidade de **profissionais** e **entrantes** no mercado de trabalho.
+Segundo recente pesquisa do Fórum Econômico Mundial com **gestores de RH**, o que diferencia os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é mais o domínio de  conhecimentos e habilidades técnicas, mas a utilização de algumas importantes **competências comportamentais** no dia-a-dia de seuas funções.   
 
+Embora, as empresas estejam demandando cada vez mais profissionais com o domínio destas  competências, a **oferta** de cursos e programas educacionais específicos para desenvolvê-las **não é suficiente** para atender os requisitos de preço e disponibilidade requeridos por **profissionais** e **entrantes** no mercado de trabalho.
 
-Segundo recente pesquisa do Fórum Econômico Mundial com **gestores de RH** de todo o mundo, o que diferencia os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes competências comportamentais. 
+Para aproveitar a oportunidade gerada por este **desequilíbrio**, experientes executivos do setor educacional propõem um método **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. 
 
-Embora, as empresas venham demandando cada vez mais profissionais com essas competências, a oferta de cursos e programas educacionais específicos para esse fim não é suficiente para atender os requisitos de preço e disponibilidade de **profissionais** e **entrantes** no mercado de trabalho.
-
-Para aproveitar a oportunidade gerada por este **desequilíbrio** no mercado de capacitação profissional, experientes executivos do setor educacional propõem um método **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. 
-
-O método aumenta consideravelmente a **escalabilidade** de programas educacionais que utilizam uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de habilidades comportamentais: a *Problem Based Learning (PBL)*.
+O método aumenta consideravelmente a **escalabilidade** da execução de cursos que utilizam uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
 
 ... <br>
-Como forma de meonetizar a inovação proposta, os idealizadores elaboraram um plano de negócios para criar uma **escola profissionalizante** apoiada em um **Sistema de Ensino** inovador, capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em PBL. 
+Como forma de monetizar a inovação, os idealizadores elaboraram um plano de negócios para 
+produtizar o método proposto na forma de um **Sistema de Ensino** e assim criar uma **escola profissionalizante** capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em PBL. 
 
-As receitas da Edtech são provenientes da **venda de cursos** e do **licenciamento do Sistema de Ensino** para escolas e empresas. Simulações financeiras do modelo de negócios mostram que, com um investimento inicial mínimo de US $ 47.000 para a **produção de conteúdo** e **capital de giro**, é possível atingir receitas líquidas de US $ 1,94 milhão (EBITDA 42% RL) no quinto ano de operação da empresa.
+As receitas da Edtech são provenientes da **venda de cursos** profissionalizantes e do **licenciamento do Sistema de Ensino** para escolas e empresas. Simulações financeiras do modelo de negócios mostram que, com um investimento inicial mínimo de US $ 47.000 para a **produção de conteúdo** e **capital de giro**, é possível atingir receitas líquidas de US $ 1,94 milhão (EBITDA 42% RL) no quinto ano de operação da empresa.
 
 ... <br>
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
