@@ -91,9 +91,9 @@ Resumen del roadshow de recaudación de fondos de 2020.
 
 ### OPEN-PBL - IDEIA 
 
-Segundo recente pesquisa do Fórum Econômico Mundial com **gestores de RH**, o que diferencia os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é mais o domínio de  conhecimentos e habilidades técnicas, mas a utilização de algumas importantes **competências comportamentais** no dia-a-dia de seuas funções.   
+Segundo recente pesquisa do Fórum Econômico Mundial com **gestores de RH**, o que diferencia os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é mais o domínio dos  conhecimentos e habilidades técnicas da profissão, mas a utilização de algumas importantes **competências comportamentais** no dia-a-dia de suas tarefas.   
 
-Embora, as empresas estejam demandando cada vez mais profissionais com o domínio destas  competências, a **oferta** de cursos e programas educacionais específicos para desenvolvê-las **não é suficiente** para atender os requisitos de preço e disponibilidade requeridos por **profissionais** e **entrantes** no mercado de trabalho.
+Embora, as empresas estejam demandando cada vez mais profissionais com estas competências, a **oferta** de cursos e programas educacionais específicos para desenvolvê-las **não é suficiente** para atender os requisitos de preço e disponibilidade requeridos por **profissionais** e **entrantes** no mercado de trabalho.
 
 Para aproveitar a oportunidade gerada por este **desequilíbrio**, experientes executivos do setor educacional propõem um método **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. 
 
@@ -101,7 +101,7 @@ O método aumenta consideravelmente a **escalabilidade** da execução de cursos
 
 ... <br>
 Como forma de monetizar a inovação, os idealizadores elaboraram um plano de negócios para 
-produtizar o método proposto na forma de um **Sistema de Ensino** e assim criar uma **escola profissionalizante** capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em PBL. 
+produtizar o método proposto na forma de um **Sistema de Ensino** e, com isso, criar uma **escola profissionalizante** capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em PBL. 
 
 As receitas da Edtech são provenientes da **venda de cursos** profissionalizantes e do **licenciamento do Sistema de Ensino** para escolas e empresas. Simulações financeiras do modelo de negócios mostram que, com um investimento inicial mínimo de US $ 47.000 para a **produção de conteúdo** e **capital de giro**, é possível atingir receitas líquidas de US $ 1,94 milhão (EBITDA 42% RL) no quinto ano de operação da empresa.
 
