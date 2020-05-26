@@ -99,7 +99,10 @@ Para aproveitar a oportunidade gerada por este **desequilíbrio**, experientes e
 
 O método aumenta consideravelmente a **escalabilidade** da execução de cursos que utilizam uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
 
-... 
+<br>
+<p align="center">    
+    ... 
+</p> 
 
 Como forma de monetizar a inovação, os idealizadores elaboraram um plano de negócios para 
 produtizar o método proposto na forma de um **Sistema de Ensino** e, com isso, criar uma **escola profissionalizante** capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em PBL. 
