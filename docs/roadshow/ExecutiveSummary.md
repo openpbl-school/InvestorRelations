@@ -408,9 +408,7 @@ A política de **canais B2C** para os **dois primeiros anos de operação** deve
 - Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
 - Agências intermediadoras de recrutamento e seleção profissional.
 
-A estratégia de atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">CustomerAcquisition Strategy</a>.
-
-<br><br>
+A estratégia de atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">CustomerAcquisition Strategy</a>.<br><br>
 
 **Comercialização B2B** <br>
 
