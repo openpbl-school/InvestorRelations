@@ -401,14 +401,18 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. 
 - Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br><br>
 
-**Canais de comercialização B2C** <br>
+**Comercialização B2C** <br>
 
 A política de **canais B2C** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
 - Marketplaces digitais com foco educacional (*Udemy, ...*); 
 - Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
-- Agências intermediadoras de recrutamento e seleção profissional.<br><br>
+- Agências intermediadoras de recrutamento e seleção profissional.
 
-**Canais de comercialização B2B** <br>
+A estratégia de atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target=_blank">CustomerAcquisition Strategy</a>.
+
+<br><br>
+
+**Comercialização B2B** <br>
 
 A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas.
 
