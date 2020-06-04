@@ -358,9 +358,7 @@ Os cursos profissionalizantes da **Escola OpenPBL**, quando comparados com **pro
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
 - Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. 
 
-Estes atributos norteiam a estratégia de comunicação B2C e B2B para atração e converção de leads. O plano detalhado pode ser acessado em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.
-
-O elementos da **estratégia de comunicação** definem os elementos da *home page* da escola <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.<br><br>
+Estes atributos norteiam a estratégia de comunicação B2C e B2B. A estratégia de atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.<br><br>
 
 
 **Sistema de Ensino OpenPBL** <br>
@@ -424,6 +422,7 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. 
 - Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br><br>
 
+
 **Comercialização B2C** <br>
 
 A política de **canais B2C** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
@@ -431,13 +430,15 @@ A política de **canais B2C** para os **dois primeiros anos de operação** deve
 - Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
 - Agências intermediadoras de recrutamento e seleção profissional.
 
-A estratégia de atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">CustomerAcquisition Strategy</a>.<br><br>
+A **estratégia de comunicação** para atração e conversão de leads contém elementos para a construção da *home page* da escola <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.<br><br>
+
 
 **Comercialização B2B** <br>
 
 A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas.
 
 A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
+
 
 **Desempenho global** <br>
 
@@ -453,9 +454,12 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
 
 <br>
 
+
 **Plano financeiro** <br>
 
 O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a><br><br>
+
+
 
 <a name="expansao"></a> 
 <br>
