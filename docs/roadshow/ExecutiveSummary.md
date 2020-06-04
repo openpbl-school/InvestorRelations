@@ -486,16 +486,31 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
 <a name="financiamento"></a> 
 <br>
 
-## FINANCIAMENTO DO PROJETO
-Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão adotada.<br><br>
+## FINANCIAMENTO E GOVERNANÇA DO PROJETO
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão adotada em cada fase da empresa.<br><br>
 
 **Regra de saída** <br>
 
 A principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.<br><br> 
 
-**Governança** <br>
+**Rodadas de captação** <br>
 
-A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
+Até o evento da venda estratégica, estão previstas **quatro** rodadas de captação de investimento com objetivo distintos, conforme descrito a seguir: 
+- Seed Capital
+   - Validações iniciais do modelo;
+   
+- Series A
+   - Startup da empresa em uma praça e desenvolvimento do sistema de ensino (software);
+
+- Series B
+   - Atualizações no software e capital de giro para ampliação das atividades para mais 100 praças;
+
+- Series C
+   - Internacionalização, atualizações no software e capital de giro para ampliação para 250 praças;
+
+- Series D
+   - Capital de giro para ampliação para 500 praças de atuação e preparação para a venda estratégica;<br><br> 
+
 
 **Capital Semente** <br>
 
@@ -506,9 +521,13 @@ O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/
 Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
-- Copital de giro.<br><br> 
+- Capital de giro.<br><br> 
 
-A captação atual considera o *pre money valuation* de **US $ 900.000** (R$ 4,8 milhões). 
+A captação atual considera o *pre money valuation* de **US $ 900.000** (R$ 4,8 milhões). <br><br> 
+
+**Governança** <br>
+
+A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
 
 ... 
 
