@@ -500,22 +500,19 @@ Pelas características e potencial do projeto, a abertura do capital é também 
 **Rodadas de captação** <br>
 
 Até o evento da venda estratégica, estão previstas **quatro** rodadas de captação de investimento com **objetivos** distintos:<br>
-   **Capital semente** - Validações iniciais do modelo;
-   **Series A** - Startup da empresa em uma praça, validações dos atributos comerciais e desenvolvimento do sistema de ensino (software);
-   **Series B** - Atualizações no software e capital de giro para ampliação das atividades para 100 praças;
-   **Series C** - Internacionalização da empresa, atualizações no software e capital de giro para ampliação para 250 praças;
+   **Capital semente** - Validações iniciais do modelo;<br>
+   **Series A** - Startup da empresa em uma praça, validações dos atributos comerciais e desenvolvimento do sistema de ensino (software);<br>
+   **Series B** - Atualizações no software, profissionalização da gestão e capital de giro para ampliação das atividades para 100 praças;<br>
+   **Series C** - Internacionalização da empresa, atualizações no software e capital de giro para ampliação para 250 praças;<br>
    **Series D** - Capital de giro para ampliação da atuação para 500 praças e preparação da empresa para a venda estratégica;<br><br> 
 
 **Capital Semente** <br>
 
 Ao todo, já foram captados **US $ 27.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo e desenvolvimento do **plano de negócios**.<br><br> 
 
-
 **Series A** <br>
 
-O objetivo do atual roadshow é a captação de **US $ 132.000** (R$ 727.000) divididos em **quatro quotas** de **US $ 33.000** (R$ 181.000). 
-
-Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
+O objetivo do atual roadshow é a captação de **US $ 132.000** (R$ 727.000) divididos em **quatro quotas** de **US $ 33.000** (R$ 181.000). Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
 - Capital de giro.<br><br> 
@@ -524,7 +521,7 @@ A captação atual considera o *pre money valuation* de **US $ 900.000** (R$ 4,8
 
 **Governança** <br>
 
-A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de *governança corporativa* vigentes.<br><br>
+A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de **governança corporativa** vigentes, tais como *controle orçamentário*, *profissionalização do board*, *conselho fiscal* e *proteção de minoritários*, entre outros <br><br>
 
 ... 
 
