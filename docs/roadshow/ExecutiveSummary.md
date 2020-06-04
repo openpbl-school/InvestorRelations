@@ -74,7 +74,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 # OPEN-PBL - SUMÁRIO EXECUTIVO
-Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
+Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br><br>
 
 <p align="center">    
     <a href="#problema">O PROBLEMA</a>
@@ -88,6 +88,22 @@ Resumo da execução do plano de negócios proposto no *road show* 2020.1 para c
     <a href="#expansao">EXPANSÃO</a>
     ·
     <a href="#financiamento">FINANCIAMENTO</a>
+</p>
+
+<br>
+
+<p align="center">    
+    <a href="#problema">O Problema</a>
+    ·
+    <a href="#proposta">A Proposta</a>
+    ·
+    <a href="#negocio">O Negócio</a>
+    ·
+    <a href="#execucao">Execução</a>
+    ·
+    <a href="#expansao">Expansão</a>
+    ·
+    <a href="#financiamento">Financiamento</a>
 </p>
 
 <a name="problema"></a> 
