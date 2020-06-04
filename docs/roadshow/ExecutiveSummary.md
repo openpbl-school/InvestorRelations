@@ -487,26 +487,24 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
 <br>
 
 ## FINANCIAMENTO E GOVERNANÇA DO PROJETO
-Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco**, que será captado ao longo de sucessivas rodadas conforme a estratégia de expansão adotada em cada fase da empresa. Os roadshows são abertos e publicados em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>. <br><br>
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** conseguido ao longo de rodadas públicas de captação, conforme estratégia de expansão adotada em cada fase da empresa. 
+
+Os roadshows de captação são abertos e publicados em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>. <br><br>
 
 **Regra de saída** <br>
 
-A principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.<br><br> 
+Inicialmente, a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional. Entretanto, a estratégia de remuneração dos investidores dependerá basicamente do sucesso no desempenho do plano e da **dimensão da expansão** conseguida das atividades de empresa. 
+
+Pelas características e potencial do projeto, a abertura do capital é também uma opção a ser considerada.<br><br> 
 
 **Rodadas de captação** <br>
 
-Até o evento da venda estratégica, estão previstas **quatro** rodadas de captação de investimento com **objetivos** distintos, conforme descrito a seguir:<br>
-
+Até o evento da venda estratégica, estão previstas **quatro** rodadas de captação de investimento com **objetivos** distintos:<br>
    **Capital semente** - Validações iniciais do modelo;
-   
-   **Series A** - Startup da empresa em uma praça e desenvolvimento do sistema de ensino (software);
-
-   **Series B** - Atualizações no software e capital de giro para ampliação das atividades para mais 100 praças;
-
-   **Series C** - Internacionalização, atualizações no software e capital de giro para ampliação para 250 praças;
-
-   **Series D** - Capital de giro para ampliação para 500 praças de atuação e preparação para a venda estratégica;<br><br> 
-
+   **Series A** - Startup da empresa em uma praça, validações dos atributos comerciais e desenvolvimento do sistema de ensino (software);
+   **Series B** - Atualizações no software e capital de giro para ampliação das atividades para 100 praças;
+   **Series C** - Internacionalização da empresa, atualizações no software e capital de giro para ampliação para 250 praças;
+   **Series D** - Capital de giro para ampliação da atuação para 500 praças e preparação da empresa para a venda estratégica;<br><br> 
 
 **Capital Semente** <br>
 
