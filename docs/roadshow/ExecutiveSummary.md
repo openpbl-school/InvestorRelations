@@ -487,7 +487,7 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
 <br>
 
 ## FINANCIAMENTO E GOVERNANÇA DO PROJETO
-Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão adotada em cada fase da empresa.<br><br>
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco**, que será captado ao longo de sucessivas rodadas conforme a estratégia de expansão adotada em cada fase da empresa. Os roadshows são abertos e publicados em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>. <br><br>
 
 **Regra de saída** <br>
 
@@ -497,24 +497,25 @@ A principal regra de saída para atrair investidores é a **venda estratégica**
 
 Até o evento da venda estratégica, estão previstas **quatro** rodadas de captação de investimento com **objetivos** distintos, conforme descrito a seguir:<br>
 
-**Seed Capital** - Validações iniciais do modelo;
+   **Capital semente** - Validações iniciais do modelo;
    
-**Series A** - Startup da empresa em uma praça e desenvolvimento do sistema de ensino (software);
+   **Series A** - Startup da empresa em uma praça e desenvolvimento do sistema de ensino (software);
 
-**Series B** - Atualizações no software e capital de giro para ampliação das atividades para mais 100 praças;
+   **Series B** - Atualizações no software e capital de giro para ampliação das atividades para mais 100 praças;
 
-**Series C**
-   - Internacionalização, atualizações no software e capital de giro para ampliação para 250 praças;
+   **Series C** - Internacionalização, atualizações no software e capital de giro para ampliação para 250 praças;
 
-**Series D**
-   - Capital de giro para ampliação para 500 praças de atuação e preparação para a venda estratégica;<br><br> 
+   **Series D** - Capital de giro para ampliação para 500 praças de atuação e preparação para a venda estratégica;<br><br> 
 
 
 **Capital Semente** <br>
 
-Ao todo, já foram captados **US $ 27.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo. 
+Ao todo, já foram captados **US $ 27.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo e desenvolvimento do **plano de negócios**.<br><br> 
 
-O objetivo do atual roadshow - publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> - é a captação adicional de **US $ 132.000** (R$ 727.000) divididos em **quatro quotas** de **US $ 33.000** (R$ 181.000). 
+
+**Series A** <br>
+
+O objetivo do atual roadshow é a captação de **US $ 132.000** (R$ 727.000) divididos em **quatro quotas** de **US $ 33.000** (R$ 181.000). 
 
 Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
