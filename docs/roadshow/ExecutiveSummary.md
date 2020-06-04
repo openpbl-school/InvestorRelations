@@ -496,19 +496,19 @@ A principal regra de saída para atrair investidores é a **venda estratégica**
 **Rodadas de captação** <br>
 
 Até o evento da venda estratégica, estão previstas **quatro** rodadas de captação de investimento com objetivo distintos, conforme descrito a seguir: 
-- Seed Capital
+**Seed Capital**
    - Validações iniciais do modelo;
    
-- Series A
+**Series A**
    - Startup da empresa em uma praça e desenvolvimento do sistema de ensino (software);
 
-- Series B
+**Series B**
    - Atualizações no software e capital de giro para ampliação das atividades para mais 100 praças;
 
-- Series C
+**Series C**
    - Internacionalização, atualizações no software e capital de giro para ampliação para 250 praças;
 
-- Series D
+**Series D**
    - Capital de giro para ampliação para 500 praças de atuação e preparação para a venda estratégica;<br><br> 
 
 
