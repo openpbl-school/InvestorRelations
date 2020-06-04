@@ -76,6 +76,23 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 # OPEN-PBL - SUMÁRIO EXECUTIVO
 Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
+<p align="center">    
+    <a href="#problema">O PROBLEMA</a>
+    ·
+    <a href="#proposta">PROPOSTA</a>
+    ·
+    <a href="#negocio">NEGÓCIO</a>
+    ·
+    <a href="#execucao">EXECUÇÃO</a>
+    ·
+    <a href="#expansao">EXPANSÃO</a>
+    ·
+    <a href="#financiamento">FINANCIAMENTO</a>
+</p>
+
+<a name="problema"></a> 
+<br>
+
 ## O PROBLEMA E A OPORTUNIDADE
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro, segundo gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
@@ -126,10 +143,10 @@ Se por um lado, empresas demandam cada vez mais profissionais com competências 
 
 Grande parte deste desequilíbrio ocorre porque as escolas que atuam tradicionalmente neste segmento não geram **economias de escala suficientes** para **popularizarem seus cursos**. Nem mesmo a recente introdução de tecnologias digitais nas práticas educacionais foi capaz de estimular a universalização deste tipo de programa.  
 
-Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.<br><br><br>
+Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.<br><br>
 
-
-
+<a name="proposta"></a> 
+<br>
 
 ## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
@@ -221,10 +238,10 @@ Para **automatizar** e **integrar** os três sub-processos, os idealizadores do 
  - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
  - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
 
-Um **Sistema de Ensino** com estas características é **único** no mercado educacional. Seus componentes integrados compõem um Sistema de Ensino capaz de viabilizar a oferta **sistemática** e **contínua** de atividades educacionais baseados unicamente em PBL.<br><br><br>
+Um **Sistema de Ensino** com estas características é **único** no mercado educacional. Seus componentes integrados compõem um Sistema de Ensino capaz de viabilizar a oferta **sistemática** e **contínua** de atividades educacionais baseados unicamente em PBL.<br><br>
 
-
-
+<a name="negocio"></a> 
+<br>
 
 ## O NEGÓCIO 
 Como forma de monetizar a inovação, os idealizadores elaboraram um **plano de negócios de cinco anos** para criar a Edtech **OpenPBL**. As receitas da Edtech são provenientes do **licenciamento do Sistema de Ensino OpenPBL** para escolas e empresas e da **venda de cursos profissionalizantes** por uma escola própria. 
@@ -364,8 +381,10 @@ Os clientes-alvo da OpenPBL nestes segmentos de educação corporativa são **gr
 - **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
 - **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
 - **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
-- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br><br>
+- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br>
 
+<a name="execucao"></a> 
+<br>
 
 ## EXECUÇÃO DO PLANO DE NEGÓCIOS
 Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**. Em especial, os empreendedores têm experiências complementares (comercial e operações) na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
@@ -434,9 +453,10 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
 
 **Plano financeiro** <br>
 
-O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a>
+O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a><br><br>
 
-<br><br>
+<a name="expansao"></a> 
+<br>
 
 ## EXPANSÃO
 Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
@@ -461,9 +481,10 @@ A partir do desenvolvimento do sistema educacional será possível a expansão d
 - Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
 - Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
 
-Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br><br>
+Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br>
 
-
+<a name="financiamento"></a> 
+<br>
 
 ## FINANCIAMENTO DO PROJETO
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado ao longo de sucessivas rodadas de captação conforme a estratégia de expansão adotada.<br><br>
