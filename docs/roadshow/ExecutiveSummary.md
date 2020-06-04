@@ -77,22 +77,6 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br><br>
 
 <p align="center">    
-    <a href="#problema">O PROBLEMA</a>
-    ·
-    <a href="#proposta">PROPOSTA</a>
-    ·
-    <a href="#negocio">NEGÓCIO</a>
-    ·
-    <a href="#execucao">EXECUÇÃO</a>
-    ·
-    <a href="#expansao">EXPANSÃO</a>
-    ·
-    <a href="#financiamento">FINANCIAMENTO</a>
-</p>
-
-<br>
-
-<p align="center">    
     <a href="#problema">O Problema</a>
     ·
     <a href="#proposta">A Proposta</a>
@@ -411,8 +395,8 @@ Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios 
 5. Grande necessidade de engajamento e fidelização dos colaboradores.<br>
 
 Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
-- Perfil executivo 1 (<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
-- Perfil executivo 2 (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
+- Perfil executivo TechnicalPillar (<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
+- Perfil executivo RainMaker (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
 
 **Greenfield** <br>
 
