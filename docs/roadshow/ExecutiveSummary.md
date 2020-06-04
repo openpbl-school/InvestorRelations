@@ -500,11 +500,11 @@ Pelas características e potencial do projeto, a abertura do capital é também 
 **Rodadas de captação** <br>
 
 Até o evento da venda estratégica, estão previstas **quatro** rodadas de captação de investimento com **objetivos** distintos:<br>
-   **Capital semente** - Validações iniciais do modelo;<br>
-   **Series A** - Startup da empresa em uma praça, validações dos atributos comerciais e desenvolvimento do sistema de ensino (software);<br>
-   **Series B** - Atualizações no software, profissionalização da gestão e capital de giro para ampliação das atividades para 100 praças;<br>
-   **Series C** - Internacionalização da empresa, atualizações no software e capital de giro para ampliação para 250 praças;<br>
-   **Series D** - Capital de giro para ampliação da atuação para 500 praças e preparação da empresa para a venda estratégica;<br><br> 
+- **Capital semente** - Validações iniciais do modelo;<br>
+- **Series A** - Startup da empresa em uma praça, validações dos atributos comerciais e desenvolvimento do sistema de ensino (software);<br>
+- **Series B** - Atualizações no software, profissionalização da gestão e capital de giro para ampliação das atividades para 100 praças;<br>
+- **Series C** - Internacionalização da empresa, atualizações no software e capital de giro para ampliação para 250 praças;<br>
+- **Series D** - Capital de giro para ampliação da atuação para 500 praças e preparação da empresa para a venda estratégica;<br><br> 
 
 **Capital Semente** <br>
 
