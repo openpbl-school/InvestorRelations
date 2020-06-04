@@ -333,13 +333,15 @@ A dinâmica dos cursos e programas da **Escola OpenPBL** têm o objetivo de dese
 Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.<br><br>
 
 
-**Diferenciais da escola** <br>
+**Comunicação dos diferenciais da escola** <br>
 
 Os cursos profissionalizantes da **Escola OpenPBL**, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
 - **Custo baixo** das experiências completas de aprendizagem PBL **para** caber em orçamentos de vários tamanhos.
 - Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
-- Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. <br><br>
+- Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. 
+
+Estes atributos norteiam a estratégia de comunicação B2C e B2B para atração e converção de leads. O plano detalhado pode ser acessado em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.<br><br>
 
 
 **Sistema de Ensino OpenPBL** <br>
