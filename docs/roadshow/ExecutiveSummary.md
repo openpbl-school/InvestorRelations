@@ -358,7 +358,9 @@ Os cursos profissionalizantes da **Escola OpenPBL**, quando comparados com **pro
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
 - Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. 
 
-Estes atributos norteiam a estratégia de comunicação B2C e B2B para atração e converção de leads. O plano detalhado pode ser acessado em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.<br><br>
+Estes atributos norteiam a estratégia de comunicação B2C e B2B para atração e converção de leads. O plano detalhado pode ser acessado em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.
+
+O elementos da **estratégia de comunicação** definem os elementos da *home page* da escola <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.<br><br>
 
 
 **Sistema de Ensino OpenPBL** <br>
