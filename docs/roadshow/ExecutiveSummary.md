@@ -486,16 +486,12 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
 <a name="financiamento"></a> 
 <br>
 
-## FINANCIAMENTO E GOVERNANÇA DO PROJETO
-Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** conseguido ao longo de rodadas públicas de captação, conforme estratégia de expansão adotada em cada fase da empresa. 
-
-Os roadshows de captação são abertos e publicados em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>. <br><br>
+## FINANCIAMENTO E GOVERNANÇA
+Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado através de rodadas públicas. Os roadshows de captação são abertos e publicados em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>. <br><br>
 
 **Regra de saída** <br>
 
-Inicialmente, a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional. Entretanto, a estratégia de remuneração dos investidores dependerá basicamente do sucesso no desempenho do plano e da **dimensão da expansão** conseguida das atividades de empresa. 
-
-Pelas características e potencial do projeto, a abertura do capital é também uma opção a ser considerada.<br><br> 
+A principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional. Entretanto, a  remuneração dos investidores dependerá da **dimensão** conquistada na expansão das atividades de empresa. Pelas características escaláveis do modelo de negócios, a **abertura do capital** é também uma opção viável a ser considerada.<br><br> 
 
 **Rodadas de captação** <br>
 
