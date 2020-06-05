@@ -242,65 +242,35 @@ Um software com estes componentes viabiliza a execução **sistemática** e **co
 
 **"Sistema de ensino baseado em problemas** <br>
 
-O **"Sistema de Ensino"** desenvolvido pelos idealizadores garante a execução **contínua** e **escalável** de **cursos** baseados unicamente na *problem-based learning* que compõem programas educacionais destinados ao **ensino profissionalizante**.
+O **"Sistema de Ensino"** desenvolvido pelos idealizadores garante a execução **contínua** e **escalável** de programas educacionais **profissionalizantes** compostos por **cursos** cujas dinâmicas são baseadas unicamente na *problem-based learning*.
+
+Cada um dos **cursos profissionalizantes** gerenciados pelo sistema de ensino deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
-1. Uma etapa preliminar de **preparação**, com atividades **online**, que correspondem a 95% da carga horária total do curso; 
-2. Uma etapa final de **discussão**, com uma sessão **presencial** de três horas, conduzida por um tutor, onde dez alunos se reunem para **analisar** as possíveis soluções para o problema proposto no curso. 
+1. Uma etapa preliminar de **preparação**, com atividades **online** que correspondem a 95% da carga horária total do curso e; 
+2. Uma etapa final de **discussão**, composta de uma sessão **presencial** de três horas, conduzida por um **tutor**, onde **dez alunos** se reunem por **três horas** para **analisar** as possíveis soluções para o problema proposto no curso. 
 
 Na etapa de **preparação**, o aluno: 
-1. Recebe o **conteúdo descritivo** do problema, bem como todo o material de apoio para o seu entendimento;
-2. Tem os seus **conhecimentos**, necessários para a análise do problema, **aferidos** por testes *online*, personalizados para a sua proficiência no assunto; 
+1. Recebe o **conteúdo descritivo** do problema abordado no curso, bem como todo o material de apoio para o seu entendimento;
+2. Tem os **conhecimentos técnicos** necessários para a análise do problema **aferidos** por testes *online*, personalizados para a sua proficiência no assunto; 
 3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
-4. Ao final, **propõe a sua solução** ou soluções para o problema objeto do curso.<br>
+4. Ao final, **propõe a sua solução** (ou soluções) para o problema objeto do curso.<br>
 
 Na etapa de **discussão**, o aluno: 
-1. Recebe uma lista de locais com detalhes da **infraestrutura**, **facilidades** e **tutoria** para uma sessão presencial de 3 horas com uma turma de 10 alunos; 
+1. Recebe uma lista com opções de **locais** e **horários** disponíveis para a sessão presencial, contendo detalhes da **infraestrutura**, **facilidades** e perfil do **tutor** responsável; 
 2. Agenda a data e o local mais adequados;
 3. Participa da **dinâmica de discussões** em torno do problema proposto no curso, conduzidas pelo **tutor** da sessão.<br>
 
-Após esta última etapa, o aluno recebe: 
-1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
-2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.
-
-<br><br> 
-
-
-
-
-
-<a name="negocio"></a> 
-<br>
-
-## O NEGÓCIO 
-Para monetizar o método desenvolvido, os idealizadores do projeto criaram a **OpenPBL**, uma edtech cuja missão é "**popularizar** e **democratizar** o **ensino profissionalizante baseado em problemas**". 
-
-As receitas da Edtech são provenientes do **licenciamento** do **Sistema de Ensino OpenPBL** para escolas profissionalizantes e da **venda de cursos profissionalizantes** para **profissionais** e **entrantes no mercado de trabalho**.  
-
-
-"Sistema de Ensino Baseado em Problemas" para ajudar escolas profissionalizantes a ampliarem suas receitas. 
-
-A função da **escola profissionalizante OpenPBL** é tangibilizar os benefícios do Sistema de Ensino, com o sucesso na tarefa de diferenciar os alunos da escola no mercado de trabalho. <br><br>
-
-
-
+Como *feedback* da sua atuação no curso, o aluno recebe: 
+1. Os **resultados dos testes** de conhecimento técnico; 
+2. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
+3. A **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br>
 
 **Benefícios para usuários do Sistema de Ensino**<br>
 
-Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
+Para avaliar a reação da aprendizagem baseada em problemas entre alunos de escolas profissionalizantes, os idealizadors utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil com 120 profissionais e entrantes no mercado de trabalho sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. 
 
-Para avaliar se essa afirmação encontra eco no público alvo da escola, foi realizada no Brasil recentemente uma pesquisa quantitativa voluntária com 120 pessoas cujos perfis profissionais são enquadrados no segmento II. Os resultados da pesquisa, foram validados com entrevistas posteriores com um extrato menor de voluntários da pesquisa.<br><br>
-
-<p align="center">
-<img src="img/pesquisa-20201.png" width="800">
-</p>
-<p align="center">
-<em>Detalhes da pesquisa entre alunos do segmento II</em>
-</p>
-
-<br>
-
-A pesquisa continha 9 questões do tipo múltipla escolha sobre atividades educacionais em cursos profissionalizantes. Duas questões em especial, buscaram avaliar a receptividade dos benefícios da PBL ao público alvo da escola.<br><br>
+O questionário da pesquisa continha nove questões do tipo múltipla escolha com o objetivo de medir a percepção de valor nas diversas experiências de aprendizagem de programas profissionalizantes online e presencial. Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da importância das competências comportamentais para os alunos.<br><br>
 
 <p align="center">
 <img src="img/pesquisa-quadro-resumo.png" width="800">
@@ -311,47 +281,34 @@ A pesquisa continha 9 questões do tipo múltipla escolha sobre atividades educa
 
 <br>
 
-A consolidação das respostas apuradas indicam de forma clara que:
-1. Os alunos percebem uma maior importância na avaliação da escola na **capacidade profissional de resolução de problemas** em comparação com outros objetivos de avaliação.
-2. O alunos percebem igual utilidade em quase todas as **competências comportamentais** que lhes foram apresentadas, não destacando importância entre elas.<br><br>
+A consolidação das respostas à pesquisa evidenciam as hipóteses de que:
+1. Os alunos percebem como as **avaliações mais importante** de um curso profissionalizante aquelas que medem a **capacidade de resolução de problemas** dos alunos;
+2. O alunos percebem igual valor entre as **competências comportamentais** que, segundo o Fórum Econômico Mundial, os **diferencia** no mercado de trabalho. <br><br>
 
+
+
+
+
+
+<a name="negocio"></a> 
+<br>
+
+## O NEGÓCIO 
+Para monetizar o **sistema de ensino** desenvolvido, os idealizadores do projeto criaram a **OpenPBL**, uma edtech cuja missão é *"**popularizar** e **democratizar** o **ensino profissionalizante baseado em problemas**".*
+
+As receitas da OpenPBL são provenientes de duas fontes: do **licenciamento** do **Sistema de Ensino OpenPBL** para escolas profissionalizantes e da **venda de cursos profissionalizantes** para **profissionais** e **entrantes no mercado de trabalho**.<br><br>
 
 **Escola profissionalizante OpenPBL** <br>
 
-Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+A parcela das receitas da empresa oriunda da venda de cursos para profissionais e entrantes no mercado de trabalho é viabilizada com a criação da **Escola Profissionalizante OpenPBL**. 
 
-Para tal, os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de R$ 320,00 ou em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
+Além das receitas, a **Escola OpenPBL** tem a função estratégica de **tangibilizar** os benefícios do **Sistema de Ensino OpenPBL** aos seus usuários, à medida que promove ações para comunicar o sucesso dos alunos da escola no mercado de trabalho.
 
-A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a OpenPBL como uma **instituição de ensino segmentada por "escolas funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
+Os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** (R$ 320,00) ou adquirido em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
+A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a **Escola OpenPBL** como uma **instituição de ensino segmentada por perfis funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
 
-**Público-alvo da escola** <br>
-
-Os cursos e programas são destinados à **profissionais** (e aspirantes) com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio de competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
-
-<p align="center">
-  <img src="img/sum_quadro2.png" width="700"><br>
-</p>
-<p align="center"><em>Público-alvo com necessidades diversas e em fases distintas da carreira.</em>
-</p>
-
-<br>
-
-**Mercado da escola** <br>
-
-A combinação das **três classes** de público-alvo da escola com os dois **dois níveis** de progressão de ensino regular definem os **seis segmentos** de mercado, elegíveis para a atuação da escola. Alguns destes segmentos são tradicionais no setor educacional, tais como **educação executiva** e **educação corporativa**. Assim, o cálculo do tamanho do **mercado potencial da escola**, deve considerar as variáveis demográficas e cada **localidade geográfica** onde é analisada a atuação da escola. <br><br>
-
-<p align="center">
-<img src="img/target-segments.png" width="400">
-</p>
-<p align="center">
-<em>Segmentos-alvo da OpenPBL e os segmentos tradicionais do mercado educacional.</em>
-</p>
-
-<br>
-
-
-**Objetivos de aprendizagem** <br>
+**Objetivos de aprendizagem da escola** <br>
 
 A dinâmica dos cursos e programas da **Escola OpenPBL** têm o objetivo de desenvolver no aluno **seis** grupos de **competências comportamentais**: 
 - Estruturação de **problemas mal definidos**; 
@@ -363,32 +320,69 @@ A dinâmica dos cursos e programas da **Escola OpenPBL** têm o objetivo de dese
 
 Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.<br><br>
 
+**Público-alvo da escola** <br>
+
+Os cursos e programas da **Escola OpenPBL** são destinados à **profissionais** (e aspirantes) com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio de competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
+
+<p align="center">
+  <img src="img/sum_quadro2.png" width="700"><br>
+</p>
+<p align="center"><em>Usuários-alvo com necessidades diversas e em fases distintas da carreira.</em>
+</p>
+
+<br>
+
+**Mercado da escola** <br>
+
+A combinação das **três classes** de público-alvo da escola com os dois **dois níveis** de progressão de ensino regular definem os **seis segmentos** de mercado, elegíveis para a atuação da escola. Alguns destes segmentos são tradicionais no setor educacional, tais como **educação executiva** e **educação corporativa**. Assim, o cálculo do tamanho do **mercado potencial da escola**, deve considerar as variáveis demográficas e cada **localidade geográfica** onde é cogitada a atuação da escola. <br><br>
+
+<p align="center">
+<img src="img/target-segments.png" width="400">
+</p>
+<p align="center">
+<em>Segmentos-alvo da OpenPBL e os segmentos tradicionais do mercado educacional.</em>
+</p>
+
+<br>
 
 **Comunicação dos diferenciais da escola** <br>
 
-Os cursos profissionalizantes da **Escola OpenPBL**, quando comparados com **programas tradicionais** desenhados para o desenvolvimento de competências comportamentais, se diferenciam pelos seguintes fatores:
+Quando comparados com **programas tradicionais** do mercado educacional desenhados para o desenvolvimento de competências comportamentais, os cursos profissionalizantes da **Escola OpenPBL** se diferenciam pelos seguintes fatores:
 - **Custo baixo** das experiências completas de aprendizagem PBL **para** caber em orçamentos de vários tamanhos.
 - Programas híbridos com grande parte do tempo dedicado à etapa online assíncrona **para** adequar-se à disponibilidade de tempo dos alunos.
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
 - Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. 
 
-Estes atributos norteiam a estratégia de comunicação B2C e B2B. A estratégia de atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.<br><br>
-
+Estes atributos norteiam a estratégia de comunicação para venda B2C da escola. As ações para atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.<br><br>
 
 **Sistema de Ensino OpenPBL** <br>
 
-O sucesso na tarefa de diferenciar os alunos da escola no mercado de trabalho, habilita a OpenPBL a comercializar o seu **Sistema de Ensino** para outras instituições do setor educacional. Inicialmente, para outras escolas profissionalizantes e, num segundo momento, para um espectro mais amplo de instituições de ensino.
+O sucesso na tarefa de diferenciar os alunos da **Escola OpenPBL** no mercado de trabalho, habilita a empresa a comercializar o **Sistema de Ensino OpenPBL** para outras instituições do setor educacional. 
 
-As ofertas comerciais para licenciamento do *Sistema de Ensino OpenPBL* discriminam necessariamente:
+As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem:
 - O valor dos serviços de **implantação** do sistema;
 - O prazo de vigência do contrato de licenciamento, não inferior a **24 meses**;
 - As faixas de franquia divididas por **quantidade de usuários** para a utilização ilimitada do sistema;
 - O **valor mensal por usuário** para cada faixa de franquia.<br><br>
 
 
+**Público-alvo do sistema de ensino** <br>
+
+O público alvo Inicialmente, para outras escolas profissionalizantes e, num segundo momento, para um espectro mais abrangente de instituições de ensino. 
+
+Os cursos e programas da
+A produtização e comercialização do **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **trilhas funcionais** baseadas em PBL totalmente **customizadas** para terceiros. 
+
+Assim, é possível explorar os segmentos V e VI do público-alvo com a ofertas comerciais com soluções para que empresas promovam a **desenvolvimento de competências comportamentais em seus funcionários e colaboradores**.  
+
+
+**Mercado da escola** <br>
+
+A combinação
+
 **Educação corporativa** <br>
 
-A produtização e comercialização do **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **trilhas funcionais** baseadas em PBL totalmente **customizadas** para terceiros. Assim, é possível explorar os segmentos V e VI do público-alvo com a ofertas comerciais com soluções para que empresas promovam a **desenvolvimento de competências comportamentais em seus funcionários e colaboradores**.  
+
 
 Os clientes-alvo da OpenPBL nestes segmentos de educação corporativa são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo. Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa. Assim, as soluções são organizadas em 5 grupos para que os profissionais de T&D tenham suporte em todas as suas demandas, desde o planejamento até a gestão da execução de um **projeto de educação corporativa baseado em *Problem-based Learning*.** 
 - **Soluções de Planejamento Educacional.** As soluções para essa etapa têm caráter de consultoria educacional para os profissionais de T&D. 
@@ -398,7 +392,16 @@ Os clientes-alvo da OpenPBL nestes segmentos de educação corporativa são **gr
 - **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br>
 
 
+==================
+Os resultados da pesquisa, foram validados com entrevistas posteriores com um extrato menor de voluntários da pesquisa.
 
+Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. 
+
+"Sistema de Ensino Baseado em Problemas" para ajudar escolas profissionalizantes a ampliarem suas receitas.  
+
+Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+
+====================
 
 
 <a name="execucao"></a> 
