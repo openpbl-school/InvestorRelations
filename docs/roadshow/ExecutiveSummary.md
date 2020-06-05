@@ -228,9 +228,11 @@ No processo de **Atomização e Automatização das Discussões**, as sessões p
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
 <em>Sessão presencial atomizada e assistida por software.</em>
-</p><br>
+</p>
 
-**"Integração dos componentes  de ensino profissionalizante baseado em problemas"** <br>
+<br>
+
+**"Integração dos sub-processos"** <br>
 
 Os seis **componentes de software** que **automatizam** dos três sub-processos do método proposto são:
  - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
@@ -240,29 +242,16 @@ Os seis **componentes de software** que **automatizam** dos três sub-processos 
  - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais de discussão.
  - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
 
+Esses componentes são **integrados** por um **sistema de software** cujo objetivo é garantir a **automatização**, **eficácia** e **escalabilidade** na execução conjunta.  
+
+Um **software** capaz de integrar esses componentes torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**, uma vez que viabiliza a execução **automatizada** de atividades educacionais baseadas em PBL.<br><br>
 
 
 **"Sistema de ensino profissionalizante baseado em problemas"** <br>
 
-Um **software** capaz de integrar os três sub-processos do método proposto componentes torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**, uma vez que viabiliza a execução **automatizada** de atividades educacionais baseadas em PBL.
+Mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** cujas dinâmicas são baseadas unicamente na *problem-based learning*. 
 
-Entretanto, mais do que um sistema de software, os idealizadores propõem um **sistema de ensino** para dar **escalabilidade à execução da PBL** .  
-
-um modelo **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL
-
-
-Cada um destes processos responde **de forma integrada** pela intervenção em uma ou mais etapas do processo completo de execução da PBL.< 
-
-Dessa forma, os idealizadores propõem desenvolver um "**Sistema de Ensino**" com caracerísticas únicas no mercado educacional. 
-
-O sistema de software que automatiza o método proposto para escalar a PBL pode ainda ser "produtizado" sob a forma de um 
-
-Esses componentes são **integrados** por um **sistema de software** cujo objetivo é garantir a **automatização**, **eficácia** e **escalabilidade** na execução conjunta de **seis** componentes fundamentais:
-<br><br>
-
-**Dinâmica do sistema de ensino baseado em problemas"** <br>
-
-O **"sistema de ensino"** desenvolvido pelos idealizadores garante a execução **contínua** e **escalável** de **cursos profissionalizantes** cujas dinâmicas são baseadas unicamente na *problem-based learning*. Cada um dos cursos gerenciados pelo sistema deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+Cada um dos cursos gerenciados pelo sistema deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online** que correspondem a 95% da carga horária total do curso e; 
