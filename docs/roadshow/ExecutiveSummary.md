@@ -154,7 +154,7 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 
 <p align="center">
   <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
-  <em>Pela PBL os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.</em>
+  <em>Pela PBL os alunos aprendem resolvendo problemas e refletindo sobre suas experiências. Fonte<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank">The Interdisciplinary Journal of Problem-based Learning</a> </em>
 </p><br><br>
 
 **Escalando a PBL** <br>
