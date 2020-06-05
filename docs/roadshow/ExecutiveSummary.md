@@ -289,7 +289,7 @@ Para avaliar se essa afirmação encontra eco no público alvo da escola, foi re
 A pesquisa continha 9 questões do tipo múltipla escolha sobre atividades educacionais em cursos profissionalizantes. Duas questões em especial, buscaram avaliar a receptividade dos benefícios da PBL ao público alvo da escola.<br><br>
 
 <p align="center">
-<img src="img/pesquisa-quadro-resumo.png" width="700">
+<img src="img/pesquisa-quadro-resumo.png" width="800">
 </p>
 <p align="center">
 <em>A pesquisa completa com alunos do segmento II pode ser acessada em <a href="https://docs.google.com/forms/d/1AtVWKqeECtwsmQpiBUlhZVVezaOU_rUCCRduIeS1CpA/edit#responses" target="_blank">pesquisa</a>.</em>
