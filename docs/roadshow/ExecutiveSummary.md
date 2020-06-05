@@ -154,16 +154,18 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 
 <p align="center">
   <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
-  <em>Pela PBL os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.<br> Fonte<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank"> The Interdisciplinary Journal of Problem-based Learning</a>.</em>
+  <em>Pela PBL os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.<br> Fonte:<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank"> The Interdisciplinary Journal of Problem-based Learning</a>.</em>
 </p><br><br>
 
 **Escalando a PBL** <br>
 
-O caminho escolhido para aproveitar a atual janela de oportunidades é buscar formas viáveis de contornar os obstáculos para escalar o processo de execução da PBL. Os **obstáculos** para **execução em larga escala** das atividades típicas da PBL são: 
+O caminho escolhido para aproveitar a atual janela de oportunidades é buscar formas viáveis de contornar os obstáculos para escalar o processo de execução da PBL. Os **obstáculos** para **execução em larga escala** das atividades educacionais típicas da PBL são: 
 - Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
 - O paradigma da **execução 100% digital** das **Edtechs** ainda não foi capaz de resolver o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL.
 
-Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto desenvolveram um modelo **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL. Diferentemente do paradigma de execução 100% digital que se baseia na escala, indiscriminada, todas as atividades educacionais, a **essência inovadora** do modelo proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
+Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto desenvolveram um modelo **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL. 
+
+Diferentemente do paradigma de execução 100% digital que se baseia na escala, indiscriminada, todas as atividades educacionais, a **essência inovadora** do modelo proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png" width="800"><br>
@@ -181,9 +183,9 @@ A **complementação estratégica** das ações propostas no modelo, podem ser a
  - A IA automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
  - A "**atomização**" da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
 
-**Método de Ensino** <br>
+**Método de ensino** <br>
 
-Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **três processos**:
+Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **três sub-processos**:
 1. Extração automatizada de cenários reais;
 2. Eliminação individualizada das deficiências técnicas;
 3. Atomização e automatização das discussões;
@@ -194,7 +196,7 @@ Cada um destes processos responde **de forma integrada** pela intervenção em u
 
 A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" cuja tarefa é entrevistar profissionais e especialistas de mercado para explicitar **cenários do dia-a-dia profissional** e seus possíveis **problemas associados**. 
 
-No entanto, a **Extração Automatizada de Cenários Reais** prevê a interação direta dos especialistas como um software do tipo *"expert system"*. Os “títulos”, cenários e as competências comportamentais alvo do processo de aprendizagem são decididos pelos especialistas (diagrama causal), mas o texto final é pedagogicamente estruturado por software baseado em *"machine learning"*. <br><br>
+No entanto, a **Extração Automatizada de Cenários Reais** prevê a **interação direta** dos especialistas como um software do tipo *"expert system"*. Os “títulos”, cenários e as competências comportamentais, alvo do processo de aprendizagem, são desenvolvidos  pelos especialistas ao interagirem com o *expert system* e o texto final é estruturado por um *software de IA*, treinado pela técnica de *"machine learning"*. <br><br>
 
 <p align="center">
 <img src="img/sum_processo1.png" width="800"><br>
@@ -205,7 +207,7 @@ No entanto, a **Extração Automatizada de Cenários Reais** prevê a interaçã
 
 Na etapa de *“self-directed learning” (SDL)*, os alunos *"buscam os conhecimentos para resolver o problema a foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
 
-O principal objetivo da **Eliminação Individualizada das Deficiências Técnicas** é acelerar a fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
+O principal objetivo do processo de **Eliminação Individualizada das Deficiências Técnicas** é acelerar a fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
 
 <p align="center">
 <img src="img/sum_processo2.png" width="800"><br>
@@ -214,37 +216,53 @@ O principal objetivo da **Eliminação Individualizada das Deficiências Técnic
 
 **Atomização e Automatização das Discussões** <br>
 
-Tradicionalmente, as sessões presenciais de discussão são reuniões com 40 alunos ou mais. Pelo modelo tradicional, quanto maior o número de alunos, sem que haja comprometimento da qualidade das discussões, menor o impacto do valor da apropriação do custo da infra-estrutura física no preço dos cursos. De fato, as escolas tradicionais investem em equipamentos sofisticados para garantir a qualidade das interações entre os alunos em grandes grupos.<br><br>
+Tradicionalmente, as sessões presenciais de discussão de problemas são reuniões com 40 alunos ou mais, uma vez que, quanto maior o número de alunos, menor o impacto do valor da apropriação do custo da infra-estrutura física no preço unitário dos cursos. Para isso, as escolas tradicionais investem em **salas** e **equipamentos sofisticados** para garantir a qualidade das interações entre os alunos, mesmo com discussões em grandes grupos.<br><br>
 
 <p align="center">
 <img src="img/harvard-classroom.png" width="600"><br>
-<em>Investimento em infraestrutura para manter a qualidade das discussões em grupos grandes de alunos.</em>
+<em>Harvard Classroom: a escola investe em infraestrutura e equipamentos para manter a qualidade das discussões em grupos grandes de alunos.</em>
 </p><br>
 
-Na **Atomização e Automatização das Discussões**, as sessões presenciais de discussão são agendadas, conforme demanda, em *organizações gestoras de espaços compartilhados de trabalho (coworking)*. As dinâmicas da sessão são orientadas por tutores via video conferência e assistidas por software. A avaliação do desempenho individual dos alunos nas discussões é executada por software que também edita automaticamente o vídeo da gravação da sessão.<br><br>
+No processo de **Atomização e Automatização das Discussões**, as sessões presenciais de discussão são agendadas conforme demanda em *espaços compartilhados de trabalho (coworking)*. A dinâmica de uma sessão é conduzida por um tutor via *videoconference* com o auxílio de um *Process management software* que, entre outras coisas, propõe e controla o tempo das atividades, orienta a elaboração de perguntas, define grupos para exercícios e exibe material multimidia auxiliar. A avaliação do desempenho individual dos alunos nas discussões é executada por *software de IA*, treinado pela técnica de *"machine learning"*, que também edita automaticamente o vídeo da gravação da sessão.<br><br>
 
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br>
 
-**Integração via software** <br>
+**"Integração dos componentes  de ensino profissionalizante baseado em problemas"** <br>
 
-Os três sub-processos são **integrados** por um sistema de software capaz de garantir a **automatização**, **eficácia** e **escalabilidade** na execução conjunta de **seis** componentes fundamentais:
+Os seis **componentes de software** que **automatizam** dos três sub-processos do método proposto são:
  - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
  - *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
  - *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
  - *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método. 
  - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais de discussão.
- - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.
+ - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
 
-Um software com estes componentes viabiliza a execução **sistemática** e **contínua** de atividades educacionais baseadas em PBL por players do segmento de **educação profissionalizante**. O sistema de software que automatiza o método proposto para escalar a PBL pode ainda ser "produtizado" sob a forma de um "**Sistema de Ensino**" com caracerísticas únicas no mercado educacional. <br><br>
 
-**"Sistema de ensino baseado em problemas** <br>
 
-O **"Sistema de Ensino"** desenvolvido pelos idealizadores garante a execução **contínua** e **escalável** de programas educacionais **profissionalizantes** compostos por **cursos** cujas dinâmicas são baseadas unicamente na *problem-based learning*.
+**"Sistema de ensino profissionalizante baseado em problemas"** <br>
 
-Cada um dos **cursos profissionalizantes** gerenciados pelo sistema de ensino deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+Um **software** capaz de integrar os três sub-processos do método proposto componentes torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**, uma vez que viabiliza a execução **automatizada** de atividades educacionais baseadas em PBL.
+
+Entretanto, mais do que um sistema de software, os idealizadores propõem um **sistema de ensino** para dar **escalabilidade à execução da PBL** .  
+
+um modelo **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL
+
+
+Cada um destes processos responde **de forma integrada** pela intervenção em uma ou mais etapas do processo completo de execução da PBL.< 
+
+Dessa forma, os idealizadores propõem desenvolver um "**Sistema de Ensino**" com caracerísticas únicas no mercado educacional. 
+
+O sistema de software que automatiza o método proposto para escalar a PBL pode ainda ser "produtizado" sob a forma de um 
+
+Esses componentes são **integrados** por um **sistema de software** cujo objetivo é garantir a **automatização**, **eficácia** e **escalabilidade** na execução conjunta de **seis** componentes fundamentais:
+<br><br>
+
+**Dinâmica do sistema de ensino baseado em problemas"** <br>
+
+O **"sistema de ensino"** desenvolvido pelos idealizadores garante a execução **contínua** e **escalável** de **cursos profissionalizantes** cujas dinâmicas são baseadas unicamente na *problem-based learning*. Cada um dos cursos gerenciados pelo sistema deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online** que correspondem a 95% da carga horária total do curso e; 
