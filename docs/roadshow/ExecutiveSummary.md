@@ -228,28 +228,21 @@ Na **Atomização e Automatização das Discussões**, as sessões presenciais d
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br>
 
-**Sistema de Ensino baseado em problemas** <br>
+**Integração via software** <br>
 
-Para **automatizar** e **integrar** os três sub-processos, os idealizadores do projeto propõem o desenvolvimento de um **sistema de software**. O software deve garantir **integridade**, **eficácia** e **escalabilidade** da execução conjunta dos seguintes componentes:
+Os três sub-processos são **integrados** por um sistema de software capaz de garantir a **automatização**, **eficácia** e **escalabilidade** na execução conjunta de **seis** componentes fundamentais:
  - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
  - *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
  - *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
- - *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método.
- - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
- - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
+ - *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método. 
+ - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais de discussão.
+ - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.
 
-Um **Sistema de Ensino** com estas características é **único** no mercado educacional. Seus componentes integrados compõem um Sistema de Ensino capaz de viabilizar a oferta **sistemática** e **contínua** de atividades educacionais baseados unicamente em PBL.<br><br>
+Um software com estes componentes viabiliza a execução **sistemática** e **contínua** de atividades educacionais baseadas em PBL por players do segmento de **educação profissionalizante**. O sistema de software que automatiza o método proposto para escalar a PBL pode ainda ser "produtizado" sob a forma de um "**Sistema de Ensino**" com caracerísticas únicas no mercado educacional. <br><br>
 
-<a name="negocio"></a> 
-<br>
+**"Sistema de ensino baseado em problemas** <br>
 
-## O NEGÓCIO 
-Como forma de monetizar a inovação, os idealizadores elaboraram um **plano de negócios de cinco anos** para criar a Edtech **OpenPBL**. As receitas da Edtech são provenientes do **licenciamento do Sistema de Ensino OpenPBL** para escolas e empresas e da **venda de cursos profissionalizantes** por uma escola própria. 
-
-A função da **escola profissionalizante OpenPBL** é tangibilizar os benefícios do Sistema de Ensino, com o sucesso na tarefa de diferenciar os alunos da escola no mercado de trabalho. <br><br>
-
-
-**Dinâmica do Sistema de Ensino OpenPBL** <br>
+O **"Sistema de Ensino"** desenvolvido pelos idealizadores garante a execução **contínua** e **escalável** de **cursos** baseados unicamente na *problem-based learning* que compõem programas educacionais destinados ao **ensino profissionalizante**.
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online**, que correspondem a 95% da carga horária total do curso; 
@@ -268,7 +261,28 @@ Na etapa de **discussão**, o aluno:
 
 Após esta última etapa, o aluno recebe: 
 1. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
-2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br> 
+2. O *feedback* com a **avaliação do seu desempenho** na solução do problema proposto no curso.
+
+<br><br> 
+
+
+
+
+
+<a name="negocio"></a> 
+<br>
+
+## O NEGÓCIO 
+Para monetizar o método desenvolvido, os idealizadores do projeto criaram a **OpenPBL**, uma edtech cuja missão é "**popularizar** e **democratizar** o **ensino profissionalizante baseado em problemas**". 
+
+As receitas da Edtech são provenientes do **licenciamento** do **Sistema de Ensino OpenPBL** para escolas profissionalizantes e da **venda de cursos profissionalizantes** para **profissionais** e **entrantes no mercado de trabalho**.  
+
+
+"Sistema de Ensino Baseado em Problemas" para ajudar escolas profissionalizantes a ampliarem suas receitas. 
+
+A função da **escola profissionalizante OpenPBL** é tangibilizar os benefícios do Sistema de Ensino, com o sucesso na tarefa de diferenciar os alunos da escola no mercado de trabalho. <br><br>
+
+
 
 
 **Benefícios para usuários do Sistema de Ensino**<br>
@@ -382,6 +396,10 @@ Os clientes-alvo da OpenPBL nestes segmentos de educação corporativa são **gr
 - **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
 - **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
 - **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br>
+
+
+
+
 
 <a name="execucao"></a> 
 <br>
