@@ -256,7 +256,7 @@ Um **software** capaz de integrar esses componentes torna-se uma tecnologia extr
 
 Mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** cujas dinâmicas são baseadas unicamente na *problem-based learning*. 
 
-Cada um dos cursos gerenciados pelo sistema deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+Cada um dos cursos gerenciados pelo sistema de ensino deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online** que correspondem a 95% da carga horária total do curso e; 
@@ -277,6 +277,18 @@ Como *feedback* da sua atuação no curso, o aluno recebe:
 1. Os **resultados dos testes** de conhecimento técnico; 
 2. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
 3. A **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br>
+
+**Objetivos de aprendizagem** <br>
+
+A dinâmica dos cursos gerenciados pelo sistema de ensino buscam desenvolver no aluno **seis** grupos de **competências comportamentais**: 
+- Estruturação de **problemas mal definidos**; 
+- Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
+- Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
+- Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
+- Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
+- Visão orçamentária e atitude empreendedora.
+
+Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.<br><br>
 
 **Benefícios para usuários do sistema de ensino profissionalizante**<br>
 
@@ -319,18 +331,6 @@ Além das receitas oriundas da venda de cursos profissionalizantes, a **Escola p
 Os problemas abordados nos cursos da Escola profissionalizante OpenPBL são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** (R$ 320,00) ou adquirido em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
 A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a **Escola Profissionalizante OpenPBL** como uma **instituição de ensino segmentada por perfis funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
-
-**Objetivos de aprendizagem da escola** <br>
-
-A dinâmica dos cursos e programas da **Escola OpenPBL** têm o objetivo de desenvolver no aluno **seis** grupos de **competências comportamentais**: 
-- Estruturação de **problemas mal definidos**; 
-- Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
-- Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
-- Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
-- Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- Visão orçamentária e atitude empreendedora.
-
-Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.<br><br>
 
 **Público-alvo da escola** <br>
 
