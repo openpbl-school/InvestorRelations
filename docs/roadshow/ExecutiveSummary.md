@@ -94,9 +94,9 @@ Resumo da execução do plano de negócios proposto no *road show* 2020.1 para c
 <br>
 
 ## O PROBLEMA E A OPORTUNIDADE
-Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro, segundo gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidade técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
-Para os especialistas consultados na pesquisa, certas competências como "tomar decisões em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar decisões em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
   <img src="img/behavior-skills.png" width="500"><br>
@@ -109,7 +109,7 @@ Para os especialistas consultados na pesquisa, certas competências como "tomar 
 
 Ao contrário das **habilidades comportamentais**, que resultam das características biológicas, cognitivas e socio-emocionais moldadas **antes** da vida adulta de um indivíduo, as **competências comportamentais** que interessam às empresas só podem ser desenvolvidas ao término da sua formação profissionalizante. Além disso, apesar de ser possível desenvolver competências comportamentais a partir do terço final da formação profissional, na grande maioria das vezes, este desenvolvimento só acontece mesmo ao longo do exercício da profissão. 
 
-Por razões diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho e raramente buscam avaliar o desempenho de seus alunos em questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes da vida real, tais como **riscos**, **incertezas** e **preferências**. No entanto, o desenvolvimento natural das competências comportamentais é um processo que se dá justamente quando os profissionais se encontram diante destas situações de "imperfeição" da vida real.
+Por razões diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho e raramente buscam avaliar o desempenho de seus alunos em questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes da vida real, tais como **riscos**, **incertezas** e **preferências**. No entanto, o desenvolvimento de competências comportamentais é um processo que se dá justamente quando os profissionais se deparam com estas situações de "imperfeição" da vida real.
 
 O processo pode ser resumido da seguinte forma.
 
@@ -133,7 +133,7 @@ Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas 
 É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
 
 <p align="center">
-  <img src="img/benchmark-pbl.png" width="500"><br>
+  <img src="img/benchmark-pbl.png" width="550"><br>
   <em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
 </p>
 
