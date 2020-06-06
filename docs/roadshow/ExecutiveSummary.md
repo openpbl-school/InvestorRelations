@@ -145,6 +145,11 @@ Grande parte deste desequilíbrio ocorre porque as escolas que atuam tradicional
 
 Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.<br><br>
 
+
+
+
+
+
 <a name="proposta"></a> 
 <br>
 
@@ -303,17 +308,17 @@ A consolidação das respostas à pesquisa evidenciam as hipóteses de que:
 ## O NEGÓCIO 
 Para monetizar o **sistema de ensino** desenvolvido, os idealizadores do projeto criaram a **OpenPBL**, uma edtech cuja missão é *"**popularizar** e **democratizar** o **ensino profissionalizante baseado em problemas**".*
 
-As receitas da OpenPBL são provenientes de duas fontes: do **licenciamento** do **Sistema de Ensino OpenPBL** para escolas profissionalizantes e da **venda de cursos profissionalizantes** para **profissionais** e **entrantes no mercado de trabalho**.<br><br>
+As receitas da OpenPBL são provenientes de duas fontes: 
+- do **licenciamento** do **Sistema de Ensino OpenPBL** para escolas profissionalizantes e;
+- da **venda de cursos profissionalizantes** para **profissionais** e **entrantes no mercado de trabalho**.<br><br>
 
 **Escola profissionalizante OpenPBL** <br>
 
-A parcela das receitas da empresa oriunda da venda de cursos para profissionais e entrantes no mercado de trabalho é viabilizada com a criação da **Escola Profissionalizante OpenPBL**. 
+Além das receitas oriundas da venda de cursos profissionalizantes, a **Escola profissionalizante OpenPBL** tem a função estratégica de **tangibilizar** os benefícios do **Sistema de Ensino OpenPBL**, à medida que promove ações para comunicar o sucesso dos seus alunos no mercado de trabalho.
 
-Além das receitas, a **Escola OpenPBL** tem a função estratégica de **tangibilizar** os benefícios do **Sistema de Ensino OpenPBL** aos seus usuários, à medida que promove ações para comunicar o sucesso dos alunos da escola no mercado de trabalho.
+Os problemas abordados nos cursos da Escola profissionalizante OpenPBL são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** (R$ 320,00) ou adquirido em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
-Os problemas abordados nos cursos são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** (R$ 320,00) ou adquirido em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
-
-A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a **Escola OpenPBL** como uma **instituição de ensino segmentada por perfis funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
+A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a **Escola Profissionalizante OpenPBL** como uma **instituição de ensino segmentada por perfis funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
 
 **Objetivos de aprendizagem da escola** <br>
 
