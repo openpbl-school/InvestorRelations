@@ -369,18 +369,7 @@ Estes atributos norteiam a estratégia de comunicação para venda B2C da escola
 
 **Sistema de Ensino OpenPBL** <br>
 
-Conforme sugerido pelo Fórum Econômico Mundial, a **participação continuada** do aluno em "experiências PBL" promove um **ganho** no seu patamar de empregabilidade que o **diferencia** no mercado de trabalho. O sucesso na tarefa de diferenciar os alunos da **Escola OpenPBL** no mercado de trabalho, habilita a empresa a comercializar o **Sistema de Ensino OpenPBL** para terceiros. 
-
-Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
-
-A produtização e comercialização do **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **trilhas funcionais** baseadas em PBL totalmente **customizadas** para terceiros. 
-
-Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa. Assim, as soluções são organizadas em 5 grupos para que os profissionais de T&D tenham suporte em todas as suas demandas, desde o planejamento até a gestão da execução de um **projeto de educação corporativa baseado em *Problem-based Learning*.** 
-- **Soluções de Planejamento Educacional.** As soluções para essa etapa têm caráter de consultoria educacional para os profissionais de T&D. 
-- **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
-- **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
-- **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
-- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.
+O **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **cursos** baseados em PBL totalmente **customizados** para terceiros. 
 
 As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem:
 - O valor dos serviços de **implantação** do sistema;
@@ -388,27 +377,33 @@ As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolv
 - As faixas de franquia divididas por **quantidade de usuários** para a utilização ilimitada do sistema;
 - O **valor mensal por usuário** para cada faixa de franquia.
 
+
+
+
+ 
+
+Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+
+
+
 <br><br>
 
 **Clientes-alvo do sistema de ensino** <br>
 
-O **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **cursos** baseados em PBL totalmente **customizados** para terceiros. Assim, a utilização do sistema de ensino pode ajudar: 
+A utilização do **Sistema de Ensino OpenPBL** pode ajudar: 
 1. **Escolas profissionalizantes** a ampliarem suas receitas e; 
 2. **Empresas** a promover o **desenvolvimento de competências comportamentais** em seus funcionários e colaboradores.
 
-Os clientes-alvo da OpenPBL no segmento da educação corporativa são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo. 
+No **segmento das escolas profissionalizantes** os clientes-alvo são as instituições de ensino superior e as escolas de ensino técnico de nível médio. Para estas escolas, a utilização do **Sistema de Ensino OpenPBL** promove a **participação continuada** dos alunos em "experiências PBL" que os **diferenciam** no mercado de trabalho. 
 
-<br><br>
+No **segmento da educação corporativa** os clientes-alvo são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo. 
 
-
-==================
-
-
-
-
-====================
-
-**Mercado da escola** <br>
+Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa. Assim, as soluções são organizadas em 5 grupos para que os profissionais de T&D tenham suporte em todas as suas demandas, desde o planejamento até a gestão da execução de um **projeto de educação corporativa baseado em *Problem-based Learning*.** Estas soluções são: 
+- **Soluções de Planejamento Educacional.** As soluções para essa etapa têm caráter de consultoria educacional para os profissionais de T&D. 
+- **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
+- **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
+- **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
+- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br>
 
 
 
