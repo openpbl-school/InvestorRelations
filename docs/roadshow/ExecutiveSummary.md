@@ -369,24 +369,13 @@ Estes atributos norteiam a estratégia de comunicação para venda B2C da escola
 
 **Sistema de Ensino OpenPBL** <br>
 
-O **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **cursos** baseados em PBL totalmente **customizados** para terceiros. 
+O **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **cursos** baseados em PBL totalmente **customizados** para terceiros. Os problemas abordados nos cursos são propostos pelos próprios clientes e cada problema específico origina a oferta de um **título no catálogo** do cliente. 
 
-As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem:
+Os usuários do **Sistema de Ensino OpenPBL** acessam os títulos pelo preço-alvo mensal de **US $ 5,37** (R$ 25,00). As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem ainda:
 - O valor dos serviços de **implantação** do sistema;
 - O prazo de vigência do contrato de licenciamento, não inferior a **24 meses**;
 - As faixas de franquia divididas por **quantidade de usuários** para a utilização ilimitada do sistema;
-- O **valor mensal por usuário** para cada faixa de franquia.
-
-
-
-
- 
-
-Cada um dos **cursos profissionalizantes** oferecidos pela escola deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
-
-
-
-<br><br>
+- O **valor mensal por usuário** para cada faixa de franquia.<br><br>
 
 **Clientes-alvo do sistema de ensino** <br>
 
