@@ -161,8 +161,8 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 
 <p align="center">
   <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
-  <em>Pela PBL os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.<br> Fonte:<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank"> The Interdisciplinary Journal of Problem-based Learning</a>.</em>
-</p><br><br>
+  <em>Pela PBL, os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.<br> Fonte:<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank"> The Interdisciplinary Journal of Problem-based Learning</a>.</em>
+</p><br>
 
 **Escalando a PBL** <br>
 
@@ -183,7 +183,9 @@ A **complementação estratégica** das ações propostas no modelo, podem ser a
 1. Quanto à utilização de **ativos de terceiros**: 
  - A utilização de **espaços físicos** de terceiros garante o nível de disponibilidade do recurso, mesmo com o aumento das atividades da empresa;
  - A adoção de espaços físicos, cuja oferta já consideram as facilities atendimento, limpeza, segurança, agendamento, etc, permite que a gestão seja tratada como a gestão de um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
- - A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que pode, simultaneamente, suportar a capacitação **funcional** e **setorial**.<br>
+ - A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que pode, simultaneamente, suportar a capacitação **funcional** e **setorial**.
+ 
+ <br>
 
 2. Quanto ao uso intensivo de **inteligência artificial**: 
  - A IA viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
@@ -203,7 +205,7 @@ Cada um destes processos responde **de forma integrada** pela intervenção em u
 
 A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" cuja tarefa é entrevistar profissionais e especialistas de mercado para explicitar **cenários do dia-a-dia profissional** e seus possíveis **problemas associados**. 
 
-No entanto, a **Extração Automatizada de Cenários Reais** prevê a **interação direta** dos especialistas como um software do tipo *"expert system"*. Os “títulos”, cenários e as competências comportamentais, alvo do processo de aprendizagem, são desenvolvidos  pelos especialistas ao interagirem com o *expert system* e o texto final é estruturado por um *software de IA*, treinado pela técnica de *"machine learning"*. <br><br>
+Ao contrário da elaboração tradicional, a **Extração Automatizada de Cenários Reais** prevê a **interação direta** dos especialistas como um software do tipo *"expert system"*. Os “títulos” e cenários são sugeridos pelos especialistas ao interagirem com o *expert system*, mas o texto final é estruturado por um *software de IA*, treinado pela técnica de *"machine learning"*. <br><br>
 
 <p align="center">
 <img src="img/sum_processo1.png" width="800"><br>
@@ -212,9 +214,11 @@ No entanto, a **Extração Automatizada de Cenários Reais** prevê a **interaç
 
 **Eliminação Individualizada das Deficiências Técnicas** <br> 
 
-Na etapa de *“self-directed learning” (SDL)*, os alunos *"buscam os conhecimentos para resolver o problema a foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
+Na etapa de *“self-directed learning” (SDL)* do processo de execução da PBL, os alunos *"identificam e buscam os conhecimentos necessários para resolver o problema a que foram submetidos"*. 
 
-O principal objetivo do processo de **Eliminação Individualizada das Deficiências Técnicas** é acelerar a fase da SDL. Um *"assessment online"* testa de forma individualizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte de discussão.<br><br>
+Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. O principal objetivo do processo de **Eliminação Individualizada das Deficiências Técnicas** é acelerar a fase da SDL. 
+
+Um *"assessment online"* testa de forma personalizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte do processo da PBL.<br><br>
 
 <p align="center">
 <img src="img/sum_processo2.png" width="800"><br>
@@ -230,7 +234,11 @@ Tradicionalmente, as sessões presenciais de discussão de problemas são reuni�
 <em>Harvard Classroom: a escola investe em infraestrutura e equipamentos para manter a qualidade das discussões em grupos grandes de alunos.</em>
 </p><br>
 
-No processo de **Atomização e Automatização das Discussões**, as sessões presenciais de discussão são agendadas conforme demanda em *espaços compartilhados de trabalho (coworking)*. A dinâmica de uma sessão é conduzida por um tutor via *videoconference* com o auxílio de um *Process management software* que, entre outras coisas, propõe e controla o tempo das atividades, orienta a elaboração de perguntas, define grupos para exercícios e exibe material multimidia auxiliar. A avaliação do desempenho individual dos alunos nas discussões é executada por *software de IA*, treinado pela técnica de *"machine learning"*, que também edita automaticamente o vídeo da gravação da sessão.<br><br>
+No processo de **Atomização e Automatização das Discussões**, as sessões presenciais de discussão são reuniões de 10 alunos no máximo, agendadas conforme demanda em *espaços compartilhados de trabalho (coworking)*. 
+
+A dinâmica de uma sessão é conduzida por um tutor via *videoconference* com o auxílio de um *Process management software* que, entre outras coisas, propõe e controla o tempo das atividades, orienta a elaboração das perguntas, define os grupos para exercícios e exibe material multimidia auxiliar. 
+
+A avaliação do desempenho individual dos alunos nas discussões é executada por *software de IA*, treinado pela técnica de *"machine learning"*, que também edita automaticamente o vídeo com a gravação da sessão.<br><br>
 
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
@@ -239,26 +247,21 @@ No processo de **Atomização e Automatização das Discussões**, as sessões p
 
 <br>
 
-**Integração dos sub-processos** <br>
-
-Os seis **componentes de software** que **automatizam** dos três sub-processos do método proposto são:
- - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
- - *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
- - *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
- - *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método. 
- - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais de discussão.
- - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
-
-Esses componentes são **integrados** por um **sistema de software** cujo objetivo é garantir a **automatização**, **eficácia** e **escalabilidade** na execução conjunta.  
-
-Um **software** capaz de integrar esses componentes torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**, uma vez que viabiliza a execução **automatizada** de atividades educacionais baseadas em PBL.<br><br>
-
-
 **Sistema de ensino profissionalizante baseado em problemas** <br>
 
-Mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** cujas dinâmicas são baseadas unicamente na *problem-based learning*. 
+Os seis **componentes de software** que **automatizam** o método de ensino proposto são **integrados** por um **sistema de software** cujo objetivo é garantir a **eficácia** e **escalabilidade** da execução conjunta. São eles:
+ - **"*Expert system*"** capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
+ - **"*Machine learning model*"** capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
+ - **"*Adaptive learning system*"** para acelerar a etapa de SDL (self-directed learning) dos alunos.
+ - **"*Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método. 
+ - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
+ - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
 
-Cada um dos cursos gerenciados pelo sistema de ensino deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+Um software capaz de automatizar e escalar um **método de ensino baseado em problemas** torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**. Entretanto, mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** com dinâmicas baseadas unicamente na *problem-based learning*. <br><br>
+
+**Dinâmica de aprendizagem do sistema de ensino** <br>
+
+Cada um dos **cursos profissionalizantes** gerenciados pelo sistema de ensino proposto deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online** que correspondem a 95% da carga horária total do curso e; 
@@ -266,13 +269,13 @@ Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-prese
 
 Na etapa de **preparação**, o aluno: 
 1. Recebe o **conteúdo descritivo** do problema abordado no curso, bem como todo o material de apoio para o seu entendimento;
-2. Tem os **conhecimentos técnicos** necessários para a análise do problema **aferidos** por testes *online*, personalizados para a sua proficiência no assunto; 
-3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências;
+2. Tem os **conhecimentos técnicos** necessários para a análise do problema **aferidos** *online* por **testes adaptados** para a sua proficiência no assunto; 
+3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências de conhecimento técnico;
 4. Ao final, **propõe a sua solução** (ou soluções) para o problema objeto do curso.<br>
 
 Na etapa de **discussão**, o aluno: 
 1. Recebe uma lista com opções de **locais** e **horários** disponíveis para a sessão presencial, contendo detalhes da **infraestrutura**, **facilidades** e perfil do **tutor** responsável; 
-2. Agenda a data e o local mais adequados;
+2. Agenda a data e o local mais adequados para participar da sessão;
 3. Participa da **dinâmica de discussões** em torno do problema proposto no curso, conduzidas pelo **tutor** da sessão.<br>
 
 Como *feedback* da sua atuação no curso, o aluno recebe: 
@@ -280,35 +283,35 @@ Como *feedback* da sua atuação no curso, o aluno recebe:
 2. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
 3. A **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br>
 
-**Objetivos de aprendizagem** <br>
+**Objetivos de aprendizagem dos cursos** <br>
 
-A dinâmica dos cursos gerenciados pelo sistema de ensino buscam desenvolver no aluno **seis** grupos de **competências comportamentais**: 
+A dinâmica dos cursos gerenciados pelo sistema de ensino proposto buscam desenvolver no aluno **competências comportamentais** classificadas em **um ou mais** grupos de competências a seguir: 
 - Estruturação de **problemas mal definidos**; 
 - Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
 - Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
 - Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
 - Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- Visão orçamentária e atitude empreendedora.
-
-Em conjunto, essas competências melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira.<br><br>
+- Visão orçamentária e atitude empreendedora.<br><br>
 
 **Benefícios para usuários do sistema de ensino profissionalizante**<br>
 
-Para avaliar a reação da "aprendizagem baseada em problemas" entre alunos de escolas profissionalizantes, os idealizadors utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. A pesquisa entrevistou 120 alunos concluintes de cursos de graduação em economia, engenharia e administração sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. 
+As competências comportamentais desenvolvidas pelo **sistema de ensino baseado em problemas** proposto melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira. Para avaliar a reação destas hipóteses entre alunos de escolas profissionalizantes, os idealizadors utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. 
 
-O questionário da pesquisa continha nove questões do tipo múltipla escolha com o objetivo de medir a percepção de valor nas diversas experiências de aprendizagem de programas profissionalizantes online e presencial. Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da importância das competências comportamentais para os alunos.<br><br>
+A pesquisa entrevistou 120 alunos concluintes de cursos de graduação em economia, engenharia e administração sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. O questionário da pesquisa continha nove questões do tipo múltipla escolha com o objetivo de medir a percepção de valor nas diversas experiências de aprendizagem de programas profissionalizantes online e presencial. 
+
+Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da importância das competências comportamentais para os alunos entrevistados.<br><br>
 
 <p align="center">
 <img src="img/pesquisa-quadro-resumo.png" width="800">
 </p>
 <p align="center">
-<em>Os resultados quantitativos da pesquisa, foram validados em entrevistas qualitativas posteriores. A pesquisa completa pode ser acessada em <a href="https://docs.google.com/forms/d/1AtVWKqeECtwsmQpiBUlhZVVezaOU_rUCCRduIeS1CpA/edit#responses" target="_blank">pesquisa</a>.</em>
+<em>Os resultados quantitativos da pesquisa foram validados em entrevistas qualitativas posteriores. A pesquisa completa pode ser acessada em <a href="https://docs.google.com/forms/d/1AtVWKqeECtwsmQpiBUlhZVVezaOU_rUCCRduIeS1CpA/edit#responses" target="_blank">pesquisa</a>.</em>
 </p>
 
 <br>
 
-A consolidação das respostas à pesquisa evidenciam as hipóteses de que: 
-1. Os alunos percebem as avaliações da **capacidade de resolução de problemas** como as **avaliações mais importantes** de um curso profissionalizante e;
+As respostas dos entrevistados para estas duas questões evidenciam fortemente as seguintes hipóteses: 
+1. Para os alunos, as **avaliações da capacidade de resolução de problemas** são as **mais importantes** de um curso profissionalizante;
 2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho. <br><br>
 
 
