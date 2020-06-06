@@ -99,7 +99,7 @@ Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez
 Para os especialistas consultados na pesquisa, certas competências como "tomar decisões em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
-  <img src="img/behavior-skills.png" width="400"><br>
+  <img src="img/behavior-skills.png" width="500"><br>
   <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> | <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
 </p>
 
@@ -107,13 +107,15 @@ Para os especialistas consultados na pesquisa, certas competências como "tomar 
 
 **Desenvolvendo competências comportamentais** <br>
 
-Ao contrário das **habilidades** comportamentais, que resultam de características biológicas, cognitivas e socio-emocionais moldadas **antes da vida adulta**, as **competências** comportamentais profissionais só podem ser desenvolvidas ao término da formação profissionalizante de um indivíduo. Apesar de já estar preparado para desenvolvê-las no terço final da sua formação, em grande parte dos casos, este desenvolvimento só acontece ao longo da carreira. 
+Ao contrário das **habilidades comportamentais** de cada indivíduo, que resultam das características biológicas, cognitivas e socio-emocionais moldadas **antes** da sua vida adulta, as **competências comportamentais** que interessam às empresas só podem ser desenvolvidas ao término da sua formação profissionalizante. E mais, apesar de ser possível desenvolver competências comportamentais a partir do terço final da formação profissional, na grande maioria das vezes, este desenvolvimento só acontece mesmo ao longo da carreira e de forma **natural** e **inconsciente**. 
 
-Por razões diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Raramente, elas se empenham em avaliar as respostas de seus alunos para questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes da vida real, tais como riscos, incertezas e preferências. 
+Por razões diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho e raramente se empenham em avaliar o desempenho de seus alunos em questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes da vida real, tais como **riscos**, **incertezas** e **preferências**. 
 
-Somente quando o profissional emprega os conhecimentos e habilidades técnicas nas situações do dia-a-dia da carreira, ele se depara com aspectos práticos importantes, como assimetrias de informação, restrições de recursos e pressões diversas.
+O desenvolvimento natural das competências comportamentais é um processo que se dá à medida que o profissional experimenta as situações **reais** da profissão. Ao empregar seus conhecimentos e habilidades técnicas nas situações do dia-a-dia da carreira, ele se depara com aspectos práticos relevantes, como **assimetrias de informação**, **restrições de recursos** e **pressões de ordem diversa**. 
 
-À medida que o profissional experimenta situações reais, ele inicia uma fase de **testes** e **descobertas** na busca pelas ferramentas **mais adequadas** às suas **próprias** habilidades comportamentais para atingir os resultados esperados. Com consequencia, cada indivíduo reúne e **incorpora à sua atuação profissional** um **repertório único** de conhecimentos, técnicas, estratégias e modelos com os quais ele irá contar, juntamente com suas competências técnicas, para desempenhar as diversas funções e desafios a que é submetido.<br><br>
+Ocorre que esses aspectos alteram (por vezes, substancialmente) as condições ideais dos problemas para as quais suas competências técnicas se aplicam sob medida. Assim, ele precisa **testar** novos conhecimentos e **descobrir** as ferramentas **mais adequadas** às suas habilidades comportamentais para atingir os resultados. 
+
+Como consequência deste processo contínuo, cada indivíduo reúne e **incorpora à sua atuação profissional** um **repertório único** de conhecimentos, modelos empíricos e estratégias com os quais ele irá contar, juntamente com suas competências técnicas, para desempenhar as diversas funções e desafios a que é submetido ao longo da carreira.<br><br>
 
 <p align="center">
   <img src="img/learning-behavior-skills.png" width="600"><br>
@@ -122,11 +124,11 @@ Somente quando o profissional emprega os conhecimentos e habilidades técnicas n
 
 <br>
 
-Embora algumas empresas avaliem e informem as **habilidades** comportamentais de seus colaboradores com os diversos modelos disponíveis no mercado (DISC, MBTI, Big Five), na maioria das vezes, o desenvolvimento das competências comportamentais é **auto patrocinado** e executado de forma **natural** e **inconsciente**. 
+**Acelerando o desenvolvimento de competências comportamentais** <br>
 
-Além disso, dependendo dos estímulos à que são submetidos diferentes profissionais, este processo de desenvolvimento pode durar **muito tempo** até se concluir ou, até mesmo, não se concluir. 
+Embora algumas empresas auxiliem seus colaboradores avaliando suas **habilidades** comportamentais com os diversos modelos disponíveis no mercado (DISC, MBTI, Big Five), na grande maioria dos casos, o desenvolvimento das competências comportamentais é um processo **auto patrocinado** e executado de forma **natural** e **inconsciente** ao longo da carreira de um profissional. Além disso, dependendo dos estímulos à que são submetidos diferentes profissionais, este processo de desenvolvimento pode durar **muito tempo** ou, até mesmo, não acontecer. 
 
-Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas educacionais** se propõem a utilizar as situações reais do dia-a-dia em atividades de aprendizagem. Desta forma, estimulam o desenvolvimento personalizado das competências comportamentais. 
+Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas educacionais** se propõem **simular** situações reais do dia-a-dia em atividades de aprendizagem para, desta forma, estimular o desenvolvimento personalizado de competências comportamentais. 
 
 É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
 
