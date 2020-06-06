@@ -232,7 +232,7 @@ No processo de **Atomização e Automatização das Discussões**, as sessões p
 
 <br>
 
-**"Integração dos sub-processos"** <br>
+**Integração dos sub-processos** <br>
 
 Os seis **componentes de software** que **automatizam** dos três sub-processos do método proposto são:
  - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
@@ -247,7 +247,7 @@ Esses componentes são **integrados** por um **sistema de software** cujo objeti
 Um **software** capaz de integrar esses componentes torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**, uma vez que viabiliza a execução **automatizada** de atividades educacionais baseadas em PBL.<br><br>
 
 
-**"Sistema de ensino profissionalizante baseado em problemas"** <br>
+**Sistema de ensino profissionalizante baseado em problemas** <br>
 
 Mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** cujas dinâmicas são baseadas unicamente na *problem-based learning*. 
 
@@ -273,9 +273,9 @@ Como *feedback* da sua atuação no curso, o aluno recebe:
 2. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
 3. A **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br>
 
-**Benefícios para usuários do Sistema de Ensino**<br>
+**Benefícios para usuários do sistema de ensino profissionalizante**<br>
 
-Para avaliar a reação da aprendizagem baseada em problemas entre alunos de escolas profissionalizantes, os idealizadors utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil com 120 profissionais e entrantes no mercado de trabalho sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. 
+Para avaliar a reação da "aprendizagem baseada em problemas" entre alunos de escolas profissionalizantes, os idealizadors utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. A pesquisa entrevistou 120 alunos concluintes de cursos de graduação em economia, engenharia e administração sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. 
 
 O questionário da pesquisa continha nove questões do tipo múltipla escolha com o objetivo de medir a percepção de valor nas diversas experiências de aprendizagem de programas profissionalizantes online e presencial. Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da importância das competências comportamentais para os alunos.<br><br>
 
@@ -288,9 +288,9 @@ O questionário da pesquisa continha nove questões do tipo múltipla escolha co
 
 <br>
 
-A consolidação das respostas à pesquisa evidenciam as hipóteses de que:
-1. Os alunos percebem como as **avaliações mais importante** de um curso profissionalizante aquelas que medem a **capacidade de resolução de problemas** dos alunos;
-2. O alunos percebem igual valor entre as **competências comportamentais** que, segundo o Fórum Econômico Mundial, os **diferencia** no mercado de trabalho. <br><br>
+A consolidação das respostas à pesquisa evidenciam as hipóteses de que: 
+1. Os alunos percebem as avaliações da **capacidade de resolução de problemas** como as **avaliações mais importantes** de um curso profissionalizante e;
+2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho. <br><br>
 
 
 
