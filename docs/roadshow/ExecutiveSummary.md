@@ -125,8 +125,16 @@ Ao empregar suas competências técnicas nas situações do dia-a-dia da carreir
 Sempre que isso ocorre, o profissional precisa buscar e testar novos conhecimentos e **descobrir** os **mais adequados** às suas habilidades comportamentais para atingir os mesmos resultados que atingiria nas condições ideais. Como consequência deste processo contínuo de teste e adequação, cada indivíduo acaba por reunir e **incorporar à sua atuação profissional** um **repertório único** de conhecimentos, modelos empíricos e estratégias com os quais ele irá contar, juntamente com suas competências técnicas, para superar os desafios a que é submetido ao longo da carreira.<br><br>
 
 <p align="center">
-  <img src="img/learning-behavior-skills.png" width="600"><br>
+  <img src="img/learning-behavior-skills-1.png" width="500"><br>
+  <em>As competências técnicas consideram as condições ideais e isentas de riscos, incertezas e preferências.</em>
+</p>
+<p align="center">
+  <img src="img/learning-behavior-skills-2.png" width="500"><br>
   <em>Cada indivíduo incorpora à sua atuação profissional um repertório próprio.</em>
+</p>
+<p align="center">
+  <img src="img/learning-behavior-skills-3.png" width="500"><br>
+  <em>Cada novo problema pode requerer uma nova ferramenta profissional.</em>
 </p>
 
 <br>
