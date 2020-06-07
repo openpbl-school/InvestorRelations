@@ -127,17 +127,15 @@ Sempre que isso ocorre, o profissional precisa buscar e testar novos conheciment
 <p align="center">
   <img src="img/learning-behavior-skills-1.png" width="500"><br>
   <em>O desenvolvimento das competências técnicas não consideram fatores como riscos, incertezas e preferências.</em>
-</p><br>
+</p><br><br>
 <p align="center">
   <img src="img/learning-behavior-skills-2.png" width="500"><br>
   <em>Cada indivíduo incorpora à sua atuação profissional um repertório próprio.</em>
-</p><br>
+</p><br><br>
 <p align="center">
   <img src="img/learning-behavior-skills-3.png" width="500"><br>
   <em>Um novo problema pode requerer novas ferramentas comportamentais.</em>
-</p>
-
-<br>
+</p><br><br>
 
 **Acelerando o desenvolvimento de competências comportamentais** <br>
 
