@@ -100,14 +100,12 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 
 <p align="center">
   <img src="img/expected-results.png" width="400"><br>
-  <em>Competências comportamentais permitem alcançar os resultados esperados com menos recursos.</em>
-</p>
-
-<br>
+  <em>Competências comportamentais permitem que profissionais alcançem os resultados esperados com menos recursos.</em>
+</p><br><br>
 
 <p align="center">
   <img src="img/behavior-skills.png" width="500"><br>
-  <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> | <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">Vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
+  <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
 </p>
 
 <br>
