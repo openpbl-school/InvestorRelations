@@ -148,9 +148,7 @@ Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas 
 <p align="center">
   <img src="img/benchmark-pbl.png" width="550"><br>
   <em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
-</p>
-
-<br>
+</p><br><br>
 
 **Desequilíbrio de mercado**<br>
 
