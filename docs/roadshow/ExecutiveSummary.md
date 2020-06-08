@@ -456,8 +456,14 @@ A política de **canais B2C** para os **dois primeiros anos de operação** deve
 - Instituições de ensino superior (IES) e escolas profissionalizantes do ensino médio;
 - Agências intermediadoras de recrutamento e seleção profissional.
 
-A **estratégia de comunicação** para atração e conversão de leads contém elementos para a construção da *home page* da escola <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.<br><br>
+A **estratégia de comunicação** para atração e conversão de leads contém elementos para a construção da *home page* da escola. <br><br>
 
+<p align="center">
+<img src="img/banner2.png" width="700"><br>
+<em><a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.</em>
+</p>
+
+<br>
 
 **Comercialização B2B** <br>
 
@@ -479,7 +485,6 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
 </p> 
 
 <br>
-
 
 **Plano financeiro** <br>
 
