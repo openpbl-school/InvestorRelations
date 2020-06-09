@@ -100,11 +100,11 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 
 <p align="center">
   <img src="img/professional-of-the-future.png" width="400"><br>
-</p><br><br>
+</p>
 
 <p align="center">
   <img src="img/expected-results.png" width="400"><br>
-  <em>Competências comportamentais permitem que profissionais alcançem os resultados esperados com menos recursos.</em>
+  <em>Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
 </p><br><br>
 
 <p align="center">
