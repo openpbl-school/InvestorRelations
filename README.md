@@ -16,7 +16,7 @@ https://bit.ly/OpenPBL-IR <br>
 https://bit.ly/OpenPBL-Pitch-Inicial
 
 **Português - Redireciona para Sumário Executivo** <br>
-https://bit.ly/SumarioExecutivo18abr20 <br><br>
+https://bit.ly/SumarioExecutivo18abr20 <br>
 
 **Inglês - Business Pitch** <br> 
 https://bit.ly/OpenPBL-Business-Pitch
@@ -28,10 +28,10 @@ https://bit.ly/OpenPBL-ExecutiveSummary-Apr22
 
 ## Redirect links
 
-**Redireciona para Sumário Executivo** <br>
+**Português - Redireciona para Sumário Executivo** <br>
 https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr
 
-**Redireciona para Executive Summary** <br>
+**Inglês - Redireciona para Executive Summary** <br>
 https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22 
 
 <br><br>
