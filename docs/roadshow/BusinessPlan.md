@@ -12,7 +12,7 @@
 <br>
 
 ### BUSINESS PLAN 
-Executive summary of the 2020 fundraising Business Plan.<br><br>
+Business plan proposed at the 2020.1 road show for fundraising.<br><br>
 
 (Soon also available in the English version)
 
@@ -42,7 +42,7 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 <br>
 
 ### PLAN DE NEGOCIOS
-Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
+Plan de negocios propuesto en el road show 2020.1 para recaudación de fondos.<br>
 
 **...**
 
@@ -74,7 +74,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 # PLANO DE NEGÓCIOS
-Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br><br>
+Plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br><br>
 
 <p align="center">    
     <a href="#problema">O Problema</a>
@@ -589,7 +589,7 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 <br>
 
 ### 商业计划
-2020年筹款业务计划的执行摘要。<br>
+在2020.1路演中提出了用于筹款的业务计划。<br>
 
 （很快也有中文版本）
 
