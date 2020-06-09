@@ -113,11 +113,10 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 **Desenvolvendo competências comportamentais** <br>
 
 ```sh
-edit autoexec.bat
+Este tópico encontra-se detalhado no Plano de Negócios.
 ```
-Create your branch (`git checkout -b <branch_name>`)
 
-<i>Este tópico encontra-se detalhado no Plano de Negócios.</i><br><br>
+<br><br>
 
 **Acelerando o desenvolvimento de competências comportamentais** <br>
 
@@ -525,16 +524,18 @@ Até o evento da venda estratégica, estão previstas **quatro** rodadas de capt
 
 **Capital Semente** <br>
 
-Ao todo, já foram captados **US $ 27.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo e desenvolvimento do **plano de negócios**.<br><br> 
+Ao todo, já foram captados **US $ 27.000** (`R$ 150.000`) à título de **capital semente** para **validações iniciais** do modelo e desenvolvimento do **plano de negócios**.<br><br> 
+
+
 
 **Series A** <br>
 
-O objetivo do atual roadshow é a captação de **US $ 132.000** (R$ 727.000) divididos em **quatro quotas** de **US $ 33.000** (R$ 181.000). Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
+O objetivo do atual roadshow é a captação de **US $ 132.000** (`R$ 727.000`) divididos em **quatro quotas** de **US $ 33.000** (`R$ 181.000`). Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
 - Capital de giro.<br><br> 
 
-A captação atual considera o *pre money valuation* de **US $ 900.000** (R$ 4,8 milhões). <br><br> 
+A captação atual considera o *pre money valuation* de **US $ 900.000** (`R$ 4,8 milhões`). <br><br> 
 
 **Governança** <br>
 
