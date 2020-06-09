@@ -326,7 +326,7 @@ Estes atributos norteiam a estratégia de comunicação para venda B2C da escola
 
 O **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **cursos** baseados em PBL totalmente **customizados** para terceiros. Os problemas abordados nos cursos são propostos pelos próprios clientes e cada problema específico origina a oferta de um **título no catálogo** do cliente. 
 
-Os usuários do **Sistema de Ensino OpenPBL** acessam os títulos pelo preço-alvo mensal de **US $ 5,37** (R$ 25,00). As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem ainda:
+Os usuários do **Sistema de Ensino OpenPBL** acessam os títulos pelo preço-alvo mensal de **US $ 5,37** `(R$ 25,00)` `(R$ 25,00)`. As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem ainda:
 - O valor dos serviços de **implantação** do sistema;
 - O prazo de vigência do contrato de licenciamento, não inferior a **24 meses**;
 - As faixas de franquia divididas por **quantidade de usuários** para a utilização ilimitada do sistema;
@@ -492,12 +492,12 @@ Ao todo, já foram captados **US $ 27.000** `(R$ 150.000)` à título de **capit
 
 **Series A** <br>
 
-O objetivo do atual roadshow é a captação de **US $ 132.000** (`R$ 727.000`) divididos em **quatro quotas** de **US $ 33.000** (`R$ 181.000`). Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
+O objetivo do atual roadshow é a captação de **US $ 132.000** `(R$ 727.000)` divididos em **quatro quotas** de **US $ 33.000** `(R$ 181.000)`. Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
 - Capital de giro.<br><br> 
 
-A captação atual considera o *pre money valuation* de **US $ 900.000** (`R$ 4,8 milhões`). <br><br> 
+A captação atual considera o *pre money valuation* de **US $ 900.000** `(R$ 4,8 milhões)`. <br><br> 
 
 **Governança** <br>
 
