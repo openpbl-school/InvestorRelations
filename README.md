@@ -63,12 +63,18 @@ https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPlan#english
 **Financial Plan** <br> 
 https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#english 
 
-**Português - Estratégia de atraçã e conversão** <br> 
+<br>
+
+## Auxiliary pages 
+
+**Português - Estratégia de atração e conversão** <br> 
 https://openpbl-school.github.io/CustomerAcquisition/ 
 
 **Português - HomePage** <br> 
 https://openpbl-school.github.io/CustomerAcquisition/lp/home#start 
 
+**Português - Storytelling** <br> 
+https://openpbl-school.github.io/Storytelling/#portuguese
 
 <br>
 
