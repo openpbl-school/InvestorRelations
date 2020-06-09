@@ -74,21 +74,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <br>
 
 # SUMÁRIO EXECUTIVO
-Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br><br>
-
-<p align="center">    
-    <a href="#problema">O Problema</a>
-    ·
-    <a href="#proposta">A Proposta</a>
-    ·
-    <a href="#negocio">O Negócio</a>
-    ·
-    <a href="#execucao">Execução</a>
-    ·
-    <a href="#expansao">Expansão</a>
-    ·
-    <a href="#financiamento">Financiamento</a>
-</p>
+Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
 <a name="problema"></a> 
 <br>
