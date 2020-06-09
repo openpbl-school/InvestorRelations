@@ -254,7 +254,7 @@ Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da
 <img src="img/pesquisa-quadro-resumo.png" width="800">
 </p>
 <p align="center">
-<em>Os resultados quantitativos da pesquisa foram validados em entrevistas qualitativas posteriores. A pesquisa completa pode ser acessada em <a href="https://docs.google.com/forms/d/1AtVWKqeECtwsmQpiBUlhZVVezaOU_rUCCRduIeS1CpA/edit#responses" target="_blank">pesquisa</a>.</em>
+<em>Os resultados quantitativos da pesquisa foram validados em entrevistas qualitativas posteriores. A pesquisa completa pode ser acessada em <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/error" target="_blank">pesquisa</a>.</em>
 </p>
 
 <br>
@@ -282,9 +282,13 @@ As receitas da OpenPBL são provenientes de duas fontes:
 
 Além das receitas oriundas da venda de cursos profissionalizantes, a **Escola profissionalizante OpenPBL** tem a função estratégica de **tangibilizar** os benefícios do **Sistema de Ensino OpenPBL**, à medida que promove ações para comunicar o sucesso dos seus alunos no mercado de trabalho.
 
-Os problemas abordados nos cursos da Escola profissionalizante OpenPBL são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** (R$ 320,00) ou adquirido em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
+Os problemas abordados nos cursos da Escola profissionalizante OpenPBL são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** `(R$ 320,00)` ou adquirido em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
-A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a **Escola Profissionalizante OpenPBL** como uma **instituição de ensino segmentada por perfis funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
+
 
 **Público-alvo da escola** <br>
 
@@ -319,13 +323,13 @@ Quando comparados com **programas tradicionais** do mercado educacional desenhad
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
 - Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. 
 
-Estes atributos norteiam a estratégia de comunicação para venda B2C da escola. As ações para atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.<br><br>
+Estes atributos norteiam a estratégia de comunicação para venda B2C da escola. As ações para atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/error" target="_blank">Estratégia de Comunicação</a>.<br><br>
 
 **Sistema de Ensino OpenPBL** <br>
 
 O **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **cursos** baseados em PBL totalmente **customizados** para terceiros. Os problemas abordados nos cursos são propostos pelos próprios clientes e cada problema específico origina a oferta de um **título no catálogo** do cliente. 
 
-Os usuários do **Sistema de Ensino OpenPBL** acessam os títulos pelo preço-alvo mensal de **US $ 5,37** `(R$ 25,00)` `(R$ 25,00)`. As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem ainda:
+Os usuários do **Sistema de Ensino OpenPBL** acessam os títulos pelo preço-alvo mensal de **US $ 5,37** `(R$ 25,00)`. As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem ainda:
 - O valor dos serviços de **implantação** do sistema;
 - O prazo de vigência do contrato de licenciamento, não inferior a **24 meses**;
 - As faixas de franquia divididas por **quantidade de usuários** para a utilização ilimitada do sistema;
@@ -341,12 +345,13 @@ No **segmento das escolas profissionalizantes** os clientes-alvo são as institu
 
 No **segmento da educação corporativa** os clientes-alvo são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo. 
 
-Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa. Assim, as soluções são organizadas em 5 grupos para que os profissionais de T&D tenham suporte em todas as suas demandas, desde o planejamento até a gestão da execução de um **projeto de educação corporativa baseado em *Problem-based Learning*.** Estas soluções são: 
-- **Soluções de Planejamento Educacional.** As soluções para essa etapa têm caráter de consultoria educacional para os profissionais de T&D. 
-- **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
-- **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
-- **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
-- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br>
+Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa. Assim, as soluções são organizadas em 5 grupos para que os profissionais de T&D tenham suporte em todas as suas demandas, desde o planejamento até a gestão da execução de um **projeto de educação corporativa baseado em *Problem-based Learning*.** Estas soluções são:
+
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
+
 
 
 
@@ -399,8 +404,8 @@ A política de **canais B2C** para os **dois primeiros anos de operação** deve
 A **estratégia de comunicação** para atração e conversão de leads contém elementos para a construção da *home page* da escola. <br><br>
 
 <p align="center">
-<img src="img/banner2.png" width="700"><br>
-<em><a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.</em>
+<img src="img/banner2.png" width="800"><br>
+<em><a href="https://openpbl-school.github.io/InvestorRelations/roadshow/error" target="_blank">Ensaio da HomePage</a>.</em>
 </p>
 
 <br>
