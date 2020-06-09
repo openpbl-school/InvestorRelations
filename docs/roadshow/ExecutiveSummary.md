@@ -113,10 +113,9 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 **Desenvolvendo competências comportamentais** <br>
 
 ```sh
-Este tópico encontra-se detalhado no Plano de Negócios.
+*Este tópico encontra-se detalhado no Plano de Negócios.*
 ```
-
-<br><br>
+<br>
 
 **Acelerando o desenvolvimento de competências comportamentais** <br>
 
