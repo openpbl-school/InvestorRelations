@@ -24,7 +24,7 @@ https://bit.ly/OpenPBL-Business-Pitch
 **Inglês - Redirect to Executive Summary** <br>
 https://bit.ly/OpenPBL-ExecutiveSummary-Apr22 
 
-<br><br>
+<br>
 
 ## Redirect links
 
@@ -34,7 +34,17 @@ https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr
 **Inglês - Redireciona para Executive Summary** <br>
 https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22 
 
-<br><br>
+<br>
+
+## NDA
+
+**Non Disclosure Agreement - PDF** <br> 
+https://openpbl-school.github.io/InvestorRelations/NDA
+
+**Non Disclosure Agreement - PDF** <br> 
+https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf
+
+<br>
 
 ## Original links
 
@@ -53,16 +63,14 @@ https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPlan#english
 **Financial Plan** <br> 
 https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#english 
 
-**Non Disclosure Agreement** <br> 
-https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf
+**Português - Estratégia de atraçã e conversão** <br> 
+https://openpbl-school.github.io/CustomerAcquisition/ 
 
-https://openpbl-school.github.io/InvestorRelations/NDA
+**Português - HomePage** <br> 
+https://openpbl-school.github.io/CustomerAcquisition/lp/home#start 
+
 
 <br>
-
-
-
-
 
 
 
