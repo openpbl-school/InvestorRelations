@@ -11,7 +11,7 @@
 <a name="english"></a>
 <br>
 
-### OPEN-PBL EXECUTIVE SUMMARY 
+### EXECUTIVE SUMMARY 
 Executive summary of the 2020 fundraising Business Plan.<br><br>
 
 (Soon also available in the English version)
@@ -41,7 +41,7 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 <a name="spanish"></a> 
 <br>
 
-### RESUMEN EJECUTIVO OPEN-PBL
+### RESUMEN EJECUTIVO
 Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 
 **...**
@@ -73,7 +73,7 @@ Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
 <a name="portuguese"></a> 
 <br>
 
-# OPEN-PBL - SUMÁRIO EXECUTIVO
+# SUMÁRIO EXECUTIVO
 Resumo da execução do plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br><br>
 
 <p align="center">    
@@ -588,7 +588,7 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 <a name="chinese"></a> 
 <br>
 
-### OPEN-PBL执行摘要
+### 执行摘要
 2020年筹款业务计划的执行摘要。<br>
 
 （很快也有中文版本）
