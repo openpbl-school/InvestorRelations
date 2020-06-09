@@ -472,6 +472,14 @@ A **estratégia de comunicação** para atração e conversão de leads contém 
 <em><a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.</em>
 </p>
 
+<p align="center">
+<img src="img/online-customer-acquisition.png" width="600"><br>
+<em>Projeto de conversão online.</a>.</em>
+</p>
+
+
+
+
 <br>
 
 **Comercialização B2B** <br>
