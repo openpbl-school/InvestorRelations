@@ -113,7 +113,7 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 **Desenvolvendo competências comportamentais** <br>
 
 ```sh
--Este tópico encontra-se detalhado no Plano de Negócios.-
+Este tópico encontra-se detalhado no Plano de Negócios.
 ```
 <br>
 
@@ -165,23 +165,10 @@ Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto de
 
 Diferentemente do paradigma de execução 100% digital que se baseia na escala, indiscriminada, todas as atividades educacionais, a **essência inovadora** do modelo proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
 
-<p align="center">
-  <img src="img/sum_quadro3.png" width="800"><br>
-  <em>Intervenção em cada uma das etapas clássicas do processo de execução da PBL.</em>
-</p><br>
-
-A **complementação estratégica** das ações propostas no modelo, podem ser avaliadas:
-1. Quanto à utilização de **ativos de terceiros**: 
- - A utilização de **espaços físicos** de terceiros garante o nível de disponibilidade do recurso, mesmo com o aumento das atividades da empresa;
- - A adoção de espaços físicos, cuja oferta já consideram as facilities atendimento, limpeza, segurança, agendamento, etc, permite que a gestão seja tratada como a gestão de um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
- - A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que pode, simultaneamente, suportar a capacitação **funcional** e **setorial**.
- 
- <br>
-
-2. Quanto ao uso intensivo de **inteligência artificial**: 
- - A IA viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
- - A IA automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
- - A "**atomização**" da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
 
 **Método de ensino** <br>
 
@@ -194,59 +181,31 @@ Cada um destes processos responde **de forma integrada** pela intervenção em u
 
 **Extração Automatizada de Cenários Reais** <br>
 
-A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" cuja tarefa é entrevistar profissionais e especialistas de mercado para explicitar **cenários do dia-a-dia profissional** e seus possíveis **problemas associados**. 
-
-Ao contrário da elaboração tradicional, a **Extração Automatizada de Cenários Reais** prevê a **interação direta** dos especialistas como um software do tipo *"expert system"*. Os “títulos” e cenários são sugeridos pelos especialistas ao interagirem com o *expert system*, mas o texto final é estruturado por um *software de IA*, treinado pela técnica de *"machine learning"*. <br><br>
-
-<p align="center">
-<img src="img/sum_processo1.png" width="800"><br>
-<em>Sistema para extração de conhecimento dos profissionais especialistas.</em>
-</p><br><br>
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
 
 **Eliminação Individualizada das Deficiências Técnicas** <br> 
 
-Na etapa de *“self-directed learning” (SDL)* do processo de execução da PBL, os alunos *"identificam e buscam os conhecimentos necessários para resolver o problema a que foram submetidos"*. 
-
-Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. O principal objetivo do processo de **Eliminação Individualizada das Deficiências Técnicas** é acelerar a fase da SDL. 
-
-Um *"assessment online"* testa de forma personalizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte do processo da PBL.<br><br>
-
-<p align="center">
-<img src="img/sum_processo2.png" width="800"><br>
-<em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
-</p><br>
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
 
 **Atomização e Automatização das Discussões** <br>
 
-Tradicionalmente, as sessões presenciais de discussão de problemas são reuniões com 40 alunos ou mais, uma vez que, quanto maior o número de alunos, menor o impacto do valor da apropriação do custo da infra-estrutura física no preço unitário dos cursos. Para isso, as escolas tradicionais investem em **salas** e **equipamentos sofisticados** para garantir a qualidade das interações entre os alunos, mesmo com discussões em grandes grupos.<br><br>
-
-<p align="center">
-<img src="img/harvard-classroom.png" width="600"><br>
-<em>Harvard Classroom: a escola investe em infraestrutura e equipamentos para manter a qualidade das discussões em grupos grandes de alunos.</em>
-</p><br>
-
-No processo de **Atomização e Automatização das Discussões**, as sessões presenciais de discussão são reuniões de 10 alunos no máximo, agendadas conforme demanda em *espaços compartilhados de trabalho (coworking)*. 
-
-A dinâmica de uma sessão é conduzida por um tutor via *videoconference* com o auxílio de um *Process management software* que, entre outras coisas, propõe e controla o tempo das atividades, orienta a elaboração das perguntas, define os grupos para exercícios e exibe material multimidia auxiliar. 
-
-A avaliação do desempenho individual dos alunos nas discussões é executada por *software de IA*, treinado pela técnica de *"machine learning"*, que também edita automaticamente o vídeo com a gravação da sessão.<br><br>
-
-<p align="center">
-<img src="img/sum_processo3.png" width="800"><br>
-<em>Sessão presencial atomizada e assistida por software.</em>
-</p>
-
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
 <br>
 
 **Sistema de ensino profissionalizante baseado em problemas** <br>
 
-Os seis **componentes de software** que **automatizam** o método de ensino proposto são **integrados** por um **sistema de software** cujo objetivo é garantir a **eficácia** e **escalabilidade** da execução conjunta. São eles:
- - **"*Expert system*"** capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
- - **"*Machine learning model*"** capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
- - **"*Adaptive learning system*"** para acelerar a etapa de SDL (self-directed learning) dos alunos.
- - **"*Recommender system** para recomendação do conteúdo de apoio na etapa de SDL do método. 
- - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
- - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
 
 Um software capaz de automatizar e escalar um **método de ensino baseado em problemas** torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**. Entretanto, mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** com dinâmicas baseadas unicamente na *problem-based learning*. <br><br>
 
@@ -470,7 +429,12 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
 
 **Plano financeiro** <br>
 
-O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a><br><br>
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
+
+
 
 
 
@@ -484,14 +448,10 @@ Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá 
 
 Para desenho, implantação e testes do **sistema educacional** são necessários investimentos que devem ser contabilizados, em sua maior parte, como despesa de capital" (CAPEX) para **desenvolvimento de software**. 
 
-Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** a ser desenvolvido são: 
-- *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
-- *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
-- *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
-- *Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método.
-- *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
-- *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
-- *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br>
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
 
 **Novas frentes de negócios** <br>
 
@@ -501,6 +461,11 @@ A partir do desenvolvimento do sistema educacional será possível a expansão d
 - Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
 
 Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br>
+
+
+
+
+
 
 <a name="financiamento"></a> 
 <br>
@@ -523,9 +488,7 @@ Até o evento da venda estratégica, estão previstas **quatro** rodadas de capt
 
 **Capital Semente** <br>
 
-Ao todo, já foram captados **US $ 27.000** (`R$ 150.000`) à título de **capital semente** para **validações iniciais** do modelo e desenvolvimento do **plano de negócios**.<br><br> 
-
-
+Ao todo, já foram captados **US $ 27.000** `(R$ 150.000)` à título de **capital semente** para **validações iniciais** do modelo e desenvolvimento do **plano de negócios**.<br><br> 
 
 **Series A** <br>
 
