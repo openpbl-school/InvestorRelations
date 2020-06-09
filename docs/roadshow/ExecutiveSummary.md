@@ -163,7 +163,7 @@ O caminho escolhido para aproveitar a atual janela de oportunidades é buscar fo
 
 Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto desenvolveram um modelo **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL. 
 
-Diferentemente do paradigma de execução 100% digital que se baseia na escala, indiscriminada, todas as atividades educacionais, a **essência inovadora** do modelo proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
+Diferentemente do paradigma de execução 100% digital que se baseia na escala, indiscriminada, todas as atividades educacionais, a **essência inovadora** do modelo proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.
 
 ```sh
 Este tópico encontra-se detalhado no Plano de Negócios.
@@ -234,13 +234,12 @@ Como *feedback* da sua atuação no curso, o aluno recebe:
 
 **Objetivos de aprendizagem dos cursos** <br>
 
-A dinâmica dos cursos gerenciados pelo sistema de ensino proposto buscam desenvolver no aluno **competências comportamentais** classificadas em **um ou mais** grupos de competências a seguir: 
-- Estruturação de **problemas mal definidos**; 
-- Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
-- Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
-- Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
-- Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
-- Visão orçamentária e atitude empreendedora.<br><br>
+A dinâmica dos cursos gerenciados pelo sistema de ensino proposto buscam desenvolver no aluno **competências comportamentais** classificadas em **um ou mais** grupos de competências a seguir:
+
+```sh
+Este tópico encontra-se detalhado no Plano de Negócios.
+```
+<br>
 
 **Benefícios para usuários do sistema de ensino profissionalizante**<br>
 
