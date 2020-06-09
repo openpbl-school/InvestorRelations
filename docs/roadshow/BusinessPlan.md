@@ -74,7 +74,7 @@ Plan de negocios propuesto en el road show 2020.1 para recaudación de fondos.<b
 <br>
 
 # PLANO DE NEGÓCIOS
-Plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br>
+Plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
 **Índice de assuntos** <br>
 <p align="left">    
@@ -105,7 +105,7 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 
 <p align="center">
   <img src="img/expected-results.png" width="400"><br>
-  <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo TED</a> - Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
+  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Vídeo TED</a> - Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
 </p><br><br>
 
 <p align="center">
