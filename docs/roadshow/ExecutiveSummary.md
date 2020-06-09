@@ -205,7 +205,6 @@ Este tópico encontra-se detalhado no Plano de Negócios.
 ```sh
 Este tópico encontra-se detalhado no Plano de Negócios.
 ```
-<br>
 
 Um software capaz de automatizar e escalar um **método de ensino baseado em problemas** torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**. Entretanto, mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** com dinâmicas baseadas unicamente na *problem-based learning*. <br><br>
 
