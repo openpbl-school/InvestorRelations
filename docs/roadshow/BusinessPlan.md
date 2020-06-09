@@ -73,9 +73,6 @@ Plan de negocios propuesto en el road show 2020.1 para recaudación de fondos.<b
 <a name="portuguese"></a> 
 <br>
 
-# PLANO DE NEGÓCIOS
-Plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br><br>
-
 <p align="center">    
     <a href="#problema">O Problema</a>
     ·
@@ -89,6 +86,9 @@ Plano de negócios proposto no *road show* 2020.1 para captação de recursos. <
     ·
     <a href="#financiamento">Financiamento</a>
 </p>
+
+# PLANO DE NEGÓCIOS
+Plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br><br>
 
 <a name="problema"></a> 
 <br>
