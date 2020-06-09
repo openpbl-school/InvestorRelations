@@ -468,19 +468,16 @@ A política de **canais B2C** para os **dois primeiros anos de operação** deve
 A **estratégia de comunicação** para atração e conversão de leads contém elementos para a construção da *home page* da escola. <br><br>
 
 <p align="center">
-<img src="img/banner2.png" width="800"><br>
-<em><a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.</em>
+<img src="img/online-customer-acquisition.png" width="700"><br>
+<em>Projeto de conversão online.</a>.</em>
 </p>
 
 <br>
 
 <p align="center">
-<img src="img/online-customer-acquisition.png" width="700"><br>
-<em>Projeto de conversão online.</a>.</em>
+<img src="img/banner2.png" width="800"><br>
+<em><a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.</em>
 </p>
-
-
-
 
 <br>
 
