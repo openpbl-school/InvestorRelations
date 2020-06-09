@@ -112,7 +112,12 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 
 **Desenvolvendo competências comportamentais** <br>
 
-<h4>Este tópico encontra-se detalhado no Plano de Negócios.</h4><br><br>
+```sh
+edit autoexec.bat
+```
+Create your branch (`git checkout -b <branch_name>`)
+
+<i>Este tópico encontra-se detalhado no Plano de Negócios.</i><br><br>
 
 **Acelerando o desenvolvimento de competências comportamentais** <br>
 
