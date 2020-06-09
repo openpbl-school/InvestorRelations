@@ -112,28 +112,7 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 
 **Desenvolvendo competências comportamentais** <br>
 
-Ao contrário das **habilidades comportamentais**, que resultam das características biológicas, cognitivas e socio-emocionais moldadas **antes** da vida adulta de um indivíduo, as **competências comportamentais** que interessam às empresas só podem ser desenvolvidas ao término da sua formação profissionalizante. Além disso, apesar de ser possível desenvolver competências comportamentais a partir do terço final da formação profissional, na grande maioria das vezes, este desenvolvimento só acontece mesmo ao longo do exercício da profissão. 
-
-Por razões diversas, as escolas de formação profissionalizante se concentram em desenvolver apenas as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho e raramente buscam avaliar o desempenho de seus alunos em questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes da vida real, tais como **riscos**, **incertezas** e **preferências**. No entanto, o desenvolvimento de competências comportamentais é um processo que se dá justamente quando os profissionais se deparam com estas situações de "imperfeição" da vida real.
-
-O processo pode ser resumido da seguinte forma.
-
-Ao empregar suas competências técnicas nas situações do dia-a-dia da carreira, um profissional se depara com aspectos práticos relevantes, como **assimetrias de informação**, **restrições de recursos** e **pressões de ordem diversa**, que alteram (por vezes, substancialmente) as condições ideais dos problemas para as quais seus conhecimento e habilidades técnicas se aplicam sob medida. 
-
-Sempre que isso ocorre, o profissional precisa buscar e testar novos conhecimentos e **descobrir** os **mais adequados** às suas habilidades comportamentais para atingir os mesmos resultados que atingiria nas condições ideais. Como consequência deste processo contínuo de teste e adequação, cada indivíduo acaba por reunir e **incorporar à sua atuação profissional** um **repertório único** de conhecimentos, modelos empíricos e estratégias com os quais ele irá contar, juntamente com suas competências técnicas, para superar os desafios a que é submetido ao longo da carreira.<br><br>
-
-<p align="center">
-  <img src="img/learning-behavior-skills-1.png" width="500"><br>
-  <em>O desenvolvimento das competências técnicas não consideram fatores como riscos, incertezas e preferências.</em>
-</p><br><br>
-<p align="center">
-  <img src="img/learning-behavior-skills-2.png" width="500"><br>
-  <em>Cada indivíduo incorpora à sua atuação profissional um repertório próprio.</em>
-</p><br><br>
-<p align="center">
-  <img src="img/learning-behavior-skills-3.png" width="500"><br>
-  <em>Um novo problema pode requerer novas ferramentas comportamentais.</em>
-</p><br><br>
+<h4>Este tópico encontra-se detalhado no Plano de Negócios.</h4><br><br>
 
 **Acelerando o desenvolvimento de competências comportamentais** <br>
 
@@ -262,7 +241,7 @@ Os seis **componentes de software** que **automatizam** o método de ensino prop
  - **"*Expert system*"** capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
  - **"*Machine learning model*"** capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
  - **"*Adaptive learning system*"** para acelerar a etapa de SDL (self-directed learning) dos alunos.
- - **"*Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método. 
+ - **"*Recommender system** para recomendação do conteúdo de apoio na etapa de SDL do método. 
  - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
  - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
 
