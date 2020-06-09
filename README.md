@@ -1,11 +1,11 @@
-### Roadmap all links
+## Roadmap (all links)
 
 **Links enviados** <br>
 22abr20 - Pitch e Sumário (pt-br) - André <br>
 18abr20 - Pitch e Sumário (pt-br) - Lucas <br>
-04abr20 - Sumário (pt-br) - Pitombo <br><br>
+04abr20 - Sumário (pt-br) - Pitombo <br>
 
-=================================
+<br>
 
 ## Bitly links
 
