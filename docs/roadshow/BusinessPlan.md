@@ -192,9 +192,7 @@ A **complementação estratégica** das ações propostas no modelo, podem ser a
 1. Quanto à utilização de **ativos de terceiros**: 
  - A utilização de **espaços físicos** de terceiros garante o nível de disponibilidade do recurso, mesmo com o aumento das atividades da empresa;
  - A adoção de espaços físicos, cuja oferta já consideram as facilities atendimento, limpeza, segurança, agendamento, etc, permite que a gestão seja tratada como a gestão de um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
- - A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que pode, simultaneamente, suportar a capacitação **funcional** e **setorial**.
- 
- <br>
+ - A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que pode, simultaneamente, suportar a capacitação **funcional** e **setorial**.<br>
 
 2. Quanto ao uso intensivo de **inteligência artificial**: 
  - A IA viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
