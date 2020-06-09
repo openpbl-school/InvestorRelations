@@ -99,8 +99,7 @@ Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez
 Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar decisões em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
-  <img src="img/professional-of-the-future.png" width="500"><br>
-  <em>Competências comportamentais e o trabalhador do futuro.</em>
+  <img src="img/professional-of-the-future.png" width="400"><br>
 </p><br><br>
 
 <p align="center">
