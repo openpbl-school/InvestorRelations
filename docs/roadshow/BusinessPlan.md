@@ -104,7 +104,7 @@ Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar
 
 <p align="center">
   <img src="img/expected-results.png" width="400"><br>
-  <em>Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
+  <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo TED</a> - Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
 </p><br><br>
 
 <p align="center">
