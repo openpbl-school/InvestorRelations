@@ -404,7 +404,7 @@ A partir da conclusão do **sistema educacional**, prevista para o início do se
 
 **Desempenho global** <br>
 
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 47.000** para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de **760 alunos** (0,6% do mercado alvo) na escola profissionalizante e **7.500 alunos** licenciados no Sistema de Ensino (1,7% do mercado alvo) e **receitas líquidas** de **US $ 1,94 milhão** (EBITDA 42% RL) no **quinto ano** de operação da empresa. 
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 60.000** `(R$ 327.000)`  para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de **760 alunos** (0,6% do mercado alvo) na escola profissionalizante e **7.500 alunos** licenciados no Sistema de Ensino (1,7% do mercado alvo) e **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)` (EBITDA 42% RL) no **quinto ano** de operação da empresa. 
 
 As simulações utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
 
