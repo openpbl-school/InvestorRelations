@@ -119,10 +119,12 @@ El objetivo del roadshow actual es recaudar US $ 132,000 dividido en cuatro cuot
 
 ### OPEN-PBL - IDEIA DO NEGÓCIO
 
-Gestores de RH de todo o mundo vêm alertando sistematicamente para a importância que as **competências comportamentais** assumiram na avaliação do desempenho profissional. Contudo, embora mais e mais empresas estejam demandando que seus colaboradores apresentem estas competências, a **oferta** de cursos e programas educacionais específicos para desenvolvê-las **não é suficiente** para atender a demanda de **profissionais** e **entrantes** no mercado de trabalho. 
+Há tempos que a importância das **competências comportamentais** para o bom desempenho de um profissional vem sendo defendida pelos gestores de RH. Entretanto, essa importância ganhou ainda mais destaque depois da publicação em 2018 de uma pesquisa do Fórum Econômico Mundial que elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro.
+
+Contudo, apesar de, cada vez mais empresas exigirem estas competências de seus colaboradores, a **oferta** de cursos e programas educacionais para desenvolvê-las **não é suficiente** para atender a demanda de **profissionais** e **entrantes** no mercado de trabalho. 
 
 Para aproveitar a oportunidade gerada por este **desequilíbrio de mercado**, um grupo de experientes executivos do setor educacional
-desenvolveu um **sistema de ensino** inovador, capaz de **escalar** a execução de cursos baseados em *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais. 
+desenvolveu um **sistema de ensino** inovador, capaz de **escalar** a execução de cursos que utilizam uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
 
 <p align="center">    
     ... 
