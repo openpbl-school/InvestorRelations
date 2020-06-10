@@ -136,7 +136,7 @@ As receitas da empresa são provenientes do **licenciamento do sistema de ensino
 <p align="center">    
     ... 
 </p> 
-O idealizadores do projeto desenvolveram um plano de negócios de 5 anos com o detalhamento das etapas de *startup*, profissionalização da gestão, apmpliação da escala de atuação e saída.  
+O idealizadores do projeto desenvolveram um plano de negócios de 5 anos com o detalhamento das etapas de *startup*, profissionalização da gestão, apmpliação da escala de atuação e saída. 
 
 Todas as etapas previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
 
