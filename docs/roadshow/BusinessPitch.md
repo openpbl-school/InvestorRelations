@@ -117,23 +117,20 @@ El objetivo del roadshow actual es recaudar US $ 132,000 dividido en cuatro cuot
 <a name="portuguese"></a> 
 <br>
 
-### OPEN-PBL - IDEIA 
+### OPEN-PBL - IDEIA DO NEGÓCIO
 
-Segundo recente pesquisa do Fórum Econômico Mundial com **gestores de RH**, o que diferencia os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não é mais o domínio dos  conhecimentos e habilidades técnicas da profissão, mas a utilização de algumas importantes **competências comportamentais** no dia-a-dia de suas tarefas.   
+Gestores de RH de todo o mundo vêm alertando sistematicamente para a importância que as **competências comportamentais** assumiram na avaliação do desempenho profissional. Contudo, embora mais e mais empresas estejam demandando que seus colaboradores apresentem estas competências, a **oferta** de cursos e programas educacionais específicos para desenvolvê-las **não é suficiente** para atender a demanda de **profissionais** e **entrantes** no mercado de trabalho. 
 
-Embora, as empresas estejam demandando cada vez mais profissionais com estas competências, a **oferta** de cursos e programas educacionais específicos para desenvolvê-las **não é suficiente** por não atender os requisitos de preço e disponibilidade requeridos por **profissionais** e **entrantes** no mercado de trabalho.
-
-Para aproveitar a oportunidade gerada por este **desequilíbrio**, experientes executivos do setor educacional propõem um método **inovador**, baseado na utilização de **ativos de terceiros** e no **uso intensivo de inteligência artificial**. 
-
-O método aumenta consideravelmente a **escalabilidade** da execução de cursos que utilizam uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
+Para aproveitar a oportunidade gerada por este **desequilíbrio de mercado**, um grupo de experientes executivos do setor educacional
+desenvolveu um **sistema de ensino** inovador, capaz de **escalar** a execução de cursos baseados em *Problem Based Learning (PBL)*, uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais. 
 
 <p align="center">    
     ... 
 </p> 
 
-Como forma de monetizar a inovação, os idealizadores elaboraram um plano de negócios para produtizar o método proposto na forma de um **Sistema de Ensino** e, com isso, criar uma **escola profissionalizante** capaz de viabilizar a oferta sistemática e contínua de programas educacionais baseados unicamente em PBL. 
+Assim, criaram a **OpenPBL**, uma edtech cuja missão é democratizar o **"ensino profissionalizante baseado em problemas"** e cujas receitas são provenientes do **licenciamento** do **Sistema de Ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. 
 
-As receitas da Edtech são provenientes da **venda de cursos** profissionalizantes e do **licenciamento do Sistema de Ensino** para escolas e empresas. Simulações financeiras do modelo de negócios mostram que, com um investimento inicial mínimo de US $ 47.000 para a **produção de conteúdo** e **capital de giro**, é possível atingir receitas líquidas de US $ 1,94 milhão (EBITDA 42% RL) no quinto ano de operação da empresa.
+Simulações financeiras do modelo de negócios mostram que, com um investimento inicial mínimo de US $ 47.000 para **capital de giro** e **produção de conteúdo** é possível atingir receitas líquidas de US $ 1,94 milhão (EBITDA 42% RL) no quinto ano de operação da empresa.
 
 <p align="center">    
     ... 
@@ -141,7 +138,7 @@ As receitas da Edtech são provenientes da **venda de cursos** profissionalizant
 
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
-O objetivo do atual roadshow é a captação de US $ 132.000 divididos em quatro quotas de US $ 33.000 para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
+O objetivo do atual roadshow é a captação de US $ 132.000, em quatro quotas de US $ 33.000, que serão utilizados para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
 
 <p align="center">    
     ... 
@@ -151,7 +148,7 @@ O objetivo do atual roadshow é a captação de US $ 132.000 divididos em quatro
 
 *2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br>
 
-
+...
 
 <br>
 <p align="center">    
