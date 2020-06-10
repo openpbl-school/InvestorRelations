@@ -130,7 +130,7 @@ desenvolveu um **sistema de ensino** inovador, capaz de **escalar** a execução
 
 Assim, criaram a **OpenPBL**, uma edtech cuja missão é democratizar o **"ensino profissionalizante baseado em problemas"** e cujas receitas são provenientes do **licenciamento** do **Sistema de Ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. 
 
-Simulações financeiras do modelo de negócios mostram que, com um investimento inicial mínimo de US $ 47.000 para **capital de giro** e **produção de conteúdo** é possível atingir receitas líquidas de US $ 1,94 milhão (EBITDA 42% RL) no quinto ano de operação da empresa.
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 60.000** `(R$ 327.000)` para a **produção de conteúdo** e **capital de giro**, é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa. 
 
 <p align="center">    
     ... 
@@ -138,7 +138,7 @@ Simulações financeiras do modelo de negócios mostram que, com um investimento
 
 Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um grupo educacional.
 
-O objetivo do atual roadshow é a captação de US $ 132.000, em quatro quotas de US $ 33.000, que serão utilizados para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
+O objetivo do atual roadshow publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> é a captação de **US $ 132.000** `(R$ 727.000)` divididos em **quatro quotas** de **US $ 33.000** `(R$ 182.000)`, que serão utilizados para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
 
 <p align="center">    
     ... 
