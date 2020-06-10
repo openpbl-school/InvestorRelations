@@ -490,7 +490,7 @@ A partir da conclusão do **sistema educacional**, prevista para o início do se
 
 **Desempenho global** <br>
 
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 47.000** para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de **760 alunos** (0,6% do mercado alvo) na escola profissionalizante e **7.500 alunos** licenciados no Sistema de Ensino (1,7% do mercado alvo) e **receitas líquidas** de **US $ 1,94 milhão** (EBITDA 42% RL) no **quinto ano** de operação da empresa. 
+Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 60.000** `(R$ 327.000)` para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de **760 alunos** (0,6% do mercado alvo) na escola profissionalizante e **7.500 alunos** licenciados no Sistema de Ensino (1,7% do mercado alvo) e **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)` (EBITDA 42% RL) no **quinto ano** de operação da empresa. 
 
 As simulações utilizaram **premissas de marketing e custos** para modelar o **ano 2** (primeiro ano "em regime") e **premissas de crescimento de vendas e de custos** para modelar os demais anos. <br><br> 
 
@@ -557,16 +557,16 @@ Até o evento da venda estratégica, estão previstas **quatro** rodadas de capt
 
 **Capital Semente** <br>
 
-Ao todo, já foram captados **US $ 27.000** (R$ 150.000) à título de **capital semente** para **validações iniciais** do modelo e desenvolvimento do **plano de negócios**.<br><br> 
+Ao todo, já foram captados **US $ 27.000** `(R$ 150.000)` à título de **capital semente** para **validações iniciais** do modelo e desenvolvimento do **plano de negócios**.<br><br> 
 
 **Series A** <br>
 
-O objetivo do atual roadshow é a captação de **US $ 132.000** (R$ 727.000) divididos em **quatro quotas** de **US $ 33.000** (R$ 181.000). Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
+O objetivo do atual roadshow é a captação de **US $ 132.000** `(R$ 727.000)` divididos em **quatro quotas** de **US $ 33.000** `(R$ 181.000)`. Esse montante deverá ser utilizado durante o *startup* da empresa na cidade de São Paulo para:
 - Desenvolver sistemas de software;
 - Produzir conteúdo;
 - Capital de giro.<br><br> 
 
-A captação atual considera o *pre money valuation* de **US $ 900.000** (R$ 4,8 milhões). <br><br> 
+A captação atual considera o *pre money valuation* de **US $ 900.000** `(R$ 4,8 milhões)`. <br><br> 
 
 **Governança** <br>
 
