@@ -119,20 +119,19 @@ El objetivo del roadshow actual es recaudar US $ 132,000 dividido en cuatro cuot
 
 ### OPEN-PBL - IDEIA DO NEGÓCIO
 
-Há tempos que a importância das **competências comportamentais** para o bom desempenho de um profissional vem sendo defendida pelos gestores de RH. Entretanto, essa importância ganhou ainda mais destaque depois da publicação em 2018 de uma pesquisa do Fórum Econômico Mundial que elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro.
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de **gestores de RH** de todo o mundo. Segundo o relatório da pesquisa, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
-Contudo, apesar de, cada vez mais empresas exigirem estas competências de seus colaboradores, a **oferta** de cursos e programas educacionais para desenvolvê-las **não é suficiente** para atender a demanda de **profissionais** e **entrantes** no mercado de trabalho. 
-
-Para aproveitar a oportunidade gerada por este **desequilíbrio de mercado**, um grupo de experientes executivos do setor educacional
-desenvolveu um **sistema de ensino** inovador, capaz de **escalar** a execução de cursos que utilizam uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
+Se por um lado, empresas demandam cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender a crescente demanda do mercado. 
 
 <p align="center">    
     ... 
 </p> 
 
-Assim, criaram a **OpenPBL**, uma edtech cuja missão é democratizar o **"ensino profissionalizante baseado em problemas"** e cujas receitas são provenientes do **licenciamento** do **Sistema de Ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. 
+Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa criou a **OpenPBL**, uma edtech cuja missão é democratizar o **"ensino profissionalizante baseado em problemas"**. 
 
-Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 60.000** `(R$ 327.000)` para a **produção de conteúdo** e **capital de giro**, é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa. 
+A empresa comercializa um **sistema de ensino** baseado em inteligência artificial que promove **ganhos de escala** na execução de cursos que utilizam uma **estratégia de aprendizagem** comprovadamente **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
+
+As receitas são provenientes do **licenciamento** do **Sistema de Ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 60.000** `(R$ 327.000)` para a **produção de conteúdo** e **capital de giro**, é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa. 
 
 <p align="center">    
     ... 
