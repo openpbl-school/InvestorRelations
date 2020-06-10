@@ -119,7 +119,7 @@ El objetivo del roadshow actual es recaudar US $ 132,000 dividido en cuatro cuot
 
 ### OPEN-PBL - IDEIA DO NEGÓCIO
 
-Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. . Segundo o relatório da pesquisa com **gestores de RH** de todo o mundo, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o relatório da pesquisa com **gestores de RH** de todo o mundo, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
 Se por um lado, as empresas passaram a exigir competências comportamentais cada vez mais complexas de seus profissionais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que a **oferta de cursos e programas educacionais** específicos para esse fim encontra-se praticamente estagnada, apesar da crescente demanda do mercado. 
 
