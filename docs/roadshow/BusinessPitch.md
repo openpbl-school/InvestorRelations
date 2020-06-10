@@ -129,15 +129,16 @@ Se por um lado, as empresas passaram a exigir competências comportamentais cada
 
 Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa criou a **OpenPBL**, uma edtech cuja missão é democratizar o **"ensino profissionalizante baseado em problemas"**. 
 
-A empresa comercializa um **sistema de ensino** baseado em inteligência artificial que promove **ganhos de escala** na execução de cursos que utilizam uma clássica **estratégia de aprendizagem** que é comprovadamente **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
+A empresa desemvolve e comercializa um **sistema de ensino** baseado em inteligência artificial que promove inéditos **ganhos de escala** na execução de cursos que utilizam uma tradicional **estratégia de aprendizagem** considerada **eficaz** no desenvolvimento de competências comportamentais: a *Problem Based Learning (PBL)*.
 
-As receitas da empresa são provenientes do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 60.000** `(R$ 327.000)` para a **produção inicial de conteúdo** é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa. 
+As receitas da empresa são provenientes do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. Simulações financeiras do modelo de negócios mostram que, com um **investimento mínimo** de **US $ 60.000** `(R$ 327.000)` na **produção inicial de conteúdo** é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa. 
 
 <p align="center">    
     ... 
 </p> 
+O idealizadores do projeto desenvolveram um plano de negócios de 5 anos com o detalhamento das etapas de *startup*, profissionalização da gestão, apmpliação da escala de atuação e saída.  
 
-Todas as etapas de expansão previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
+Todas as etapas previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
 
 O objetivo do atual roadshow -publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>- é a captação de **US $ 132.000** `(R$ 727.000)` divididos em **quatro quotas** de **US $ 33.000** `(R$ 182.000)`, que serão utilizados para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
 
