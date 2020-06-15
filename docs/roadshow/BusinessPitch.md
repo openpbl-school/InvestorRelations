@@ -121,25 +121,17 @@ El objetivo del roadshow actual es recaudar US $ 132,000 dividido en cuatro cuot
 
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo o relatório da pesquisa com **gestores de RH** de todo o mundo, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
-Se por um lado, as empresas passaram a exigir competências comportamentais cada vez mais complexas de seus profissionais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num **prazo razoável**, uma vez que a **oferta de cursos e programas educacionais** específicos para esse fim encontra-se praticamente estagnada, apesar da crescente demanda do mercado. 
+Se por um lado, as empresas passaram a exigir competências comportamentais cada vez mais complexas de seus profissionais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num **prazo razoável**. Por não apresentarem uma **estrutura de custos** escalável, a **oferta** de **cursos e programas educacionais** específicos para esse fim cresce num ritmo muito menor que a demanda do mercado. 
 
 <p align="center">    
     ... 
 </p> 
 
-Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa criou a **OpenPBL**, uma edtech cuja missão é democratizar o **"ensino profissionalizante baseado em problemas"**. 
+Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa idealizou um inovador **sistema de ensino profissionalizante baseado em problemas"**. 
+ 
+O sistema de ensino utiliza **inteligência artificial** para promover **inéditos ganhos de escala** na execução de cursos que utilizam a *Problem Based Learning (PBL)*, uma tradicional **estratégia de aprendizagem** considerada **eficaz** no desenvolvimento de competências comportamentais. 
 
-A empresa desenvolve e comercializa um **sistema de ensino** baseado em **inteligência artificial** que promove **inéditos ganhos de escala** na execução de cursos que utilizam a *Problem Based Learning (PBL)*, uma tradicional **estratégia de aprendizagem** considerada **eficaz** no desenvolvimento de competências comportamentais. 
-
-As receitas da empresa são provenientes do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. 
-
-<p align="center">    
-    ... 
-</p> 
-
-Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa desenvolveu um **sistema de ensino** baseado em **inteligência artificial** que promove **inéditos ganhos de escala** na execução de cursos que utilizam a *Problem Based Learning (PBL)*, uma tradicional **estratégia de aprendizagem** considerada **eficaz** no desenvolvimento de competências comportamentais. 
-
-Assim, criou a **OpenPBL**, uma edtech cujas receitas são provenientes de duas fontes: do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em escolas próprias de atuação regional. 
+Assim, nasceu a **OpenPBL**, uma edtech cujas receitas são provenientes de duas fontes: do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em pequenas escolas-conceito próprias de atuação regional. 
 
 <p align="center">    
     ... 
@@ -147,9 +139,9 @@ Assim, criou a **OpenPBL**, uma edtech cujas receitas são provenientes de duas 
 
 Para atingir os objetivos da empresa, os idealizadores do projeto desenvolveram um **plano de negócios** de 5 anos com o detalhamento das etapas de *'**startup**'*, **ampliação da escala de atuação**, **profissionalização da gestão**, **internacionalização** e **saída**. Todas estas etapas serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
 
-O objetivo do atual roadshow é a captação de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 72.000** `(R$ 400.000)` serão utilizados como despesas pré-operacionais para **desenvolver os componentes de software** do **sistema de ensino** e **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para conquistar **0,56% do público alvo** na cidade de São Paulo, Brasil, e atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação. 
+O objetivo do atual roadshow é a captação de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 72.000** `(R$ 400.000)` serão utilizados como despesas pré-operacionais para **desenvolver os componentes de software** do **sistema de ensino** e **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para conquistar **3,2% do público alvo** na cidade de São Paulo (Brasil) e atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação. 
 
-Para captar esse valor, a empresa publicou em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> a oferta de 4 quotas, de um total de 25 quotas, no valor unitário de **US $ 33.000** `(R$ 182.000)`. 
+Para a captação, a empresa publicou em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> a oferta de 4 quotas, de um total de 25 quotas, no valor unitário de **US $ 33.000** `(R$ 182.000)`. 
 
 <p align="center">    
     ... 
@@ -158,6 +150,10 @@ Para captar esse valor, a empresa publicou em <a href="https://www.crunchbase.co
 *1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank">OpenPBL Executive Summary</a>.*
 
 *2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br>
+
+<p align="center">    
+    ... 
+</p> 
 
 ...
 
