@@ -127,7 +127,7 @@ Se por um lado, as empresas passaram a exigir competências comportamentais cada
     ... 
 </p> 
 
-Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa idealizou um inovador **sistema de ensino profissionalizante baseado em problemas"**. 
+Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa idealizou um inovador "**sistema de ensino profissionalizante baseado em problemas**". 
  
 O sistema de ensino utiliza **inteligência artificial** para promover **inéditos ganhos de escala** na execução de cursos que utilizam a *Problem Based Learning (PBL)*, uma tradicional **estratégia de aprendizagem** considerada **eficaz** no desenvolvimento de competências comportamentais. 
 
