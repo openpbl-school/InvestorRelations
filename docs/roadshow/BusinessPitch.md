@@ -131,22 +131,22 @@ Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a
 
 A empresa desenvolve e comercializa um **sistema de ensino** baseado em **inteligência artificial** que promove **inéditos ganhos de escala** na execução de cursos que utilizam a *Problem Based Learning (PBL)*, uma tradicional **estratégia de aprendizagem** considerada **eficaz** no desenvolvimento de competências comportamentais. 
 
-As receitas da empresa são provenientes do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. Simulações financeiras do modelo de negócios mostram que, com um **investimento mínimo** de **US $ 60.000** `(R$ 327.000)` na **produção inicial de conteúdo** é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa. 
+As receitas da empresa são provenientes do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em uma escola-conceito própria. 
 
 <p align="center">    
     ... 
 </p>
 
-O idealizadores do projeto desenvolveram um **plano de negócios** de 5 anos com o detalhamento das etapas de *startup*, **profissionalização da gestão**, **ampliação da escala de atuação** e **saída**. 
+Para atingir os objetivos da empresa, os idealizadores do projeto desenvolveram um **plano de negócios** de 5 anos com o detalhamento das etapas de *'**startup**'*, **ampliação da escala de atuação**, **profissionalização da gestão** e **saída**. Todas as etapas previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
 
-Todas as etapas previstas no plano serão financiadas por **capital de risco** e a principal regra de saída para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
+O objetivo do atual roadshow é a captação de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 72.000** `(R$ 400.000)` serão utilizados como despesas pré-operacionais para **desenvolver os componentes de software** do **sistema de ensino** e **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para conquistar x% do público alvo na cidade de São Paulo e atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação. 
 
-O objetivo do atual roadshow -publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>- é a captação de **US $ 132.000** `(R$ 727.000)` divididos em **quatro quotas** de **US $ 33.000** `(R$ 182.000)`, que serão utilizados para **desenvolver sistemas de software**, **produzir conteúdo** e para o **capital de giro** necessário no período de *startup* da empresa na cidade de São Paulo.
+Para captar esse valor, a empresa publicou em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> a oferta de 4 quotas, de um total de 25 quotas, no valor unitário de **US $ 33.000** `(R$ 182.000)`. 
 
 <p align="center">    
     ... 
 </p>  
-
+    
 *1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank">OpenPBL Executive Summary</a>.*
 
 *2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br>
