@@ -141,7 +141,7 @@ Para atingir os objetivos da empresa, os idealizadores do projeto desenvolveram 
 
 O objetivo do atual roadshow é a captação de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 72.000** `(R$ 400.000)` serão utilizados como despesas pré-operacionais para **desenvolver os componentes de software** do **sistema de ensino** e **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para conquistar **3,2% do público alvo** na cidade de São Paulo (Brasil) e atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação. 
 
-Para a captação, a empresa publicou em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> a oferta de 4 quotas, de um total de 25 quotas, no valor unitário de **US $ 33.000** `(R$ 182.000)`. 
+Para a captação, a empresa publicou em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> a oferta de 4 quotas, de um total de 25 quotas, no valor unitário de **US $ 33.000** `(R$ 182.000)`. Um investimento com **retorno nominal** projetado de **36% a.a.**, considerada uma taxa de risco (WAAC) de 14,5% a.a..   
 
 <p align="center">    
     ... 
