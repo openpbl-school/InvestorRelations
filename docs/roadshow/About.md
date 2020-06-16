@@ -11,7 +11,7 @@
 <a name="english"></a>
 <br>
 
-### OPEN-PBL BUSINESS PITCH 
+### OPEN-PBL ABOUT 
 
 A survey published in 2018 by the **World Economic Forum** listed the ten most desired professional skills for workers of the future. According to **HR managers** from around the world consulted in the survey, what **differentiates** professionals in an increasingly globalized, dynamic and automated world is no longer their technical knowledge and skills, but the mastery of some important **behavioral skills**.
 
@@ -117,15 +117,25 @@ Para esta recaudación de fondos, la compañía publicó en <a href="https://www
 <a name="portuguese"></a> 
 <br>
 
-### OPEN-PBL - IDEIA DO NEGÓCIO
+### OPEN-PBL - SOBRE
 
-Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. 
+OpenPBL – Sobre
+O OpenPBL é uma Edtech que desenvolve e comercializa um inovador sistema de ensino profissionalizante baseado em problemas. 
 
-Segundo **gestores de RH** de todo o mundo consultados na pesquisa, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são mais seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
+Porque ensino baseado em problemas
+Cada vez mais, as empresas vêm demandando de profissionais de todos os níveis hierárquicos que desenvolvam as competências comportamentais que lhes permitam, não só alcançar os resultados esperados, mas alcançá-los da forma mais eficiente possível. 
+A Problem Based Learning, ou PBL, é uma estratégia de aprendizagem comprovadamente eficaz para o desenvolvimento de competências comportamentais. Você já deve ter ouvido falar nos MBAs com estudos de caso de Harvard ou nos desafios dos alunos da Minerva, ou ainda na escola sem professores École 42. 
 
-Apesar de empresas demandarem cada vez mais profissionais com competências comportamentais complexas, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num **prazo razoável**.  
+Mas estas são escolas elitistas
+Sim. Apesar da eficácia comprovada da PBL, os cursos nessas escolas são muito caros. No entanto, a missão da OpenPBL é democratizar o ensino profissionalizante baseado em problemas. 
 
-Como os **cursos e programas educacionais** específicos para desenvolver competências comportamentais não apresentam **estrutura de custos** escalável, a sua **oferta** cresce num ritmo muito menor que a demanda do mercado. 
+Como 
+OpenPBL comercializa experiências completas de aprendizagem profissionalizante baseadas em problemas típicos da carreira profissional. 
+
+Histórico
+Um grupo de experientes executivos do mercado de educação constatou que as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos operam modelos de negócios que não apresentam economias de escala suficientes para popularizarem seus produtos. 
+Assim, a oferta destes programas educacionais não consegue acompanhar o aumento da demanda das empresas, o que provoca no mercado de trabalho um desequilíbrio entre a demanda e a oferta de profissionais com competências comportamentais. 
+Seu sistema de ensino utiliza inteligência artificial para promover inéditos ganhos de escala na execução de cursos que utilizam a Problem Based Learning (PBL). Daí é possível ofertar cursos completos por valores acessíveis.  
 
 <p align="center">    
     ... 
