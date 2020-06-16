@@ -19,6 +19,9 @@ https://bit.ly/OpenPBL-Pitch-Inicial
 **Português - Redireciona para Sumário Executivo** <br>
 https://bit.ly/SumarioExecutivo18abr20 <br>
 
+**Português - Plano de Negócios** <br> 
+https://bit.ly/OpenPBL-Plano-Negocios <br>
+
 **Inglês - Business Pitch** <br> 
 https://bit.ly/OpenPBL-Business-Pitch
 
