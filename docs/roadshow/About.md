@@ -117,53 +117,33 @@ Para esta recaudación de fondos, la compañía publicó en <a href="https://www
 <a name="portuguese"></a> 
 <br>
 
-### OPEN-PBL - SOBRE
+### SOBRE OPEN-PBL 
+OpenPBL é uma Edtech que desenvolve e comercializa um inovador **sistema de ensino** para profissionais de todas as classes sociais que desejam **aumentar a sua empregabilidade** para competir por **melhores oportunidades** em suas respectivas carreiras, sejam estes profissionais ainda **estudantes** do ensino médio ou superior, em busca do primeiro emprego ou **já formados**, em busca de **mudança de área**, **recolocação no mercado de trabalho** ou **progressão na carreira**.
 
-OpenPBL – Sobre
-O OpenPBL é uma Edtech que desenvolve e comercializa um inovador sistema de ensino profissionalizante baseado em problemas. 
+#### Porque aprender através de problemas
+Porque a *Problem Based Learning*, ou resumidamente, a **PBL**, é uma **estratégia de aprendizagem** comprovadamente **eficaz** para o desenvolvimento de **competências comportamentais** e, cada vez mais, as empresas vêm demandando que profissionais de todos os níveis hierárquicos as desenvolvam, uma vez que estas importantes competências que lhes permitam, não só alcançar os resultados esperados, mas alcançá-los da forma mais eficiente possível.
 
-Porque ensino baseado em problemas
-Cada vez mais, as empresas vêm demandando de profissionais de todos os níveis hierárquicos que desenvolvam as competências comportamentais que lhes permitam, não só alcançar os resultados esperados, mas alcançá-los da forma mais eficiente possível. 
-A Problem Based Learning, ou PBL, é uma estratégia de aprendizagem comprovadamente eficaz para o desenvolvimento de competências comportamentais. Você já deve ter ouvido falar nos MBAs com estudos de caso de Harvard ou nos desafios dos alunos da Minerva, ou ainda na escola sem professores École 42. 
+A PBL é usada com sucesso em programas educacionais consagrados, tais como nos MBAs com estudos de caso de **Harvard** ou nos desafios internacionais dos alunos da **Minerva**, ou ainda na **École 42**, a escola de TI sem professores. Entretanto, escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos operam modelos de negócios que não apresentam economias de escala suficientes para popularizarem seus produtos. Por isso, apesar da eficácia comprovada da PBL, os cursos nessas escolas são caros e a oferta de seus programas educacionais não consegue acompanhar o aumento da demanda das empresas.
 
-Mas estas são escolas elitistas
-Sim. Apesar da eficácia comprovada da PBL, os cursos nessas escolas são muito caros. No entanto, a missão da OpenPBL é democratizar o ensino profissionalizante baseado em problemas. 
+#### PBL ao alcance de todos
+Este desequilíbrio entre a demanda e a oferta de profissionais com competências comportamentais estimulou estes executivos na procura de alternativas para **democratizar o ensino profissionalizante baseado em problemas**. 
 
-Como 
+Estimulados pelo **desequilíbrio** entre a oferta e a demanda de profissionais com competências comportamentais estimulou estes executivos na procura de alternativas para **democratizar o ensino profissionalizante baseado em problemas**. 
+
+Estimulados pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa idealizou um inovador "**sistema de ensino profissionalizante baseado em problemas**". 
+
+Seu sistema de ensino utiliza **inteligência artificial** para promover inéditos ganhos de escala na execução de cursos que utilizam a Problem Based Learning (PBL). Daí é possível ofertar cursos completos por valores acessíveis. 
+
+Segundo gestores de RH, estas **competências comportamentais** representam um importante diferencial no nível de empregabilidade dos profissionais quando competem por oportunidades com profissionais que têm competências técnicas semelhantes. 
+
+Um grupo de experientes executivos do mercado de educação constatou que as 
+
+
+#### Sistema de ensino OpenPBL 
+
 OpenPBL comercializa experiências completas de aprendizagem profissionalizante baseadas em problemas típicos da carreira profissional. 
 
-Histórico
-Um grupo de experientes executivos do mercado de educação constatou que as escolas que tradicionalmente desenvolvem competências comportamentais em seus alunos operam modelos de negócios que não apresentam economias de escala suficientes para popularizarem seus produtos. 
-Assim, a oferta destes programas educacionais não consegue acompanhar o aumento da demanda das empresas, o que provoca no mercado de trabalho um desequilíbrio entre a demanda e a oferta de profissionais com competências comportamentais. 
-Seu sistema de ensino utiliza inteligência artificial para promover inéditos ganhos de escala na execução de cursos que utilizam a Problem Based Learning (PBL). Daí é possível ofertar cursos completos por valores acessíveis.  
-
-<p align="center">    
-    ... 
-</p> 
-
-Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação executiva e corporativa idealizou um inovador "**sistema de ensino profissionalizante baseado em problemas**". 
- 
-O sistema de ensino utiliza **inteligência artificial** para promover **inéditos ganhos de escala** na execução de cursos que utilizam a *Problem Based Learning (PBL)*, uma tradicional **estratégia de aprendizagem** considerada **eficaz** no desenvolvimento de competências comportamentais. 
-
 Baseado nesta ideia, foi lançada a **OpenPBL**, uma Edtech cujas receitas são provenientes de duas fontes: do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em pequenas "escolas-conceito" de atuação regional. 
-
-<p align="center">    
-    ... 
-</p>
-
-Para atingir os objetivos da empresa, os idealizadores do projeto desenvolveram um **plano de negócios** de 5 anos com o detalhamento das etapas de *'**startup**'*, **ampliação da escala de atuação**, **profissionalização da gestão**, **internacionalização** e **saída**. Todas estas etapas serão financiadas por **capital de risco** e a principal "regra de saída do negócio" para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
-
-O objetivo do atual roadshow é a captação de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 72.000** `(R$ 400.000)` serão utilizados como despesas pré-operacionais para **desenvolver os componentes de software** do **sistema de ensino** e **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para conquistar **3,2% do público alvo** na cidade de São Paulo (Brasil) e, assim, atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação. 
-
-Para esta captação, a empresa publicou em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> a oferta de 4 quotas, de um total de 25 quotas, no valor unitário de **US $ 33.000** `(R$ 182.000)`. Um investimento com **retorno nominal** projetado de **36% a.a.**, considerada uma taxa de risco (WAAC) de 14,5% a.a..   
-
-<p align="center">    
-    ... 
-</p>  
-    
-*1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank">OpenPBL Executive Summary</a>.*
-
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br>
 
 <p align="center">    
     ... 
