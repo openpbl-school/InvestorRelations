@@ -15,10 +15,13 @@ https://bit.ly/SumarioExecutivo18abr20 <br>
 **Português - Plano de Negócios** <br> 
 https://bit.ly/OpenPBL-Plano-Negocios <br>
 
-**Inglês - Business Pitch** <br> 
+**Português - Sobre** <br> 
+https://bit.ly/OpenPBL-Sobre <br>
+
+**Business Pitch** <br> 
 https://bit.ly/OpenPBL-Business-Pitch
 
-**Inglês - Redirect to Executive Summary** <br>
+**Redirect to Executive Summary** <br>
 https://bit.ly/OpenPBL-ExecutiveSummary-Apr22 
 
 <br>
@@ -64,7 +67,7 @@ https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#englis
 
 ## Auxiliary pages 
 
-**About* <br> 
+**About** <br> 
 https://openpbl-school.github.io/InvestorRelations/roadshow/About#english 
 
 **Português - Estratégia de atração e conversão** <br> 
