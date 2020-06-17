@@ -62,7 +62,7 @@ Una
 <a name="portuguese"></a> 
 <br>
 
-### SOBRE OPEN-PBL 
+### SOBRE A OPEN-PBL 
 OpenPBL é uma Edtech que desenvolve e comercializa um inovador **sistema de ensino** para profissionais de todas as classes sociais que desejam **aumentar a sua empregabilidade** para competir por **melhores oportunidades** em suas respectivas carreiras, sejam estes profissionais ainda **estudantes** do ensino médio ou superior, em busca do primeiro emprego ou **já formados**, em busca de **mudança de área**, **recolocação no mercado de trabalho** ou **progressão na carreira**.
 
 #### Porque aprender através de problemas
