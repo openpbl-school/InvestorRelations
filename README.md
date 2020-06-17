@@ -16,7 +16,7 @@ https://bit.ly/SumarioExecutivo18abr20 <br>
 https://bit.ly/OpenPBL-Plano-Negocios <br>
 
 **Português - Sobre** <br> 
-https://bit.ly/OpenPBL-Sobre <br>
+https://bit.ly/OpenPBL_Sobre <br>
 
 **Business Pitch** <br> 
 https://bit.ly/OpenPBL-Business-Pitch
