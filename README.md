@@ -1,4 +1,4 @@
-## Roadmap (all links)
+## Roadshow (all links)
 
 
 ## Bitly links
@@ -63,6 +63,9 @@ https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#englis
 <br>
 
 ## Auxiliary pages 
+
+**About* <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/About#english 
 
 **Português - Estratégia de atração e conversão** <br> 
 https://openpbl-school.github.io/CustomerAcquisition/ 
