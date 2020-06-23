@@ -1,8 +1,12 @@
 ## Roadshow (all links)
 
-**Business Plan** <br>
-Redireciona para BP.md criptografado. 
+**English - Business Plan** <br>
+Redireciona para BusinessPlan.md (inglês) criptografado. <br>
 https://openpbl-school.github.io/InvestorRelations/BusinessPlan
+
+**Português - Plano de Negócios** <br>
+Redireciona para BusinessPlan.md (Portuguese) criptografado. <br>
+https://openpbl-school.github.io/InvestorRelations/PlanoNegocios
 
 
 ## Bitly links
