@@ -8,7 +8,7 @@ https://openpbl-school.github.io/InvestorRelations/BusinessPlan
 Redireciona para BusinessPlan.md (Portuguese) criptografado. <br>
 https://openpbl-school.github.io/InvestorRelations/PlanoNegocios
 
-https://bit.ly/OenPBL-PlanoNegocios
+https://bit.ly/OpenPBL-PlanoNegocios
 
 
 ## Bitly links
