@@ -1,6 +1,7 @@
 ## Roadshow (all links)
 
-**Business Plan** <br> 
+**Business Plan** <br>
+Redireciona para BP.md criptografado. 
 https://openpbl-school.github.io/InvestorRelations/BusinessPlan
 
 
