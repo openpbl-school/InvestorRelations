@@ -1,5 +1,8 @@
 ## Roadshow (all links)
 
+**Business Plan** <br> 
+https://openpbl-school.github.io/InvestorRelations/BusinessPlan
+
 
 ## Bitly links
 
