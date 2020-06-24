@@ -73,6 +73,9 @@ https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPlan#english
 **Financial Plan** <br> 
 https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#english 
 
+**Startup** <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#english 
+
 <br>
 
 ## Auxiliary pages 
