@@ -3,7 +3,7 @@
 
 ## STARTUP
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
-- Elaborar testes com um “**concierge MVP**” para validar as premissas de **custos de execução** das sessões presenciais (utilização do *capital semente*). <a href="#concierge">ver mais/a>
+- Elaborar testes com um “**concierge MVP**” para validar as premissas de **custos de execução** das sessões presenciais (utilização do *capital semente*). <a href="#concierge">ver mais</a>
 - Estudos de mercado e **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo.
 - Abertura formal e pré-operação da empresa na **cidade São Paulo**. 
 - Produção do estoque inicial de títulos (CAPEX).
