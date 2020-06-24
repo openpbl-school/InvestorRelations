@@ -117,42 +117,33 @@ Recursos
 <br>
 
 ### ESTUDO DE MERCADO 
-O
-
-<br><br>
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 <a name="abertura"></a> 
 <br>
 
 ### ABERTURA FORMAL DA EMPRESA 
-O
-
-<br><br>
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 <a name="estoque"></a> 
 <br>
 
 ### ESTOQUE INICIAL DE TÍTULOS 
-O
-
-<br><br>
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 <a name="lancamento"></a> 
 <br>
 
 ### LANÇAMENTO DOS CURSOS 
-O
-
-<br><br>
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 <a name="desenvolvimento"></a> 
 <br>
 
 ### DESENVOLVIMENTO DO SISTEMA 
-O
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
-<br><br>
