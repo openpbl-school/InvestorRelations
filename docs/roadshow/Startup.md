@@ -1,4 +1,4 @@
-<a name="start"></a> 
+<a name="portuguese"></a> 
 <br>
 
 ## STARTUP
@@ -8,9 +8,12 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 - Abertura formal e pré-operação da empresa na **cidade São Paulo**. 
 - Produção do estoque inicial de títulos (CAPEX).
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. 
-- Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br><br>
+- Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br>
 
-A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br><br>
+A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br>
+
+<a name="portuguese"></a> 
+<br>
 
 ### CONCIERGE MVP 
 O desenvolvimento de um "*concierge MVP*" é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed* capital e é o principal fator de sucesso da próxima rodada de captação de recursos. Os modulos componentes do MVP são descritos a seguir:<br><br> 
