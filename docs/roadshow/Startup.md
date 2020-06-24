@@ -31,7 +31,7 @@ Roteirização e execução de peça audiovisual tipo “storyboarding animado�
 
 Recursos 
 - Roteirista (100 horas).
-- Animador e pós produção (100 horas).
+- Animador e pós produção (100 horas). <br><br> 
 
 1.2 Web app para e-commerce (catálogo) <br>
 Criação e execução de website para e-commerce. Usa como peça principal o Vídeo Atributos. 
