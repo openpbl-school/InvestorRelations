@@ -12,7 +12,7 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 
 A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br>
 
-<a name="portuguese"></a> 
+<a name="concierge"></a> 
 <br>
 
 ### CONCIERGE MVP 
@@ -106,3 +106,47 @@ Recursos
 - Consultor especialista (100 horas)
 
 ...
+
+<a name="mercado"></a> 
+<br>
+
+### ESTUDO DE MERCADO 
+O
+
+<br><br>
+
+
+<a name="abertura"></a> 
+<br>
+
+### ABERTURA FORMAL DA EMPRESA 
+O
+
+<br><br>
+
+
+<a name="estoque"></a> 
+<br>
+
+### ESTOQUE INICIAL DE TÍTULOS 
+O
+
+<br><br>
+
+
+<a name="lancamento"></a> 
+<br>
+
+### LANÇAMENTO DOS CURSOS 
+O
+
+<br><br>
+
+
+<a name="desenvolvimento"></a> 
+<br>
+
+### DESENVOLVIMENTO DO SISTEMA 
+O
+
+<br><br>
