@@ -1,20 +1,18 @@
 <a name="start"></a> 
 <br>
 
-# STARTUP
-Plano de ações para a etapa de startup da OpenPBL.
-
-## OBJETIVOS
+## STARTUP
 O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
-- Abertura formal e pré-operação da empresa na **cidade São Paulo**. 
 - Elaborar testes com um “**concierge MVP**” para validar as premissas de **custos de execução** das sessões presenciais (utilização do *capital semente*).
 - Estudos de mercado e **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo.
+- Abertura formal e pré-operação da empresa na **cidade São Paulo**. 
 - Produção do estoque inicial de títulos (CAPEX).
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. 
 - Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br><br>
 
+A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br><br>
 
-## CONCIERGE MVP 
+### CONCIERGE MVP 
 O desenvolvimento de um "*concierge MVP*" é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed* capital e é o principal fator de sucesso da próxima rodada de captação de recursos. Os modulos componentes do MVP são descritos a seguir:<br><br> 
 
 **1. E-COMMERCE DAS SESSÕES-PROBLEMA** 
