@@ -455,7 +455,9 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 - Estudos de mercado e **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo.
 - Produção do estoque inicial de títulos (CAPEX).
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. 
-- Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br><br>
+- Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br>
+
+O detalhamento da etapa de *startup* pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank_"> OpenPBL - Startup</a><br><br>
 
 
 **Comercialização B2C** <br>
