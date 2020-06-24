@@ -28,12 +28,14 @@ O desenvolvimento de um "*concierge MVP*" é a principal ação da etapa de *sta
 
 1.1 Vídeo “como funciona” <br>
 Roteirização e execução de peça audiovisual tipo “storyboarding animado” para comunicação dos atributos do produto (Sistema Educacional) ao público-alvo de clientes.
+
 Recursos 
 - Roteirista (100 horas).
 - Animador e pós produção (100 horas).
 
 1.2 Web app para e-commerce (catálogo) <br>
 Criação e execução de website para e-commerce. Usa como peça principal o Vídeo Atributos. 
+
 Recursos
 - Designer / UX (100 horas)
 - Desenvolvedor front end (100 horas).
