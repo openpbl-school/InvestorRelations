@@ -31,7 +31,6 @@ Todas as interações acadêmicas com os alunos serão feitas pela aplicação *
 
 O detalhamento das interações via *Google Classroom* está apresentado em <a href="https://openpbl.github.io/app-docs/" target="_blank">openpbl.github.io/app-docs</a>.  
 
-
 **Encontros presenciais** <br>
 Os encontros presenciais serão realizados em salas de reunião para 10 pessoas agendadas em uma das diversas unidades da **WeWork** das cidades escolhidas para o projeto. 
 
@@ -40,12 +39,15 @@ Todo o material para a etapa de preparação do aluno (cenário do problema + ma
 
 Para obter a certificação para participar da sessão presencial, cada aluno deverá responder cerca de 15 perguntas, disponibilizadas ao longo de 10 dias, de um quastionário adaptativo aos conhecimentos de cada aluno. 
 
-**Produção de conteúdo**
+**Produção de conteúdo** <br>
 Será escolhida uma área entre as oções: **saúde**, **marketing** ou **inteligência artificial** como pano de fundo para a temática de quatro problemas típicos, vividos ao longo da carreira na função **analista júnior**. 
 
 Feita a escolha, o projeto prevê a contratação de um **conteudista** para elaboração dos cenários dos problemas (total de 4) e de dois **tradutores** para o versionamento em inglês e espanhol.
 
-Além dos cenários, serão produzidas 30 perguntas para serem apresentadas, conforme estratégia adaptativa, aos alunos e respondidas no próprio *Google Classroom* (GC). Os **links para acesso à conteudo da etapa de SDL (self-directed learning)** serão disponibilizados também no GC.   
+Além dos cenários, serão produzidas 30 perguntas para serem apresentadas, conforme estratégia adaptativa, aos alunos e respondidas no próprio *Google Classroom* (GC). Os **links para acesso à conteudo da etapa de SDL (self-directed learning)** serão disponibilizados também no GC.   <br><br>
+
+**CUSTOS** <br> 
+Os custos estimados para a elaboração do projeto de desenvolvimento do Concierge MVP são de **US $ **.000** (R$ **.000). <br><br>
 
 <p align="center">
   <img src="img/mvp-premissas.png" width="400"><br>
@@ -54,11 +56,80 @@ Além dos cenários, serão produzidas 30 perguntas para serem apresentadas, con
 
 <br>
 
+**Custos da produção de conteúdo** <br>
+4.1 Preparação dos problemas propostos <br>
+Desenvolvimento de quatro diferentes dinâmicas de resolução de problemas para um público de 40 pessoas. Cada dinâmica contendo:
+- Material de apoio
+- Descrição do problema.
+- Teaching notes.
 
-https://openpbl.github.io/app-docs/
+Recursos
+- Profissional do domínio escolhido para o MVP (100 horas).
+- Profissional especialista em gestão do conhecimento (40 horas)<br><br> 
+
+4.2 Preparação do conteúdo online<br>
+Busca e de tagueamento de conteúdo na web.
+
+Recursos
+.Consultor especialista no domínio (100 horas)<br><br> 
+ 
+4.3 Preparação do banco de questões<br>
+Elaboração do banco de questões adaptativo conforme preparação do conteúdo online.
+
+Recursos
+- Consultor especialista (100 horas)<br><br> 
+
+4.4 [Automatização] Sistema de recomendação para preparação do conteúdo <br>
+Elaboração de sistema para extração e estruturação do problema proposto e do conteúdo associado. 
+
+Recursos
+- Consultor especialista (100 horas)<br><br> 
 
 
-**1. E-COMMERCE DAS SESSÕES-PROBLEMA** 
+**Custos para execução da etapa de preparação** <br>
+2.1 Rotina de recomendação de atividades preparatórias<br>
+Criação da experiência de preparação para as sessões-problema.  
+
+Recursos
+- ?? (100 horas)
+- Desenvolvedor front end (100 horas).<br><br> 
+
+2.2 [Automatização] Algoritmo de recomendação do conteúdo online<br>
+Elaboração de sistema de recomendação de hosts de conteúdo online para preparação dos estudantes para o caso.
+
+Recursos
+- Consultor especialista (100 horas)<br><br> 
+
+
+**3. Custos para execução da sessão presencial**
+
+3.1 Locação de espaços (operação piloto)<br>
+Locação de quatro salas na WeWork EUA (NYC e Miami) e Brasil (São Paulo) para execução das sessões-problema.
+
+Recursos
+- Aluguel do espaço físico no co-working (100 horas).<br><br> 
+
+3.2 Locação de equipamento de captação (operação piloto)<br>
+Locação de cameras, microfones e iluminação para as sessões-problema.
+
+Recursos
+- cameras, microfones e iluminação (100 horas).
+Recurso: Pessoal de apoio para facilities (100 horas).<br><br> 
+
+3.3 Pós produção  (operação piloto)<br>
+Serviço de pós-produção dos vídeos captados.
+
+Recursos
+- <br><br> 
+
+3.4 [Automatização] Identificação facial e transcrição das participações (operação piloto)<br>
+Serviço de identificação facial e transcrição da participação dos alunos nos vídeos captados.
+
+Recursos
+- API cognitiva MS Rekognizer <br><br>
+
+
+**custos para captar alunos (opcional)** <br>
 
 1.1 Vídeo “como funciona” <br>
 Roteirização e execução de peça audiovisual tipo “storyboarding animado” para comunicação dos atributos do produto (Sistema Educacional) ao público-alvo de clientes.
@@ -87,77 +158,10 @@ Elaboração de algoritmo para recomendar as sessões-problema de acordo com as 
 Recursos
 - Consultor especialista (100 horas) <br><br> 
 
-**2. MÓDULO PREPARATÓRIO PARA AS SESSÕES-PROBLEMA**
 
-2.1 Rotina de recomendação de atividades preparatórias<br>
-Criação da experiência de preparação para as sessões-problema.  
 
-Recursos
-- ?? (100 horas)
-- Desenvolvedor front end (100 horas).<br><br> 
 
-2.2 [Automatização] Algoritmo de recomendação do conteúdo online<br>
-Elaboração de sistema de recomendação de hosts de conteúdo online para preparação dos estudantes para o caso.
 
-Recursos
-- Consultor especialista (100 horas)<br><br> 
-
-**3. MÓDULO DE OPERAÇÃO DAS SESSÕES-PROBLEMA**
-
-3.1 Locação de espaços (operação piloto)<br>
-Locação de quatro salas na WeWork EUA (NYC e Miami) e Brasil (São Paulo) para execução das sessões-problema.
-
-Recursos
-- Aluguel do espaço físico no co-working (100 horas).<br><br> 
-
-3.2 Locação de equipamento de captação (operação piloto)<br>
-Locação de cameras, microfones e iluminação para as sessões-problema.
-
-Recursos
-- cameras, microfones e iluminação (100 horas).
-Recurso: Pessoal de apoio para facilities (100 horas).<br><br> 
-
-3.3 Pós produção  (operação piloto)<br>
-Serviço de pós-produção dos vídeos captados.
-
-Recursos
-- <br><br> 
-
-3.4 [Automatização] Identificação facial e transcrição das participações (operação piloto)<br>
-Serviço de identificação facial e transcrição da participação dos alunos nos vídeos captados.
-
-Recursos
-- API cognitiva MS Rekognizer <br><br>
-
-**4. PREPARAÇÃO PARA OPERAÇÃO “PILOTO” DAS SESSÕES-PROBLEMA**
-
-4.1 Preparação dos problemas propostos <br>
-Desenvolvimento de quatro diferentes dinâmicas de resolução de problemas para um público de 40 pessoas. Cada dinâmica contendo:
-- Material de apoio
-- Descrição do problema.
-- Teaching notes.
-
-Recursos
-- Profissional do domínio escolhido para o MVP (100 horas).
-- Profissional especialista em gestão do conhecimento (40 horas)<br><br> 
-
-4.2 Preparação do conteúdo online<br>
-Busca e de tagueamento de conteúdo na web.
-
-Recursos
-.Consultor especialista no domínio (100 horas)<br><br> 
- 
-4.3 Preparação do banco de questões<br>
-Elaboração do banco de questões adaptativo conforme preparação do conteúdo online.
-
-Recursos
-- Consultor especialista (100 horas)<br><br> 
-
-4.4 [Automatização] Sistema de recomendação para preparação do conteúdo <br>
-Elaboração de sistema para extração e estruturação do problema proposto e do conteúdo associado. 
-
-Recursos
-- Consultor especialista (100 horas)<br><br> 
 
 ...
 
