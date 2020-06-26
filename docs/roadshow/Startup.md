@@ -18,11 +18,15 @@ A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br>
 ### CONCIERGE MVP 
 O desenvolvimento de um "*concierge MVP*" é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed* capital e é o principal fator de sucesso da próxima rodada de captação de recursos. Os modulos componentes do MVP são descritos a seguir:<br><br>
 
-**PREMISSAS** 
-O projeto piloto foi planejado para ser executado em 3 praças diferentes e em 3 diferentes linguas (inglês, português e espanhol). Em cada praça será executado uma trilha com 4 cursos (títulos).  
+**PREMISSAS** <br> 
+O projeto piloto prevê a execução e uma trilha com 4 cursos (títulos) cada, em 3 línguas e em 3 praças diferentes:<br>
+- Língua: Português - Cidade: São Paulo.
+- Língua: Espanhol - Cidade: Miami.
+- Língua: Inglês - Cidade: Shangai.
 
 <p align="center">
   <img src="img/mvp-premissas.png" width="400"><br>
+  <im>Premissas para execução do concierge MVP</im>
 </p>
 
 <br>
