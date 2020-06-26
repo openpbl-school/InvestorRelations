@@ -27,15 +27,15 @@ O projeto prevê a execução de uma trilha com 4 cursos (títulos) cada, em 3 l
 - Língua: Inglês - Cidade: Shangai.<br><br>
 
 **Interação com o alunos**<br>
-Todas as interações com os alunos serão feitas pela aplicação *Google Classroom* ou por email. Portanto, é necessário um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o email do aluno.
+Todas as interações com os alunos serão feitas pela aplicação *Google Classroom* ou por email. Portanto, é necessário que cada aluno tenha acesso à um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o email do aluno.
 
 **Encontros presenciais** <br>
-Os encontros presenciais serão realizados em salas de reunião para 10 pessoas agendadas na WeWork das cidades escolhidas para o po=ropjeto piloto. 
+Os encontros presenciais serão realizados em salas de reunião para 10 pessoas agendadas em uma das diversas unidades da **WeWork** das cidades escolhidas para o projeto. 
 
 **Etapa de preparação**<br>
-Todo o material referente ao cenário do problema (cenário + material de apoio) será disponibilizado aos alunos no *Google Classroom* e enviados por email (é necessário um email Google válido). 
+Todo o material para a etapa de preparação do aluno (cenário do problema + material auxiliar) será disponibilizado aos alunos no *Google Classroom* e enviados por email. 
 
-Para obter a certificação para participar da sessão presencial, cada aluno deverá responder cerca de 15 perguntas. Serão elaboradas 30 perguntas para serem apresentadas de forma aleatória aos alunos no próprio *Google Classroom*. 
+Para obter a certificação para participar da sessão presencial, cada aluno deverá responder cerca de 15 perguntas. Serão elaboradas 30 perguntas para serem apresentadas de forma aleatória aos alunos no próprio *Google Classroom*. Os links para acesso à conteudo serão 
 
 <p align="center">
   <img src="img/mvp-premissas.png" width="400"><br>
