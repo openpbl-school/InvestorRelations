@@ -29,6 +29,9 @@ O projeto prevê a execução de uma trilha com 4 cursos (títulos) cada, em 3 l
 **Interação com o alunos**<br>
 Todas as interações acadêmicas com os alunos serão feitas pela aplicação *Google Classroom* ou por email. Portanto, é necessário que cada aluno tenha acesso à um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o próprio email do aluno.
 
+O detalhamento das interações via *Google Classroom* está apresentado em <a href="https://openpbl.github.io/app-docs/" target="_blank">openpbl.github.io/app-docs</a>.  
+
+
 **Encontros presenciais** <br>
 Os encontros presenciais serão realizados em salas de reunião para 10 pessoas agendadas em uma das diversas unidades da **WeWork** das cidades escolhidas para o projeto. 
 
@@ -50,6 +53,10 @@ Além dos cenários, serão produzidas 30 perguntas para serem apresentadas, con
 </p>
 
 <br>
+
+
+https://openpbl.github.io/app-docs/
+
 
 **1. E-COMMERCE DAS SESSÕES-PROBLEMA** 
 
