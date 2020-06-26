@@ -16,38 +16,43 @@ A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br>
 <br>
 
 ### CONCIERGE MVP 
-O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"Concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed* capital e é o principal fator de sucesso da próxima rodada de captação de recursos.
+O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"Concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed capital* e é o principal fator de sucesso da rodada seguinte de captação de recursos.
 
-O desenvolvimento do MVP é um projeto piloto de aplicação do método para a capacitação profissionalizante de 30 alunos (divididos em 3 grupos de 10) e está previsto para conclusão em 60 dias (ou 8 semanas). <br><br>
+Basicamente, o desenvolvimento do MVP é um **projeto piloto** de aplicação do método OpenPBL para a capacitação profissionalizante de 30 alunos. 
 
-**PLANEJAMENTO** <br> 
-O projeto prevê a execução de uma trilha com 4 cursos (títulos) cada, em 3 línguas e em 3 praças diferentes, conforme a seguir:<br>
+Os alunos serão divididos em **3 grupos** de 10 alunos que serão capacitados **simultaneamente** por uma mesma **trilha com 4 cursos**, porém em **3 línguas e em 3 cidades diferentes**, conforme a seguir:<br>
 - Língua: Português - Cidade: São Paulo.
 - Língua: Espanhol - Cidade: Miami.
 - Língua: Inglês - Cidade: Shangai.<br><br>
+ 
+O prazo total previsto para a **preparação é de 4 semanas** (30 dias) e para a **execução da capacitação é de 8 semanas** (60 dias).<br><br>
 
-**Interação com o alunos**<br>
-Todas as interações acadêmicas com os alunos serão feitas pela aplicação *Google Classroom* ou por email. Portanto, é necessário que cada aluno tenha acesso à um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o próprio email do aluno.
+**Ambiente de interação com os alunos**<br>
+Todas as interações acadêmicas com os alunos serão feitas pela **aplicação *Google Classroom*.** Portanto, é necessário que cada aluno tenha acesso à um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o próprio email do aluno.
 
-O detalhamento das interações via *Google Classroom* está apresentado em <a href="https://openpbl.github.io/app-docs/" target="_blank">openpbl.github.io/app-docs</a>.  
+A dinâmica das interações com os alunos via *Google Classroom* encontra-se detalhada em <a href="https://openpbl.github.io/app-docs/" target="_blank">openpbl.github.io/app-docs</a>.  
 
 **Encontros presenciais** <br>
-Os encontros presenciais serão realizados em salas de reunião para 10 pessoas agendadas em uma das diversas unidades da **WeWork** das cidades escolhidas para o projeto. 
+Os encontros presenciais serão realizados em **salas de reunião para 10 pessoas** agendadas em uma das diversas unidades da **WeWork** nas cidades escolhidas para o projeto. 
 
-**Etapa de preparação**<br>
-Todo o material para a etapa de preparação do aluno (cenário do problema + material auxiliar) será disponibilizado aos alunos no *Google Classroom* e enviados por email. 
+Os encontros serão conduzidos por **tutores** contratados e treinados para execução da dinâmica das sessões. 
 
-Para obter a certificação para participar da sessão presencial, cada aluno deverá responder cerca de 15 perguntas, disponibilizadas ao longo de 10 dias, de um quastionário adaptativo aos conhecimentos de cada aluno. 
+**Etapa de preparação do aluno**<br>
+Todo o material para a etapa de preparação do aluno (**cenário do problema** + **material complementar**) será disponibilizado aos alunos no *Google Classroom* e enviados por email. 
+
+Para obter a certificação para participar da sessão presencial de discussão, cada aluno deverá responder cerca de 15 perguntas de um **questionário adaptativo** aos conhecimentos de cada aluno. Os alunos terão 10 dias para obterem a certificação para a sessão preencial de discussão.
+
+A coordenação do envio do conteúdo e das questões aos alunos será efetuada por **analista** contratado. 
 
 **Produção de conteúdo** <br>
-Será escolhida uma área entre as oções: **saúde**, **marketing** ou **inteligência artificial** como pano de fundo para a temática de quatro problemas típicos, vividos ao longo da carreira na função **analista júnior**. 
+Será escolhida uma área entre as oções: **saúde**, **marketing** ou **inteligência artificial** como pano de fundo para a temática de quatro problemas, vividos tipicamente ao longo da carreira na função **analista júnior**. 
 
-Feita a escolha, o projeto prevê a contratação de um **conteudista** para elaboração dos cenários dos problemas (total de 4) e de dois **tradutores** para o versionamento em inglês e espanhol.
+Feita a escolha da área, o projeto prevê a contratação de um **conteudista** para elaboração dos cenários dos problemas (total de 4) e de dois **tradutores** para o versionamento em inglês e espanhol de cada problema elaborado.
 
-Além dos cenários, serão produzidas 30 perguntas para serem apresentadas, conforme estratégia adaptativa, aos alunos e respondidas no próprio *Google Classroom* (GC). Os **links para acesso à conteudo da etapa de SDL (self-directed learning)** serão disponibilizados também no GC.   <br><br>
+Além dos cenários, serão produzidas **30 perguntas** para serem apresentadas, conforme estratégia adaptativa, aos alunos e respondidas no ambiente do *Google Classroom* (GC). Os **links para  conteúdos sugeridos na etapa de SDL (self-directed learning)** serão disponibilizados também no GC.<br><br>
 
 **CUSTOS** <br> 
-Os custos estimados para a elaboração do projeto de desenvolvimento do Concierge MVP são de **US $ **.000** (R$ **.000). <br><br>
+Os custos estimados para a elaboração do projeto de desenvolvimento do *Concierge MVP* são de **US $ **.000** (R$ **.000). <br><br>
 
 <p align="center">
   <img src="img/mvp-premissas.png" width="400"><br>
