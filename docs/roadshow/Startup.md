@@ -16,7 +16,7 @@ A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br>
 <br>
 
 ### CONCIERGE MVP 
-O desenvolvimento de um "*concierge MVP*" é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed* capital e é o principal fator de sucesso da próxima rodada de captação de recursos. <a ref="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/">O que é "Concierge MVP"?</a>
+O desenvolvimento de um "*concierge MVP*" é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed* capital e é o principal fator de sucesso da próxima rodada de captação de recursos. <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/">O que é "Concierge MVP"?</a>
 
 Os modulos componentes do MVP são descritos a seguir:<br><br>
 
