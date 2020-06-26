@@ -27,7 +27,7 @@ O projeto prevê a execução de uma trilha com 4 cursos (títulos) cada, em 3 l
 - Língua: Inglês - Cidade: Shangai.<br><br>
 
 **Interação com o alunos**<br>
-Todas as interações com os alunos serão feitas pela aplicação *Google Classroom* ou por email. Portanto, é necessário que cada aluno tenha acesso à um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o email do aluno.
+Todas as interações acadêmicas com os alunos serão feitas pela aplicação *Google Classroom* ou por email. Portanto, é necessário que cada aluno tenha acesso à um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o próprio email do aluno.
 
 **Encontros presenciais** <br>
 Os encontros presenciais serão realizados em salas de reunião para 10 pessoas agendadas em uma das diversas unidades da **WeWork** das cidades escolhidas para o projeto. 
@@ -35,7 +35,14 @@ Os encontros presenciais serão realizados em salas de reunião para 10 pessoas 
 **Etapa de preparação**<br>
 Todo o material para a etapa de preparação do aluno (cenário do problema + material auxiliar) será disponibilizado aos alunos no *Google Classroom* e enviados por email. 
 
-Para obter a certificação para participar da sessão presencial, cada aluno deverá responder cerca de 15 perguntas. Serão elaboradas 30 perguntas para serem apresentadas de forma aleatória aos alunos no próprio *Google Classroom*. Os links para acesso à conteudo serão 
+Para obter a certificação para participar da sessão presencial, cada aluno deverá responder cerca de 15 perguntas, disponibilizadas ao longo de 10 dias, de um quastionário adaptativo aos conhecimentos de cada aluno. 
+
+**Produção de conteúdo**
+Será escolhida uma área entre as oções: **saúde**, **marketing** ou **inteligência artificial** como pano de fundo para a temática de quatro problemas típicos, vividos ao longo da carreira na função **analista júnior**. 
+
+Feita a escolha, o projeto prevê a contratação de um **conteudista** para elaboração dos cenários dos problemas (total de 4) e de dois **tradutores** para o versionamento em inglês e espanhol.
+
+Além dos cenários, serão produzidas 30 perguntas para serem apresentadas, conforme estratégia adaptativa, aos alunos e respondidas no próprio *Google Classroom* (GC). Os **links para acesso à conteudo da etapa de SDL (self-directed learning)** serão disponibilizados também no GC.   
 
 <p align="center">
   <img src="img/mvp-premissas.png" width="400"><br>
