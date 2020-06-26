@@ -16,15 +16,26 @@ A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br>
 <br>
 
 ### CONCIERGE MVP 
-O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"Concierge MVP"?</a> é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed* capital e é o principal fator de sucesso da próxima rodada de captação de recursos. <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">O que é "Concierge MVP"?</a>
+O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"Concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consome a maior parte do *seed* capital e é o principal fator de sucesso da próxima rodada de captação de recursos.
 
-Os modulos componentes do MVP são descritos a seguir:<br><br>
+O desenvolvimento do MVP é um projeto piloto de aplicação do método para a capacitação profissionalizante de 30 alunos (divididos em 3 grupos de 10) e está previsto para conclusão em 60 dias (ou 8 semanas). <br><br>
 
-**PREMISSAS** <br> 
-O projeto piloto prevê a execução e uma trilha com 4 cursos (títulos) cada, em 3 línguas e em 3 praças diferentes:<br>
+**PLANEJAMENTO** <br> 
+O projeto prevê a execução de uma trilha com 4 cursos (títulos) cada, em 3 línguas e em 3 praças diferentes, conforme a seguir:<br>
 - Língua: Português - Cidade: São Paulo.
 - Língua: Espanhol - Cidade: Miami.
 - Língua: Inglês - Cidade: Shangai.<br><br>
+
+**Interação com o alunos**<br>
+Todas as interações com os alunos serão feitas pela aplicação *Google Classroom* ou por email. Portanto, é necessário um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o email do aluno.
+
+**Encontros presenciais** <br>
+Os encontros presenciais serão realizados em salas de reunião para 10 pessoas agendadas na WeWork das cidades escolhidas para o po=ropjeto piloto. 
+
+**Etapa de preparação**<br>
+Todo o material referente ao cenário do problema (cenário + material de apoio) será disponibilizado aos alunos no *Google Classroom* e enviados por email (é necessário um email Google válido). 
+
+Para obter a certificação para participar da sessão presencial, cada aluno deverá responder cerca de 15 perguntas. Serão elaboradas 30 perguntas para serem apresentadas de forma aleatória aos alunos no próprio *Google Classroom*. 
 
 <p align="center">
   <img src="img/mvp-premissas.png" width="400"><br>
