@@ -86,7 +86,7 @@ Elaboração do banco de questões adaptativo conforme preparação do conteúdo
 Recursos
 - Consultor especialista (100 horas)<br><br> 
 
-**4. [Automatização] Sistema de recomendação para preparação do conteúdo **<br>
+**4. [Automatização] Sistema de recomendação para preparação do conteúdo** <br>
 Elaboração de sistema para extração e estruturação do problema proposto e do conteúdo associado. 
 
 Recursos
