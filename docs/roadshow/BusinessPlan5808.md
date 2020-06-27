@@ -74,15 +74,14 @@ Plan de negocios propuesto en el road show 2020.1 para recaudación de fondos.<b
 <br>
 
 # PLANO DE NEGÓCIOS
-Experientes executivos do setor educacional identificaram uma oportunidade de negócios no atual **desequilíbrio** entre a oferta e a demanda de programas educacionais para desenvolvimento de **competências comportamentais** profissionais. Assim, lançaram a **OpenPBL**, uma Edtech que comercializa um inovador **sistema de ensino baseado em problemas** para **escolas profissionalizantes**. Este <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">roadshow</a> pretende captar 4 quotas de **US $ 33.000** `(R$ 182.000)` para a execução do Plano de Negócios da empresa e, para isso, acenam com um **retorno nominal** projetado de **36% a.a.**.<br><br>
+Experientes executivos do setor educacional identificaram uma oportunidade de negócios no atual **desequilíbrio** entre a oferta e a demanda de programas educacionais para desenvolvimento de **competências comportamentais** profissionais. Assim, lançaram a **OpenPBL**, uma Edtech que comercializa um inovador **sistema de ensino baseado em problemas** para **escolas profissionalizantes**. O presente <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">roadshow</a> pretende captar 4 quotas de **US $ 33.000** `(R$ 182.000)` para a execução de parte do Plano de Negócios da empresa. Para isso, acenam com um **retorno nominal** projetado de **36% a.a.** aos investidores interessados.<br><br>
 
 <p align="center">
 <img src="img/banner2.png"><br>
+Plano de negócios proposto no *road show* 2020.1 para captação de recursos.
 </p>
 
 <br>
-
-Plano de negócios proposto no *road show* 2020.1 para captação de recursos. <br>
 
 <p align="center">    
     <a href="#problema">O Problema</a>
