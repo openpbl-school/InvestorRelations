@@ -71,6 +71,29 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 
 **Premissas da produção de conteúdo** <br>
 
+Preparação dos problemas propostos<br>
+Desenvolvimento de quatro diferentes dinâmicas de resolução de problemas para um público de 40 pessoas. Cada dinâmica contendo:
+- Material de apoio
+- Descrição do problema.
+- Teaching notes.
+
+Recursos
+- Profissional do domínio escolhido para o MVP (100 horas).
+- Profissional especialista em gestão do conhecimento (40 horas)<br><br> 
+
+Preparação do conteúdo online<br>
+Busca e de tagueamento de conteúdo na web.
+
+Recursos
+- Consultor especialista no domínio (100 horas)<br><br> 
+ 
+Preparação do banco de questões<br>
+Elaboração do banco de questões adaptativo conforme preparação do conteúdo online.
+
+Recursos
+- Consultor especialista (100 horas)<br><br> 
+
+
 <p align="center">
   <img src="img/mvp-premissas-conteudo.png" width="500"><br>
   <im>Premissas da produção de conteúdo para execução do concierge MVP</im>
@@ -81,8 +104,15 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 
 **Premissas da etapa de preparação** <br>
 
+Rotina de recomendação de atividades preparatórias<br>
+Criação da experiência de preparação para as sessões-problema.  
+
+Recursos
+- ?? (100 horas)
+- Desenvolvedor front end (100 horas).<br><br> 
+
 <p align="center">
-  <img src="img/mvp-premissas-preparacao.png" width="400"><br>
+  <img src="img/mvp-premissas-preparacao.png" width="500"><br>
   <im>Premissas da etapa de preparação para execução do concierge MVP</im>
 </p>
 
@@ -90,6 +120,28 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 
 
 **Premissas da etapa de discussão** <br>
+
+Locação de espaços (operação piloto)<br>
+Locação de quatro salas na WeWork EUA (NYC e Miami) e Brasil (São Paulo) para execução das sessões-problema.
+
+Recursos
+- Aluguel do espaço físico no co-working (100 horas).<br><br> 
+
+
+Locação de equipamento de captação (operação piloto)<br>
+Locação de cameras, microfones e iluminação para as sessões-problema.
+
+Recursos
+- cameras, microfones e iluminação (100 horas).
+Recurso: Pessoal de apoio para facilities (100 horas).<br><br> 
+
+
+Pós produção  (operação piloto)<br>
+Serviço de pós-produção dos vídeos captados.
+
+Recursos
+- <br><br> 
+
 
 <p align="center">
   <img src="img/mvp-premissas-sessoes.png" width="500"><br>
@@ -100,99 +152,26 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 
 
 
-**1. Preparação dos problemas propostos** <br>
-Desenvolvimento de quatro diferentes dinâmicas de resolução de problemas para um público de 40 pessoas. Cada dinâmica contendo:
-- Material de apoio
-- Descrição do problema.
-- Teaching notes.
+**Premissas da automatização** <br>
 
-Recursos
-- Profissional do domínio escolhido para o MVP (100 horas).
-- Profissional especialista em gestão do conhecimento (40 horas)<br><br> 
 
-**2. Preparação do conteúdo online**<br>
-Busca e de tagueamento de conteúdo na web.
-
-Recursos
-.Consultor especialista no domínio (100 horas)<br><br> 
- 
-**3. Preparação do banco de questões**<br>
-Elaboração do banco de questões adaptativo conforme preparação do conteúdo online.
-
-Recursos
-- Consultor especialista (100 horas)<br><br> 
-
-**4. [Automatização] Sistema de recomendação para preparação do conteúdo** <br>
+[Automatização] Sistema de recomendação para preparação do conteúdo <br>
 Elaboração de sistema para extração e estruturação do problema proposto e do conteúdo associado. 
 
 Recursos
 - Consultor especialista (100 horas)<br>
 
-**5. Rotina de recomendação de atividades preparatórias**<br>
-Criação da experiência de preparação para as sessões-problema.  
-
-Recursos
-- ?? (100 horas)
-- Desenvolvedor front end (100 horas).<br><br> 
-
-**6. [Automatização] Algoritmo de recomendação do conteúdo online**<br>
+[Automatização] Algoritmo de recomendação do conteúdo online<br>
 Elaboração de sistema de recomendação de hosts de conteúdo online para preparação dos estudantes para o caso.
 
 Recursos
 - Consultor especialista (100 horas)<br>
 
-**7. Locação de espaços (operação piloto)**<br>
-Locação de quatro salas na WeWork EUA (NYC e Miami) e Brasil (São Paulo) para execução das sessões-problema.
-
-Recursos
-- Aluguel do espaço físico no co-working (100 horas).<br><br> 
-
-**8. Locação de equipamento de captação (operação piloto)**<br>
-Locação de cameras, microfones e iluminação para as sessões-problema.
-
-Recursos
-- cameras, microfones e iluminação (100 horas).
-Recurso: Pessoal de apoio para facilities (100 horas).<br><br> 
-
-**9. Pós produção  (operação piloto)**<br>
-Serviço de pós-produção dos vídeos captados.
-
-Recursos
-- <br><br> 
-
-**10. [Automatização] Identificação facial e transcrição das participações (operação piloto)**<br>
+[Automatização] Identificação facial e transcrição das participações (operação piloto)<br>
 Serviço de identificação facial e transcrição da participação dos alunos nos vídeos captados.
 
 Recursos
 - API cognitiva MS Rekognizer <br><br>
-
-
-**11. Vídeo “como funciona”** <br>
-Roteirização e execução de peça audiovisual tipo “storyboarding animado” para comunicação dos atributos do produto (Sistema Educacional) ao público-alvo de clientes.
-
-Recursos 
-- Roteirista (100 horas).
-- Animador e pós produção (100 horas). <br><br> 
-
-**12. Web app para e-commerce (catálogo)** <br>
-Criação e execução de website para e-commerce. Usa como peça principal o Vídeo Atributos. 
-
-Recursos
-- Designer / UX (100 horas)
-- Desenvolvedor front end (100 horas).<br><br> 
-
-**13. Web app para e-commerce (carrinho e checkout) **<br>
-Criação e execução de aplicação web e mobile de e-commerce onde os “estudantes” poderão comprar/agendar as sessões-problema. 
-
-Recursos 
-- Designer / UX (100 horas)
-- Desenvolvedor front e backend (100 horas).<br><br> 
-
-**14. [Automatização] Algoritmo para recomendação de sessões-problema (catálogo dinâmico)**<br>
-Elaboração de algoritmo para recomendar as sessões-problema de acordo com as preferências e objetivos do público-alvo.
-
-Recursos
-- Consultor especialista (100 horas) <br><br> 
 
 
 ...
@@ -230,4 +209,35 @@ Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 ### DESENVOLVIMENTO DO SISTEMA 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
+
+Vídeo “como funciona” <br>
+Roteirização e execução de peça audiovisual tipo “storyboarding animado” para comunicação dos atributos do produto (Sistema Educacional) ao público-alvo de clientes.
+
+Recursos 
+- Roteirista (100 horas).
+- Animador e pós produção (100 horas). <br><br> 
+
+
+
+Web app para e-commerce (catálogo) <br>
+Criação e execução de website para e-commerce. Usa como peça principal o Vídeo Atributos. 
+
+Recursos
+- Designer / UX (100 horas)
+- Desenvolvedor front end (100 horas).<br><br> 
+
+
+Web app para e-commerce (carrinho e checkout) <br>
+Criação e execução de aplicação web e mobile de e-commerce onde os “estudantes” poderão comprar/agendar as sessões-problema. 
+
+Recursos 
+- Designer / UX (100 horas)
+- Desenvolvedor front e backend (100 horas).<br><br> 
+
+
+[Automatização] Algoritmo para recomendação de sessões-problema (catálogo dinâmico)<br>
+Elaboração de algoritmo para recomendar as sessões-problema de acordo com as preferências e objetivos do público-alvo.
+
+Recursos
+- Consultor especialista (100 horas) <br><br> 
 
