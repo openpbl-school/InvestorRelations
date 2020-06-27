@@ -55,9 +55,11 @@ Conforme o método OpenPBL, os encontros presenciais serão realizados em **sala
 Os encontros serão assistidos por **facilitadores**, contratados para auxiliar os alunos em suas  necessidades diversas. As sessões presenciais serão conduzidas **via web conference** por **tutores** contratados e treinados pelos conteudistas para execução da dinâmica das discussões entre os alunos. <br><br>
 
 **CUSTOS** <br> 
-Os custos para a elaboração do projeto de desenvolvimento do *Concierge MVP* são estimados em **US $ **.000** `(R$ **.000)`. 
+Os custos para a elaboração do projeto de desenvolvimento do *Concierge MVP* são estimados em **US $ **6.800** `(R$ 37.200)`. 
 
 A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br><br>
+
+**Premissas globais** <br>
 
 <p align="center">
   <img src="img/mvp-premissas.png" width="400"><br>
@@ -65,6 +67,37 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 </p>
 
 <br>
+
+
+**Premissas da produção de conteúdo** <br>
+
+<p align="center">
+  <img src="img/mvp-premissas-conteudo.png" width="400"><br>
+  <im>Premissas globais para execução do concierge MVP</im>
+</p>
+
+<br>
+
+
+**Premissas da etapa de preparação** <br>
+
+<p align="center">
+  <img src="img/mvp-premissas-preparacao.png" width="400"><br>
+  <im>Premissas globais para execução do concierge MVP</im>
+</p>
+
+<br>
+
+
+**Premissas da etepa de discussão** <br>
+
+<p align="center">
+  <img src="img/mvp-premissas-sessoes.png" width="400"><br>
+  <im>Premissas globais para execução do concierge MVP</im>
+</p>
+
+<br>
+
 
 
 **1. Preparação dos problemas propostos** <br>
