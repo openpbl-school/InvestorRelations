@@ -60,6 +60,7 @@ Os custos para a elaboração do projeto de desenvolvimento do *Concierge MVP* s
 A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br><br>
 
 **Premissas globais** <br>
+Os custos estão divididos em dois grandes grupos: Contratação de serviços de terceiros e Contratações diversas. <br><br>
 
 <p align="center">
   <img src="img/mvp-premissas.png" width="500"><br>
@@ -68,31 +69,8 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 
 <br>
 
-
 **Premissas da produção de conteúdo** <br>
-
-Preparação dos problemas propostos<br>
-Desenvolvimento de quatro diferentes dinâmicas de resolução de problemas para um público de 40 pessoas. Cada dinâmica contendo:
-- Material de apoio
-- Descrição do problema.
-- Teaching notes.
-
-Recursos
-- Profissional do domínio escolhido para o MVP (100 horas).
-- Profissional especialista em gestão do conhecimento (40 horas)<br><br> 
-
-Preparação do conteúdo online<br>
-Busca e de tagueamento de conteúdo na web.
-
-Recursos
-- Consultor especialista no domínio (100 horas)<br><br> 
- 
-Preparação do banco de questões<br>
-Elaboração do banco de questões adaptativo conforme preparação do conteúdo online.
-
-Recursos
-- Consultor especialista (100 horas)<br><br> 
-
+Preparação dos problemas, do banco de questões dos links de recomendação de conteúdo e da lógica adaptativa. <br><br>
 
 <p align="center">
   <img src="img/mvp-premissas-conteudo.png" width="500"><br>
@@ -101,15 +79,8 @@ Recursos
 
 <br>
 
-
 **Premissas da etapa de preparação** <br>
-
-Rotina de recomendação de atividades preparatórias<br>
-Criação da experiência de preparação para as sessões-problema.  
-
-Recursos
-- ?? (100 horas)
-- Desenvolvedor front end (100 horas).<br><br> 
+Rotina de recomendação das atividades preparatórias para as sessões de discussão. <br><br>
 
 <p align="center">
   <img src="img/mvp-premissas-preparacao.png" width="500"><br>
@@ -118,60 +89,15 @@ Recursos
 
 <br>
 
-
 **Premissas da etapa de discussão** <br>
-
-Locação de espaços (operação piloto)<br>
-Locação de quatro salas na WeWork EUA (NYC e Miami) e Brasil (São Paulo) para execução das sessões-problema.
-
-Recursos
-- Aluguel do espaço físico no co-working (100 horas).<br><br> 
-
-
-Locação de equipamento de captação (operação piloto)<br>
-Locação de cameras, microfones e iluminação para as sessões-problema.
-
-Recursos
-- cameras, microfones e iluminação (100 horas).
-Recurso: Pessoal de apoio para facilities (100 horas).<br><br> 
-
-
-Pós produção  (operação piloto)<br>
-Serviço de pós-produção dos vídeos captados.
-
-Recursos
-- <br><br> 
-
+Locação das salas, locação de equipamentos de captação, tais como microfones e iluminação para as sessões. Recursos para pós produção dos vídeos captados.
 
 <p align="center">
   <img src="img/mvp-premissas-sessoes.png" width="500"><br>
   <im>Premissas da etapa de discussão para execução do concierge MVP</im>
 </p>
 
-<br>
-
-
-
-**Premissas da automatização** <br>
-
-
-[Automatização] Sistema de recomendação para preparação do conteúdo <br>
-Elaboração de sistema para extração e estruturação do problema proposto e do conteúdo associado. 
-
-Recursos
-- Consultor especialista (100 horas)<br>
-
-[Automatização] Algoritmo de recomendação do conteúdo online<br>
-Elaboração de sistema de recomendação de hosts de conteúdo online para preparação dos estudantes para o caso.
-
-Recursos
-- Consultor especialista (100 horas)<br>
-
-[Automatização] Identificação facial e transcrição das participações (operação piloto)<br>
-Serviço de identificação facial e transcrição da participação dos alunos nos vídeos captados.
-
-Recursos
-- API cognitiva MS Rekognizer <br><br>
+<br><br>
 
 
 ...
