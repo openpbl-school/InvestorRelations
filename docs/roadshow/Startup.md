@@ -62,7 +62,7 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 **Premissas globais** <br>
 
 <p align="center">
-  <img src="img/mvp-premissas.png" width="400"><br>
+  <img src="img/mvp-premissas.png" width="500"><br>
   <im>Premissas globais para execução do concierge MVP</im>
 </p>
 
@@ -72,8 +72,8 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 **Premissas da produção de conteúdo** <br>
 
 <p align="center">
-  <img src="img/mvp-premissas-conteudo.png" width="400"><br>
-  <im>Premissas globais para execução do concierge MVP</im>
+  <img src="img/mvp-premissas-conteudo.png" width="500"><br>
+  <im>Premissas da produção de conteúdo para execução do concierge MVP</im>
 </p>
 
 <br>
@@ -83,17 +83,17 @@ A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br>
 
 <p align="center">
   <img src="img/mvp-premissas-preparacao.png" width="400"><br>
-  <im>Premissas globais para execução do concierge MVP</im>
+  <im>Premissas da etapa de preparação para execução do concierge MVP</im>
 </p>
 
 <br>
 
 
-**Premissas da etepa de discussão** <br>
+**Premissas da etapa de discussão** <br>
 
 <p align="center">
-  <img src="img/mvp-premissas-sessoes.png" width="400"><br>
-  <im>Premissas globais para execução do concierge MVP</im>
+  <img src="img/mvp-premissas-sessoes.png" width="500"><br>
+  <im>Premissas da etapa de discussão para execução do concierge MVP</im>
 </p>
 
 <br>
