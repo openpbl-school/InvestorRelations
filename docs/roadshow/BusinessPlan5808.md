@@ -78,7 +78,7 @@ Experientes executivos do setor educacional identificaram uma oportunidade de ne
 
 <p align="center">
 <img src="img/banner2.png"><br>
-Plano de negócios proposto no *road show* 2020.1 para captação de recursos.
+    Plano de negócios proposto no <i>road show</i> 2020.1 para captação de recursos.
 </p>
 
 <br>
