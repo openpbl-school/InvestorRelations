@@ -82,6 +82,12 @@ Plano de negócios proposto no *road show* 2020.1 para captação de recursos. <
 
 <br>
 
+**Resumo** <br>
+Experientes executivos do setor educacional identificaram uma oportunidade de negócios no atual **desequilíbrio** entre a oferta e a demanda de programas educacionais para desenvolver **competências comportamentais**. Assim, lançaram a **OpenPBL**, uma Edtech que licencia para escolas seu inovador **sistema de ensino baseado em problemas**. 
+
+O objetivo do atual <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">roadshow</a> é a captação de 4 quotas no valor unitário de **US $ 33.000** `(R$ 182.000)`. Para isso, acenam com um **retorno nominal** projetado de **36% a.a.**.<br><br>
+
+
 **Índice de assuntos** <br>
 <p align="left">    
     <a href="#problema">O Problema</a>
