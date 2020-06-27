@@ -55,7 +55,7 @@ Conforme o método OpenPBL, os encontros presenciais serão realizados em **sala
 Os encontros serão assistidos por **facilitadores**, contratados para auxiliar os alunos em suas  necessidades diversas. As sessões presenciais serão conduzidas **via web conference** por **tutores** contratados e treinados pelos conteudistas para execução da dinâmica das discussões entre os alunos. <br><br>
 
 **CUSTOS** <br> 
-Os custos para a elaboração do projeto de desenvolvimento do *Concierge MVP* são estimados em **US $ **.000** (R$ **.000). 
+Os custos para a elaboração do projeto de desenvolvimento do *Concierge MVP* são estimados em **US $ **.000** `(R$ **.000)`. 
 
 A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br><br>
 
