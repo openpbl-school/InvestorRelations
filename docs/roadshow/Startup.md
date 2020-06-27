@@ -2,54 +2,57 @@
 <br>
 
 ## STARTUP OPEN-PBL
-O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem como objetivos: 
-- Elaborar testes com um “**concierge MVP**” para validar as premissas de **custos de execução** das sessões presenciais (utilização do *capital semente*). <a href="#concierge">ver mais</a>
-- Estudos de mercado e **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
-- Abertura formal e pré-operação da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
-- Produção do estoque inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
-- Lançamento das primeiras trilhas, validação das **premissas de mercado** e ajustes na campanha. <a href="#lancamento">ver mais</a>
+A etpa de *startup* da empresa, prevista para o seu **primeiro ano** de operação, tem como objetivos: 
+- Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
+- Estudo de mercado para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
+- Abertura formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
 - Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br> <a href="#desenvolvimento">ver mais</a>
+- Produção do estoque inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
+- Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
 
-A seguir, o detalhamento das ações para cada etapa de startup da OpenPBL.<br>
+
+A seguir, o detalhamento das ações para cada objetivo do startup da OpenPBL.<br>
 
 <a name="concierge"></a> 
 <br>
 
 ### CONCIERGE MVP 
-O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"Concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consumirá a maior parte dos recursos do *seed capital* e é o principal fator de sucesso da rodada seguinte de captação de recursos.
+O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consumirá a maior parte dos recursos do *seed capital* e é o principal fator de sucesso da rodada seguinte de captação de recursos.
 
-Basicamente, o desenvolvimento do concierge MVP é um **projeto piloto** de aplicação do **método OpenPBL** para a capacitação profissionalizante de **30 alunos** em **3 línguas e em 3 cidades diferentes**, conforme a seguir:<br>
+Resumidamente, o concierge MVP é um **projeto piloto** de aplicação do **método OpenPBL** para a capacitação profissionalizante de **30 alunos** por uma mesma **trilha de 4 cursos**. 
+
+Os alunos serão divididos em **3 turmas** de 10 alunos e cada turma executará os cursos da trilha em uma **língua** e em uma **cidade** diferente, conforme a seguir:<br>
 - Língua: Português - Cidade: São Paulo.
 - Língua: Espanhol - Cidade: Miami.
 - Língua: Inglês - Cidade: Shangai.<br><br>
 
-Os alunos serão divididos em **3 grupos** (de 10 alunos) que serão capacitados **simultaneamente** por uma mesma **trilha de 4 cursos**. O prazo previsto para a **preparação das dinâmicas é de 4 semanas** e para a **execução da capacitação é de 8 semanas**. 
+As trilhas serão executadas **simultaneamente** nas turmas. O prazo previsto para a **preparação dos cursos** é de **3 semanas** e para a **execução da capacitação** é de **8 semanas**. 
 
-O tempo total do projeto é de 90 dias. 
+O prozo total de execução do projeto é de 90 dias. <br><br>
 
 **Ambiente de interação com os alunos**<br>
-Todas as interações acadêmicas com os alunos serão feitas pela **aplicação *Google Classroom*.** Portanto, é necessário que cada aluno tenha acesso à um email Google válido. Este email poderá ser criado especialmente para o projeto (aluno1.openpbl@google.com) ou poderá ser usado o próprio email do aluno.
+Todas as interações acadêmicas com os alunos serão feitas pela aplicação ***Google Classroom*.** Portanto, é necessário que cada aluno tenha acesso à um email Google válido. Poderá ser usado o próprio email do aluno ou criado um email especialmente para o projeto (aluno1.openpbl@google.com).
 
-A dinâmica das interações com os alunos via *Google Classroom* encontra-se detalhada em <a href="https://openpbl.github.io/app-docs/" target="_blank">openpbl.github.io/app-docs</a>.  
+A dinâmica das interações com os alunos via *Google Classroom* encontra-se detalhada em <a href="https://openpbl.github.io/app-docs/" target="_blank">openpbl.github.io/app-docs</a>.  <br><br>
 
 **Produção de conteúdo** <br>
-Será escolhida uma área entre as oções: **saúde**, **marketing** ou **inteligência artificial** como pano de fundo para a temática de quatro problemas, vividos tipicamente ao longo da carreira na função **analista júnior** da área. 
+Será escolhida uma área profissionalizante, entre as opções: **Saúde**, **Marketing** ou **Inteligência Artificial**, como temática para os cursos da trilha. Cada curso deve explorar um problema real, vivido tipicamente ao longo da carreira por profissionais na função de **analista júnior**. 
 
-Feita a escolha, o projeto prevê a contratação de um **conteudista** para elaboração dos cenários dos problemas (total de 4) e de dois **tradutores** para o versionamento em inglês e espanhol dos problemas propostos.
+Feita a escolha da área, o projeto prevê a contratação de um **conteudista** para elaboração dos cenários dos problemas (total de 4) e de dois **tradutores** para o versionamento em inglês e espanhol dos problemas propostos. A alternativa ao desenvolvimento dos cenários de problemas é a utilização de 4 estudos de caso de instituições de ensino de primeira linha (Harvard, por exemplo). 
 
-Além dos cenários, serão produzidas **30 perguntas** para serem apresentadas, conforme estratégia adaptativa, aos alunos e respondidas no ambiente do *Google Classroom* (GC). Os **links para  conteúdos sugeridos na etapa de SDL (self-directed learning)** serão disponibilizados também no GC.
+Para cada problema definido, o conteudista deverá delinear as **disciplinas** associadas (ou **tópicos de conhecimento**) e para cada disciplina elaborar **40 perguntas** para assessment dos alunos. Conforme a estratégia adaptativa, as perguntas serão apresentadas aos alunos e respondidas no prório ambiente do *Google Classroom* (GC). Os **links para  conteúdos sugeridos na etapa de SDL (self-directed learning)** serão disponibilizados também no GC.<br><br>
 
-**Etapa de preparação do aluno**<br>
+**Etapa 1 - Preparação do aluno**<br>
 Todo o material para a etapa de preparação do aluno (**cenário do problema** + **material complementar**) será disponibilizado aos alunos no *Google Classroom*. 
 
-Para obter a certificação para participar da sessão presencial de discussão, cada aluno deverá responder cerca de 15 perguntas de um questionário **adaptativo aos conhecimentos** de cada aluno. Os alunos terão 10 dias para obterem a certificação para a sessão preencial de discussão.
+Para obter a certificação para participar da sessão presencial de discussão, cada aluno deverá responder cerca de 15 perguntas de um questionário que irá se **adaptar aos seus conhecimentos**. Os alunos terão até 10 dias para obterem a certificação para participarem da sessão presencial de discussão das soluções de cada problema.
 
-A coordenação do envio do conteúdo e das questões aos alunos será efetuada por **analista** contratado. 
+A execução e coordenação do envio do conteúdo e das questões aos alunos será efetuada por **analista** contratado. <br><br>
 
-**Encontros presenciais** <br>
-Os encontros presenciais serão realizados em **salas de reunião para 10 pessoas** agendadas em uma das diversas unidades da **WEWORK** nas cidades escolhidas para o projeto. 
+**Etapa 2 - Discussão das soluções propostas** <br>
+Conforme o método OpenPBL, os encontros presenciais serão realizados em **salas de reunião para 10 pessoas**. Os encontros serão agendados em uma das unidades da **WEWORK** nas cidades escolhidas para o projeto. 
 
-Os encontros terão a presença de **facilitadores** contratados para auxiliar os alunos em suas  necessidades diversas. As sessões serão conduzidas **via web conference** por **tutores** contratados e treinados para execução da dinâmica das discussões entre os alunos. <br><br>
+Os encontros serão assistidos por **facilitadores**, contratados para auxiliar os alunos em suas  necessidades diversas. As sessões presenciais serão conduzidas **via web conference** por **tutores** contratados e treinados pelos conteudistas para execução da dinâmica das discussões entre os alunos. <br><br>
 
 **CUSTOS** <br> 
 Os custos para a elaboração do projeto de desenvolvimento do *Concierge MVP* são estimados em **US $ **.000** (R$ **.000). 
