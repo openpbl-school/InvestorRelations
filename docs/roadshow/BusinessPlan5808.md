@@ -77,7 +77,7 @@ Plan de negocios propuesto en el road show 2020.1 para recaudación de fondos.<b
 
 <br>
 
-**Resumo** <br> 
+**RESUMO** <br> 
 Dois experientes executivos do setor educacional identificaram uma oportunidade de negócios no atual **desequilíbrio** entre a oferta e a demanda de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
 
 Assim, lançaram a **OpenPBL**, uma Edtech que oferta uma plataforma de **aprendizagem baseada em problemas (PBL)** que usa Inteligência Artificial para reduzir os custos de desenvolvimento de **habilidades comportamentais complexas** em programas educacionais executados por **empresas** e **escolas profissionalizantes**.
