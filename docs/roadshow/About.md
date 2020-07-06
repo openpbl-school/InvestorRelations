@@ -65,14 +65,12 @@ Una
 ### OPEN-PBL 
 **Sistema de ensino** baseado em problemas que usa a IA para reduzir os custos do desenvolvimento de habilidades comportamentais em programas educacionais.
 
-**DESCRIÇÃO RESUMIDA** <br>
+**DESCRIÇÃO** <br>
 A OpenPBL é uma Edtech que fornece acesso à uma plataforma de aprendizagem baseada em problemas que usa Inteligência Artificial para reduzir os custos de desenvolvimento de habilidades comportamentais complexas em programas educacionais de empresas e escolas profissionalizantes.
 
-As empresas exigem cada vez mais de seus funcionários o desenvolvimento de habilidades comportamentais profissionais que lhes permitam não apenas alcançar os resultados esperados, mas também alcançá-los da maneira mais eficiente possível.
+As empresas exigem cada vez mais de seus funcionários o desenvolvimento de habilidades comportamentais profissionais que lhes permitam não apenas alcançar os resultados esperados, mas também alcançá-los da maneira mais eficiente possível. A Aprendizagem Baseada em Problemas, ou simplesmente o PBL, é uma estratégia de aprendizado comprovadamente eficaz para o desenvolvimento desse tipo de habilidades comportamentais profissionais. No entanto, os cursos de escolas que tradicionalmente aplicam o processo completo da PBL, como Harvard, Minerva School e École 42, não são acessíveis à maioria dos profissionais.
 
-A Aprendizagem Baseada em Problemas, ou simplesmente o PBL, é uma estratégia de aprendizado comprovadamente eficaz para o desenvolvimento desse tipo de habilidades comportamentais profissionais. No entanto, os cursos de escolas que tradicionalmente aplicam o processo completo da PBL, como Harvard, Minerva School e École 42, não são acessíveis à maioria dos profissionais.
-
-A missão do OpenPBL é democratizar a "educação profissional baseada em problemas", permitindo o acesso popular à experiências de aprendizagem baseadas em problemas típicos da carreira.
+A missão da **OpenPBL** é democratizar a "educação profissional baseada em problemas", permitindo o acesso popular à experiências de aprendizagem baseadas em problemas típicos da carreira.
 
 Atualmente, a empresa está promovendo um roadshow para captação de recursos. Mais detalhes em https://bit.ly/OpenPBL-Business-Pitch.<br><br>
 
