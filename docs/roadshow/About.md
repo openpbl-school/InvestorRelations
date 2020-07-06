@@ -65,7 +65,7 @@ Una
 ### OPEN-PBL 
 **Sistema de ensino** baseado em problemas que usa a IA para reduzir os custos do desenvolvimento de habilidades comportamentais em programas educacionais.
 
-**DESCRIÇÃO RESUMIDA** 
+**DESCRIÇÃO RESUMIDA** <br>
 A OpenPBL é uma Edtech que fornece acesso à uma plataforma de aprendizagem baseada em problemas que usa Inteligência Artificial para reduzir os custos de desenvolvimento de habilidades comportamentais complexas em programas educacionais de empresas e escolas profissionalizantes.
 
 As empresas exigem cada vez mais de seus funcionários o desenvolvimento de habilidades comportamentais profissionais que lhes permitam não apenas alcançar os resultados esperados, mas também alcançá-los da maneira mais eficiente possível.
@@ -74,7 +74,7 @@ A Aprendizagem Baseada em Problemas, ou simplesmente o PBL, é uma estratégia d
 
 A missão do OpenPBL é democratizar a "educação profissional baseada em problemas", permitindo o acesso popular à experiências de aprendizagem baseadas em problemas típicos da carreira.
 
-Atualmente, a empresa está promovendo um roadshow para captação de recursos. Mais detalhes em https://bit.ly/OpenPBL-Business-Pitch.
+Atualmente, a empresa está promovendo um roadshow para captação de recursos. Mais detalhes em https://bit.ly/OpenPBL-Business-Pitch.<br><br>
 
 
 ### SOBRE A OPEN-PBL 
