@@ -29,9 +29,9 @@ Based on this idea, they launched the **OpenPBL**, an Edtech company whose reven
     ...
 </p>
 
-The creators of the project developed a 5-year **business plan** detailing the stages of: **startup**, **expansion of operation** and **the exit of the business**. All of these steps will be financed by **venture capital** and the main **business exit rule** to attract investors is the **strategic sale** of the company to an **educational group**.
+The project's creators developed a five-year **business plan** detailing the stages of **starting**, **expanding the operation** and **haversting the business**. All of these steps will be financed by **venture capital** and the main **business exit rule** to attract investors is the **strategic sale** of the company to an **educational group**.
 
-To achieve the objectives of the first stage, the company needs **US $ 132,000**, of which **US $ 60,000** will be used as **working capital** for the launch of the company's first unit in the city of São Paulo (Brazil), and **US $ 72,000** will be used to **develop the software components** of the **educational system**.
+To achieve the objectives of the first stage, the company needs **US $ 132,000**, of which **US $ 60,000** will be used as **working capital** for the launch of the company's first unit in the city of São Paulo (Brazil), and **US $ 72,000** will be used to **develop the software components** to automate the **educational system**.
 
 For this fundraising, the company published on <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> the offer of 4 shares of participation in the company (out of a total of 25 quotas) in the amount of **US $ 33,000** `(R $ 182,000)` each quota, whose **nominal return** is estimated at **36% per year**, considered a WAAC of 14.5% per year.
 
@@ -82,11 +82,13 @@ En base a esta idea, se lanzó **OpenPBL**, un Edtech cuyos ingresos provienen d
     ...
 </p>
 
-Para lograr los objetivos de la compañía, los creadores del proyecto desarrollaron un **plan de negocios** de 5 años que detalla las etapas de: **inicio**, **expansión de la escala de operación**, **profesionalización de la administración**, **internacionalización** y **cosecha**. Todos estos pasos serán financiados por **capital de riesgo** y la **regla principal de salida de negocios** para atraer inversores es la **venta estratégica** de la empresa a un **grupo educativo**.
+Los creadores del proyecto desarrollaron un **plan de negocios** de 5 años que detalla las etapas de: **inicio**, **expansión de la operación** y **cosecha**. Todos estos pasos serán financiados por **capital de riesgo** y la **regla principal de salida de negocios** para atraer inversores es la **venta estratégica** de la empresa a un **grupo educativo**.
 
-El objetivo del roadshow actual es recaudar **$ 132,000**, de los cuales **$ 72,000** se utilizarán como gastos preoperativos para **desarrollar los componentes de software** del **sistema educativo**, y **US $ 60,000** se utilizarán como **capital de trabajo** para alcanzar **3.2% del público objetivo** en la ciudad de São Paulo (Brasil) y, por lo tanto, lograr **ingresos netos** de **US $ 1.94 millones** (EBITDA 42% RL) en **quinto año** de operación.
+Para lograr los objetivos de la primera etapa, la compañía necesita **US $ 132,000**, de los cuales **US $ 60,000** serán utilizados como **capital de trabajo** para el lanzamiento de la primera unidad de la compañía en la ciudad de São Paulo (Brasil), y **US $ 72,000** se utilizarán para **desarrollar los componentes de software** para automatizar el **sistema educativo**
 
-Para esta recaudación de fondos, la compañía publicó en <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com </a> la oferta de 4 acciones, de un total de 25 acciones, en el valor unitario de **$ 33,000**. Una inversión con un **rendimiento nominal proyectado** de **36% anual**, considerada una tasa de riesgo (WAAC) de 14.5% anual.
+Para esta recaudación de fondos, la compañía publicó en <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com </a> la oferta de 4 acciones de participación en la empresa (de un total de 25 cuotas) por un monto de **US $ 33,000** `(R $ 182,000)` cada cuota, cuyo **rendimiento nominal** se estima en **36% por año**, considerado un WAAC de 14.5% por año.
+
+Todos estos valores se estiman en base a las simulaciones financieras del modelo de negocio, que muestran que es posible lograr **ingresos netos** de **US $ 1.94 millones** `(R $ 10.7 millones)` (EBITDA 42 % IN) en el **quinto año** de la operación de la compañía con una inversión inicial mínima de **US $ 60,000** `(R $ 327,000)` en capital de trabajo.
 
 <p align = "center">
     ...
@@ -133,13 +135,13 @@ Baseado nesta ideia, os idealizadores lançaram a **OpenPBL**, uma Edtech cujas 
     ... 
 </p>
 
-Os idealizadores do projeto desenvolveram um **plano de negócios** de 5 anos com o detalhamento das etapas de *'**startup**'*, **ampliação da atuação**, e **saída do negócio**. Todas estas etapas serão financiadas por **capital de risco** e a principal "regra de saída" para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
+Os idealizadores do projeto desenvolveram um **plano de negócios** de cinco anos com o detalhamento das etapas de *'**startup**'*, **ampliação da atuação**, e **saída do negócio**. Todas estas etapas serão financiadas por **capital de risco** e a principal "regra de saída" para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**.
 
-Para atingir os objetivos da primeira etapa, a empresa necessita de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e **US $ 72.000** `(R$ 400.000)` serão utilizados para **desenvolver os componentes de software** do **sistema de ensino**.
+Para atingir os objetivos da primeira etapa, a empresa necessita de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e **US $ 72.000** `(R$ 400.000)` serão utilizados para **desenvolver os componentes de software** para automatizar **sistema de ensino**.
 
 Para esta captação, a empresa publicou em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> a oferta de 4 quotas de participação na empresa (de um total de 25 quotas) no valor de **US $ 33.000** `(R$ 182.000)` cada quota, cujo **retorno nominal** é estimado em **36% a.a.**, considerado um WAAC de 14,5% a.a..
 
-Todos esses valores são estimados com base nas simulações financeiras do modelo de negócios que apontam que é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa com investimento mínimo em capital de giro da ordem de **US $ 60.000** `(R$ 327.000)`.
+Todos esses valores são estimados com base nas simulações financeiras do modelo de negócios que apontam que é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa, com um investimento inicial mínimo em capital de giro da ordem de **US $ 60.000** `(R$ 327.000)`.
 
 <p align="center">    
     ... 
