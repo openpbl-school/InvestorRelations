@@ -33,9 +33,9 @@ The project's creators developed a five-year **business plan** detailing the sta
 
 To achieve the objectives of the first stage, the company needs **US $ 132,000**, of which **US $ 60,000** will be used as **working capital** for the launch of the company's first unit in the city of São Paulo (Brazil), and **US $ 72,000** will be used to **develop the software components** to automate the **educational system**.
 
-For this fundraising, the company published on <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> the offer of 4 shares of participation in the company (out of a total of 25 quotas) in the amount of **US $ 33,000** `(R $ 182,000)` each quota, whose **nominal return** is estimated at **36% per year**, considered a WAAC of 14.5% per year.
+For this fundraising, the company published on <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> the offer of 4 shares of participation in the company (out of a total of 25 quotas) in the amount of **US $ 33,000** each quota, whose **nominal return** is estimated at **36% per year**, considered a WAAC of 14.5% per year.
 
-All of these values are estimated based on the financial simulations of the business model, which show that it is possible to achieve **net revenues** of **US $ 1.94 million** `(R $ 10.7 million)` (EBITDA 42 % NR) in the **fifth year** of the company's operation with a minimum initial investment of **US $ 60,000** `(R $ 327,000)` in working capital.
+All of these values are estimated based on the financial simulations of the business model, which show that it is possible to achieve **net revenues** of **US $ 1.94 million** (EBITDA 42 % NR) in the **fifth year** of the company's operation with a minimum initial investment of **US $ 60,000** in working capital.
 
 <p align = "center">
     ...
