@@ -152,10 +152,8 @@ Todos esses valores são estimados com base nas simulações financeiras do mode
 *2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br>
 
 <p align="center">    
-    ... 
+... 
 </p> 
-
-...
 
 <br>
 <p align="center">    
@@ -167,5 +165,4 @@ Todos esses valores são estimados com base nas simulações financeiras do mode
 </p>
 
 ## <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
