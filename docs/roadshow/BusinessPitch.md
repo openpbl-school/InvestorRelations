@@ -13,7 +13,7 @@
 
 A survey published in 2018 by the **World Economic Forum** listed the ten most desired professional skills for workers of the future. According to **HR managers** from around the world consulted in the survey, what **differentiates** professionals in an increasingly globalized, dynamic and automated world is no longer their technical knowledge and skills, but the mastery of some important **behavioral skills**.
 
-Although companies are increasingly demanding professionals with complex behavioral skills, these same professionals find it very difficult to develop them within a **reasonable time**. As the **courses and educational programs** that develop behavioral skills do not have a **scalable** cost structure, their **offer** grows at a much lower rate than the market demand.
+Interestingly, although companies are increasingly demanding professionals with complex behavioral skills, these same professionals find it very difficult to develop them in a **reasonable time**. As the **courses and educational programs** that develop behavioral skills do not have a **scalable** cost structure, their **offer** grows at a much lower rate than the market demand.
 
 <p align = "center">
     ...
@@ -119,7 +119,7 @@ Todos estos valores se estiman en base a las simulaciones financieras del modelo
 
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo **gestores de RH** de todo o mundo consultados na pesquisa, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são mais seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
-Apesar de empresas demandarem cada vez mais profissionais com competências comportamentais complexas, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num **prazo razoável**. Como os **cursos e programas educacionais** específicos para desenvolver competências comportamentais não apresentam **estrutura de custos** escalável, a sua **oferta** cresce num ritmo muito menor que a demanda do mercado. 
+Curiosamente, apesar de empresas demandarem cada vez mais profissionais com competências comportamentais complexas, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num **prazo razoável**. Uma vez que os **cursos e programas educacionais** específicos para desenvolver competências comportamentais não apresentam **estrutura de custos** escalável, a sua **oferta** cresce num ritmo muito menor que a demanda do mercado. 
 
 <p align="center">    
     ... 
