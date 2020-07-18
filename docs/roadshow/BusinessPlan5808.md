@@ -281,7 +281,7 @@ Os seis **componentes de software** que **automatizam** o método de ensino prop
  - **"*Expert system*"** capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
  - **"*Machine learning model*"** capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
  - **"*Adaptive learning system*"** para acelerar a etapa de SDL (self-directed learning) dos alunos.
- - **"*Recommender system* para recomendação do conteúdo de apoio na etapa de SDL do método. 
+ - **"*Recommender system*"** para recomendação do conteúdo de apoio na etapa de SDL do método. 
  - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
  - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
 
