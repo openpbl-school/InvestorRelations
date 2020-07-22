@@ -1,11 +1,7 @@
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
 
 <a name="english"></a>
@@ -26,11 +22,7 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
 
 ## <br>
@@ -41,43 +33,13 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 <a name="spanish"></a> 
 <br>
 
-### RESUMEN EJECUTIVO
-Resumen ejecutivo del Plan de negocios de recaudación de fondos 2020.<br>
-
-**...**
-
-(Pronto también disponible en la versión en español)
-
-...
-
-*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
-
-*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://openpbl-school.github.io/Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
-
-<br>
-<p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
-</p>
-
-## <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 <a name="portuguese"></a> 
 <br>
 
 # SUMÁRIO EXECUTIVO
 
-Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro. Segundo **gestores de RH** de todo o mundo consultados na pesquisa, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são mais seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. Curiosamente, apesar de empresas demandarem cada vez mais profissionais com competências comportamentais complexas, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num **prazo razoável**. Uma vez que os **cursos e programas educacionais** específicos para desenvolver competências comportamentais não apresentam **estrutura de custos** escalável, a sua **oferta** cresce num ritmo muito menor que a demanda do mercado. 
-
-Para aproveitar a oportunidade gerada pelo **desequilíbrio** entre a oferta e a demanda desta classe de programas educacionais, um grupo de experientes executivos do segmento de educação corporativa idealizou um inovador "**sistema de ensino profissionalizante baseado em problemas**". O sistema de ensino utiliza **inteligência artificial** para promover **inéditos ganhos de escala** na execução de cursos que utilizam a *Problem Based Learning (PBL)*, uma tradicional **estratégia de aprendizagem** considerada **eficaz** no desenvolvimento de competências comportamentais. Baseado nesta ideia, os idealizadores lançaram a **OpenPBL**, uma Edtech cujas receitas são provenientes de duas fontes: do **licenciamento do sistema de ensino** para empresas e escolas profissionalizantes e da **venda de cursos** em pequenas "escolas-conceito OpenPBL" de atuação regional. 
+Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente oferta e a demanda estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir os custos** da execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**. Assim, lançaram a OpenPBL, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
 
 Os idealizadores do projeto desenvolveram um **plano de negócios** de cinco anos com o detalhamento das etapas de *'**startup**'*, **ampliação da atuação**, e **saída do negócio**. Todas estas etapas serão financiadas por **capital de risco** e a principal "regra de saída" para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**. Para atingir os objetivos da primeira etapa, a empresa necessita de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e **US $ 72.000** `(R$ 400.000)` serão utilizados para **desenvolver os componentes de software** para automatizar **sistema de ensino**. 
 
@@ -510,48 +472,14 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
+
 </p>
 
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-
-
 
 
 <a name="chinese"></a> 
 <br>
 
-### 执行摘要
-2020年筹款业务计划的执行摘要。<br>
-
-（很快也有中文版本）
-
-...
-
-*1。 对<a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
-
-*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://openpbl-school.github.io/Storytelling/#chinese" target="_blank">讲故事</a>（仅提供葡萄牙语版本）*
-
-<br>
-<p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a></p>
-
-## <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
