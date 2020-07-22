@@ -17,7 +17,7 @@ To take advantage of the opportunity, they designed an ingenious **teaching meth
 
 Thus, they launched OpenPBL, a company whose revenues come from the sale of **courses based on typical problems of everyday professional life** and the licensing of its **problem-based learning platform** for **companies** and **vocational schools**.
 
-The company intends to capture 4 shares of US $ 33,000 that will be used in **software development** and as **working capital** in the **startup** phase of its five-year business plan. To this end, the original partners offer a projected **nominal return** of 36% a.a. interested investors.
+The company intends to capture 4 shares of **US $ 33,000** that will be used in **software development** and as **working capital** in the **startup** phase of its five-year business plan. To this end, the original partners offer a projected **nominal return** of 36% a.a. interested investors.
 
 <p align = "center">
     ...
@@ -52,13 +52,13 @@ Para aprovechar la oportunidad, diseñaron un ingenioso **método de enseñanza*
 
 Por lo tanto, lanzaron OpenPBL, una compañía cuyos ingresos provienen de la venta de **cursos basados en problemas típicos de la vida profesional diaria** y la licencia de su **plataforma de aprendizaje basada en problemas** para **compañías** y **escuelas vocacionales**.
 
-La compañía tiene la intención de capturar 4 acciones de US $ 33,000 que se utilizarán en **desarrollo de software** y como **capital de trabajo** en la fase **de inicio** de sus **plan de negocios** de 5 años. Con este fin, los socios originales ofrecen un **rendimiento nominal** proyectado del 36% a.a. inversores interesados
+La compañía tiene la intención de capturar 4 acciones de **US $ 33,000** que se utilizarán en **desarrollo de software** y como **capital de trabajo** en la fase **de inicio** de su **plan de negocios** de 5 años. Con este fin, los socios originales ofrecen un **rendimiento nominal** proyectado del 36% a.a. inversores interesados
 
 <p align = "center">
     ...
 </p>
 
-*1. El **resumen ejecutivo** del plan está disponible para inversores interesados ​​en <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank"> Resumen ejecutivo de OpenPBL </a>.*
+*1. El **resumen ejecutivo** del plan está disponible para inversores interesados en <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank"> Resumen ejecutivo de OpenPBL </a>.*
 
 *2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://openpbl-school.github.io/Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
 
@@ -87,7 +87,7 @@ Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** qu
 
 Assim, lançaram a OpenPBL, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
 
-A empresa pretende captar 4 quotas de R$ 182.000 `(4 x US $ 33.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro* na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. 
+A empresa pretende captar 4 quotas de **R$ 182.000** `(4 x US $ 33.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro* na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. 
 
 <p align="center">    
     ... 
