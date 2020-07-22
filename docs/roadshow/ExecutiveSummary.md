@@ -10,7 +10,7 @@
 ### EXECUTIVE SUMMARY 
 Executive summary of the 2020 fundraising Business Plan.<br><br>
 
-(Soon also available in the English version)
+(The English version will be available soon.)
 
 ...
 
