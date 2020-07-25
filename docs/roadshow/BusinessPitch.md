@@ -11,7 +11,7 @@
 
 ### OPEN-PBL BUSINESS PITCH 
 
-A group of experienced education sector executives identified a business opportunity in the **imbalance** between the growing supply and stable demand for educational programs designed to develop **professional behavioral skills**.
+A group of experienced education sector executives identified a business opportunity in the **imbalance** between the growing demand and stable supply for educational programs designed to develop **professional behavioral skills**.
 
 To take advantage of the opportunity, they designed an ingenious **teaching method** that uses **artificial intelligence** as a technology to **reduce costs** of running a class of courses that has already proven effective to develop **behavioral skills**.
 
@@ -46,7 +46,7 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
 
 ### OPEN-PBL - IDEA DE NEGOCIO
 
-Un grupo de ejecutivos experimentados del sector educativo identificó una oportunidad de negocio en el **desequilibrio** entre la creciente oferta y la demanda estable de programas educativos diseñados para desarrollar **habilidades de comportamiento profesional**.
+Un grupo de ejecutivos experimentados del sector educativo identificó una oportunidad de negocio en el **desequilibrio** entre la creciente demanda  y la oferta estable de programas educativos diseñados para desarrollar **habilidades de comportamiento profesional**.
 
 Para aprovechar la oportunidad, diseñaron un ingenioso **método de enseñanza** que utiliza **inteligencia artificial** como tecnología para **reducir los costos** de ejecutar una clase de cursos que ya han demostrado ser efectivos para desarrollar **habilidades de comportamiento**.
 
@@ -81,7 +81,7 @@ La compañía tiene la intención de capturar 4 acciones de **US $ 33,000** que 
 
 ### OPEN-PBL - IDEIA DO NEGÓCIO
 
-Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente oferta e a demanda estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
+Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente demanda e a oferta estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
 
 Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir os custos** da execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
 
