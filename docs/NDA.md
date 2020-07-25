@@ -2,9 +2,9 @@
  <b> NON-DISCLOSURE AGREEMENT </b>
 </p>
 
-Under this agreement and in the best form of law, the company *GAVEAPAR SERVIÇOS DE APOIO ADMINISTRATIVO LTDA*, an Brazilian company registered with the ID *CNPJ 17.829.571/0001-36*, headquartered at *Rua Coronel Madureira, 40 - loja 9, Centro, Município de Saquarema, RJ, Brasil, CEP 28990-000*, hereby represented as required in its bylaws, hereinafter referred to as PROVIDER, and:
+Under this agreement and in the best form of law, the company *MNSP*, an Brazilian company registered with the ID *CNPJ 17.829.571/0001-36*, headquartered at *Rua ....*, hereby represented as required in its bylaws, hereinafter referred to as PROVIDER, and:
   
-hereinafter referred to as RECIPIENT, have, between themselves, fair and contracted to enter into this Confidentiality Agreement, hereinafter referred to as AGREEMENT, to be governed by the following terms and conditions:
+Hereinafter referred to as RECIPIENT, have, between themselves, fair and contracted to enter into this Confidentiality Agreement, hereinafter referred to as AGREEMENT, to be governed by the following terms and conditions:
 
 PRELIMINARY CONSIDERATIONS. Considering that: (1) the parties are in preliminary negotiations to study the feasibility of an eventual partnership in the OPEN PBL hereinafter referred to as BUSINESS; (2) CONFIDENTIAL INFORMATION is any technical or commercial information relating to the BUSINESS, whether printed or in digital file format, revealed by the PROVIDER to the RECIPIENT at any stage of the negotiations; (3) that the PROVIDER wishes to reveal such information to the RECIPIENT to develop the BUSINESS;
 
@@ -30,7 +30,7 @@ IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed
 </p>
 
 <p align="center">    
-    <a href="https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
+    <a href="https://mnsmartproducts.github.io/angel-gadget/roadshow/business-pitch#portuguese" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
 </p>
 
 <br><br>
