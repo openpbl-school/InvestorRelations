@@ -41,19 +41,19 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 
 **RESUMO** <br> 
 
-**Oportunidade**
+**Oportunidade** <br>
 Desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para o desenvolvimento de competências comportamentais profissionais. 
 
-**Proposta**
+**Proposta** <br>
 Um engenhoso **método de ensino** para **reduzir drasticamente os custos** da execução de cursos que utilizam a PBL para desenvolver **competências comportamentais**.
 
-**Negócio**
+**Negócio** <br>
 Edtech para desenvolver e licenciar uma **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
 
-**Investimento**
+**Investimento** <br>
 Necessários **US $ 132.000** `(R$ 727.000)` para **desenvolvimento de software** e para o **capital de giro** necessário no primeiro ano de operação da empresa.
 
-**Oferta**
+**Oferta** <br>
 Oferta publicada em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> com retorno nominal projetado de 36% a.a. aos investidores interessados.<br><br> 
 
 <a name="problema"></a> 
