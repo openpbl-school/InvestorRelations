@@ -1,11 +1,7 @@
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
 
 <a name="english"></a>
@@ -26,49 +22,15 @@ Business plan proposed at the 2020.1 road show for fundraising.<br><br>
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
 
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 <a name="spanish"></a> 
 <br>
-
-### PLAN DE NEGOCIOS
-Plan de negocios propuesto en el road show 2020.1 para recaudación de fondos.<br>
-
-**...**
-
-(Pronto también disponible en la versión en español)
-
-...
-
-*1. El "Acuerdo de no divulgación" para el acceso al **resumen ejecutivo** del plan de negocios está disponible para inversores interesados en <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
-
-*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://openpbl-school.github.io/Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
-
-<br>
-<p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
-</p>
-
-## <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 <a name="portuguese"></a> 
 <br>
@@ -594,48 +556,11 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
 
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-
-
-
-
-
-
 
 <a name="chinese"></a> 
 <br>
-
-### 商业计划
-在2020.1路演中提出了用于筹款的业务计划。<br>
-
-（很快也有中文版本）
-
-...
-
-*1。 对<a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
-
-*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://openpbl-school.github.io/Storytelling/#chinese" target="_blank">讲故事</a>（仅提供葡萄牙语版本）*
-
-<br>
-<p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a></p>
-
-## <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
