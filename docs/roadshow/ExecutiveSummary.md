@@ -41,6 +41,8 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 
 **RESUMO** <br> 
 
+<br> 
+
 **Oportunidade** <br>
 Desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para o desenvolvimento de competências comportamentais profissionais. 
 
@@ -55,6 +57,11 @@ Necessários **US $ 132.000** `(R$ 727.000)` para **desenvolvimento de software*
 
 **Oferta** <br>
 Oferta publicada em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> com retorno nominal projetado de 36% a.a. aos investidores interessados.<br><br> 
+
+<p align="center">
+<img src="img/banner2.png"><br>
+    Plano de negócios proposto no <i>road show</i> 2020.1 para captação de investimentos.
+</p>
 
 <a name="problema"></a> 
 <br>
