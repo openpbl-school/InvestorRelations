@@ -78,13 +78,13 @@ Plan de negocios propuesto en el road show 2020.1 para recaudación de fondos.<b
 <br>
 
 **RESUMO** <br> 
-Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente oferta e a demanda estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
+Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente demanda e a oferta estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
 
 Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para escalar a execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
 
 Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
 
-O presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>) pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. <br><br>
+No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. <br><br>
 
 <p align="center">
 <img src="img/banner2.png"><br>
