@@ -1,11 +1,7 @@
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
 
 <a name="english"></a>
@@ -22,11 +18,7 @@ A
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
 
 ## <br>
@@ -36,28 +28,6 @@ A
 
 <a name="spanish"></a> 
 <br>
-
-### OPEN-PBL - IDEA DE NEGOCIO
-
-Una 
-
-
-
-<br>
-<p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
-</p>
-
-## <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 <a name="portuguese"></a> 
 <br>
@@ -104,7 +74,7 @@ OpenPBL comercializa experiências completas de aprendizagem profissionalizante 
 Baseado nesta ideia, foi lançada a **OpenPBL**, uma Edtech cujas receitas são provenientes de duas fontes: do **licenciamento do sistema de ensino** para escolas profissionalizantes e da **venda de cursos** em pequenas "escolas-conceito" de atuação regional. 
 
 <p align="center">    
-    ... 
+... 
 </p> 
 
 ...
@@ -113,41 +83,11 @@ Baseado nesta ideia, foi lançada a **OpenPBL**, uma Edtech cujas receitas são 
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
 
 ## <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 <a name="chinese"></a> 
 <br>
-
-### OPEN-PBL-经营理念
-2020年筹款路演摘要。
-
-...
-（很快也有中文版本）
-...
-
-*1。 对<a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank"> OpenPBL NDA </a>感兴趣的投资者可以使用“非公开协议”来访问业务计划的“执行摘要”*
-
-*2。 有关OpenPBL专业学校的更多详细信息，请参见其标准产品的<a href="https://openpbl-school.github.io/Storytelling/#chinese" target="_blank">讲故事</a>（仅提供葡萄牙语版本）*
-
-<br>
-<p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a></p>
-
-## <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
