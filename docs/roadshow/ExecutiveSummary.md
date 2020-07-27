@@ -39,9 +39,9 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 
 # SUMÁRIO EXECUTIVO
 
-**RESUMO** <br> 
-
 <br> 
+
+**IDEIA DO NEGÓCIO** <br> 
 
 **Oportunidade** <br>
 Desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para o desenvolvimento de competências comportamentais profissionais. 
