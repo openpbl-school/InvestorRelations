@@ -39,12 +39,22 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 
 # SUMÁRIO EXECUTIVO
 
-Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente oferta e a demanda estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir os custos** da execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**. Assim, lançaram a OpenPBL, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
+**RESUMO** <br> 
 
-Os idealizadores do projeto desenvolveram um **plano de negócios** de cinco anos com o detalhamento das etapas de *'**startup**'*, **ampliação da atuação**, e **saída do negócio**. Todas estas etapas serão financiadas por **capital de risco** e a principal "regra de saída" para atrair investidores é a **venda estratégica** da empresa para um **grupo educacional**. Para atingir os objetivos da primeira etapa, a empresa necessita de **US $ 132.000** `(R$ 727.000)`, dos quais **US $ 60.000** `(R$ 327.000)` serão utilizados como **capital de giro** para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e **US $ 72.000** `(R$ 400.000)` serão utilizados para **desenvolver os componentes de software** para automatizar **sistema de ensino**. 
+**Oportunidade**
+Desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para o desenvolvimento de competências comportamentais profissionais. 
 
-Para esta captação, a empresa publicou em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> a oferta de 4 quotas de participação na empresa (de um total de 25 quotas) no valor de **US $ 33.000** `(R$ 182.000)` cada quota, cujo **retorno nominal** é estimado em **36% a.a.**, considerado um WAAC de 14,5% a.a.. Todos esses valores são estimados com base nas simulações financeiras do modelo de negócios que apontam que é possível atingir **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)`(EBITDA 42% RL) no **quinto ano** de operação da empresa, com um investimento inicial mínimo em capital de giro da ordem de **US $ 60.000** `(R$ 327.000)`.<br><br> 
+**Proposta**
+Um engenhoso **método de ensino** para **reduzir drasticamente os custos** da execução de cursos que utilizam a PBL para desenvolver **competências comportamentais**.
 
+**Negócio**
+Edtech para desenvolver e licenciar uma **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
+
+**Investimento**
+Necessários **US $ 132.000** `(R$ 727.000)` para **desenvolvimento de software** e para o **capital de giro** necessário no primeiro ano de operação da empresa.
+
+**Oferta**
+Oferta publicada em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> com retorno nominal projetado de 36% a.a. aos investidores interessados.<br><br> 
 
 <a name="problema"></a> 
 <br>
