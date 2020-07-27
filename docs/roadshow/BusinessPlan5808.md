@@ -42,7 +42,7 @@ Business plan proposed at the 2020.1 road show for fundraising.<br><br>
 **RESUMO** <br> 
 Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente demanda e a oferta estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
 
-Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para escalar a execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
+Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir drasticamente os custos** de execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
 
 Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
 
