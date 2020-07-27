@@ -32,7 +32,7 @@ A
 <a name="portuguese"></a> 
 <br>
 
-### OPEN-PBL 
+### SOBRE A OPEN-PBL 
 **Sistema de ensino** baseado em problemas que usa a IA para reduzir os custos do desenvolvimento de habilidades comportamentais em programas educacionais.
 
 **DESCRIÇÃO** <br>
