@@ -275,7 +275,7 @@ Como *feedback* da sua atuação no curso, o aluno recebe:
 
 **Objetivos de aprendizagem dos cursos** <br>
 
-A dinâmica dos cursos gerenciados pelo sistema de ensino proposto buscam desenvolver no aluno **competências comportamentais** classificadas em **um ou mais** grupos de competências a seguir: 
+A dinâmica proposta pelo sistema de ensino busca desenvolver no alunos as **competências comportamentais** de **um ou mais** grupos a seguir: 
 - Estruturação de **problemas mal definidos**; 
 - Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
 - Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
@@ -285,7 +285,7 @@ A dinâmica dos cursos gerenciados pelo sistema de ensino proposto buscam desenv
 
 **Benefícios para usuários do sistema de ensino profissionalizante**<br>
 
-As competências comportamentais desenvolvidas pelo **sistema de ensino baseado em problemas** proposto melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira. Para avaliar a reação destas hipóteses entre alunos de escolas profissionalizantes, os idealizadors utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. 
+As competências comportamentais desenvolvidas pelo **sistema de ensino baseado em problemas** proposto melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira. Para avaliar a reação destas hipóteses entre alunos de escolas profissionalizantes, os idealizadores utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. 
 
 A pesquisa entrevistou 120 alunos concluintes de cursos de graduação em economia, engenharia e administração sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. O questionário da pesquisa continha nove questões do tipo múltipla escolha com o objetivo de medir a percepção de valor nas diversas experiências de aprendizagem de programas profissionalizantes online e presencial. 
 
@@ -323,7 +323,7 @@ As receitas da OpenPBL são provenientes de duas fontes:
 
 Além das receitas oriundas da venda de cursos profissionalizantes, a **Escola profissionalizante OpenPBL** tem a função estratégica de **tangibilizar** os benefícios do **Sistema de Ensino OpenPBL**, à medida que promove ações para comunicar o sucesso dos seus alunos no mercado de trabalho.
 
-Os problemas abordados nos cursos da Escola profissionalizante OpenPBL são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** (R$ 320,00) ou adquirido em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
+Os problemas abordados nos cursos da Escola profissionalizante OpenPBL são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** `(R$ 320,00)` ou adquiridos em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
 
 A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a **Escola Profissionalizante OpenPBL** como uma **instituição de ensino segmentada por perfis funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
 
@@ -360,13 +360,15 @@ Quando comparados com **programas tradicionais** do mercado educacional desenhad
 - Etapa presencial com várias opções de disponibilidade geográfica **para** adequar-se às restrições de deslocamento do alunos.
 - Cursos segmentados por trilhas funcionais **para** concentrar o ganho de empregabilidade do aluno em uma carreira específica. 
 
-Estes atributos norteiam a estratégia de comunicação para venda B2C da escola. As ações para atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.<br><br>
+Estes atributos norteiam a estratégia de comunicação para venda B2C da escola. As ações para atração e conversão de novos alunos está descrita com detalhes em <a href="https://openpbl-school.github.io/CustomerAcquisition/" target="_blank">Estratégia de Comunicação</a>.
+
+*Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br><br>
 
 **Sistema de Ensino OpenPBL** <br>
 
 O **Sistema de Ensino OpenPBL** viabiliza o desenvolvimento sistemático de **cursos** baseados em PBL totalmente **customizados** para terceiros. Os problemas abordados nos cursos são propostos pelos próprios clientes e cada problema específico origina a oferta de um **título no catálogo** do cliente. 
 
-Os usuários do **Sistema de Ensino OpenPBL** acessam os títulos pelo preço-alvo mensal de **US $ 5,37** (R$ 25,00). As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem ainda:
+Os usuários do **Sistema de Ensino OpenPBL** acessam os títulos pelo preço-alvo mensal de **US $ 5,37** `(R$ 25,00)`. As ofertas comerciais para licenciamento do **Sistema de Ensino OpenPBL** envolvem ainda:
 - O valor dos serviços de **implantação** do sistema;
 - O prazo de vigência do contrato de licenciamento, não inferior a **24 meses**;
 - As faixas de franquia divididas por **quantidade de usuários** para a utilização ilimitada do sistema;
@@ -492,7 +494,7 @@ Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá 
 
 Para desenho, implantação e testes do **sistema educacional** são necessários investimentos que devem ser contabilizados, em sua maior parte, como despesa de capital" (CAPEX) para **desenvolvimento de software**. 
 
-Os **sete** componentes que compõem o software do **Sistema Educacional OpenPBL** a ser desenvolvido são: 
+Os **sete** componentes que compõem o software do **Sistema de Ensino OpenPBL** a ser desenvolvido são: 
 - *Expert system* capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
 - *Machine learning model* capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
 - *Adaptive learning system* para acelerar a etapa de SDL (self-directed learning) dos alunos.
@@ -509,6 +511,10 @@ A partir do desenvolvimento do sistema educacional será possível a expansão d
 - Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
 
 Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br>
+
+
+
+
 
 <a name="financiamento"></a> 
 <br>
@@ -547,10 +553,6 @@ A captação atual considera o *pre money valuation* de **US $ 900.000** `(R$ 4,
 A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de **governança corporativa** vigentes, tais como *controle orçamentário*, *profissionalização do board*, *conselho fiscal* e *proteção de minoritários*, entre outros <br><br>
 
 ... 
-
-*1. O Non Disclousure Agreement para acesso ao **sumário executivo** do plano de negócios está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
-
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* 
 
 <br>
 <p align="center">    
