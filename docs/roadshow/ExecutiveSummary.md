@@ -40,8 +40,6 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 
 <br> 
 
-**IDEIA DO NEGÓCIO** <br> 
-
 **RESUMO** <br> 
 Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente demanda e a oferta estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
 
