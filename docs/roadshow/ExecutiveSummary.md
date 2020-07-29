@@ -54,8 +54,9 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     Plano de negócios proposto no <i>road show</i> 2020.1 para captação de investimentos.
 </p>
 
-<a name="problema"></a> 
 <br>
+
+## <br>
 
 <p align="center">    
     <a href="#problema">O Problema</a>
@@ -71,6 +72,8 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     <a href="#financiamento">Financiamento</a>
 </p>
 
+<a name="problema"></a> 
+<br>
 
 ## O PROBLEMA E A OPORTUNIDADE
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
@@ -394,13 +397,15 @@ A política de **canais B2C** para os **dois primeiros anos de operação** deve
 
 A **estratégia de comunicação** para atração e conversão de leads contém elementos para a construção da *home page* da escola. <br><br>
 
+<p align="center">
+<em>Projeto de conversão online.</a>.</em>
+</p>
+
 ```sh
 Este tópico encontra-se detalhado no Plano de Negócios.
 ```
 
-<p align="center">
-<em>Projeto de conversão online.</a>.</em>
-</p>
+<br><br>
 
 <p align="center">
 <img src="img/banner2.png" width="800"><br>
@@ -461,7 +466,7 @@ Este tópico encontra-se detalhado no Plano de Negócios.
 **Novas frentes de negócios** <br>
 
 A partir do desenvolvimento do sistema educacional será possível a expansão dos negócios da empresa em **três novas frentes**:
-- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Green field*);
+- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Greenfield*);
 - Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
 - Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
 
@@ -511,8 +516,6 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 ... 
 
 *1. O Non Disclousure Agreement para acesso ao **plano de negócios** está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
-
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* 
 
 <br>
 <p align="center">    
