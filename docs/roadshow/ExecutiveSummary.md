@@ -33,7 +33,6 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 <a name="spanish"></a> 
 <br>
 
-
 <a name="portuguese"></a> 
 <br>
 
@@ -43,20 +42,14 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 
 **IDEIA DO NEGÓCIO** <br> 
 
-**Oportunidade** <br>
-Desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para o desenvolvimento de competências comportamentais profissionais. 
+**RESUMO** <br> 
+Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente demanda e a oferta estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
 
-**Proposta** <br>
-Um engenhoso **método de ensino** para **reduzir drasticamente os custos** da execução de cursos que utilizam a PBL para desenvolver **competências comportamentais**.
+Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir drasticamente os custos** de execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
 
-**Negócio** <br>
-Edtech para desenvolver e licenciar uma **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
+Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
 
-**Investimento** <br>
-Necessários **US $ 132.000** `(R$ 727.000)` para **desenvolvimento de software** e para o **capital de giro** necessário no primeiro ano de operação da empresa.
-
-**Oferta** <br>
-Oferta publicada em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a> com retorno nominal projetado de 36% a.a. aos investidores interessados.<br><br> 
+No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. <br><br>
 
 <p align="center">
 <img src="img/banner2.png"><br>
@@ -66,14 +59,33 @@ Oferta publicada em <a href="https://www.crunchbase.com/organization/openpbl#sec
 <a name="problema"></a> 
 <br>
 
+<p align="center">    
+    <a href="#problema">O Problema</a>
+    ·
+    <a href="#proposta">A Proposta</a>
+    ·
+    <a href="#negocio">O Negócio</a>
+    ·
+    <a href="#execucao">Execução</a>
+    ·
+    <a href="#expansao">Expansão</a>
+    ·
+    <a href="#financiamento">Financiamento</a>
+</p>
+
+
 ## O PROBLEMA E A OPORTUNIDADE
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado não são seus conhecimentos e habilidades técnicas, mas o domínio de algumas importantes **competências comportamentais**. 
 
 Para os especialistas consultados na pesquisa, certas virtudes como saber "tomar decisões em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
+  <img src="img/professional-of-the-future.png" width="400"><br>
+</p>
+
+<p align="center">
   <img src="img/expected-results.png" width="400"><br>
-  <em>Competências comportamentais permitem que profissionais alcançem os resultados esperados com menos recursos.</em>
+  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Vídeo TED</a> - Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
 </p><br><br>
 
 <p align="center">
@@ -92,7 +104,7 @@ Este tópico encontra-se detalhado no Plano de Negócios.
 
 **Acelerando o desenvolvimento de competências comportamentais** <br>
 
-Embora algumas empresas avaliem as **habilidades** de seus colaboradores como forma de contribuir para o seu auto-conhecimento comportamental (modelos DISC, MBTI e Big Five), na grande maioria dos casos, o desenvolvimento das competências comportamentais é um processo **auto patrocinado** e executado de forma **natural** e **inconsciente** ao longo da carreira profissional. Além disso, dependendo dos diferentes estímulos à que são submetidos os profissionais, este processo de desenvolvimento pode durar **muito tempo** ou, até mesmo, não acontecer. 
+Embora algumas empresas avaliem as **habilidades pessoais** e **perfis da personalidade** de seus colaboradores (modelos DISC, MBTI e Big Five) como forma de orientá-los no desenvolvimento das atitudes frente aos problemas e convívio corporativo, na grande maioria dos casos, o desenvolvimento das competências comportamentais é um processo **auto patrocinado** e executado de forma **natural** e **inconsciente** ao longo da carreira profissional. Além disso, dependendo dos diferentes estímulos à que são submetidos os profissionais, este processo de desenvolvimento pode durar **muito tempo** ou, até mesmo, não acontecer. 
 
 Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas educacionais** se propõem a **simular** situações reais do dia-a-dia em atividades de aprendizagem para, desta forma, estimular o desenvolvimento personalizado de competências comportamentais. 
 
