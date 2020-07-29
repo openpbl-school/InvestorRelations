@@ -55,6 +55,8 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 <br>
 
+## <br>
+
 <p align="center">    
     <a href="#problema">O Problema</a>
     ·
@@ -448,7 +450,7 @@ A **estratégia de comunicação** para atração e conversão de leads contém 
 <em>Projeto de conversão online.</a>.</em>
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
 <img src="img/banner2.png" width="800"><br>
@@ -506,7 +508,7 @@ Os **sete** componentes que compõem o software do **Sistema de Ensino OpenPBL**
 **Novas frentes de negócios** <br>
 
 A partir do desenvolvimento do sistema educacional será possível a expansão dos negócios da empresa em **três novas frentes**:
-- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Green field*);
+- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Greenfield*);
 - Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
 - Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
 
