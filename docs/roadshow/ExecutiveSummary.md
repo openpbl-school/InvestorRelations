@@ -21,7 +21,7 @@ Thus, they launched OpenPBL, a company whose revenues come from the sale of **co
 
 The company intends to capture 4 shares of **US $ 33,000** that will be used in **software development** and as **working capital** in the **startup** phase of its five-year business plan. To this end, the original partners offer a projected **nominal return** of 36% a.a. interested investors.
 
-(Full text only available in Portuguese. Soon also available in the English version.)
+`(Full text only available in Portuguese. Soon also available in the English version.)`
 
 ...
 
