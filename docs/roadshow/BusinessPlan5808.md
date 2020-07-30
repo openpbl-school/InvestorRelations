@@ -8,15 +8,22 @@
 <br>
 
 ### BUSINESS PLAN 
-Business plan proposed at the 2020.1 road show for fundraising.<br><br>
 
-(Soon also available in the English version)
+<br>
+
+**ABSTRACT**
+
+A group of experienced education sector executives identified a business opportunity in the **imbalance** between the growing demand and stable supply for educational programs designed to develop **professional behavioral skills**.
+
+To take advantage of the opportunity, they designed an ingenious **teaching method** that uses **artificial intelligence** as a technology to **reduce costs** of running a class of courses that has already proven effective to develop **behavioral skills**.
+
+Thus, they launched OpenPBL, a company whose revenues come from the sale of **courses based on typical problems of everyday professional life** and the licensing of its **problem-based learning platform** for **companies** and **vocational schools**.
+
+The company intends to capture 4 shares of **US $ 33,000** that will be used in **software development** and as **working capital** in the **startup** phase of its five-year business plan. To this end, the original partners offer a projected **nominal return** of 36% a.a. interested investors.
+
+`(Full text only available in Portuguese. Soon also available in the English version.)`
 
 ...
-
-*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
-
-*2. For more details of OpenPBL professional school, see a <a href="https://openpbl-school.github.io/Storytelling/#english" target="_blank">storytelling</a> of its standard product (only the portuguese version available).*
 
 <br>
 <p align="center">    
@@ -40,9 +47,9 @@ Business plan proposed at the 2020.1 road show for fundraising.<br><br>
 <br>
 
 **RESUMO** <br> 
-Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente demanda e a oferta estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
+Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a oferta e a demanda de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
 
-Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir drasticamente os custos** de execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
+Para aproveitar a oportunidade, eles projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir substancialmente os custos de execução** de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
 
 Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
 
