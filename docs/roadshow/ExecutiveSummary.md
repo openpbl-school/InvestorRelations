@@ -8,15 +8,24 @@
 <br>
 
 ### EXECUTIVE SUMMARY 
-Executive summary of the 2020 fundraising Business Plan.<br><br>
 
-(The English version will be available soon.)
+<br>
+
+**ABSTRACT**
+
+A group of experienced education sector executives identified a business opportunity in the **imbalance** between the growing demand and stable supply for educational programs designed to develop **professional behavioral skills**.
+
+To take advantage of the opportunity, they designed an ingenious **teaching method** that uses **artificial intelligence** as a technology to **reduce costs** of running a class of courses that has already proven effective to develop **behavioral skills**.
+
+Thus, they launched OpenPBL, a company whose revenues come from the sale of **courses based on typical problems of everyday professional life** and the licensing of its **problem-based learning platform** for **companies** and **vocational schools**.
+
+The company intends to capture 4 shares of **US $ 33,000** that will be used in **software development** and as **working capital** in the **startup** phase of its five-year business plan. To this end, the original partners offer a projected **nominal return** of 36% a.a. interested investors.
+
+(Full text only available in Portuguese. Soon also available in the English version.)
 
 ...
 
-*1. The "Non Disclousure Agreement" for access to the business plan's **executive summary** is available to investors interested in <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
-
-*2. For more details of OpenPBL professional school, see a <a href="https://openpbl-school.github.io/Storytelling/#english" target="_blank">storytelling</a> of its standard product (only the portuguese version available).*
+*1. The "Non Disclousure Agreement" to access to the full version of the business plan is available to investors interested in <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
 
 <br>
 <p align="center">    
@@ -41,7 +50,7 @@ Executive summary of the 2020 fundraising Business Plan.<br><br>
 <br> 
 
 **RESUMO** <br> 
-Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente demanda e a oferta estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
+Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a oferta e a demanda de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
 
 Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir drasticamente os custos** de execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
 
@@ -515,7 +524,7 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 
 ... 
 
-*1. O Non Disclousure Agreement para acesso ao **plano de negócios** está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
+*1. O Non Disclousure Agreement para acesso à versão completa do **plano de negócios** está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf" target="_blank">OpenPBL NDA</a>.*
 
 <br>
 <p align="center">    
