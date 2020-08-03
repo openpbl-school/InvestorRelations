@@ -55,6 +55,17 @@ Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes da 
 
 No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. <br><br>
 
+
+<p align="center">    
+    <a href="https://www.linkedin.com/company/openpbl">Website</a>
+    .
+    <a href="https://www.linkedin.com/company/openpbl">LinkedIn</a>
+    |
+    <a href="https://www.crunchbase.com/organization/openpbl#section-overview">Crunchbase</a>
+    ·
+    <a href="#portuguese">Gust</a>
+</p>
+
 <p align="center">
 <img src="img/banner2.png"><br>
     Plano de negócios proposto no <i>road show</i> 2020.1 para captação de recursos.
