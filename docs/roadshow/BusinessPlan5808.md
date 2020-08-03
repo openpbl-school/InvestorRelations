@@ -63,7 +63,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     |
     <a href="https://www.crunchbase.com/organization/openpbl#section-overview">Crunchbase</a>
     ·
-    <a href="#portuguese">Gust</a>
+    <a href="https://gust.com/companies/openpbl">Gust</a>
 </p><br>
 
 
