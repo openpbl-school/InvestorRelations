@@ -255,6 +255,8 @@ Os seis **componentes de software** que **automatizam** o método de ensino prop
  - **"*Recommender system*"** para recomendação do conteúdo de apoio na etapa de SDL do método. 
  - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
  - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
+ 
+O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.github.io/app-docs/" target="_blank">Arquitetura OpenPBL</a>.<br>
 
 Um software capaz de automatizar e escalar um **método de ensino baseado em problemas** torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**. Entretanto, mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** com dinâmicas baseadas unicamente na *problem-based learning*. <br><br>
 
