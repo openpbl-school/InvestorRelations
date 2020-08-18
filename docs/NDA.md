@@ -30,7 +30,7 @@ IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed
 </p>
 
 <p align="center">    
-    <a href="https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr20" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
+    <a href="https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
 </p>
 
 <br><br>
