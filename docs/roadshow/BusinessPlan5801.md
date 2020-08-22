@@ -656,6 +656,8 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
 ## EXPANSÃO
 Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
 
+
+
 **Desenvolvimento de software** <br>
 
 Para desenho, implantação e testes do **sistema educacional** são necessários investimentos que devem ser contabilizados, em sua maior parte, como despesa de capital" (CAPEX) para **desenvolvimento de software**. 
@@ -668,6 +670,54 @@ Os **sete** componentes que compõem o software do **Sistema de Ensino OpenPBL**
 - *Process management system* para assistir e orientar os tutores na condução das sessões presenciais.
 - *Machine learning model* capaz de editar e avaliar automaticamente o desempenho filmado dos alunos.
 - *API* para integração com bases de dados de redes sociais de cunho profissional.<br><br>
+
+
+**Estratégia para desenvolvimento** <br>
+
+OPEN-PBL APP é um software de **código aberto** que gerencia **experiências de aprendizagem baseadas em problemas** tomadas na educação profissional. As escolas podem usar o OPEN-PBL APP **gratuitamente** para garantir que suas experiências de aprendizagem estejam alinhadas com a estrutura teórica e as melhores práticas da aprendizagem baseada em problemas. As pequenas empresas também podem aproveitar os benefícios da abordagem de aprendizagem baseada em problemas usando o OPEN-PBL APP **gratuitamente** no treinamento e desenvolvimento de seus funcionários. <br>
+
+**O que é PBL** <br>
+A Aprendizagem Baseada em Problemas (PBL) é uma estratégia de aprendizagem adotada - total ou parcialmente - por algumas escolas em sua arquitetura educacional. No PBL, os alunos aprendem **resolvendo problemas** e **refletindo sobre suas experiências**. Eles trabalham em pequenos grupos colaborativos onde aprendem o que precisam para resolver um problema apresentado a eles. Nesse contexto, o professor atua mais como um facilitador para orientar a aprendizagem do aluno do que como um detentor de conhecimento, como nas abordagens tradicionais de aprendizagem. <br>
+
+Harvard, Minerva e a escola de tecnologia '42' são alguns exemplos de iniciativas bem-sucedidas de uso do PBL para desenvolver ** habilidades profissionais superiores **. A força da adoção da estratégia PBL na educação profissional está no **pragmatismo** de suas experiências de aprendizagem, o que ajuda a **acelerar o ganho de empregabilidade** dos alunos no mercado de trabalho. <br> <br>
+
+**Por que usar o OPEN-PBL APP** <br>
+Apesar das vantagens de adotar arquiteturas educacionais baseadas em PBL, apenas algumas escolas adotam totalmente a abordagem PBL porque ela requer recursos acadêmicos mais caros, pois são geralmente escassos e pouco escaláveis. O OPEN-PBL APP ajuda escolas e empresas a lidar com essas restrições, fornecendo um conjunto de recursos para gerenciar a execução de **trilhas de aula para discutir a resolução de casos de problemas**, como aulas de estudo de caso médico e empresarial, sessões para discussão de tecnologia soluções de projetos e muito mais. Para garantir a integridade do processo de aplicação do tutorial PBL, OPENPBL APP:
+- Interage com os professores para ajudá-los a criar e disseminar problemas de caso (CP), e avaliar o desempenho dos alunos nas aulas de discussão do CP.
+- Interage com os alunos para ajudá-los a pesquisar e aprender as habilidades acadêmicas necessárias para a análise do PC e preparar os argumentos individuais para a discussão do PC. <br> <br>
+
+O conjunto de recursos do OPEN-PBL APP permite que escolas e empresas adotem a estratégia PBL em sua arquitetura e sistemas educacionais sem a necessidade de adquirir recursos acadêmicos caros e não escaláveis. Assim, eles podem garantir a aplicação adequada e medição da eficácia das arquiteturas educacionais para:
+- Implantar **sitemas educacionais totalmente centrados no aluno** adotando o uso de PBL; ou
+- Basta **adicionar algumas experiências PBL** aos sistemas de ensino que usam atualmente. <br><br>
+
+
+**CONCEPTUALIZAÇÃO E DESENVOLVIMENTO DE OPEN-PBL**
+
+O processo de conceituação e delineamento da arquitetura do OPEN-PBL APP originou-se da pesquisa de doutorado do Departamento de Informática da PUC-Rio. Atualmente, o desenvolvimento do código é coordenado por OPEN-PBL.ORG, que é responsável por aplicar as melhores práticas internacionais para a criação, versionamento e licenciamento de **código livre**. <br>
+
+**Universalização do PBL** <br>
+A missão principal do OPEN-PBL.ORG é promover o uso do PBL por organizações sociais, governos e pequenas empresas que, de outra forma, não teriam acesso aos recursos necessários para sua adoção. <br>
+
+**Licenciamento** <br>
+A licença para usar o OPEN-PBL APP é BSD. O código, bem como todas as instruções para sua implantação segura, podem ser acessados ​​em github.com/openpbl. <br>
+
+**Monitorar as práticas PBL** <br>
+O OPEN-PBL.ORG mantém, em parceria com *”The Interdisciplinary Journal of Problem-Based Learning”*, a publicação de um monitor de novos **estudos acadêmicos e casos de aplicação PBL**. O conteúdo do **PBL Monitor** é direcionado a professores, educadores, profissionais de T&D e executivos de educação interessados em acompanhar os desenvolvimentos e discussões sobre a estratégia de aprendizagem do PBL. <br>
+
+**Suporte para ações sociais** <br>
+OPEN-PBL.ORG mantém programa de consultoria voluntária para a implementação gratuita da aplicação OPEN-PBL em iniciativas educacionais promovidas por prefeituras e entidades sem fins lucrativos. <br><br>
+
+<p align="center">
+  <img src="img/app-diagrams.png" width="700">
+</p>
+<p align="center"><em>Diagramas de entidade-relacionamento.</em>
+</p> 
+
+<br>
+
+A página inicial do projeto do aplicativo OpenPBL App pode ser acessada (em inglês) pelo link:<a href="https://openpbl.github.io/app-docs/" target="_blank_"> OpenPBL - Free and opensource software</a><br><br>
+
+
 
 **Novas frentes de negócios** <br>
 
