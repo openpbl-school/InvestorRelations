@@ -55,21 +55,17 @@ Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes do 
 
 No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. <br><br>
 
-**Pitchdeck**<br> 
-Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações nas seguintes mídias:
+<p align="center">
+<img src="img/banner2.png"><br>
+    Plano de negócios proposto no <i>road show</i> 2020.1 para captação de recursos.
+</p>
 
-Startup webpages <br>
-Website
+<br>
 
-Linkedin 
+Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações nas seguintes mídias: 
 
-Startup lists<br>
-Crunchbase
-
-Startup Gust 
-
-
-<p align="center">    
+**Webpages** <br>
+<p align="right">    
     <a href="https://www.linkedin.com/company/openpbl">Website</a>
     .
     <a href="https://www.linkedin.com/company/openpbl">LinkedIn</a>
@@ -78,6 +74,20 @@ Startup Gust
     ·
     <a href="https://gust.com/companies/openpbl">Gust</a>
 </p><br>
+
+Website
+
+Linkedin 
+
+**Startup lists** <br>
+Crunchbase
+
+Startup Gust 
+
+**Pitchdeck**<br> 
+
+
+
 
 Este plano de negócios é  grupo de experientes executivos <br><br>
 
@@ -104,12 +114,7 @@ Um grupo de experientes executivos <br><br>
 
 
 
-<p align="center">
-<img src="img/banner2.png"><br>
-    Plano de negócios proposto no <i>road show</i> 2020.1 para captação de recursos.
-</p>
 
-<br>
 
 
 
