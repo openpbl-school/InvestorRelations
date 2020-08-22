@@ -445,10 +445,10 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
 <br>
 
 ## EXECUÇÃO DO PLANO DE NEGÓCIOS
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br>
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br><br>
 
  <p align="center">
-<img src="img/socios-linkedin.png" width="600"><br>
+<img src="img/socios-linkedin.png" width="700"><br>
 <em>Time executivo.</em>
 </p><br>
 
@@ -458,7 +458,7 @@ Os perfis profissionais complementares credenciam os idealizadores a liderarem a
 - Perfil executivo (<a href="https://www.linkedin.com/in/silvio-samuel-cfp/">Sílvio Samuel</a>). 
 - Perfil executivo (<a href="https://www.linkedin.com/in/tonlobo/">Everton Bonifácio</a>).<br> 
  
-Em especial, os empreendedores têm experiências complementares (comercial e operações) na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
+Em especial, os empreendedores têm experiências complementares na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
 1. Grande abrangência territorial e diversidade de infraestrutura presencial;
 2. Grande quantidade e dispersão dos colaboradores envolvidos; 
 3. Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
