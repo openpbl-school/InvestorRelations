@@ -67,7 +67,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
 
-**Webpages** <br>
+**Webpages**
 <p align="left">    
     <a href="https://www.linkedin.com/company/openpbl">Website</a>
     .
