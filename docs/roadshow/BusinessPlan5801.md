@@ -68,27 +68,32 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 **PITCHDECK** <br> 
 Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
 
-**Listas públicas de startups**  |
+**Publicaões em listas de startups**  |
 <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 
 **Apresentações**  |
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">PDF</a> .
-<a href="" target="_blank">Vídeo</a>
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
 
 **Páginas institucionais**  |
 <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
-<a href="" target="_blank">Sobre a OpenPBL</a>
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
+<a href="" target="_blank">Boiler Plate para imprensa</a> 
 
-**Landing pages de Produtos**  |
-<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a> .
-<a href="" target="_blank">Conversão B2B</a> .
-<a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Conversão B2C</a> .
-<a href="" target="_blank">Conversão B2B (Sistema)</a> 
+**Redes sociais**  |
+<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a>
+
+**Produtos**  |
+<a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
+<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling - Caso Maria Lúcia</ a>
+
+**Comercial B2C**  |
+<a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a> .
 
 **Comercial B2B**  |
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta consultoria</a> .
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta padrão</a> .
+<a href="" target="_blank">Conversão B2B</a> .
+<a href="" target="_blank">Conversão B2B (Sistema)</a> .
 <a href="" target="_blank">Proposta sistema de ensino</a>
 
 **Índice do plano de negócios**  |
