@@ -67,27 +67,28 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
 
-**Startup lists**  |  
+**Startup lists**  |
 <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 
-**Pitchdeck**  |  
+**Pitchdeck**  |
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">PDF</a> .
 <a href="" target="_blank">Vídeo</a>
 
-**Webpages**  |  
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> . 
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
+**Institucionais**  |
+<a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> * 
+<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> *
 <a href="" target="_blank">Sobre a OpenPBL</a>
 
-**Produtos**  |
-<a href="" target="_blank">Conversão B2B </a> . 
-<a href="" target="_blank">Conversão B2C</a> .
+**Produtos**  .
+<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a> |
+<a href="" target="_blank">Conversão B2B</a> |
+<a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Conversão B2C</a> |
 <a href="" target="_blank">Conversão B2B (Sistema)</a> 
 
 **Comercial B2B**  |
-<a href="" target="_blank">Proposta consultoria</a> .
-<a href="" target="_blank">Proposta sistema</a>
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial consultoria</a> !
+<a href="" target="_blank">Proposta comercial sistema</a>
 
 
 Este plano de negócios é  grupo de experientes executivos <br><br>
