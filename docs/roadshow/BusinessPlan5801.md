@@ -65,27 +65,21 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 <br>
 
-Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações nas seguintes mídias: 
+Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
 
 **Webpages** <br>
 <p align="left">    
     <a href="https://www.linkedin.com/company/openpbl">Website</a>
     .
     <a href="https://www.linkedin.com/company/openpbl">LinkedIn</a>
-    |
-    <a href="https://www.crunchbase.com/organization/openpbl#section-overview">Crunchbase</a>
-    ·
-    <a href="https://gust.com/companies/openpbl">Gust</a>
 </p><br>
 
-Website
-
-Linkedin 
-
 **Startup lists** <br>
-Crunchbase
-
-Startup Gust 
+<p align="left">    
+    <a href="https://www.crunchbase.com/organization/openpbl#section-overview">Crunchbase</a>
+    |
+    <a href="https://gust.com/companies/openpbl">Gust</a>
+</p><br>
 
 **Pitchdeck**<br> 
 
