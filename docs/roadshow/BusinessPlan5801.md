@@ -77,32 +77,32 @@ Além deste plano de negócios, a área de relacionamento com investidores dispo
 <a href="" target="_blank">Vídeo</a>
 
 **Páginas institucionais**  |
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> * 
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> *
+<a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
+<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
 <a href="" target="_blank">Sobre a OpenPBL</a>
 
-**Landing pages de Produtos**  .
-<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a> |
-<a href="" target="_blank">Conversão B2B</a> |
-<a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Conversão B2C</a> |
+**Landing pages de Produtos**  |
+<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a> .
+<a href="" target="_blank">Conversão B2B</a> .
+<a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Conversão B2C</a> .
 <a href="" target="_blank">Conversão B2B (Sistema)</a> 
 
 **Comercial B2B**  |
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta consultoria</a> !
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta consultoria</a> .
 <a href="" target="_blank">Proposta sistema de ensino</a>
 
 **Índice do plano de negócios**  |
-    <a href="#problema">O Problema</a>
-    ·
-    <a href="#proposta">A Proposta</a>
-    ·
-    <a href="#negocio">O Negócio</a>
-    ·
-    <a href="#execucao">Execução</a>
-    ·
-    <a href="#expansao">Expansão</a>
-    ·
-    <a href="#financiamento">Financiamento</a>
+    <a href="#problema">O Problema</a> ·
+    <a href="#proposta">A Proposta</a> .
+    <a href="#negocio">O Negócio</a> .
+    <a href="#execucao">Execução</a> .
+    <a href="#expansao">Expansão</a> .
+    <a href="#financiamento">Financiamento</a> .
+
+**Outros componentes do plano de negócios**  |
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos captação B2C</a> .
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a> .
 
 ## <br>
 
@@ -714,6 +714,36 @@ OPEN-PBL.ORG mantém programa de consultoria voluntária para a implementação 
 </p> 
 
 <br>
+
+**AMBIENTES OPEN-PBL COM O GOOGLE CLASSROOM APP**
+
+**Ambientes Virtuais de Aprendizagem**<br>
+O OPEN-PBL usa o ambiente virtual do aplicativo gratuito Google Classroom (GC) como interface padrão para interagir com (e entre) os atores envolvidos no processo de aprendizagem. A interação é feita nos seguintes ambientes:
+- Ambiente de CG de interação individual com cada aluno;
+- Ambiente de CG de interação individual com cada professor;
+- Ambiente de CG compartilhado por grupos de professores, dedicado ao desenvolvimento estruturado de cada “caso-problema” (CP);
+- Ambiente de CG de interação individual com cada aluno, dedicado à pesquisa e avaliação de proficiência em cada disciplina pré-requisito para análise de PC;
+- Ambiente de CG compartilhado por grupos de alunos, dedicado ao estudo preliminar e à elaboração dos argumentos de análise do CP;
+- Ambiente GC compartilhado por alunos e professores, destinado à preparação preliminar para as aulas de discussão em PC;<br><br>
+
+**RECURSOS PRINCIPAIS DO OPEN-PBL**
+
+**Planejamento instrucional e design**
+As principais funcionalidades para o planejamento e execução instrucional fornecidas pelo OPEN-PBL APP nos ambientes de GC de interação do professor e aluno são:
+- Auxiliar professores na criação estruturada de CP;
+- Divulgar o CP e todo o material complementar associado aos alunos interessados;
+- Avaliar a proficiência dos alunos em tópicos acadêmicos, pré-requisitos para análise de CP;
+- Auxiliar o professor na preparação e execução das aulas de discussão do CP;
+- Registrar a participação dos alunos nas aulas de discussão do CP;
+- Auxiliar na avaliação e classificação da participação dos alunos nas aulas de discussão do CP;<br><br>
+
+**Experiências de aprendizagem**
+Os principais recursos para o gerenciamento de experiências de aprendizagem fornecidos pelo OPEN-PBL APP em ambientes de interação de professores e alunos do GC são:
+- Crie um ambiente propício para a pesquisa em cada assunto de pré-requisito para a análise de CP;
+- Criar um ambiente de discussão entre os alunos para elaboração dos argumentos de análise do CP;
+- Criar um ambiente de explicação consolidada da aprendizagem coletiva gerada em cada sessão de discussão de um PC;<br><br>
+
+
 
 A página inicial do projeto do aplicativo OpenPBL App pode ser acessada (em inglês) pelo link:<a href="https://openpbl.github.io/app-docs/" target="_blank_"> OpenPBL - Free and opensource software</a><br><br>
 
