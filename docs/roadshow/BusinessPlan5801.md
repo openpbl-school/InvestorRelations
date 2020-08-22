@@ -542,11 +542,11 @@ Marketplaces digitais: (1) generalistas (Amazon, ...); (2) foco educacional (Ude
 - Escolas profissionalizantes: (1) ensino médio; (2) instituições de ensino superior - IES;
 - Agências recrutadoras: (1) generalistas; (2) especialistas; 
 - Política de canais B2B baseada em parcerias com empresas de representação comercial;
-- Modelos de parceria desde a simples geração de leads até o faturamento e repasse (subcontratação);
+- Modelos de parceria desde a simples geração de leads até o faturamento e repasse (subcontratação);<br><br> 
 
 Atividades e responsabilidades da área: **Conversão de leads**
 - Gestão do pipeline B2C (online e offline);
-- Gestão do pipeline B2B.
+- Gestão do pipeline B2B.<br><br> 
 
 
 **Conversão online**
@@ -555,10 +555,10 @@ Estratégia operacional
 - Elementos da conversão online web: (1) landing pages; (2) páginas de nutrição; (3) páginas de catálogo;
 - Landing Pages: páginas únicas para cada segmento do PA . Calls to action: (1) ir para o catálogo; (2) saber mais detalhes;
 - Páginas de nutrição: Páginas com mais informações sobre o método, processo, etc. Call to action: (1) ir para o catálogo;
-- Páginas de catálogo: baseada em parcerias com empresas de representação comercial. Call to action: (1) ir para checkout;
+- Páginas de catálogo: baseada em parcerias com empresas de representação comercial. Call to action: (1) ir para checkout;<br><br> 
 
 Atividades e responsabilidades da área: **conversão online**
-- Gestão do pipeline B2C online;
+- Gestão do pipeline B2C online;<br><br> 
 
 
 **Produção de conteúdo**
@@ -566,35 +566,35 @@ Atividades e responsabilidades da área: **conversão online**
 Estratégia operacional
 - Conteúdo PBL: remuneração dos especialistas-autores com royalties pela utilização dos problemas sugeridos, contextualizados e desenvolvidos por eles nas SessõesPBL;
 - Programa de treinamento de especialistas-autores e tutores na elaboração e condução de conteúdo PBL;
-- Produção de conteúdo de apoio em material rico (vídeo, imagem, texto, links,..);
+- Produção de conteúdo de apoio em material rico (vídeo, imagem, texto, links,..);<br><br> 
 
 Atividades e responsabilidades da área: **produção de conteúdo**
 - Gestão da captação de autores e tutores;
 - Gestão do relacionamento e suporte de atendimento aos autores e tutores; 
 - Gestão do treinamento dos autores e tutores;
-- Gestão da schedule de produção de conteúdo PBL e conteúdo de apoio.
+- Gestão da schedule de produção de conteúdo PBL e conteúdo de apoio.<br><br> 
 
 
 **Execução presencial**
 
 Estratégia operacional
 - Execução das sessões presenciais em salas de reunião para 10 pessoas, agendadas sob demanda em espaços para coworking; 
-- Programa de parcerias de permutas com empresas fornecedoras de espaços para coworking;
+- Programa de parcerias de permutas com empresas fornecedoras de espaços para coworking;<br><br> 
 
 Atividades e responsabilidades da área: **execução presencial** 
 - Gestão de contratos e parcerias com empresas fornecedoras de espaços para coworking;
-- Controle da qualidade da infraestrutura e facilities das sessões presenciais. 
+- Controle da qualidade da infraestrutura e facilities das sessões presenciais. <br><br> 
 
 
 **Execução online** 
 
 Estratégia operacional
-- Utilização do software open-source OpenPBL App como engine para a gestão do processo de aprendizagem;  
+- Utilização do software open-source OpenPBL App como engine para a gestão do processo de aprendizagem; <br><br>  
 
 Atividades e responsabilidades da área: **execução online** 
 - Gestão da infraestrutura digital do LMS;
 - Gestão dos indicadores de desempenho do LMS (acesso, disponibilidade, segurança, ...);
-- Gestão do suporte de atendimento aos alunos.
+- Gestão do suporte de atendimento aos alunos.<br><br> 
 
 
 **Suporte à carreira**
@@ -602,14 +602,12 @@ Atividades e responsabilidades da área: **execução online**
 Estratégia operacional
 - Acompanhamento dos “indicadores de empregabilidade” dos ex-alunos no mercado de trabalho;  
 - Integração dos “indicadores de desempenho” dos alunos às bases comerciais de dados para recrutamento (LinkedIn, ...); 
-- Convênios com empresas de intermediação de recrutamento e seleção;
+- Convênios com empresas de intermediação de recrutamento e seleção;<br><br> 
 
 Atividades e responsabilidades da área: **suporte de carreira** 
 - Gestão dos “indicadores de empregabilidade”;
 - Gestão dos contratos com empresas recrutadoras;
-- Gestão do atendimento de suporte à carreira para os alunos.
-
-<br><br>
+- Gestão do atendimento de suporte à carreira para os alunos.<br><br> 
 
 
 **Desempenho global** <br>
