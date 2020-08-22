@@ -453,8 +453,15 @@ Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios 
 5. Grande necessidade de engajamento e fidelização dos colaboradores.<br>
 
 Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
-- Perfil executivo TechnicalPillar (<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
-- Perfil executivo RainMaker (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
+- Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
+- Perfil executivo (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
+
+
+**Roadmap** <br>
+
+
+<br><br> 
+
 
 **Greenfield** <br>
 
@@ -510,13 +517,14 @@ A Política de **canais B2B** para os **dois primeiros anos de operação** deve
 A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
 
 
-**Operações** <br>
+### Operações
+Blá blá Graças ao modelo escalável utilizado, o desempenho simulado acima poderá ser replicado para garantir uma rápida expansão das atividades da escola. Para is. <br><br> 
 
 **Operações comerciais - Atração**<br>
 
 Estratégia operacional 
 - Produção publicitária: (1) peças de comunicação digital (banners, posts, ...) e; (2) peças de comunicação tradicional (apresentações, ...); 
-- Portfolio de ações de atração distribuído entre: (1) agências de marketing digital; (2) agências de publicidade tradicional (incluindo OOH); (3) agências de eventos e; (4) ações próprias;
+- Portfolio de ações de atração distribuído entre: (1) agências de marketing digital; (2) agências de publicidade tradicional (incluindo OOH); (3) agências de eventos e; (4) ações próprias;<br><br> 
 
 Atividades e responsabilidades da área: **Atração de leads** 
 - Gestão da produção publicitária;
@@ -526,7 +534,7 @@ Atividades e responsabilidades da área: **Atração de leads**
 - Gestão do agendamento de visitas às empresas.<br><br> 
 
 
-Operações comerciais – Conversão
+**Operações comerciais – Conversão**
 
 Estratégia operacional
 - Política de canais B2C baseada em parcerias com empresas ativadoras de tráfego e conversão do público-alvo:
@@ -540,62 +548,66 @@ Atividades e responsabilidades da área: **Conversão de leads**
 - Gestão do pipeline B2C (online e offline);
 - Gestão do pipeline B2B.
 
-Conversão online 
+
+**Conversão online**
 
 Estratégia operacional
-Elementos da conversão online web: (1) landing pages; (2) páginas de nutrição; (3) páginas de catálogo;
-Landing Pages: páginas únicas para cada segmento do PA . Calls to action: (1) ir para o catálogo; (2) saber mais detalhes;
-Páginas de nutrição: Páginas com mais informações sobre o método, processo, etc. Call to action: (1) ir para o catálogo;
-Páginas de catálogo: baseada em parcerias com empresas de representação comercial. Call to action: (1) ir para checkout;
+- Elementos da conversão online web: (1) landing pages; (2) páginas de nutrição; (3) páginas de catálogo;
+- Landing Pages: páginas únicas para cada segmento do PA . Calls to action: (1) ir para o catálogo; (2) saber mais detalhes;
+- Páginas de nutrição: Páginas com mais informações sobre o método, processo, etc. Call to action: (1) ir para o catálogo;
+- Páginas de catálogo: baseada em parcerias com empresas de representação comercial. Call to action: (1) ir para checkout;
 
-Atividades e responsabilidades de: conversão online: 
-Gestão do pipeline B2C online;
+Atividades e responsabilidades da área: **conversão online**
+- Gestão do pipeline B2C online;
 
-Produção de conteúdo 
 
-Estratégia operacional
-Conteúdo PBL: remuneração dos especialistas-autores com royalties pela utilização dos problemas sugeridos, contextualizados e desenvolvidos por eles nas SessõesPBL;
-Programa de treinamento de especialistas-autores e tutores na elaboração e condução de conteúdo PBL;
-Produção de conteúdo de apoio em material rico (vídeo, imagem, texto, links,..);
-
-Atividades e responsabilidades de: produção de conteúdo:
-Gestão da captação de autores e tutores;
-Gestão do relacionamento e suporte de atendimento aos autores e tutores; 
-Gestão do treinamento dos autores e tutores;
-Gestão da schedule de produção de conteúdo PBL e conteúdo de apoio.
-
-Execução presencial
+**Produção de conteúdo**
 
 Estratégia operacional
-Execução das sessões presenciais em salas de reunião para 10 pessoas, agendadas sob demanda em espaços para coworking; 
-Programa de parcerias de permutas com empresas fornecedoras de espaços para coworking;
+- Conteúdo PBL: remuneração dos especialistas-autores com royalties pela utilização dos problemas sugeridos, contextualizados e desenvolvidos por eles nas SessõesPBL;
+- Programa de treinamento de especialistas-autores e tutores na elaboração e condução de conteúdo PBL;
+- Produção de conteúdo de apoio em material rico (vídeo, imagem, texto, links,..);
 
-Atividades e responsabilidades de: execução presencial: 
-Gestão de contratos e parcerias com empresas fornecedoras de espaços para coworking;
-Controle da qualidade da infraestrutura e facilities das sessões presenciais. 
-
-Execução online 
-
-Estratégia operacional
-Utilização do software open-source OpenPBL App como engine para a gestão do processo de aprendizagem;  
-
-Atividades e responsabilidades de: execução online: 
-Gestão da infraestrutura digital do LMS;
-Gestão dos indicadores de desempenho do LMS (acesso, disponibilidade, segurança, ...);
-Gestão do suporte de atendimento aos alunos.
+Atividades e responsabilidades da área: **produção de conteúdo**
+- Gestão da captação de autores e tutores;
+- Gestão do relacionamento e suporte de atendimento aos autores e tutores; 
+- Gestão do treinamento dos autores e tutores;
+- Gestão da schedule de produção de conteúdo PBL e conteúdo de apoio.
 
 
-Suporte à carreira
+**Execução presencial**
 
 Estratégia operacional
-Acompanhamento dos “indicadores de empregabilidade” dos ex-alunos no mercado de trabalho;  
-Integração dos “indicadores de desempenho” dos alunos às bases comerciais de dados para recrutamento (LinkedIn, ...); 
-Convênios com empresas de intermediação de recrutamento e seleção;
+- Execução das sessões presenciais em salas de reunião para 10 pessoas, agendadas sob demanda em espaços para coworking; 
+- Programa de parcerias de permutas com empresas fornecedoras de espaços para coworking;
 
-Atividades e responsabilidades de: suporte de carreira: 
-Gestão dos “indicadores de empregabilidade”;
-Gestão dos contratos com empresas recrutadoras;
-Gestão do atendimento de suporte à carreira para os alunos.
+Atividades e responsabilidades da área: **execução presencial** 
+- Gestão de contratos e parcerias com empresas fornecedoras de espaços para coworking;
+- Controle da qualidade da infraestrutura e facilities das sessões presenciais. 
+
+
+**Execução online** 
+
+Estratégia operacional
+- Utilização do software open-source OpenPBL App como engine para a gestão do processo de aprendizagem;  
+
+Atividades e responsabilidades da área: **execução online** 
+- Gestão da infraestrutura digital do LMS;
+- Gestão dos indicadores de desempenho do LMS (acesso, disponibilidade, segurança, ...);
+- Gestão do suporte de atendimento aos alunos.
+
+
+**Suporte à carreira**
+
+Estratégia operacional
+- Acompanhamento dos “indicadores de empregabilidade” dos ex-alunos no mercado de trabalho;  
+- Integração dos “indicadores de desempenho” dos alunos às bases comerciais de dados para recrutamento (LinkedIn, ...); 
+- Convênios com empresas de intermediação de recrutamento e seleção;
+
+Atividades e responsabilidades da área: **suporte de carreira** 
+- Gestão dos “indicadores de empregabilidade”;
+- Gestão dos contratos com empresas recrutadoras;
+- Gestão do atendimento de suporte à carreira para os alunos.
 
 <br><br>
 
