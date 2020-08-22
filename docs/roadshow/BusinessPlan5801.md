@@ -460,11 +460,11 @@ Os perfis profissionais complementares credenciam os idealizadores a liderarem a
 **Roadmap** <br>
 
 Do lançamento da empresa até o final do segundo ano de operação, os objetivos do startup são:
-1.Elaborar testes para validar as premissas de custos;
-2.Desenvolver cursos PBL para empresas (B2B);
-3.Ampliar oferta de cursos e iniciar automação do processo (IA);
-4.Finalizar automação e iniciar oferta B2C para fortalecimento da marca;
-5.Lançar o Sistema de Ensino baseado em Problemas (B2B2C);
+1. Elaborar testes para validar as premissas de custos;
+2. Desenvolver cursos PBL para empresas (B2B);
+3. Ampliar oferta de cursos e iniciar automação do processo (IA);
+4. Finalizar automação e iniciar oferta B2C para fortalecimento da marca;
+5. Lançar o Sistema de Ensino baseado em Problemas (B2B2C);
 
 <br><br> 
 
