@@ -445,25 +445,39 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
 <br>
 
 ## EXECUÇÃO DO PLANO DE NEGÓCIOS
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**. Em especial, os empreendedores têm experiências complementares (comercial e operações) na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br>
+
+ <p align="center">
+<img src="img/socios-linkedin.png" width="600"><br>
+<em>Time executivo.</em>
+</p><br>
+
+Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
+- Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Jorge Cataldo</a>).
+- Perfil executivo (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Eduardo Pitombo</a>). 
+- Perfil executivo (<a href="https://www.linkedin.com/in/silvio-samuel-cfp/">Sílvio Samuel</a>). 
+- Perfil executivo (<a href="https://www.linkedin.com/in/tonlobo/">Everton Bonifácio</a>).<br> 
+ 
+Em especial, os empreendedores têm experiências complementares (comercial e operações) na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
 1. Grande abrangência territorial e diversidade de infraestrutura presencial;
 2. Grande quantidade e dispersão dos colaboradores envolvidos; 
 3. Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
 4. Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
 5. Grande necessidade de engajamento e fidelização dos colaboradores.<br>
 
-Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
-- Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Linkedin</a>).
-- Perfil executivo (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Linkedin</a>). <br><br>
+
+
+
+<br><br>
 
 
 **Roadmap** <br>
 
-Do lançamento da empresa até o final do segundo ano de operação, os objetivos do startup são:
-1. Elaborar testes para validar as premissas de custos;
-2. Desenvolver cursos PBL para empresas (B2B);
-3. Ampliar oferta de cursos e iniciar automação do processo (IA);
-4. Finalizar automação e iniciar oferta B2C para fortalecimento da marca;
+Do lançamento da empresa até o **final do segundo ano de operação**, os objetivos do startup são:
+1. Estudos de viabilidade, pesquisas de mercado e testes para validar as premissas do plano de negócios;
+2. Desenvolver e ofertar cursos PBL para empresas (B2B);
+3. Ampliar oferta de cursos e iniciar a automação do processo (IA);
+4. Finalizar automação e iniciar oferta no varejo (B2C) para fortalecimento da marca;
 5. Lançar o Sistema de Ensino baseado em Problemas (B2B2C);
 
 <br><br> 
