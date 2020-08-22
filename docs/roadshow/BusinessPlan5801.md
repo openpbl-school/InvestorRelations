@@ -4,6 +4,7 @@
     <a href="#portuguese">Portuguese</a>
 </p>
 
+<!--
 <a name="english"></a>
 <br>
 
@@ -39,6 +40,8 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
 <a name="spanish"></a> 
 <br>
 
+-->
+
 <a name="portuguese"></a> 
 <br>
 
@@ -65,7 +68,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações nas seguintes mídias: 
 
 **Webpages** <br>
-<p align="right">    
+<p align="left">    
     <a href="https://www.linkedin.com/company/openpbl">Website</a>
     .
     <a href="https://www.linkedin.com/company/openpbl">LinkedIn</a>
