@@ -65,6 +65,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 <br>
 
+**PITCHDECK** <br> 
 Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
 
 **Startup lists**  |
@@ -90,14 +91,7 @@ Além deste plano de negócios, a área de relacionamento com investidores dispo
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial consultoria</a> !
 <a href="" target="_blank">Proposta comercial sistema</a>
 
-
-Este plano de negócios é  grupo de experientes executivos <br><br>
-
-
-**Indice do plano** <br> 
-Um grupo de experientes executivos <br><br>
-
-<p align="center">    
+**Indice do plano** |   
     <a href="#problema">O Problema</a>
     ·
     <a href="#proposta">A Proposta</a>
@@ -109,7 +103,6 @@ Um grupo de experientes executivos <br><br>
     <a href="#expansao">Expansão</a>
     ·
     <a href="#financiamento">Financiamento</a>
-</p>
 
 ## <br>
 
