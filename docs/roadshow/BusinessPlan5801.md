@@ -47,11 +47,11 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
 <br>
 
 **RESUMO** <br> 
-Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a oferta e a demanda de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
+Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a oferta e a demanda de programas educacionais para o desenvolvimento de um importante conjunto de **competências comportamentais profissionais**. 
 
-Para aproveitar a oportunidade, eles projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir substancialmente os custos de execução** de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
+Para aproveitar a oportunidade, eles projetaram um engenhoso **método de ensino** que utiliza **ativos de terceiros** como estratégia de escalabilidade e **inteligência artificial** como tecnologia para **reduzir substancialmente os custos de execução** de cursos baseados em **problem-based learning (PBL)**, uma tradicional estratégia de aprendizagem que já se demonstrou eficaz para desenvolver **competências comportamentais**.
 
-Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
+Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes do licenciamento de seu **sistema de ensino baseado em problemas** para **empresas** e **escolas profissionalizantes**. O sistema de **baixo custo** permite que os clientes da OpenPBL **democratizem o acesso** e **ampliem a eficácia** de seus programas educacionais com a oferta de **cursos baseados em problemas típicos do dia a dia profissional**.
 
 No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. <br><br>
 
