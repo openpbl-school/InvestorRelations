@@ -63,35 +63,35 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     Plano de negócios proposto no <i>road show</i> 2020.1 para captação de recursos.
 </p>
 
-<br>
+## <br>
 
 **PITCHDECK** <br> 
 Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
 
-**Startup lists**  |
+**Listas públicas de startups**  |
 <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 
-**Pitchdeck**  |
+**Apresentações**  |
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">PDF</a> .
 <a href="" target="_blank">Vídeo</a>
 
-**Institucionais**  |
+**Páginas institucionais**  |
 <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> * 
 <a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> *
 <a href="" target="_blank">Sobre a OpenPBL</a>
 
-**Produtos**  .
+**Landing pages de Produtos**  .
 <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a> |
 <a href="" target="_blank">Conversão B2B</a> |
 <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Conversão B2C</a> |
 <a href="" target="_blank">Conversão B2B (Sistema)</a> 
 
 **Comercial B2B**  |
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial consultoria</a> !
-<a href="" target="_blank">Proposta comercial sistema</a>
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta consultoria</a> !
+<a href="" target="_blank">Proposta sistema de ensino</a>
 
-**Indice do plano**  |
+**Indice do plano de negócios**  |
     <a href="#problema">O Problema</a>
     ·
     <a href="#proposta">A Proposta</a>
