@@ -66,8 +66,8 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
 
 área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
 > **Publições em listas de startups**  ->
-> <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
-> <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
+> `<a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>` . 
+> `<a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>`
 > 
 > **Apresentações**  |
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
