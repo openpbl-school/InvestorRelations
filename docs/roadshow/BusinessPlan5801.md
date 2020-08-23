@@ -64,9 +64,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 <p align="center"> 
     <img src="img/banner2.png" width="1000">
-</p><br>
-
-**PITCHDECK** <br>
+</p><br><br>
 
 <p align="center"> 
     <a href="#problema"> O Problema </a> ·
@@ -76,7 +74,70 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     <a href="#expansao"> Expansão </a> .
     <a href="#financiamento"> Financiamento </a><br>
 
+PITCHDECK <br>
 Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:<br>
+
+**Publições em listas de startups**  :
+<a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
+<a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
+ 
+**Páginas institucionais**  :
+<a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
+<a href="" target="_blank">Boiler Plate para imprensa</a> 
+
+**Redes sociais**  :
+<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
+<a href="" target="_blank">Twitter</a>
+
+**Apresentações**  :
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
+
+**Produtos**  :
+<a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
+<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
+
+**Conversão B2C**  :
+<a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a> .
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos B2C</a>
+
+**Conversão B2B**  :
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial</a> . 
+<a href="" target="_blank">Argumentos B2B</a> .
+<a href="" target="_blank">Conversão B2B (Sistema)</a> .
+<a href="" target="_blank">Proposta sistema de ensino</a>
+
+**Outros componentes do plano de negócios**  :
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
+<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a>
+</p>
+
+## <br>
+
+<a name="problema"></a> 
+<br><br>
+
+## O PROBLEMA E A OPORTUNIDADE
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**. 
+
+Para os especialistas consultados na pesquisa, certas competências, tais como "tomar decisões corretas em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
+
+<p align="center">
+  <img src="img/professional-of-the-future.png" width="400"><br>
+</p>
+
+<p align="center">
+  <img src="img/expected-results.png" width="400"><br>
+  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Vídeo TED</a> - Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
+</p><br><br>
+
+<p align="center">
+  <img src="img/behavior-skills.png" width="500"><br>
+  <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
+</p>
+
+<br>
+
 
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
@@ -112,31 +173,6 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
 
-## <br>
-
-<a name="problema"></a> 
-<br><br>
-
-## O PROBLEMA E A OPORTUNIDADE
-Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**. 
-
-Para os especialistas consultados na pesquisa, certas competências, tais como "tomar decisões corretas em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
-
-<p align="center">
-  <img src="img/professional-of-the-future.png" width="400"><br>
-</p>
-
-<p align="center">
-  <img src="img/expected-results.png" width="400"><br>
-  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Vídeo TED</a> - Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
-</p><br><br>
-
-<p align="center">
-  <img src="img/behavior-skills.png" width="500"><br>
-  <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
-</p>
-
-<br>
 
 **Desenvolvendo competências comportamentais** <br>
 De forma resumida, o desempenho de um indivíduo na **execução de uma tarefa** pode ser vista como resultado direto de um conjunto de recursos de natureza diversa, acumuldos por esse indivíduo até ali. Nesse conjunto de recursos é usual considerarmos os conhecimentos técnicos aprendidos, formalmente ou não, pelo indivíduo, as habilidades desenvolvidas por experiências pregressas, toda a carga cultural dos ambientes em que viveu, seus traços de personalidade, comportamento social, enfim, tudo mais que contribui positivamente ou negativamente para o desempenho da tarefa. Quando esse desempenho é validado positivamente por um grupo social, entendemos que esse indivíduo é competente para executar de forma **eficaz** a tarefa e que todos os recursos que contribuiram para isso formam as suas **competências** para executá-la. 
