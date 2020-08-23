@@ -67,7 +67,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 </p><br>
 
 <p align="center">
-    PLANO DE NEGÓCIOS |
+    PLANO DE NEGÓCIOS .
     <a href="#pitchdeck"> [Pitchdeck] </a> .
     [Seções]
     <a href="#problema"> O Problema </a> ·
@@ -81,6 +81,41 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 <a name="pitchdeck"></a> 
 <br>
+
+> **Publições em listas de startups**  :
+> <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
+> <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
+> 
+> **Páginas institucionais**  :
+> <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
+> <a href="" target="_blank">Boiler Plate para imprensa</a> 
+> 
+> **Redes sociais**  :
+> <a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
+> <a href="" target="_blank">Twitter</a>
+> 
+> **Apresentações**  :
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
+> 
+> **Produtos**  :
+> <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
+> <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
+> 
+> **Conversão B2C**  :
+> <a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos B2C</a>
+> 
+> **Conversão B2B**  :
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial</a> . 
+> <a href="" target="_blank">Argumentos B2B</a> .
+> <a href="" target="_blank">Conversão B2B (Sistema)</a> .
+> <a href="" target="_blank">Proposta sistema de ensino</a>
+> 
+> **Outros componentes do plano de negócios**  :
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
+
 
 ```html
 
@@ -149,42 +184,6 @@ Para os especialistas consultados na pesquisa, certas competências, tais como "
 </p>
 
 <br>
-
-
-> **Publições em listas de startups**  :
-> <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
-> <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
-> 
-> **Páginas institucionais**  :
-> <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
-> <a href="" target="_blank">Boiler Plate para imprensa</a> 
-> 
-> **Redes sociais**  :
-> <a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
-> <a href="" target="_blank">Twitter</a>
-> 
-> **Apresentações**  :
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
-> 
-> **Produtos**  :
-> <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
-> <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
-> 
-> **Conversão B2C**  :
-> <a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a> .
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos B2C</a>
-> 
-> **Conversão B2B**  :
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial</a> . 
-> <a href="" target="_blank">Argumentos B2B</a> .
-> <a href="" target="_blank">Conversão B2B (Sistema)</a> .
-> <a href="" target="_blank">Proposta sistema de ensino</a>
-> 
-> **Outros componentes do plano de negócios**  :
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
-
 
 **Desenvolvendo competências comportamentais** <br>
 De forma resumida, o desempenho de um indivíduo na **execução de uma tarefa** pode ser vista como resultado direto de um conjunto de recursos de natureza diversa, acumuldos por esse indivíduo até ali. Nesse conjunto de recursos é usual considerarmos os conhecimentos técnicos aprendidos, formalmente ou não, pelo indivíduo, as habilidades desenvolvidas por experiências pregressas, toda a carga cultural dos ambientes em que viveu, seus traços de personalidade, comportamento social, enfim, tudo mais que contribui positivamente ou negativamente para o desempenho da tarefa. Quando esse desempenho é validado positivamente por um grupo social, entendemos que esse indivíduo é competente para executar de forma **eficaz** a tarefa e que todos os recursos que contribuiram para isso formam as suas **competências** para executá-la. 
