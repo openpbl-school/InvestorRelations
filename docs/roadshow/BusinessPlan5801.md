@@ -80,6 +80,10 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 ## <br>
 
+<div class="text-gray-dark mb-2">
+  .text-gray-dark on white
+</div>
+
 <a name="pitchdeck"></a>
 <br>
 
