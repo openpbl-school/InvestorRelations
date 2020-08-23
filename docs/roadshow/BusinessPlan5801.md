@@ -143,7 +143,7 @@ Para os especialistas consultados na pesquisa, certas competências, tais como "
 
 <p align="center">
   <img src="img/expected-results.png" width="400"><br>
-  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
+  <em>Competências comportamentais permitem que profissionais alcançem os resultados esperados com menos recursos.</em>
 </p><br><br>
 
 **Desenvolvendo competências comportamentais** <br>
