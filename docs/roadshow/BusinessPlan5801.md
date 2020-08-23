@@ -153,42 +153,39 @@ Para os especialistas consultados na pesquisa, certas competências, tais como "
 <br>
 
 **Desenvolvendo competências comportamentais** <br>
-De forma resumida, o desempenho de um indivíduo na **execução de uma tarefa** pode ser vista como resultado direto de um conjunto de recursos de natureza diversa, acumuldos por esse indivíduo até ali. Nesse conjunto de recursos é usual considerarmos os conhecimentos técnicos aprendidos, formalmente ou não, pelo indivíduo, as habilidades desenvolvidas por experiências pregressas, toda a carga cultural dos ambientes em que viveu, seus traços de personalidade, comportamento social, enfim, tudo mais que contribui positivamente ou negativamente para o desempenho da tarefa. Quando esse desempenho é validado positivamente por um grupo social, entendemos que esse indivíduo é competente para executar de forma **eficaz** a tarefa e que todos os recursos que contribuiram para isso formam as suas **competências** para executá-la. 
+De forma resumida, podemos entender o desempenho de um indivíduo na **execução de uma tarefa** como função da experiência acumulada por esse indivíduo até o momento da execução. Nessa experiência acumulada é usual considerarmos **recursos de natureza diversa**, tais como conhecimentos técnicos aprendidos pelo indivíduo, habilidades desenvolvidas por experiências pregressas, toda a carga cultural dos ambientes em que viveu, seus traços de personalidade, comportamento social, enfim, tudo mais que pode contribuir para o desempenho da tarefa. Quando esse desempenho é **validado positivamente** por um grupo social, entendemos que esse indivíduo é **competente** para executar de forma **eficaz** aquela tarefa e que todos os recursos que contribuiram para isso formam as suas **competências** para executá-la.
 
-Ao contrário das **habilidades** pessoais que resultam de características biológicas e socio-emocionais definidas **antes** da vida adulta dos indivíduos, as **competências que interessam às empresas** só podem ser desenvolvidas diretamente após um período mínimo de formação técnica profissional. 
+Para a execução de tarefas profissionais, estas competências são adquiridas tanto na **formação técnica** quanto em eventos de capacitação ao longo da carreira. 
 
-Por razões diversas que envolvem custos, prazos e competitividade, a maior parte das escolas de formação se limita a desenvolver as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Isso implica em garantir aos profissionais em formação apenas a **execução eficaz** das tarefas profissionais em ambientes ideais. Contudo, ao empregar suas competências técnicas nas demandas e tarefas diárias da carreira que escolheram, os profissionais se deparam com aspectos práticos relevantes, tais como **assimetrias de informação**, **restrições de recursos** e **pressões de ordem diversa**, que alteram (por vezes, substancialmente) as condições ideais dos problemas para as quais seus conhecimento e habilidades técnicas se aplicam sob medida. Por esta razão, embora os profissionais entrantes no mercado de trabalho tenham recursos técnicos para garantir a eficácia mínima na execução de suas tarefas, a sua **eficiência**, isto é, a conta que considera o tempo e os demais recursos que utilizaram, só é conseguida ao longo da **experiência** na função. 
+Por razões diversas que envolvem custos, prazos e competitividade, a grande maioria das escolas de formação se limita a desenvolver as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Essas escolas raramente buscam avaliar o desempenho de seus alunos em questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes do dia a dia profissional. Isso implica em garantir aos profissionais em formação apenas a **execução eficaz** das tarefas profissionais em ambientes ideais. 
 
-Os conhecimentos acumulados pelo profissional nesse período que não são enquadráveis nos conhecimento técnicos específicos para execução das tarefas em ambientes ideias, aliados ao seu perfil comportamental pessoal, são vistos como competências, **não técnicas**, sob o ponto de vista específico da profissão, que direcionam o seu comportamento em ambientes reais para a execução mais eficiente das tarefas.   
+Contudo, ao empregar suas competências técnicas nas demandas e tarefas diárias da carreira que escolheram, os profissionais se deparam com aspectos práticos relevantes, tais como **assimetrias de informação**, **restrições de recursos** e **pressões de ordem diversa**, que alteram (por vezes, substancialmente) as condições ideais dos problemas para as quais seus conhecimento e habilidades técnicas se aplicam sob medida. Por esta razão, embora os profissionais entrantes no mercado de trabalho tenham recursos técnicos para garantir a eficácia mínima na execução de suas tarefas, a sua **eficiência**, isto é, a conta que considera o tempo e os demais recursos que foram empregados para a execução, só é conseguida ao longo da **experiência** na função. 
 
+Todas as competências adicionais que não se enquadram nos conhecimentos e habilidades técnicas para execução das tarefas profissionais em condições ideais são vistos como **competências comportamentais** que capacitam os indivíduos à execução de tarefas profissionais em ambientes reais.
 
-...
-No entanto, as escolas de formação profissionalizante raramente buscam avaliar o desempenho de seus alunos em questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes do dia a dia profissional. 
-
-O desenvolvimento **desta classe** de competências comportamentais é um processo que se dá quando os profissionais se deparam com situações de "imperfeição" da vida real, tais como **riscos**, **incertezas** e **preferências**. 
-
-Contudo, embora já seja possível desenvolvê-las a partir do terço final da formação técnica, na grande maioria das vezes este desenvolvimento só ocorre de fato ao longo da carreira profissional.
-
-...
 O processo pode ser resumido da seguinte forma.
 
-Sempre que os profissionais se deparam com situações de "imperfeição" da vida real, tais como **riscos**, **incertezas** e **preferências**, eles precisam buscar **novas formas** de atingir os mesmos resultados que atingiriam nas condições ideais. Esse processo envolve a busca de novas técnicas e, via de regra, a **incorporação** das técnicas **mais adequadas** às suas habilidades comportamentais pessoais. Como consequência deste processo contínuo de teste e adequação, cada indivíduo acaba por reunir e **incorporar à sua atuação profissional** um **repertório único** de técnicas, modelos e estratégias empíricas com os quais ele irá contar, juntamente com suas competências técnicas, para superar os desafios a que é submetido ao longo da carreira.
-
-Embora algumas empresas avaliem as **habilidades pessoais** e **perfis da personalidade** de seus colaboradores (modelos DISC, MBTI e Big Five) como forma de orientá-los no desenvolvimento das atitudes frente aos problemas e convívio corporativo, na grande maioria dos casos, o desenvolvimento das competências comportamentais é um processo **não supervisionado**, **auto patrocinado** e executado de forma **natural** e **inconsciente** ao longo da carreira profissional. Além disso, dependendo dos diferentes estímulos à que são submetidos os profissionais, este processo de desenvolvimento pode durar **muito tempo** ou, até mesmo, não acontecer. 
-
-<br><br>
+Sempre que os profissionais se deparam com situações de "imperfeição" da vida real, tais como **riscos**, **incertezas** e **preferências**, eles precisam buscar **novas formas** de atingir os mesmos resultados que atingiriam nas condições ideais. <br><br>
 
 <p align="center">
   <img src="img/learning-behavior-skills-1.png" width="500"><br>
-  <em>O desenvolvimento das competências técnicas não consideram fatores como riscos, incertezas e preferências.</em>
+  <em>Exemplo de uma técnica que ajuda a ser mais eficiente para atingir os resultados.</em>
 </p><br><br>
+
+Esse processo envolve a busca de novas técnicas e, via de regra, a **incorporação** das técnicas **mais adequadas** às suas habilidades comportamentais pessoais. Como consequência deste processo contínuo de teste e adequação, cada indivíduo acaba por reunir e **incorporar à sua atuação profissional** um **repertório único** de técnicas, modelos e estratégias empíricas com os quais ele irá contar, juntamente com suas competências técnicas, para superar os desafios a que é submetido ao longo da carreira.<br><br>
+
 <p align="center">
   <img src="img/learning-behavior-skills-2.png" width="500"><br>
-  <em>Cada indivíduo incorpora à sua atuação profissional um repertório próprio.</em>
+  <em>Uma mesma técnica pode não ter o mesmo efeito para outro indivíduo.</em>
 </p><br><br>
+
+Embora algumas empresas avaliem as **habilidades pessoais** e **perfis da personalidade** de seus colaboradores (modelos DISC, MBTI e Big Five) como forma de orientá-los no desenvolvimento das atitudes frente aos problemas e convívio corporativo, na grande maioria dos casos, o desenvolvimento das competências comportamentais é um processo **não supervisionado**, **auto patrocinado** e executado de forma **natural** e **inconsciente** ao longo da carreira profissional. 
+
+Além disso, dependendo dos diferentes estímulos à que são submetidos os profissionais, este processo de desenvolvimento pode durar **muito tempo** ou, até mesmo, não acontecer. <br><br>
+
 <p align="center">
   <img src="img/learning-behavior-skills-3.png" width="500"><br>
-  <em>Um novo problema pode requerer novas ferramentas comportamentais.</em>
+  <em>Um novo problema pode requerer novas técnicas.</em>
 </p><br><br>
 
 **Acelerando o desenvolvimento de competências comportamentais** <br>
@@ -222,6 +219,24 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     <a href="#financiamento"> Financiamento </a></p>
     
 ## <br>
+
+...
+para a execução mais eficiente das tarefas.   
+
+, **não técnicas**, sob o ponto de vista específico da profissão, que direcionam o seu comportamento em ambientes reais para a execução mais eficiente das tarefas.   
+
+Os conhecimentos acumulados pelo profissional nesse período que não são enquadráveis nos conhecimento técnicos específicos 
+
+
+as **competências que interessam às empresas** só podem ser desenvolvidas após um período mínimo de formação técnica profissional. 
+
+Ao contrário das **habilidades** pessoais que resultam de características biológicas e socio-emocionais definidas **antes** da vida adulta dos indivíduos, 
+
+O desenvolvimento **desta classe** de competências comportamentais é um processo que se dá quando os profissionais se deparam com situações de "imperfeição" da vida real, tais como **riscos**, **incertezas** e **preferências**. 
+
+Contudo, embora já seja possível desenvolvê-las a partir do terço final da formação técnica, na grande maioria das vezes este desenvolvimento só ocorre de fato ao longo da carreira profissional.
+
+...
 
 <br><br><br>
 
@@ -858,7 +873,7 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a></p><br>
+    <a href="#financiamento"> Financiamento </a></p>
 
 ## <br>
 
