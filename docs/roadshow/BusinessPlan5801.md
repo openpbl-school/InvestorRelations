@@ -132,19 +132,19 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <br>
 
 ## O PROBLEMA E A OPORTUNIDADE
-Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**. 
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**.<br><br>
+
+<p align="center">
+  <img src="img/professional-of-the-future.png" width="400"><br>
+  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Evento TED sobre profissionais do futuro.</em>
+</p>
 
 Para os especialistas consultados na pesquisa, certas competências, tais como "tomar decisões corretas em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
-  <img src="img/professional-of-the-future.png" width="400"><br>
-</p>
-
-<p align="center">
   <img src="img/expected-results.png" width="400"><br>
-  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Vídeo TED</a> - Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
+  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
 </p><br><br>
-
 
 **Desenvolvendo competências comportamentais** <br>
 De forma resumida, podemos entender o desempenho de um indivíduo na **execução de uma tarefa** como função da experiência acumulada por esse indivíduo até o momento da execução. Nessa experiência acumulada é usual considerarmos **recursos de natureza diversa**, tais como conhecimentos técnicos aprendidos pelo indivíduo, habilidades desenvolvidas por experiências pregressas, toda a carga cultural dos ambientes em que viveu, seus traços de personalidade, comportamento social, enfim, tudo mais que pode contribuir para o desempenho da tarefa. Quando esse desempenho é **validado positivamente** por um grupo social, entendemos que esse indivíduo é **competente** para executar de forma **eficaz** aquela tarefa e que todos os recursos que contribuiram para isso formam as suas **competências** para executá-la.
