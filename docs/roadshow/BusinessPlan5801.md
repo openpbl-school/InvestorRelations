@@ -62,42 +62,42 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 
 **PITCHDECK** <br>
-Além do texto, compõem o plano de negócios, as seguintes informações sobre o projeto OpenPBL. 
-
-área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias:
+Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:
 
 > 
-> **Publições em listas de startups**  ->
+> **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 > <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 > 
-> **Apresentações**  |
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
-> 
-> **Páginas institucionais**  |
+> **Páginas institucionais**  :
 > <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
 > <a href="" target="_blank">Boiler Plate para imprensa</a> 
 > 
-> **Redes sociais**  |
-> <a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a>
+> **Redes sociais**  :
+> <a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
+> <a href="" target="_blank">Twitter</a>
 > 
-> **Produtos**  |
+> **Apresentações**  :
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
+> 
+> **Produtos**  :
 > <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
-> <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling - Caso Maria Lúcia</a>
+> <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
 > 
-> **Comercial B2C**  |
+> **Conversão B2C**  :
 > <a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a>
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos B2C</a> .
 > 
-> **Comercial B2B**  |
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta padrão</a> .
-> <a href="" target="_blank">Conversão B2B</a> .
+> **Conversão B2B**  :
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial</a> . 
+> <a href="" target="_blank">Argumentos B2B</a> .
 > <a href="" target="_blank">Conversão B2B (Sistema)</a> .
 > <a href="" target="_blank">Proposta sistema de ensino</a>
 > 
-> **Outros componentes do plano de negócios**  |
+> **Outros componentes do plano de negócios**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos captação B2C</a> .
+
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a> .
 > 
 
@@ -108,7 +108,7 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
     Ensaio da homepage comercial B2C.
 </p><br><br>
 
-**Plano de negócios OpenPBL - Seções:**
+**Plano de negócios OpenPBL - Seções** :<br>
     <a href="#problema"> O Problema</a> ·
     <a href="#proposta"> A Proposta</a> .
     <a href="#negocio"> O Negócio</a> .
