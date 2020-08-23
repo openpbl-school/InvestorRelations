@@ -145,12 +145,6 @@ Para os especialistas consultados na pesquisa, certas competências, tais como "
   <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Vídeo TED</a> - Competências comportamentais permitem que profissionais<br> alcançem os resultados esperados com menos recursos.</em>
 </p><br><br>
 
-<p align="center">
-  <img src="img/behavior-skills.png" width="500"><br>
-  <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
-</p>
-
-<br>
 
 **Desenvolvendo competências comportamentais** <br>
 De forma resumida, podemos entender o desempenho de um indivíduo na **execução de uma tarefa** como função da experiência acumulada por esse indivíduo até o momento da execução. Nessa experiência acumulada é usual considerarmos **recursos de natureza diversa**, tais como conhecimentos técnicos aprendidos pelo indivíduo, habilidades desenvolvidas por experiências pregressas, toda a carga cultural dos ambientes em que viveu, seus traços de personalidade, comportamento social, enfim, tudo mais que pode contribuir para o desempenho da tarefa. Quando esse desempenho é **validado positivamente** por um grupo social, entendemos que esse indivíduo é **competente** para executar de forma **eficaz** aquela tarefa e que todos os recursos que contribuiram para isso formam as suas **competências** para executá-la.
@@ -162,6 +156,11 @@ Por razões diversas que envolvem custos, prazos e competitividade, a grande mai
 Contudo, ao empregar suas competências técnicas nas demandas e tarefas diárias da carreira que escolheram, os profissionais se deparam com aspectos práticos relevantes, tais como **assimetrias de informação**, **restrições de recursos** e **pressões de ordem diversa**, que alteram (por vezes, substancialmente) as condições ideais dos problemas para as quais seus conhecimento e habilidades técnicas se aplicam sob medida. Por esta razão, embora os profissionais entrantes no mercado de trabalho tenham recursos técnicos para garantir a eficácia mínima na execução de suas tarefas, a sua **eficiência**, isto é, a conta que considera o tempo e os demais recursos que foram empregados para a execução, só é conseguida ao longo da **experiência** na função. 
 
 Todas as competências adicionais que não se enquadram nos conhecimentos e habilidades técnicas para execução das tarefas profissionais em condições ideais são vistos como **competências comportamentais** que capacitam os indivíduos à execução de tarefas profissionais em ambientes reais.
+
+<p align="center">
+  <img src="img/behavior-skills.png" width="500"><br>
+  <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
+</p>
 
 O processo pode ser resumido da seguinte forma.
 
