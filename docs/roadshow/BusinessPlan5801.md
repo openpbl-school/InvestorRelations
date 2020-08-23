@@ -58,14 +58,10 @@ Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes do 
 
 No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. 
 
-**Palavras-chave:** *education; e-learning, problem-based learning;  
+**Palavras-chave:** *education; e-learning, problem-based learning;*  <br><br>
 
-## <br>
-
-<br>
-
-
-### PITCHDECK
+`
+**PITCHDECK** <br>
 Além do texto, compõem o plano de negócios, as seguintes informações sobre o projeto OpenPBL. 
 
 área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
@@ -89,13 +85,6 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
 <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
 <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling - Caso Maria Lúcia</a>
 
-<p align="center"> 
-<img src="img/banner2.png" width="400"><br>
-    Ensaio da homepage comercial B2C.
-</p>
-
-<br> 
-
 **Comercial B2C**  |
 <a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a>
 
@@ -105,14 +94,6 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
 <a href="" target="_blank">Conversão B2B (Sistema)</a> .
 <a href="" target="_blank">Proposta sistema de ensino</a>
 
-**Índice do plano de negócios**  |
-    <a href="#problema">O Problema</a> ·
-    <a href="#proposta">A Proposta</a> .
-    <a href="#negocio">O Negócio</a> .
-    <a href="#execucao">Execução</a> .
-    <a href="#expansao">Expansão</a> .
-    <a href="#financiamento">Financiamento</a> .
-
 **Outros componentes do plano de negócios**  |
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos captação B2C</a> .
@@ -120,12 +101,19 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
 
 ## <br>
 
+`
+<p align="center"> 
+<img src="img/banner2.png" width="800"><br>
+    Ensaio da homepage comercial B2C.
+</p>
 
-
-
-
-
-
+**Índice do plano de negócios**  |
+    <a href="#problema">O Problema</a> ·
+    <a href="#proposta">A Proposta</a> .
+    <a href="#negocio">O Negócio</a> .
+    <a href="#execucao">Execução</a> .
+    <a href="#expansao">Expansão</a> .
+    <a href="#financiamento">Financiamento</a> .
 
 <a name="problema"></a> 
 <br>
