@@ -67,9 +67,9 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 </p><br>
 
 <p align="center">
-    PLANO DE NEGÓCIOS .
-    <a href="#pitchdeck"> Pitchdeck </a> |
-    Seções:
+    PLANO DE NEGÓCIOS |
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    [Seções]
     <a href="#problema"> O Problema </a> ·
     <a href="#proposta"> A Proposta </a> .
     <a href="#negocio"> O Negócio </a> .
@@ -77,10 +77,12 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     <a href="#expansao"> Expansão </a> .
     <a href="#financiamento"> Financiamento </a><br><br>
 
+## <br>
+
 <a name="pitchdeck"></a> 
 <br>
 
-## PITCHDECK
+**PITCHDECK** <br>
 Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:<br>
 
 **Publições em listas de startups**  :
@@ -116,12 +118,12 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 **Outros componentes do plano de negócios**  :
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a>
-</p>
+</p><br>
 
 ## <br>
 
 <a name="problema"></a> 
-<br><br>
+<br>
 
 ## O PROBLEMA E A OPORTUNIDADE
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**. 
