@@ -85,7 +85,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br><br>
+    <a href="#financiamento"> Financiamento </a><br>
 
 ## <br>
 
@@ -128,46 +128,18 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
 
-## <br> 
+<br><br><br>
 
-
-**PITCHDECK** <br>
-Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:<br>
-
-**Publições em listas de startups**  :
-<a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
-<a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
- 
-**Páginas institucionais**  :
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
-<a href="" target="_blank">Boiler Plate para imprensa</a> 
-
-**Redes sociais**  :
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
-<a href="" target="_blank">Twitter</a>
-
-**Apresentações**  :
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
-
-**Produtos**  :
-<a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
-<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
-
-**Conversão B2C**  :
-<a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a> .
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos B2C</a>
-
-**Conversão B2B**  :
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial</a> . 
-<a href="" target="_blank">Argumentos B2B</a> .
-<a href="" target="_blank">Conversão B2B (Sistema)</a> .
-<a href="" target="_blank">Proposta sistema de ensino</a>
-
-**Outros componentes do plano de negócios**  :
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a>
-</p><br>
+<p align="center">
+    PLANO DE NEGÓCIOS .
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    [Seções]
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a><br>
 
 ## <br>
 
@@ -261,12 +233,22 @@ Se por um lado, empresas demandam cada vez mais profissionais com competências 
 
 Grande parte deste desequilíbrio ocorre porque as escolas que atuam tradicionalmente neste segmento não geram **economias de escala suficientes** para **popularizarem seus cursos**. Nem mesmo a recente introdução de tecnologias digitais nas práticas educacionais foi capaz de estimular a universalização deste tipo de programa.  
 
-Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.<br><br>
+Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.
 
+<br><br><br>
 
+<p align="center">
+    PLANO DE NEGÓCIOS .
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    [Seções]
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a><br>
 
-
-
+## <br>
 
 <a name="proposta"></a> 
 <br>
