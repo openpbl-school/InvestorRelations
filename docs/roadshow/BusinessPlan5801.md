@@ -137,13 +137,13 @@ Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez
 <p align="center">
   <img src="img/professional-of-the-future.png" width="400"><br>
     <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Evento TED</a> sobre profissionais do futuro.</em>
-</p>
+</p><br><br>
 
 Para os especialistas consultados na pesquisa, certas competências, tais como "tomar decisões corretas em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
   <img src="img/expected-results.png" width="400"><br>
-  <em>Competências comportamentais permitem que profissionais alcançem os resultados esperados com menos recursos.</em>
+  <em>Efeito de certas competências comportamentais.</em>
 </p><br><br>
 
 **Desenvolvendo competências comportamentais** <br>
@@ -160,7 +160,7 @@ Todas as competências adicionais que não se enquadram nos conhecimentos e habi
 <p align="center">
   <img src="img/behavior-skills.png" width="500"><br>
   <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
-</p>
+</p><br><br>
 
 O processo pode ser resumido da seguinte forma.
 
