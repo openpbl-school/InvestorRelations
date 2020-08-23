@@ -82,6 +82,8 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <a name="pitchdeck"></a> 
 <br>
 
+<p align="center">--[PITCHDECK]--</P><br>
+
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 > <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
