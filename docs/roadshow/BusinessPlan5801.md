@@ -57,7 +57,7 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br><br>
+    <a href="#financiamento"> Financiamento </a><br><br><br>
 
 **RESUMO** <br> 
 Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a oferta e a demanda de programas educacionais para o desenvolvimento de um importante conjunto de **competências comportamentais profissionais**. 
@@ -92,7 +92,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <a name="pitchdeck"></a> 
 <br>
 
-<p align="center"><h3>[PITCHDECK]</h3></P><br>
+<p align="center">[PITCHDECK]</P><br>
 
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
