@@ -96,7 +96,7 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 > 
 > **Outros componentes do plano de negócios**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a><br>
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a>
 
 ## <br>
 
@@ -106,7 +106,7 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 <img src="img/banner2.png" width="1000"><br>
 </p><br><br>
 
-<p align="center"> **Plano de negócios OpenPBL - Seções** :<br>
+<p align="center">Plano de negócios OpenPBL<br>
     <a href="#problema"> O Problema</a> ·
     <a href="#proposta"> A Proposta</a> .
     <a href="#negocio"> O Negócio</a> .
@@ -115,7 +115,7 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
     <a href="#financiamento"> Financiamento</a>
 </p><br><br>
 
-##<br>
+## <br>
 
 <a name="problema"></a> 
 <br>
