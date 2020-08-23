@@ -64,14 +64,9 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 <br>
 
-<p align="center"> 
-<img src="img/banner2.png" width="400"><br>
-    Ensaio da homepage comercial B2C.
-</p>
 
-
-**PITCHDECK** <br> 
-Além deste texto, compõem o plano de negócios, as seguintes informações sobre o projeto OpenPBL. 
+### PITCHDECK
+Além do texto, compõem o plano de negócios, as seguintes informações sobre o projeto OpenPBL. 
 
 área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
 
@@ -93,6 +88,13 @@ Além deste texto, compõem o plano de negócios, as seguintes informações sob
 **Produtos**  |
 <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
 <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling - Caso Maria Lúcia</a>
+
+<p align="center"> 
+<img src="img/banner2.png" width="400"><br>
+    Ensaio da homepage comercial B2C.
+</p>
+
+<br> 
 
 **Comercial B2C**  |
 <a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a>
