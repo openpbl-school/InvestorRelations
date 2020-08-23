@@ -8,9 +8,10 @@ https://openpbl-school.github.io/InvestorRelations/PlanoNegocios23ago20
 
 <br> 
 
-**Português - Redireciona para Sumário Executivo** <br>
+**Português - Sumário Executivo** <br>
 https://bit.ly/SumarioExecutivo18abr20 <br>
 
+Redireciona para roadmap/ExecutiveSummary.md (Portuguese). <br>
 https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr
 
 
