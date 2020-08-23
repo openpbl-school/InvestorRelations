@@ -62,9 +62,8 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 
 **PITCHDECK** <br>
-Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:
+Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:<br><br>
 
-> 
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 > <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
@@ -86,8 +85,8 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 > <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
 > 
 > **Conversão B2C**  :
-> <a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a>
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos B2C</a> .
+> <a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos B2C</a>
 > 
 > **Conversão B2B**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial</a> . 
@@ -97,15 +96,12 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 > 
 > **Outros componentes do plano de negócios**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a>
 
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a> .
-> 
-
-## <br> 
+## <br><br>
 
 <p align="center"> 
-<img src="img/banner2.png" width="800"><br>
-    Ensaio da homepage comercial B2C.
+<img src="img/banner2.png" width="1000"><br>
 </p><br><br>
 
 **Plano de negócios OpenPBL - Seções** :<br>
