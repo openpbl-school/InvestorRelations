@@ -60,23 +60,22 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 **Palavras-chave:** *education; e-learning, problem-based learning;*  <br><br>
 
-`
+
 **PITCHDECK** <br>
 Além do texto, compõem o plano de negócios, as seguintes informações sobre o projeto OpenPBL. 
 
 área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
-
-**Publições em listas de startups**  ->
-<a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
-<a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
-
-**Apresentações**  |
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
-
-**Páginas institucionais**  |
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
-<a href="" target="_blank">Boiler Plate para imprensa</a> 
+> **Publições em listas de startups**  ->
+> <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
+> <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
+> 
+> **Apresentações**  |
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
+> 
+> **Páginas institucionais**  |
+> <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
+> <a href="" target="_blank">Boiler Plate para imprensa</a> 
 
 **Redes sociais**  |
 <a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a>
