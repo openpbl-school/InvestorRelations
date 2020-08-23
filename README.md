@@ -6,6 +6,7 @@ https://bit.ly/OpenPBL-PlanoNegocios23
 Redireciona para roadmap/BusinessPlan5801.md (Portuguese) criptografado. <br>
 https://openpbl-school.github.io/InvestorRelations/PlanoNegocios23ago20
 
+<br> 
 
 **Português - Redireciona para Sumário Executivo** <br>
 https://bit.ly/SumarioExecutivo18abr20 <br>
