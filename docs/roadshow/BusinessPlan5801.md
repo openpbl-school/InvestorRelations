@@ -60,9 +60,12 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 **Palavras-chave:** *education; e-learning, problem-based learning;*  <br><br>
 
+## <br>
 
 **PITCHDECK** <br>
-Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:<br><br>
+Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:
+
+<br>
 
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
@@ -100,20 +103,18 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 
 ## <br>
 
-<br>
+<br><br>
 
 <p align="center"> 
-<img src="img/banner2.png" width="1000"><br>
-</p><br><br>
-
-<p align="center">Plano de negócios OpenPBL<br>
-    <a href="#problema"> O Problema</a> ·
-    <a href="#proposta"> A Proposta</a> .
-    <a href="#negocio"> O Negócio</a> .
-    <a href="#execucao"> Execução</a> .
-    <a href="#expansao"> Expansão</a> .
-    <a href="#financiamento"> Financiamento</a>
-</p><br><br>
+<img src="img/banner2.png" width="1000"><br><br>
+<p align="center">Plano de negócios OpenPBL: 
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a>
+</p>
 
 ## <br>
 
