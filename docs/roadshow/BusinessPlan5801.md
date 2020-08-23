@@ -211,13 +211,6 @@ Embora algumas empresas avaliem as **habilidades pessoais** e **perfis da person
 
 **Acelerando o desenvolvimento de competências comportamentais** <br>
 
-
-
-
-
-
-
-
 Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas educacionais** se propõem a **simular** situações reais do dia-a-dia em atividades de aprendizagem para, desta forma, estimular o desenvolvimento personalizado de competências comportamentais. 
 
 É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando predominantemente a *Problem Based Learning* (ou, de forma abreviada, a **PBL**), uma **estratégia de aprendizagem** na qual os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências (<a href="https://en.wikipedia.org/wiki/Problem-based_learning" target="_blank">Ver definição na Wikipedia</a>).<br><br>
@@ -237,6 +230,11 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
 
 <br><br><br>
 
+<a name="proposta"></a> 
+<br>
+
+## <br>
+
 <p align="center">
     PLANO DE NEGÓCIOS .
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -246,12 +244,8 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br>
+    <a href="#financiamento"> Financiamento </a><br><br>
 
-## <br>
-
-<a name="proposta"></a> 
-<br>
 
 ## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
