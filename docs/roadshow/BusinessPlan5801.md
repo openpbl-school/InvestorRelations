@@ -58,28 +58,16 @@ Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes do 
 
 No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. 
 
-**Palavras-chave:** *education; e-learning, problem-based learning;*  <br><br>
+**Palavras-chave:** *education; e-learning, problem-based learning;*<br>
 
 ## <br>
 
-
-<br><br>
-
 <p align="center"> 
-    Plano de negócios OpenPBL:
-    <a href="#problema"> O Problema </a> ·
-    <a href="#proposta"> A Proposta </a> .
-    <a href="#negocio"> O Negócio </a> .
-    <a href="#execucao"> Execução </a> .
-    <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br><br><br>
     <img src="img/banner2.png" width="1000">
-</p><br>
+</p><br><br>
 
 **PITCHDECK** <br>
-Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:
-
-<br>
+Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:<br>
 
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
@@ -117,8 +105,17 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 
 ## <br>
 
+<p align="center"> 
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a>
+</p><br>
+
 <a name="problema"></a> 
-<br>
+<br><br>
 
 ## O PROBLEMA E A OPORTUNIDADE
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**. 
