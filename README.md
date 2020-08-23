@@ -1,14 +1,16 @@
 ## Roadshow (all links)
 
-**English - Business Plan** <br>
-Redireciona para BusinessPlan.md (inglês) criptografado. <br>
-https://openpbl-school.github.io/InvestorRelations/BusinessPlan
-
 **Português - Plano de Negócios** <br>
-Redireciona para BusinessPlan.md (Portuguese) criptografado. <br>
-https://openpbl-school.github.io/InvestorRelations/PlanoNegocios
+https://bit.ly/OpenPBL-PlanoNegocios23
 
-https://bit.ly/OpenPBL-PlanoNegocios
+Redireciona para roadmap/BusinessPlan5801.md (Portuguese) criptografado. <br>
+https://openpbl-school.github.io/InvestorRelations/PlanoNegocios23ago20
+
+
+**Português - Redireciona para Sumário Executivo** <br>
+https://bit.ly/SumarioExecutivo18abr20 <br>
+
+https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr
 
 
 ## Bitly links
@@ -19,11 +21,6 @@ https://bit.ly/OpenPBL-IR <br>
 **Português - Pitch inicial** <br> 
 https://bit.ly/OpenPBL-Pitch-Inicial
 
-**Português - Redireciona para Sumário Executivo** <br>
-https://bit.ly/SumarioExecutivo18abr20 <br>
-
-**Português - Plano de Negócios** <br> 
-https://bit.ly/OpenPBL-Plano-Negocios <br>
 
 **Português - Sobre** <br> 
 https://bit.ly/OpenPBL_Sobre <br>
@@ -37,9 +34,6 @@ https://bit.ly/OpenPBL-ExecutiveSummary-Apr22
 <br>
 
 ## Redirect links
-
-**Português - Redireciona para Sumário Executivo** <br>
-https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr
 
 **Inglês - Redireciona para Executive Summary** <br>
 https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22 
