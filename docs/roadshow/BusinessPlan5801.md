@@ -101,20 +101,20 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a> .
 > 
 
-<br> 
+## <br> 
 
 <p align="center"> 
 <img src="img/banner2.png" width="800"><br>
     Ensaio da homepage comercial B2C.
 </p><br><br>
 
-**Plano de negócios OpenPBL - Seções:**  
-    <a href="#problema">O Problema</a> ·
-    <a href="#proposta">A Proposta</a> .
-    <a href="#negocio">O Negócio</a> .
-    <a href="#execucao">Execução</a> .
-    <a href="#expansao">Expansão</a> .
-    <a href="#financiamento">Financiamento</a> .
+**Plano de negócios OpenPBL - Seções:**
+    <a href="#problema"> O Problema</a> ·
+    <a href="#proposta"> A Proposta</a> .
+    <a href="#negocio"> O Negócio</a> .
+    <a href="#execucao"> Execução</a> .
+    <a href="#expansao"> Expansão</a> .
+    <a href="#financiamento"> Financiamento</a>
 
 <a name="problema"></a> 
 <br>
