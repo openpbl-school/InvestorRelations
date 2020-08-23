@@ -56,7 +56,9 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br><br><br>
+    <a href="#financiamento"> Financiamento </a></p>
+    
+<br><br><br>
 
 **RESUMO** <br> 
 Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a oferta e a demanda de programas educacionais para o desenvolvimento de um importante conjunto de **competências comportamentais profissionais**. 
@@ -74,17 +76,6 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <p align="center"> 
     <img src="img/banner2.png" width="1000">
 </p><br>
-
-<p align="center">
-    PLANO DE NEGÓCIOS .
-    <a href="#pitchdeck"> [Pitchdeck] </a> .
-    [Seções]
-    <a href="#problema"> O Problema </a> ·
-    <a href="#proposta"> A Proposta </a> .
-    <a href="#negocio"> O Negócio </a> .
-    <a href="#execucao"> Execução </a> .
-    <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br>
 
 ## <br>
 
@@ -136,7 +127,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a>
+    <a href="#financiamento"> Financiamento </p></a>
 
 ## <br>
 
@@ -231,7 +222,7 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a>
+    <a href="#financiamento"> Financiamento </p></a>
 
 <br><br><br>
 
@@ -406,7 +397,7 @@ As respostas dos entrevistados para estas duas questões evidenciam fortemente a
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a>
+    <a href="#financiamento"> Financiamento </p></a>
 
 <br><br><br>
 
@@ -501,7 +492,7 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a>
+    <a href="#financiamento"> Financiamento </p></a>
 
 <br><br><br>
 
@@ -717,7 +708,7 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a>
+    <a href="#financiamento"> Financiamento </p></a>
 
 <br><br><br>
 
@@ -834,7 +825,7 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a>
+    <a href="#financiamento"> Financiamento </p></a>
 
 <br><br><br>
 
@@ -885,7 +876,7 @@ A participação dos investidores nas decisões executivas da empresa é garanti
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a>
+    <a href="#financiamento"> Financiamento </p></a>
 
 <br><br><br>
 
