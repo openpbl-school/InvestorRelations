@@ -56,19 +56,26 @@ Para aproveitar a oportunidade, eles projetaram um engenhoso **método de ensino
 
 Assim, lançaram a **OpenPBL**, uma empresa cujas receitas são provenientes do licenciamento de seu **sistema de ensino baseado em problemas** para **empresas** e **escolas profissionalizantes**. O sistema de **baixo custo** permite que os clientes da OpenPBL **democratizem o acesso** e **ampliem a eficácia** de seus programas educacionais com a oferta de **cursos baseados em problemas típicos do dia a dia profissional**.
 
-No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. <br><br>
+No presente roadshow (publicado em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>), a empresa pretende captar 4 quotas de **US $ 33.000** `(4 x R$ 182.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro** na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. 
 
-<p align="center">
-<img src="img/banner2.png"><br>
-    Plano de negócios proposto no <i>road show</i> 2020.1 para captação de recursos.
-</p>
+**Palavras-chave:** *education; e-learning, problem-based learning;  
 
 ## <br>
 
-**PITCHDECK** <br> 
-Além deste plano de negócios, a área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
+<br>
 
-**Publicaões em listas de startups**  |
+<p align="center"> 
+<img src="img/banner2.png" width="400"><br>
+    Ensaio da homepage comercial B2C.
+</p>
+
+
+**PITCHDECK** <br> 
+Além deste texto, compõem o plano de negócios, as seguintes informações sobre o projeto OpenPBL. 
+
+área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
+
+**Publições em listas de startups**  ->
 <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 
@@ -85,10 +92,10 @@ Além deste plano de negócios, a área de relacionamento com investidores dispo
 
 **Produtos**  |
 <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
-<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling - Caso Maria Lúcia</ a>
+<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling - Caso Maria Lúcia</a>
 
 **Comercial B2C**  |
-<a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a> .
+<a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a>
 
 **Comercial B2B**  |
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta padrão</a> .
