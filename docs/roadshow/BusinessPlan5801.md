@@ -235,9 +235,7 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
 ## <br>
 
 <p align="center">
-    PLANO DE NEGÓCIOS .
     <a href="#pitchdeck"> [Pitchdeck] </a> .
-    [Seções]
     <a href="#problema"> O Problema </a> ·
     <a href="#proposta"> A Proposta </a> .
     <a href="#negocio"> O Negócio </a> .
@@ -245,7 +243,7 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     <a href="#expansao"> Expansão </a> .
     <a href="#financiamento"> Financiamento </a>
 
-<br><br><br><br>
+<br><br><br>
 
 ## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
@@ -411,8 +409,20 @@ As respostas dos entrevistados para estas duas questões evidenciam fortemente a
 
 
 
-<a name="negocio"></a> 
-<br>
+<a name="negocio"></a>
+
+## <br>
+
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a>
+
+<br><br><br>
 
 ## O NEGÓCIO 
 Para monetizar o **sistema de ensino** desenvolvido, os idealizadores do projeto criaram a **OpenPBL**, uma edtech cuja missão é *"**popularizar** e **democratizar** o **ensino profissionalizante baseado em problemas**".*
@@ -521,11 +531,7 @@ Em especial, os empreendedores têm experiências complementares na execução d
 4. Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
 5. Grande necessidade de engajamento e fidelização dos colaboradores.<br>
 
-
-
-
 <br><br>
-
 
 **Roadmap** <br>
 
@@ -706,8 +712,24 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
 
 
 
+
+
+
+
 <a name="expansao"></a> 
-<br>
+
+## <br>
+
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a>
+
+<br><br><br>
 
 ## EXPANSÃO
 Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
@@ -799,11 +821,7 @@ Os principais recursos para o gerenciamento de experiências de aprendizagem for
 - Criar um ambiente de discussão entre os alunos para elaboração dos argumentos de análise do CP;
 - Criar um ambiente de explicação consolidada da aprendizagem coletiva gerada em cada sessão de discussão de um PC;<br><br>
 
-
-
 A página inicial do projeto do aplicativo OpenPBL App pode ser acessada (em inglês) pelo link:<a href="https://openpbl.github.io/app-docs/" target="_blank_"> OpenPBL - Free and opensource software</a><br><br>
-
-
 
 **Novas frentes de negócios** <br>
 
@@ -819,7 +837,19 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
 
 
 <a name="financiamento"></a> 
-<br>
+
+## <br>
+
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a>
+
+<br><br><br>
 
 ## FINANCIAMENTO E GOVERNANÇA
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado através de rodadas públicas. Os roadshows de captação são abertos e publicados em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>. <br><br>
@@ -857,6 +887,18 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 ... 
 
 <br>
+
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a>
+
+<br><br><br>
+
 <p align="center">    
     <a href="#english">English</a>
     ·
