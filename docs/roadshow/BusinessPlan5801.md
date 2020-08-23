@@ -231,7 +231,6 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
 <br><br><br>
 
 <a name="proposta"></a> 
-<br>
 
 ## <br>
 
@@ -244,8 +243,9 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br><br>
+    <a href="#financiamento"> Financiamento </a>
 
+<br><br><br><br>
 
 ## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
