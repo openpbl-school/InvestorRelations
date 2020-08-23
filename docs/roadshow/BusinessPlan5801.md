@@ -64,7 +64,9 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 **PITCHDECK** <br>
 Além do texto, compõem o plano de negócios, as seguintes informações sobre o projeto OpenPBL. 
 
-área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias: 
+área de relacionamento com investidores disponibiliza informações sobre a empresa nas seguintes mídias:
+
+> 
 > **Publições em listas de startups**  ->
 > `<a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>` . 
 > `<a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>`
@@ -76,27 +78,28 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
 > <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
 > <a href="" target="_blank">Boiler Plate para imprensa</a> 
-
-**Redes sociais**  |
-<a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a>
-
-**Produtos**  |
-<a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
-<a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling - Caso Maria Lúcia</a>
-
-**Comercial B2C**  |
-<a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a>
-
-**Comercial B2B**  |
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta padrão</a> .
-<a href="" target="_blank">Conversão B2B</a> .
-<a href="" target="_blank">Conversão B2B (Sistema)</a> .
-<a href="" target="_blank">Proposta sistema de ensino</a>
-
-**Outros componentes do plano de negócios**  |
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos captação B2C</a> .
-<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a> .
+> 
+> **Redes sociais**  |
+> <a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a>
+> 
+> **Produtos**  |
+> <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
+> <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling - Caso Maria Lúcia</a>
+> 
+> **Comercial B2C**  |
+> <a href="https://openpbl-school.github.io/CustomerAcquisition/shop/cataloge#start" target="_blank">Comércio eletrônico</a>
+> 
+> **Comercial B2B**  |
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta padrão</a> .
+> <a href="" target="_blank">Conversão B2B</a> .
+> <a href="" target="_blank">Conversão B2B (Sistema)</a> .
+> <a href="" target="_blank">Proposta sistema de ensino</a>
+> 
+> **Outros componentes do plano de negócios**  |
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos captação B2C</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a> .
+> 
 
 ## <br>
 
