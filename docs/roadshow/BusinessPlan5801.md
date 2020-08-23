@@ -82,7 +82,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <a name="pitchdeck"></a> 
 <br>
 
-<p align="center">--[PITCHDECK]--</P><br>
+<p align="center"><h3>[PITCHDECK]</h3></P><br>
 
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
