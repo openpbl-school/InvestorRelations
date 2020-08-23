@@ -85,16 +85,16 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 <div class="bg-blue-light mb-2">
 
-[PITCHDECK]
+<b>[PITCHDECK]</b><br><br>
 
-Publições em listas de startups:
+<b>Publicações em listas de startups:</b>
 <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
-<a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
+<a href="https://gust.com/companies/openpbl" target="_blank">Gust</a><br><br>
 
-páginas institucionais:
+<b>páginas institucionais:</b>
 <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
-<a href="" target="_blank">Boiler Plate para imprensa</a> 
+<a href="" target="_blank">Boiler Plate para imprensa</a><br><br>
 
 </div>
 
