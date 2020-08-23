@@ -118,20 +118,11 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
 
-<br><br><br>
-
-<p align="center">
-    <a href="#pitchdeck"> [Pitchdeck] </a> .
-    <a href="#problema"> O Problema </a> ·
-    <a href="#proposta"> A Proposta </a> .
-    <a href="#negocio"> O Negócio </a> .
-    <a href="#execucao"> Execução </a> .
-    <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a></p>
+<br><br>
 
 ## <br>
 
-
+<br><br><br>
 
 
 
@@ -220,7 +211,7 @@ Grande parte deste desequilíbrio ocorre porque as escolas que atuam tradicional
 
 Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.
 
-<br><br><br>
+<br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -233,7 +224,7 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     
 ## <br>
 
-<br><br>
+<br><br><br>
 
 
 
@@ -404,7 +395,7 @@ As respostas dos entrevistados para estas duas questões evidenciam fortemente a
 1. Para os alunos, as **avaliações da capacidade de resolução de problemas** são as **mais importantes** de um curso profissionalizante;
 2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho. 
 
-<br><br><br>
+<br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -417,7 +408,7 @@ As respostas dos entrevistados para estas duas questões evidenciam fortemente a
     
 ## <br>
 
-<br><br>
+<br><br><br>
 
 
 
@@ -508,7 +499,7 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
 - **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
 - **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.
 
-<br><br><br>
+<br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -521,7 +512,7 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
 
 ## <br>
 
-<br><br>
+<br><br><br>
 
 
 
@@ -733,7 +724,7 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
 
 O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a>
 
-<br><br><br>
+<br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -746,7 +737,7 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
     
 ## <br>
 
-<br><br>
+<br><br><br>
 
 
 
@@ -859,7 +850,7 @@ A partir do desenvolvimento do sistema educacional será possível a expansão d
 
 Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.
 
-<br><br><br>
+<br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -872,7 +863,7 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
 
 ## <br>
 
-<br><br>
+<br><br><br>
 
 
 
@@ -915,11 +906,9 @@ A captação atual considera o *pre money valuation* de **US $ 900.000** `(R$ 4,
 
 **Governança** <br>
 
-A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de **governança corporativa** vigentes, tais como *controle orçamentário*, *profissionalização do board*, *conselho fiscal* e *proteção de minoritários*, entre outros <br><br>
+A participação dos investidores nas decisões executivas da empresa é garantida pela adoção das melhores práticas de **governança corporativa** vigentes, tais como *controle orçamentário*, *profissionalização do board*, *conselho fiscal* e *proteção de minoritários*, entre outros.
 
-... 
-
-<br><br><br>
+<br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -934,20 +923,13 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 
 <br><br>
 
-
-
-
-
-
-
-
 <p align="center">    
     <a href="#english">English</a>
     ·
     <a href="#portuguese">Portuguese</a>
 </p>
 
-## <br>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <a name="chinese"></a> 
