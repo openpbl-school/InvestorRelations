@@ -136,7 +136,7 @@ Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez
 
 <p align="center">
   <img src="img/professional-of-the-future.png" width="400"><br>
-  <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Evento TED sobre profissionais do futuro.</em>
+    <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Evento TED</a> sobre profissionais do futuro.</em>
 </p>
 
 Para os especialistas consultados na pesquisa, certas competências, tais como "tomar decisões corretas em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
