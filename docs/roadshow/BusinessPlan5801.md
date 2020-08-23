@@ -73,17 +73,14 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 ## <br>
 
+<div class="bg-blue-light mb-2">
+<br>    
 <p align="center"> 
     <img src="img/banner2.png" width="1000"><br>
     Ensaio da homepage B2C
 </p>
-
 <a name="pitchdeck"></a>
 <br>
-
-## <br>
-
-<div class="bg-blue-light mb-2">
 
 <b>[PITCHDECK]</b><br><br>
 
