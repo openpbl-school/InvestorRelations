@@ -66,21 +66,21 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     <img src="img/banner2.png" width="1000">
 </p><br>
 
-<p align="center"> 
-    <a href="#pitchdeck"> PITCHDECK </a> | PLANO DE NEGÓCIOS 
+<p align="center">
+    PLANO DE NEGÓCIOS .
+    <a href="#pitchdeck"> Pitchdeck </a> |
+    Seções:
     <a href="#problema"> O Problema </a> ·
     <a href="#proposta"> A Proposta </a> .
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br>
-
-## <br>
+    <a href="#financiamento"> Financiamento </a><br><br>
 
 <a name="pitchdeck"></a> 
 <br>
 
-**PITCHDECK** <br>
+## PITCHDECK
 Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:<br>
 
 **Publições em listas de startups**  :
