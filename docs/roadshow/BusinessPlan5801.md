@@ -51,7 +51,6 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
-    [Seções]
     <a href="#problema"> O Problema </a> ·
     <a href="#proposta"> A Proposta </a> .
     <a href="#negocio"> O Negócio </a> .
@@ -131,15 +130,13 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <br><br><br>
 
 <p align="center">
-    PLANO DE NEGÓCIOS .
     <a href="#pitchdeck"> [Pitchdeck] </a> .
-    [Seções]
     <a href="#problema"> O Problema </a> ·
     <a href="#proposta"> A Proposta </a> .
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a><br>
+    <a href="#financiamento"> Financiamento </a>
 
 ## <br>
 
@@ -193,9 +190,6 @@ Embora algumas empresas avaliem as **habilidades pessoais** e **perfis da person
 
 <br><br>
 
-
-
-
 <p align="center">
   <img src="img/learning-behavior-skills-1.png" width="500"><br>
   <em>O desenvolvimento das competências técnicas não consideram fatores como riscos, incertezas e preferências.</em>
@@ -230,10 +224,6 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
 
 <br><br><br>
 
-<a name="proposta"></a> 
-
-## <br>
-
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
     <a href="#problema"> O Problema </a> ·
@@ -244,6 +234,9 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     <a href="#financiamento"> Financiamento </a>
 
 <br><br><br>
+
+<a name="proposta"></a>
+<br>
 
 ## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
@@ -402,16 +395,9 @@ Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da
 
 As respostas dos entrevistados para estas duas questões evidenciam fortemente as seguintes hipóteses: 
 1. Para os alunos, as **avaliações da capacidade de resolução de problemas** são as **mais importantes** de um curso profissionalizante;
-2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho. <br><br>
+2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho. 
 
-
-
-
-
-
-<a name="negocio"></a>
-
-## <br>
+<br><br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -423,6 +409,9 @@ As respostas dos entrevistados para estas duas questões evidenciam fortemente a
     <a href="#financiamento"> Financiamento </a>
 
 <br><br><br>
+
+<a name="negocio"></a>
+<br>
 
 ## O NEGÓCIO 
 Para monetizar o **sistema de ensino** desenvolvido, os idealizadores do projeto criaram a **OpenPBL**, uma edtech cuja missão é *"**popularizar** e **democratizar** o **ensino profissionalizante baseado em problemas**".*
@@ -501,11 +490,20 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
 - **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
 - **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
 - **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
-- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br>
+- **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.
 
+<br><br><br>
 
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a>
 
-
+<br><br><br>
 
 <a name="execucao"></a> 
 <br>
@@ -708,17 +706,9 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
 
 **Plano financeiro** <br>
 
-O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a><br><br>
+O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a>
 
-
-
-
-
-
-
-<a name="expansao"></a> 
-
-## <br>
+<br><br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -730,6 +720,9 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
     <a href="#financiamento"> Financiamento </a>
 
 <br><br><br>
+
+<a name="expansao"></a>
+<br>
 
 ## EXPANSÃO
 Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
@@ -830,15 +823,9 @@ A partir do desenvolvimento do sistema educacional será possível a expansão d
 - Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
 - Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
 
-Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br>
+Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.
 
-
-
-
-
-<a name="financiamento"></a> 
-
-## <br>
+<br><br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -850,6 +837,9 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
     <a href="#financiamento"> Financiamento </a>
 
 <br><br><br>
+
+<a name="financiamento"></a>
+<br>
 
 ## FINANCIAMENTO E GOVERNANÇA
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado através de rodadas públicas. Os roadshows de captação são abertos e publicados em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>. <br><br>
@@ -886,7 +876,7 @@ A participação dos investidores nas decisões executivas da empresa é garanti
 
 ... 
 
-<br>
+<br><br><br>
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
