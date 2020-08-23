@@ -74,12 +74,13 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 ## <br>
 
 <p align="center"> 
-    <img src="img/banner2.png" width="1000">
+    <img src="img/banner2.png" width="1000"><br>
+    Ensaio da homepage B2C
 </p>
 
 ## <br>
 
-<a name="pitchdeck"></a> 
+<a name="pitchdeck"></a>
 <br>
 
 <p align="center">[PITCHDECK]</P><br>
@@ -117,8 +118,6 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > **Outros componentes do plano de negócios**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
-
-<br><br>
 
 ## <br>
 
@@ -859,7 +858,7 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a></p>
+    <a href="#financiamento"> Financiamento </a></p><br>
 
 ## <br>
 
