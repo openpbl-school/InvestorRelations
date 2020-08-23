@@ -49,6 +49,16 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
 
 <br>
 
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    [Seções]
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a><br><br>
+
 **RESUMO** <br> 
 Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a oferta e a demanda de programas educacionais para o desenvolvimento de um importante conjunto de **competências comportamentais profissionais**. 
 
@@ -118,8 +128,8 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
 
+## <br> 
 
-```html
 
 **PITCHDECK** <br>
 Além do texto desta página, são partes integrantes do plano de negócios as seguintes informações disponibilizadas pela área de relacionamento com investidores:<br>
@@ -158,8 +168,6 @@ Além do texto desta página, são partes integrantes do plano de negócios as s
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a>
 </p><br>
-
-```
 
 ## <br>
 
