@@ -68,8 +68,8 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
 
 > 
 > **Publições em listas de startups**  ->
-> `<a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>` . 
-> `<a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>`
+> <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
+> <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 > 
 > **Apresentações**  |
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
@@ -101,15 +101,14 @@ Além do texto, compõem o plano de negócios, as seguintes informações sobre 
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a> .
 > 
 
-## <br>
+<br> 
 
-`
 <p align="center"> 
 <img src="img/banner2.png" width="800"><br>
     Ensaio da homepage comercial B2C.
-</p>
+</p><br><br>
 
-**Índice do plano de negócios**  |
+**Plano de negócios OpenPBL - Seções:**  
     <a href="#problema">O Problema</a> ·
     <a href="#proposta">A Proposta</a> .
     <a href="#negocio">O Negócio</a> .
