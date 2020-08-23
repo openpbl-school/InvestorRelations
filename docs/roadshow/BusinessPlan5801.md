@@ -81,8 +81,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 ## <br>
 
 <div class="bg-blue-light mb-2">
-  .text-gray-dark on .bg-blue-light
-</div>
+
 
 <a name="pitchdeck"></a>
 <br>
@@ -122,6 +121,8 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > **Outros componentes do plano de negócios**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
+
+</div>
 
 ## <br>
 
