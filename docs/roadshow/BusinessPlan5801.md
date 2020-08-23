@@ -75,7 +75,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 <p align="center"> 
     <img src="img/banner2.png" width="1000">
-</p><br>
+</p>
 
 ## <br>
 
@@ -127,9 +127,16 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </p></a>
+    <a href="#financiamento"> Financiamento </a></p>
 
 ## <br>
+
+
+
+
+
+
+
 
 <a name="problema"></a> 
 <br>
@@ -222,11 +229,18 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </p></a>
+    <a href="#financiamento"> Financiamento </a></p>
     
 ## <br>
 
 <br><br>
+
+
+
+
+
+
+
 
 <a name="proposta"></a>
 <br>
@@ -399,11 +413,18 @@ As respostas dos entrevistados para estas duas questões evidenciam fortemente a
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </p></a>
+    <a href="#financiamento"> Financiamento </a></p>
     
 ## <br>
 
 <br><br>
+
+
+
+
+
+
+
 
 <a name="negocio"></a>
 <br>
@@ -496,11 +517,18 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </p></a>
+    <a href="#financiamento"> Financiamento </a></p>
 
 ## <br>
 
 <br><br>
+
+
+
+
+
+
+
 
 <a name="execucao"></a> 
 <br>
@@ -714,11 +742,18 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </p></a>
+    <a href="#financiamento"> Financiamento </a></p>
     
 ## <br>
 
 <br><br>
+
+
+
+
+
+
+
 
 <a name="expansao"></a>
 <br>
@@ -833,11 +868,18 @@ Estas três novas frentes de negócios têm potencial de **multiplicar o desempe
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </p></a>
+    <a href="#financiamento"> Financiamento </a></p>
 
 ## <br>
 
 <br><br>
+
+
+
+
+
+
+
 
 <a name="financiamento"></a>
 <br>
@@ -886,11 +928,18 @@ A participação dos investidores nas decisões executivas da empresa é garanti
     <a href="#negocio"> O Negócio </a> .
     <a href="#execucao"> Execução </a> .
     <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </p></a>
+    <a href="#financiamento"> Financiamento </a></p>
 
 ## <br>
 
 <br><br>
+
+
+
+
+
+
+
 
 <p align="center">    
     <a href="#english">English</a>
