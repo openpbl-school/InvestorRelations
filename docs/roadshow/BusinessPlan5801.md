@@ -232,24 +232,6 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
     
 ## <br>
 
-...
-para a execução mais eficiente das tarefas.   
-
-, **não técnicas**, sob o ponto de vista específico da profissão, que direcionam o seu comportamento em ambientes reais para a execução mais eficiente das tarefas.   
-
-Os conhecimentos acumulados pelo profissional nesse período que não são enquadráveis nos conhecimento técnicos específicos 
-
-
-as **competências que interessam às empresas** só podem ser desenvolvidas após um período mínimo de formação técnica profissional. 
-
-Ao contrário das **habilidades** pessoais que resultam de características biológicas e socio-emocionais definidas **antes** da vida adulta dos indivíduos, 
-
-O desenvolvimento **desta classe** de competências comportamentais é um processo que se dá quando os profissionais se deparam com situações de "imperfeição" da vida real, tais como **riscos**, **incertezas** e **preferências**. 
-
-
-
-...
-
 <br><br><br>
 
 
