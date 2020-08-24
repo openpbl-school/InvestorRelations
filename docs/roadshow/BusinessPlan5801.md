@@ -129,14 +129,14 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <br>
 
 ## O PROBLEMA E A OPORTUNIDADE
-Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**.<br><br>
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**.
+
+Para os especialistas consultados na pesquisa, certas competências, tais como "tomar decisões corretas em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
   <img src="img/professional-of-the-future.png" width="400"><br>
     <em><a href="https://youtu.be/9G5mS_OKT0A" target="_blank">Evento TED</a> sobre profissionais do futuro.</em>
 </p><br><br>
-
-Para os especialistas consultados na pesquisa, certas competências, tais como "tomar decisões corretas em ambientes de incerteza", "atuar sob pressão da opinão pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
 
 <p align="center">
   <img src="img/expected-results.png" width="400"><br>
@@ -144,11 +144,13 @@ Para os especialistas consultados na pesquisa, certas competências, tais como "
 </p><br><br>
 
 **Desenvolvendo competências comportamentais** <br>
-De forma resumida, podemos entender o desempenho de um indivíduo na **execução de uma tarefa** como função da experiência acumulada por esse indivíduo até o momento da execução. Nessa experiência acumulada é usual considerarmos **recursos de natureza diversa**, tais como conhecimentos técnicos aprendidos pelo indivíduo, habilidades desenvolvidas por experiências pregressas, toda a carga cultural dos ambientes em que viveu, seus traços de personalidade, comportamento social, enfim, tudo mais que pode contribuir para o desempenho da tarefa. Quando esse desempenho é **validado positivamente** por um grupo social, entendemos que esse indivíduo é **competente** para executar de forma **eficaz** aquela tarefa e que todos os recursos que contribuiram para isso formam as suas **competências** para executá-la.
+O desempenho de um indivíduo na **execução de uma tarefa** é fruto dos mais variados recursos acumulados por esse indivíduo ao longo de sua vida pregressa, tais como conhecimentos técnicos aprendidos, habilidades desenvolvidas por experiências, toda a carga cultural dos ambientes em que viveu, seus traços de personalidade, comportamento social, enfim, tudo mais que pode contribuir para o desempenho da tarefa. Quando esse desempenho é **validado positivamente** por um grupo social, dizemos que esse indivíduo é **competente** para executar aquela tarefa e que todos os recursos que contribuiram para isso formam as suas **competências** para executá-la.
 
-Para a execução de tarefas profissionais, estas competências são adquiridas tanto na **formação técnica** quanto em eventos de capacitação ao longo da carreira. 
+No caso de tarefas profissionais estas competências são classificadas em **competências técnicas** e competências não técnicas, ou **comportamentais**. Uma boa parte das competências técnicas é adquirida por ocasião da formação profissional. Entretanto, embora já seja possível desenvolver **competências comportamentais profissionais** a partir do terço final da formação técnica, na grande maioria das vezes este desenvolvimento só ocorre de fato ao longo da carreira profissional.
 
-Por razões diversas que envolvem custos, prazos e competitividade, a grande maioria das escolas de formação se limita a desenvolver as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. Essas escolas raramente buscam avaliar o desempenho de seus alunos em questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes do dia a dia profissional. Isso implica em garantir aos profissionais em formação apenas a **execução eficaz** das tarefas profissionais em ambientes ideais. 
+Por razões diversas que envolvem custos, prazos e competitividade, a grande maioria das escolas de formação se limita a desenvolver as **competências técnicas** em nível suficiente para garantir a **empregabilidade de entrada** de seus alunos no mercado de trabalho. 
+
+Essas escolas raramente buscam avaliar o desempenho de seus alunos em questões técnicas que não sejam apresentadas sob **condições ideais** e isentas de fatores inerentes do dia a dia profissional. Isso implica em garantir aos profissionais em formação apenas a **execução eficaz** das tarefas profissionais em ambientes ideais. 
 
 Contudo, ao empregar suas competências técnicas nas demandas e tarefas diárias da carreira que escolheram, os profissionais se deparam com aspectos práticos relevantes, tais como **assimetrias de informação**, **restrições de recursos** e **pressões de ordem diversa**, que alteram (por vezes, substancialmente) as condições ideais dos problemas para as quais seus conhecimento e habilidades técnicas se aplicam sob medida. Por esta razão, embora os profissionais entrantes no mercado de trabalho tenham recursos técnicos para garantir a eficácia mínima na execução de suas tarefas, a sua **eficiência**, isto é, a conta que considera o tempo e os demais recursos que foram empregados para a execução, só é conseguida ao longo da **experiência** na função. 
 
@@ -158,6 +160,8 @@ Todas as competências adicionais que não se enquadram nos conhecimentos e habi
   <img src="img/behavior-skills.png" width="500"><br>
   <em><a href="https://youtu.be/1HEymYOkz44" target="_blank">Vídeo 1</a> e <a href="https://youtu.be/WyKZC7nhQZw" target="_blank">vídeo 2</a> com consultores de RH sobre competências comportamentais.</em>
 </p><br><br>
+
+**Desenvolvendo competências comportamentais** <br>
 
 O processo pode ser resumido da seguinte forma.
 
@@ -230,7 +234,7 @@ Ao contrário das **habilidades** pessoais que resultam de características biol
 
 O desenvolvimento **desta classe** de competências comportamentais é um processo que se dá quando os profissionais se deparam com situações de "imperfeição" da vida real, tais como **riscos**, **incertezas** e **preferências**. 
 
-Contudo, embora já seja possível desenvolvê-las a partir do terço final da formação técnica, na grande maioria das vezes este desenvolvimento só ocorre de fato ao longo da carreira profissional.
+
 
 ...
 
