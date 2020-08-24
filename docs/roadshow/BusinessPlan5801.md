@@ -189,7 +189,7 @@ Esse processo de **tentativa e erro** envolve a busca de novas técnicas e, via 
 
 Embora algumas empresas avaliem as **habilidades pessoais** e **perfis da personalidade** de seus colaboradores (modelos DISC, MBTI e Big Five) como forma de orientá-los no desenvolvimento das atitudes frente aos problemas e convívio corporativo, na grande maioria dos casos, o desenvolvimento das competências comportamentais é um processo **não supervisionado**, **auto patrocinado** e executado de forma **natural** e **inconsciente** ao longo da carreira profissional. 
 
-Apesar de relevante do ponto de vista de **recall** do aprendizado, a forma natural do desenvolvimento de competências comportamentais tem uma importante limitação. Por sua característica não supervisionada, dependendo dos diferentes estímulos à que são submetidos os profissionais, este processo de desenvolvimento pode durar **muito tempo** para ocorrer ou, até mesmo, não acontecer. <br><br>
+Apesar de relevante do ponto de vista de **recall** do aprendizado, a forma natural do desenvolvimento de competências comportamentais tem uma importante limitação. Por sua característica não supervisionada, dependendo dos diferentes estímulos a que são submetidos os profissionais, este processo de desenvolvimento pode durar **muito tempo** para ocorrer ou, até mesmo, não acontecer. <br><br>
 
 <p align="center">
   <img src="img/learning-behavior-skills-3.png" width="500"><br>
