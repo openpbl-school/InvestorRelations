@@ -166,12 +166,12 @@ Por razões diversas que envolvem custos, prazos e competitividade, a grande mai
 
 Contudo, ao empregar suas competências técnicas nas demandas e tarefas diárias da carreira que escolheram, estes profissionais se deparam com aspectos práticos relevantes, tais como **assimetrias de informação**, **restrições de recursos** e **pressões de ordem diversa**, que alteram (por vezes, substancialmente) as condições ideais das tarefas para as quais seus conhecimento e habilidades técnicas se aplicam sob medida. Por esta razão, embora os profissionais entrantes no mercado de trabalho tenham recursos técnicos para garantir a eficácia na execução de suas tarefas, a sua **eficiência**, isto é, a conta que considera o tempo e os demais recursos que são empregados para a execução, só é conseguida ao longo da **experiência** na função. 
 
-Assim, todas as competências adicionais que não se enquadram nos conhecimentos e habilidades técnicas para execução das tarefas profissionais em condições ideais podem ser vistas como **potenciais capacitadoras** dos indivíduos à execução de tarefas profissionais em **ambientes reais**.
+Assim, por essa visão, todas as competências adicionais que não se enquadram nos conhecimentos e habilidades técnicas para execução das tarefas profissionais em condições ideais são consideradas como **potenciais capacitadoras** dos indivíduos à execução de tarefas profissionais em **ambientes reais**.<br><br>
 
 
 **Desenvolvendo competências comportamentais da forma natural** <br>
 
-As competências comportamentais que interessam às empresas, como liderança, por exemplo, podem ser desenvolvidas segundo diversas estratégias de aprendizagem, seja diretamante através da transmissão de conhecimentos teóricos, seja indiretamente através de atividades de aprendizagem práticas. Contudo, quanto mais estas atividades se aproximam da forma **natural**, representada pela forma como os profissionais adquirem competências não comportamentais pela experiência profissional do dia-a-dia, mais relevante o desenvolvimento tende a ser. 
+As competências comportamentais que interessam às empresas, como liderança, por exemplo, podem ser desenvolvidas segundo diversas estratégias de aprendizagem, seja diretamente através da transmissão de conhecimentos teóricos, seja indiretamente através de atividades de aprendizagem práticas. Contudo, quanto mais estas atividades se aproximam da forma **natural**, representada pela forma como os profissionais adquirem competências não comportamentais pela experiência profissional do dia-a-dia, mais relevante o desenvolvimento tende a ser. 
 
 Sempre que os profissionais se deparam com situações de "imperfeição" da vida real, tais como **riscos**, **incertezas** e **preferências**, eles precisam buscar **novas formas** de atingir os mesmos resultados que atingiriam nas condições ideais. <br><br>
 
@@ -180,14 +180,16 @@ Sempre que os profissionais se deparam com situações de "imperfeição" da vid
   <em>Exemplo de uma técnica que ajuda a ser mais eficiente para atingir os resultados.</em>
 </p><br><br>
 
-Esse processo de **tentativa e erro** envolve a busca de novas técnicas e, via de regra, a **incorporação** das técnicas **mais adequadas** às suas habilidades comportamentais pessoais. Como consequência deste processo contínuo de teste e adequação, cada indivíduo acaba por reunir e **incorporar à sua atuação profissional** um **repertório único** de técnicas, modelos e estratégias empíricas com os quais ele irá contar, juntamente com suas competências técnicas, para superar os desafios a que é submetido ao longo da carreira.<br><br>
+Esse processo de **tentativa e erro** envolve a busca de novas técnicas e, via de regra, a **incorporação** das técnicas **mais adequadas** às suas habilidades pessoais. Como consequência deste processo contínuo de teste e adequação, cada indivíduo acaba por reunir e **incorporar à sua atuação profissional** um **repertório único** de técnicas, modelos e estratégias empíricas com os quais ele irá contar, juntamente com suas competências técnicas, para superar os desafios a que é submetido ao longo da carreira.<br><br>
 
 <p align="center">
   <img src="img/learning-behavior-skills-2.png" width="500"><br>
   <em>Uma mesma técnica pode não ter o mesmo efeito para outro indivíduo.</em>
 </p><br><br>
 
-Embora algumas empresas avaliem as **habilidades pessoais** e **perfis da personalidade** de seus colaboradores (modelos DISC, MBTI e Big Five) como forma de orientá-los no desenvolvimento das atitudes frente aos problemas e convívio corporativo, na grande maioria dos casos, o desenvolvimento das competências comportamentais é um processo **não supervisionado**, **auto patrocinado** e executado de forma **natural** e **inconsciente** ao longo da carreira profissional. Além disso, dependendo dos diferentes estímulos à que são submetidos os profissionais, este processo de desenvolvimento pode durar **muito tempo** ou, até mesmo, não acontecer. <br><br>
+Embora algumas empresas avaliem as **habilidades pessoais** e **perfis da personalidade** de seus colaboradores (modelos DISC, MBTI e Big Five) como forma de orientá-los no desenvolvimento das atitudes frente aos problemas e convívio corporativo, na grande maioria dos casos, o desenvolvimento das competências comportamentais é um processo **não supervisionado**, **auto patrocinado** e executado de forma **natural** e **inconsciente** ao longo da carreira profissional. 
+
+Apesar de relevante do ponto de vista de **recall** do aprendizado, a forma natural do desenvolvimento de competências comportamentais tem uma importante limitação. Por sua característica não supervisionada, dependendo dos diferentes estímulos à que são submetidos os profissionais, este processo de desenvolvimento pode durar **muito tempo** para ocorrer ou, até mesmo, não acontecer. <br><br>
 
 <p align="center">
   <img src="img/learning-behavior-skills-3.png" width="500"><br>
@@ -207,7 +209,7 @@ Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas 
 
 **Desequilíbrio de mercado**<br>
 
-Se por um lado, empresas demandam cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
+Se por um lado, conforme observado pelo Fórum Econômico Mundial, as empresas demandam cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
 
 Grande parte deste desequilíbrio ocorre porque as escolas que atuam tradicionalmente neste segmento não geram **economias de escala suficientes** para **popularizarem seus cursos**. Nem mesmo a recente introdução de tecnologias digitais nas práticas educacionais foi capaz de estimular a universalização deste tipo de programa.  
 
