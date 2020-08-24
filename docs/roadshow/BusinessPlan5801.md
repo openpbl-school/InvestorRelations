@@ -207,6 +207,10 @@ Para **acelerar** e tornar mais **assertivo** este processo, alguns **programas 
   <em>Harvard, Minerva e a escola de tecnologia #42 são exemplos bem sucedidos de aplicação da PBL.</em>
 </p><br><br>
 
+O que torna a *Problem Based Learning* relevante é a replicação do processo natural do desenvolvimento de competências comportamentais. De fato, sempre que os profissionais se deparam com situações de "imperfeição" da vida real, tais como **riscos**, **incertezas** e **preferências**, eles estão diante de um **problema** a ser resolvido. Um problema causado pela incapacidade de prevermos todas situações possíveis por conta das "imperfeições" da vida real. 
+
+Não por acaso, oito das dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo, segundo o Fórum Econômico Mundial, são competências comportamentais que aumentam a eficiência da execução das tarefas profissionais.<br><br>
+
 **Desequilíbrio de mercado**<br>
 
 Se por um lado, conforme observado pelo Fórum Econômico Mundial, as empresas demandam cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
