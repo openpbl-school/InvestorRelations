@@ -3,9 +3,17 @@
 <a name="portuguese"></a> 
 <br>
 
-## STARTUP DA OPEN-PBL
+## DETALHAMENTO DO START-UP DA EMPRESA
 
-No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa.   
+No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa. As etapas deste período são:
+1. Preparação para a operação manual B2B.
+2. Operação manual B2B.
+3. Testes e estudos de viabilidade.
+4. Desenvolvimento do software.
+5. Preparação para a operação B2C.
+6. Operação B2C. 
+7. Preparação para a operação B2B2C.
+
 
 A etpa de *startup* da empresa, prevista para o seu **primeiro ano** de operação, tem como objetivos: 
 - **Lançamento B2B**. Início da prospecção comercial <a href="#concierge">ver mais</a>
