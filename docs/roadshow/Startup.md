@@ -1,3 +1,5 @@
+<a href="#portuguese">start</a>
+
 <a name="portuguese"></a> 
 <br>
 
