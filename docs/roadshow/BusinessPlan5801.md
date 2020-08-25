@@ -112,9 +112,11 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > <a href="" target="_blank">Conversão B2B (Sistema)</a> .
 > <a href="" target="_blank">Proposta sistema de ensino</a>
 > 
-> **Outros componentes do plano de negócios**  :
+> **Plano financeiro**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Detalhamento do Startup</a></p>
+>
+> **Startup da empresa**  :
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Ações do Startup</a></p>
 
 ## <br>
 
