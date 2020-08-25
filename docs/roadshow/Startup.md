@@ -1,13 +1,17 @@
 <a name="portuguese"></a> 
 <br>
 
-## STARTUP OPEN-PBL
+## STARTUP DA OPEN-PBL
+
+No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa.   
+
 A etpa de *startup* da empresa, prevista para o seu **primeiro ano** de operação, tem como objetivos: 
-- Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
-- Estudo de mercado para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
-- Abertura formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
-- Desenvolvimento dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br> <a href="#desenvolvimento">ver mais</a>
-- Produção do estoque inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
+- **Lançamento B2B**. Início da prospecção comercial <a href="#concierge">ver mais</a>
+- **Estudos de viabilidade**. Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
+- **Estudo de mercado**. Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
+- **Abertura formal**. Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
+- **Desenvolvimento do software**. Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br> <a href="#desenvolvimento">ver mais</a>
+- **Produção de conteúdo**. Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
 
 
