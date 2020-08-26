@@ -45,39 +45,33 @@ Esta etapa é subdividida em:
 
 <br><br>
 **Testes de conceito e estudos de viabilidade**<br>
-Esta etapa é subdividida em:
-- Elaborar testes com um “**concierge MVP**”.
-- Validar algumas premissas de **custos** e de **desempenho acadêmico**.
 
-<br><a href="#concierge">ver mais</a>
+Esta etapa é subdividida em:
+- Elaborar testes com um “**concierge MVP**”. <a href="#concierge">ver mais</a>.
+- Validar algumas premissas de **custos** e de **desempenho acadêmico**.
 
 <br><br>
 **Desenvolvimento do software**<br>
+
 Esta etapa é subdividida em:
 - Construção da infra estrutura de testes.
-- Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).
-
-<br><a href="#desenvolvimento">ver mais</a>
+- Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX). <a href="#desenvolvimento">ver mais</a>
 
 <br><br>
 **Preparação para a operação B2C**<br>
 
 Esta etapa é subdividida em:
-- Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo.
+- Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
 - Mais ...
-
-<br><a href="#mercado">ver mais</a>
 
 <br><br>
 **Operação B2C (São Paulo)**<br>
 
 Esta etapa é subdividida em:
-- Constituição formal da empresa na **cidade São Paulo**.
+- Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
 - Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
 - Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
 - Mais ... 
-
-<br><a href="#abertura">ver mais</a>
 
 <br><br>
 **Preparação para a operação B2B2C**<br>
@@ -89,8 +83,7 @@ Esta etapa é subdividida em:
 ## 
 
 
-<a name="concierge"></a> 
-<br>
+
 
 ### Preparação para a operação manual B2B. 
 .
@@ -98,17 +91,19 @@ Esta etapa é subdividida em:
 .
 
 
-
-
 ### Operação manual B2B.
 .
 .
 .
 
+<a name="concierge"></a> 
+<br>
+
+## 
+
 ### Testes de conceito e estudos de viabilidade
 
-
-**CONCIERGE MVP
+**CONCIERGE MVP**<br>
 
 O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consumirá a maior parte dos recursos do *seed capital* e é o principal fator de sucesso da rodada seguinte de captação de recursos.
 
