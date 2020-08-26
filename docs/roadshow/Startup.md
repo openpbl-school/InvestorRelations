@@ -123,8 +123,9 @@ No estudo de viabilidade do e-learning, serão testadas as seguintes premissas:
 
 
 **Viabilidade do modelo de inteligência artificial**<br>
-- 
+- .
 
+<br> 
 
 <a name="concierge"></a>
 
@@ -169,7 +170,7 @@ Conforme o método OpenPBL, os encontros presenciais serão realizados em **sala
 
 Os encontros serão assistidos por **facilitadores**, contratados para auxiliar os alunos em suas  necessidades diversas. As sessões presenciais serão conduzidas **via web conference** por **tutores** contratados e treinados pelos conteudistas para execução da dinâmica das discussões entre os alunos. <br><br>
 
-**CUSTOS** <br> 
+**Custos do MVP Concierge** <br> 
 Os custos para a elaboração do projeto de desenvolvimento do *Concierge MVP* são estimados em **US $ **6.800** `(R$ 37.200)`. 
 
 A seguir, o detalhamento das premissas e valores utilizados para o cálculo.<br><br>
