@@ -11,12 +11,14 @@ No plano de negócios, o período de **startup** é definido entre a data do pri
 3. Testes e estudos de viabilidade.
 4. Desenvolvimento do software.
 5. Preparação para a operação B2C.
-6. Operação B2C. 
-7. Preparação para a operação B2B2C.
+6. Operação B2C (São Paulo). 
+7. Preparação para a operação B2B2C.<br><br>
+
+Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
 <p align="center">
-  <img src="img/startup-roadmap.png" width="500"><br>
-  <im>Premissas globais para execução do concierge MVP</im>
+  <img src="img/startup-roadmap.png" width="700"><br>
+  <im>Roadmap para o período de lançamento da empresa</im>
 </p>
 
 
