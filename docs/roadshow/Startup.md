@@ -14,6 +14,11 @@ No plano de negócios, o período de **startup** é definido entre a data do pri
 6. Operação B2C. 
 7. Preparação para a operação B2B2C.
 
+<p align="center">
+  <img src="img/startup-roadmap.png" width="500"><br>
+  <im>Premissas globais para execução do concierge MVP</im>
+</p>
+
 
 A etpa de *startup* da empresa, prevista para o seu **primeiro ano** de operação, tem como objetivos: 
 - **Lançamento B2B**. Início da prospecção comercial <a href="#concierge">ver mais</a>
