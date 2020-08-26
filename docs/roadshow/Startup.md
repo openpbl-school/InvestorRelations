@@ -119,13 +119,14 @@ O método de ensino desenvolvido pela empresa assume premissas tanto quanto à a
 **Viabilidade do e-learning**<br>
 
 No estudo de viabilidade do e-learning, serão testadas as seguintes premissas: 
-- Número de 10 participantes é suficiente para uma dinâmica de discussão da PBL.<br>
+- Número de 10 participantes é suficiente para uma dinâmica de discussão da PBL.
 
+<br>
 
 **Viabilidade do modelo de inteligência artificial**<br>
 - .
 
-<br> 
+<br>
 
 <a name="concierge"></a>
 
@@ -213,8 +214,39 @@ Locação das salas, locação de equipamentos de captação, tais como microfon
   <im>Premissas da etapa de discussão para execução do concierge MVP</im>
 </p>
 
-<br><br>
+<br>
 
+**Recursos adicionais** <br>
+
+Vídeo “como funciona” <br>
+Roteirização e execução de peça audiovisual tipo “storyboarding animado” para comunicação dos atributos do produto (Sistema Educacional) ao público-alvo de clientes.
+
+Recursos 
+- Roteirista (100 horas).
+- Animador e pós produção (100 horas). <br>
+
+Web app para e-commerce (catálogo) <br>
+Criação e execução de website para e-commerce. Usa como peça principal o Vídeo Atributos. 
+
+Recursos
+- Designer / UX (100 horas)
+- Desenvolvedor front end (100 horas).<br>
+
+Web app para e-commerce (carrinho e checkout) <br>
+Criação e execução de aplicação web e mobile de e-commerce onde os “estudantes” poderão comprar/agendar as sessões-problema. 
+
+Recursos 
+- Designer / UX (100 horas)
+- Desenvolvedor front e backend (100 horas).<br
+
+[Automatização] <br>
+Algoritmo para recomendação de sessões-problema (catálogo dinâmico)<br>
+Elaboração de algoritmo para recomendar as sessões-problema de acordo com as preferências e objetivos do público-alvo.
+
+Recursos
+- Consultor especialista (100 horas) 
+
+<br><br> 
 
 
 <a name="desenvolvimento"></a> 
@@ -223,38 +255,7 @@ Locação das salas, locação de equipamentos de captação, tais como microfon
 
 ### Desenvolvimento do software
 
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
-
-Vídeo “como funciona” <br>
-Roteirização e execução de peça audiovisual tipo “storyboarding animado” para comunicação dos atributos do produto (Sistema Educacional) ao público-alvo de clientes.
-
-Recursos 
-- Roteirista (100 horas).
-- Animador e pós produção (100 horas). <br><br> 
-
-Web app para e-commerce (catálogo) <br>
-Criação e execução de website para e-commerce. Usa como peça principal o Vídeo Atributos. 
-
-Recursos
-- Designer / UX (100 horas)
-- Desenvolvedor front end (100 horas).<br><br> 
-
-
-Web app para e-commerce (carrinho e checkout) <br>
-Criação e execução de aplicação web e mobile de e-commerce onde os “estudantes” poderão comprar/agendar as sessões-problema. 
-
-Recursos 
-- Designer / UX (100 horas)
-- Desenvolvedor front e backend (100 horas).<br><br> 
-
-
-[Automatização] Algoritmo para recomendação de sessões-problema (catálogo dinâmico)<br>
-Elaboração de algoritmo para recomendar as sessões-problema de acordo com as preferências e objetivos do público-alvo.
-
-Recursos
-- Consultor especialista (100 horas) <br><br> 
-
-
+Ações em delineamento <a href="#portuguese">voltar</a><br><br>
 
 
 <a name="mercado"></a> 
@@ -262,6 +263,8 @@ Recursos
 ##
 
 ### Preparação para a operação B2C
+
+<br>
 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
