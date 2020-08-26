@@ -47,7 +47,7 @@ Esta etapa é subdividida em:
 <br><br>
 **Testes de conceito e estudos de viabilidade**<br>
 Esta etapa é subdividida em:
-- 
+- . 
 
 Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
 
