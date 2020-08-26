@@ -34,9 +34,9 @@ Esta etapa é subdividida em:
 - Elaboração da planilha de precificação(concluído);
 - Definição do preço de lançamento e política de descontos (concluído);
 - Definição das comissão de venda (concluído);
-- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>; 
+- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>;
 
-
+<br><br>
 **Operação manual B2B**
 
 Esta etapa é subdividida em:
