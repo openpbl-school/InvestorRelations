@@ -97,7 +97,6 @@ Esta etapa é subdividida em:
 .
 
 <a name="concierge"></a> 
-<br>
 
 ## 
 
