@@ -3,7 +3,7 @@
 <a name="portuguese"></a> 
 <br>
 
-## DETALHAMENTO DO START-UP DA EMPRESA
+## START-UP DA EMPRESA
 
 No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa. Esta seção detalha este período de aproximadamente dois anos que prepara a empresa para a atuação escalável B2B2C. 
 
@@ -25,12 +25,25 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
   <im>Roadmap para o período de lançamento da empresa</im>
 </p>
 
-A etapa de *startup* da empresa, prevista para o seu **primeiro ano** de operação, tem como objetivos: 
+<br> 
 
 **Preparação para a operação manual B2B**
-Início da prospecção comercial <a href="#concierge">ver mais</a>
+
+Esta etapa é subdividida em:
+- Elaboração dos argumentos de venda (concluído);
+- Elaboração da planilha de precificação(concluído);
+- Definição do preço de lançamento e política de descontos (concluído);
+- Definição das comissão de venda (concluído);
+- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>; 
+
 
 **Operação manual B2B**
+
+Esta etapa é subdividida em:
+- Início da prospecção comercial 
+
+
+<a href="#concierge">ver mais</a>
 
 
 **Testes de conceito e estudos de viabilidade** <br>
@@ -223,7 +236,7 @@ Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 ### Operação B2C (São Paulo)
 
-**ABERTURA FORMAL DA EMPRESA 
+**ABERTURA FORMAL DA EMPRESA** 
 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
