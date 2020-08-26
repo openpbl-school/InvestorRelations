@@ -5,12 +5,14 @@
 
 ## DETALHAMENTO DO START-UP DA EMPRESA
 
+No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa. Esta seção detalha este período de aproximadamente dois anos que prepara a empresa para a atuação escalável B2B2C. 
+
 ### Roadmap
 
-No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa. As etapas previstas para este período são:
+As etapas previstas para este período de startup são:
 1. Preparação para a operação manual B2B.
 2. Operação manual B2B.
-3. Testes e estudos de viabilidade.
+3. Testes de conceito e estudos de viabilidade.
 4. Desenvolvimento do software.
 5. Preparação para a operação B2C.
 6. Operação B2C (São Paulo). 
@@ -23,24 +25,61 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
   <im>Roadmap para o período de lançamento da empresa</im>
 </p>
 
+A etapa de *startup* da empresa, prevista para o seu **primeiro ano** de operação, tem como objetivos: 
+
+**Preparação para a operação manual B2B**
+Início da prospecção comercial <a href="#concierge">ver mais</a>
+
+**Operação manual B2B**
 
 
-A etpa de *startup* da empresa, prevista para o seu **primeiro ano** de operação, tem como objetivos: 
-- **Lançamento B2B**. Início da prospecção comercial <a href="#concierge">ver mais</a>
-- **Estudos de viabilidade**. Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
-- **Estudo de mercado**. Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
-- **Abertura formal**. Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
-- **Desenvolvimento do software**. Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br> <a href="#desenvolvimento">ver mais</a>
-- **Produção de conteúdo**. Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
-- Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
+**Testes de conceito e estudos de viabilidade** <br>
+Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
 
+**Testes de conceito e estudos de viabilidade**
 
-A seguir, o detalhamento das ações para cada objetivo do startup da OpenPBL.<br>
+Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
+
+**Desenvolvimento do software**<br>
+Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br> <a href="#desenvolvimento">ver mais</a>
+
+**Preparação para a operação B2C**<br>
+Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
+
+**Operação B2C (São Paulo)**<br>
+Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
+
+Produção de conteúdo <br>
+Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
+
+Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
+
+**Preparação para a operação B2B2C**<br>
+
+## 
+
 
 <a name="concierge"></a> 
 <br>
 
-### CONCIERGE MVP 
+### Preparação para a operação manual B2B. 
+.
+.
+.
+
+
+
+
+### Operação manual B2B.
+.
+.
+.
+
+### Testes de conceito e estudos de viabilidade
+
+
+**CONCIERGE MVP
+
 O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consumirá a maior parte dos recursos do *seed capital* e é o principal fator de sucesso da rodada seguinte de captação de recursos.
 
 Resumidamente, o concierge MVP é um **projeto piloto** de aplicação do **método OpenPBL** para a capacitação profissionalizante de **30 alunos** por uma mesma **trilha de 4 cursos**. 
@@ -124,40 +163,12 @@ Locação das salas, locação de equipamentos de captação, tais como microfon
 <br><br>
 
 
-...
-
-<a name="mercado"></a> 
-<br>
-
-### ESTUDO DE MERCADO 
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
-
-
-<a name="abertura"></a> 
-<br>
-
-### ABERTURA FORMAL DA EMPRESA 
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
-
-
-<a name="estoque"></a> 
-<br>
-
-### ESTOQUE INICIAL DE TÍTULOS 
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
-
-
-<a name="lancamento"></a> 
-<br>
-
-### LANÇAMENTO DOS CURSOS 
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
-
 
 <a name="desenvolvimento"></a> 
 <br>
 
-### DESENVOLVIMENTO DO SISTEMA 
+### Desenvolvimento do software
+
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 Vídeo “como funciona” <br>
@@ -191,3 +202,50 @@ Elaboração de algoritmo para recomendar as sessões-problema de acordo com as 
 Recursos
 - Consultor especialista (100 horas) <br><br> 
 
+
+
+
+
+
+
+<a name="mercado"></a> 
+<br>
+
+### 
+
+**Preparação para a operação B2C
+
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
+
+
+<a name="abertura"></a> 
+<br>
+
+### Operação B2C (São Paulo)
+
+**ABERTURA FORMAL DA EMPRESA 
+
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
+
+
+<a name="estoque"></a> 
+<br>
+
+### ESTOQUE INICIAL DE TÍTULOS 
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
+
+
+<a name="lancamento"></a> 
+<br>
+
+### LANÇAMENTO DOS CURSOS 
+Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
+
+
+### Preparação para a operação B2B2C
+.
+.
+.
+...
+
+## 
