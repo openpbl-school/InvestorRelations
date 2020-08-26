@@ -85,8 +85,6 @@ Esta etapa é subdividida em:
 
 
 
-
-
 ## 
 
 ### Preparação para a operação manual B2B. 
@@ -109,19 +107,32 @@ Esta etapa é subdividida em:
 
 ### Testes de conceito e estudos de viabilidade
 
-**Estudos**<br>
-Dois estudos:
+<br>
+
+**Estudos de viabilidade**<br>
+O método de ensino desenvolvido pela empresa assume premissas tanto quanto à adaptação da estratégia de aprendizagem quanto dos modelos de inteligência artificial. Assim, serão efetuados dois estudos de viabilidade:
 - Viabilidade do e-learning
-- Viabilidade da IA
+- Viabilidade do modelo de inteligência artificial
 
 <br> 
+
+**Viabilidade do e-learning**<br>
+
+No estudo de viabilidade do e-learning, serão testadas as seguintes premissas: 
+- Número de 10 participantes é suficiente para uma dinâmica de discussão da PBL.<br>
+
+
+**Viabilidade do modelo de inteligência artificial**<br>
+- 
 
 
 <a name="concierge"></a>
 
 **Concierge MVP**<br>
 
-O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consumirá a maior parte dos recursos do *seed capital* e é o principal fator de sucesso da rodada seguinte de captação de recursos.
+O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consumirá a maior parte dos recursos do *seed capital* e é o principal fator de sucesso da rodada seguinte de captação de recursos. 
+
+O concierge MVP irá permitir a comprovação dos dois estudos de viabilidade previstos. 
 
 Resumidamente, o concierge MVP é um **projeto piloto** de aplicação do **método OpenPBL** para a capacitação profissionalizante de **30 alunos** por uma mesma **trilha de 4 cursos**. 
 
