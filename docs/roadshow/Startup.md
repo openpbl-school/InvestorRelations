@@ -45,8 +45,7 @@ Esta etapa é subdividida em:
 <a href="#concierge">ver mais</a>
 
 <br><br>
-**Testes de conceito e estudos de viabilidade** <br>
-
+**Testes de conceito e estudos de viabilidade**<br>
 Esta etapa é subdividida em:
 - 
 
@@ -56,15 +55,14 @@ Elaborar testes com um “**concierge MVP**” para validar algumas premissas de
 **Testes de conceito e estudos de viabilidade**
 
 Esta etapa é subdividida em:
-- 
+- . 
 
 Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
 
 <br><br>
 **Desenvolvimento do software**<br>
-
 Esta etapa é subdividida em:
-- 
+- . 
 
 Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br> <a href="#desenvolvimento">ver mais</a>
 
