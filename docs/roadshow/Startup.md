@@ -26,72 +26,65 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 </p>
 
 <br><br>
-**Preparação para a operação manual B2B**
+**Preparação para a operação manual B2B**<br>
 
 Esta etapa é subdividida em:
-- Elaboração dos argumentos de venda (concluído);
-- Elaboração da planilha de precificação(concluído);
+- Elaboração dos argumentos de venda <br>;
+- Elaboração da planilha de precificação (concluído);
 - Definição do preço de lançamento e política de descontos (concluído);
 - Definição das comissão de venda (concluído);
 - Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>;
 
 <br><br>
-**Operação manual B2B**
+**Operação manual B2B**<br>
 
 Esta etapa é subdividida em:
-- Início da prospecção comercial 
-
-
-<a href="#concierge">ver mais</a>
+- Fomento de parcerias com consultorias de RH (iniciado);
+- Início da prospecção comercial (iniciado);
+- Ofertas e fechamento ;
 
 <br><br>
 **Testes de conceito e estudos de viabilidade**<br>
 Esta etapa é subdividida em:
-- . 
+- Elaborar testes com um “**concierge MVP**”;
+- Validar algumas premissas de **custos** e de **desempenho acadêmico**; 
 
-Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
-
-<br><br>
-**Testes de conceito e estudos de viabilidade**
-
-Esta etapa é subdividida em:
-- . 
-
-Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
+<br><a href="#concierge">ver mais</a>
 
 <br><br>
 **Desenvolvimento do software**<br>
 Esta etapa é subdividida em:
-- . 
+- Construção da infra estrutura de testes;
+- Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).
 
-Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br> <a href="#desenvolvimento">ver mais</a>
+<br><a href="#desenvolvimento">ver mais</a>
 
 <br><br>
 **Preparação para a operação B2C**<br>
 
 Esta etapa é subdividida em:
-- 
+- Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo.
+- Mais ...
 
-Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
+<br><a href="#mercado">ver mais</a>
 
 <br><br>
 **Operação B2C (São Paulo)**<br>
 
 Esta etapa é subdividida em:
-- 
+- Constituição formal da empresa na **cidade São Paulo**.
+- Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
+- Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
+- Mais ... 
 
-Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
-
-Produção de conteúdo <br>
-Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
-
-Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
+<br><a href="#abertura">ver mais</a>
 
 <br><br>
 **Preparação para a operação B2B2C**<br>
 
 Esta etapa é subdividida em:
-- 
+- . 
+
 
 ## 
 
