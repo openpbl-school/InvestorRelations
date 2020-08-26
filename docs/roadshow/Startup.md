@@ -5,7 +5,9 @@
 
 ## DETALHAMENTO DO START-UP DA EMPRESA
 
-No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa. As etapas deste período são:
+### Roadmap
+
+No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa. As etapas previstas para este período são:
 1. Preparação para a operação manual B2B.
 2. Operação manual B2B.
 3. Testes e estudos de viabilidade.
@@ -20,6 +22,7 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
   <img src="img/startup-roadmap.png" width="700"><br>
   <im>Roadmap para o período de lançamento da empresa</im>
 </p>
+
 
 
 A etpa de *startup* da empresa, prevista para o seu **primeiro ano** de operação, tem como objetivos: 
