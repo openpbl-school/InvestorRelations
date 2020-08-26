@@ -25,8 +25,7 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
   <im>Roadmap para o período de lançamento da empresa</im>
 </p>
 
-<br> 
-
+<br><br>
 **Preparação para a operação manual B2B**
 
 Esta etapa é subdividida em:
@@ -45,21 +44,44 @@ Esta etapa é subdividida em:
 
 <a href="#concierge">ver mais</a>
 
-
+<br><br>
 **Testes de conceito e estudos de viabilidade** <br>
+
+Esta etapa é subdividida em:
+- 
+
 Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
 
+<br><br>
 **Testes de conceito e estudos de viabilidade**
 
+Esta etapa é subdividida em:
+- 
+
 Elaborar testes com um “**concierge MVP**” para validar algumas premissas de **custos** e de **desempenho acadêmico** utilizadas no Plano de Negócios. <a href="#concierge">ver mais</a>
 
+<br><br>
 **Desenvolvimento do software**<br>
+
+Esta etapa é subdividida em:
+- 
+
 Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).<br> <a href="#desenvolvimento">ver mais</a>
 
+<br><br>
 **Preparação para a operação B2C**<br>
+
+Esta etapa é subdividida em:
+- 
+
 Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
 
+<br><br>
 **Operação B2C (São Paulo)**<br>
+
+Esta etapa é subdividida em:
+- 
+
 Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
 
 Produção de conteúdo <br>
@@ -67,7 +89,11 @@ Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ve
 
 Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
 
+<br><br>
 **Preparação para a operação B2B2C**<br>
+
+Esta etapa é subdividida em:
+- 
 
 ## 
 
