@@ -29,32 +29,32 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 **Preparação para a operação manual B2B**<br>
 
 Esta etapa é subdividida em:
-- Elaboração dos argumentos de venda <br>;
-- Elaboração da planilha de precificação (concluído);
-- Definição do preço de lançamento e política de descontos (concluído);
-- Definição das comissão de venda (concluído);
-- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>;
+- Elaboração dos argumentos de venda.
+- Elaboração da planilha de precificação (concluído).
+- Definição do preço de lançamento e política de descontos (concluído).
+- Definição das comissão de venda (concluído).
+- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>.
 
 <br><br>
 **Operação manual B2B**<br>
 
 Esta etapa é subdividida em:
-- Fomento de parcerias com consultorias de RH (iniciado);
-- Início da prospecção comercial (iniciado);
-- Ofertas e fechamento ;
+- Fomento de parcerias com consultorias de RH (iniciado).
+- Início da prospecção comercial (iniciado).
+- Ofertas e fechamento.
 
 <br><br>
 **Testes de conceito e estudos de viabilidade**<br>
 Esta etapa é subdividida em:
-- Elaborar testes com um “**concierge MVP**”;
-- Validar algumas premissas de **custos** e de **desempenho acadêmico**; 
+- Elaborar testes com um “**concierge MVP**”.
+- Validar algumas premissas de **custos** e de **desempenho acadêmico**.
 
 <br><a href="#concierge">ver mais</a>
 
 <br><br>
 **Desenvolvimento do software**<br>
 Esta etapa é subdividida em:
-- Construção da infra estrutura de testes;
+- Construção da infra estrutura de testes.
 - Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX).
 
 <br><a href="#desenvolvimento">ver mais</a>
