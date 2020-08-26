@@ -79,22 +79,29 @@ Esta etapa é subdividida em:
 Esta etapa é subdividida em:
 - . 
 
+<br><br><br>
+
+
+
+
+
+
 
 ## 
 
-
-
-
 ### Preparação para a operação manual B2B. 
-.
-.
-.
 
+...
+
+
+
+##
 
 ### Operação manual B2B.
-.
-.
-.
+
+...
+
+
 
 <a name="concierge"></a> 
 
@@ -189,7 +196,8 @@ Locação das salas, locação de equipamentos de captação, tais como microfon
 
 
 <a name="desenvolvimento"></a> 
-<br>
+
+## 
 
 ### Desenvolvimento do software
 
@@ -201,8 +209,6 @@ Roteirização e execução de peça audiovisual tipo “storyboarding animado�
 Recursos 
 - Roteirista (100 horas).
 - Animador e pós produção (100 horas). <br><br> 
-
-
 
 Web app para e-commerce (catálogo) <br>
 Criação e execução de website para e-commerce. Usa como peça principal o Vídeo Atributos. 
@@ -229,25 +235,22 @@ Recursos
 
 
 
-
-
-
 <a name="mercado"></a> 
-<br>
 
-### 
+##
 
-**Preparação para a operação B2C
+### Preparação para a operação B2C
 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 <a name="abertura"></a> 
-<br>
+
+##
 
 ### Operação B2C (São Paulo)
 
-**ABERTURA FORMAL DA EMPRESA** 
+**ABERTURA FORMAL DA EMPRESA** <br>
 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
@@ -255,16 +258,19 @@ Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 <a name="estoque"></a> 
 <br>
 
-### ESTOQUE INICIAL DE TÍTULOS 
+**ESTOQUE INICIAL DE TÍTULOS** <br> 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 <a name="lancamento"></a> 
 <br>
 
-### LANÇAMENTO DOS CURSOS 
+**LANÇAMENTO DOS CURSOS** <br>
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
+
+
+##
 
 ### Preparação para a operação B2B2C
 .
