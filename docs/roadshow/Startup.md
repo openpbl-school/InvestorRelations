@@ -103,13 +103,23 @@ Esta etapa é subdividida em:
 
 
 
-<a name="concierge"></a> 
+
 
 ## 
 
 ### Testes de conceito e estudos de viabilidade
 
-**CONCIERGE MVP**<br>
+**Estudos**<br>
+Dois estudos:
+- Viabilidade do e-learning
+- Viabilidade da IA
+
+<br> 
+
+
+<a name="concierge"></a>
+
+**Concierge MVP**<br>
 
 O desenvolvimento de um <a href="https://ibuildmvps.com/blog/the-concierge-minimum-viable-product-maximizes-customer-learning/" target="_blank">"concierge MVP"</a> é a principal ação da etapa de *startup* empresa. Sua implementação consumirá a maior parte dos recursos do *seed capital* e é o principal fator de sucesso da rodada seguinte de captação de recursos.
 
