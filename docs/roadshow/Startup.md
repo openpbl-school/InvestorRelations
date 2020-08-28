@@ -16,7 +16,8 @@ As etapas previstas para este período de startup são:
 4. Desenvolvimento do software.
 5. Preparação para a operação B2C.
 6. Operação B2C (São Paulo). 
-7. Preparação para a operação B2B2C.<br><br>
+7. Preparação para a operação B2B2C.
+8. Preparação para a profissionalização da empresa.<br><br>
 
 Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
@@ -26,6 +27,7 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 </p>
 
 <br><br>
+
 **Preparação para a operação manual B2B**<br>
 
 Esta etapa é subdividida em:
@@ -82,10 +84,11 @@ Esta etapa é subdividida em:
 <br><br><br>
 
 
-
-
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
 ## 
+
+<br>
 
 ### Preparação para a operação manual B2B. 
 
