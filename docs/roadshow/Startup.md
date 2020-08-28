@@ -46,13 +46,15 @@ Esta etapa é subdividida em:
 - Elaboração da planilha de precificação (concluído).
 - Definição do preço de lançamento e política de descontos (concluído).
 - Definição das comissão de venda (concluído).
-- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>.<br><br>
+- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>.
+
+<br><br>
 
 **Argumentos de venda B2B**<br>
 
 <br><br>
 
-**planilha de precificação**<br>
+**Planilha de precificação**<br>
 
 <p align="center">
   <img src="img/startup-plan-precif.png" width="700"><br>
@@ -61,15 +63,15 @@ Esta etapa é subdividida em:
 
 <br><br>
 
-**preço de lançamento e política de descontos**<br>
+**Política de preço e descontos**<br>
 
 <br><br>
 
-**comissão de venda**<br>
+**Comissão de venda**<br>
 
 <br><br>
 
-**proposta comercial**<br>
+**Proposta comercial**<br>
 
 <p align="center">
   <img src="img/startup-proposta-b2b-1.png" width="700"><br>
