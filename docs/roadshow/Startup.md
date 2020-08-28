@@ -112,7 +112,7 @@ Esta etapa é subdividida em:
 
 <br><br>
 
-**prospecção comercial**<br>
+**Prospecção comercial**<br>
 
 <br><br>
 
@@ -132,10 +132,6 @@ Esta etapa é subdividida em:
 <br><br> 
 
 ### Testes de conceito e estudos de viabilidade
-
-<br>
-
-**Testes de conceito e estudos de viabilidade**<br>
 
 Esta etapa é subdividida em:
 - Elaborar testes com um “**concierge MVP**”. 
@@ -293,8 +289,6 @@ Recursos
 
 ### Desenvolvimento do software
 
-**Desenvolvimento do software**<br>
-
 Esta etapa é subdividida em:
 - Construção da infraestrutura de testes.
 - Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX). 
@@ -325,10 +319,6 @@ Esta etapa é subdividida em:
 <br><br>
 
 ### Preparação para a operação B2C
-
-<br>
-
-**Preparação para a operação B2C**<br>
 
 Esta etapa é subdividida em:
 - Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. 
@@ -412,6 +402,10 @@ Esta etapa é subdividida em:
 .
 .
 .
+...
 
+<br><br>
+
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
 ## 
