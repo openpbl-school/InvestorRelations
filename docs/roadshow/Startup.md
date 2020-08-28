@@ -53,10 +53,33 @@ Esta etapa é subdividida em:
 **Argumentos de venda B2B**<br>
 
 Os argumentos para a venda B2B foram divididos em 4 seções, dispostas sequancialmente na proposta comercial.
-- Porque desenvolver competências comportamentais?
-- Como desenvolver competências comportamentais?
-- O que é uma trilha de especualização baseada em problemas
-- Quais competências pode ser desenvolvidas com a trilha de especialização? 
+1. Porque desenvolver competências comportamentais?
+2. Como desenvolver competências comportamentais?
+3. O que é uma trilha de especualização baseada em problemas
+4. Quais competências pode ser desenvolvidas com a trilha de especialização? 
+
+Porque desenvolver competências comportamentais? <br>
+Conhecimentos e habilidades técnicas são importantes para que profissionais alcancem os resultados esperados por suas empresas...
+..., mas é o domínio de algumas competências comportamentais  que permite que estes profissionais o façam de forma mais eficiente.
+
+O PROFISSIONAL DO FUTURO <br>
+Uma pesquisa publicada em 2018 pelo Fórum Econômico Mundial elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo.
+
+Entre as competências comportamentais mais valiosas no mundo corporativo, estão: 
+- Estruturação de problemas mal definidos; 
+- Tomada de decisão envolvendo incertezas e objetivos conflitantes; 
+- Tomada de decisão envolvendo restrições de recursos, restrições éticas e sujeitas a regras de compliance;
+- Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação;  
+- Atuação sob pressão de prazo, desempenho e opiniões diversas;
+- Visão orçamentária e atitude empreendedora.
+
+Algumas competências comportamentais resultam em ganho de eficiência profissional, ou seja, permitem atingir os resultados com menos dispêndio de recursos e/ou num prazo mais curto. 
+
+Como desenvolver competências comportamentais? <br>
+
+O que é uma trilha de especualização baseada em problemas <br>
+
+Quais competências pode ser desenvolvidas com a trilha de especialização? <br>
 
 <br><br>
 
