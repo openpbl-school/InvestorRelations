@@ -52,6 +52,12 @@ Esta etapa é subdividida em:
 
 **Argumentos de venda B2B**<br>
 
+Os argumentos para a venda B2B foram divididos em 4 seções, dispostas sequancialmente na proposta comercial.
+- Porque desenvolver competências comportamentais?
+- Como desenvolver competências comportamentais?
+- O que é uma trilha de especualização baseada em problemas
+- Quais competências pode ser desenvolvidas com a trilha de especialização? 
+
 <br><br>
 
 **Planilha de precificação**<br>
