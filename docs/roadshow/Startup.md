@@ -28,6 +28,25 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
 <br><br>
 
+
+
+
+
+
+
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
+
+## 
+
+
+
+
+
+
+<br><br>
+
+### Preparação para a operação manual B2B. 
+
 **Preparação para a operação manual B2B**<br>
 
 Esta etapa é subdividida em:
@@ -38,6 +57,22 @@ Esta etapa é subdividida em:
 - Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>.
 
 <br><br>
+
+
+
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
+
+## 
+
+
+
+
+
+
+<br><br>
+
+### Operação manual B2B.
+
 **Operação manual B2B**<br>
 
 Esta etapa é subdividida em:
@@ -46,6 +81,26 @@ Esta etapa é subdividida em:
 - Ofertas e fechamento.
 
 <br><br>
+
+
+
+
+
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
+
+## 
+
+
+
+
+
+
+<br><br> 
+
+### Testes de conceito e estudos de viabilidade
+
+<br>
+
 **Testes de conceito e estudos de viabilidade**<br>
 
 Esta etapa é subdividida em:
@@ -53,64 +108,6 @@ Esta etapa é subdividida em:
 - Validar algumas premissas de **custos** e de **desempenho acadêmico**.
 
 <br><br>
-**Desenvolvimento do software**<br>
-
-Esta etapa é subdividida em:
-- Construção da infra estrutura de testes.
-- Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX). <a href="#desenvolvimento">ver mais</a>
-
-<br><br>
-**Preparação para a operação B2C**<br>
-
-Esta etapa é subdividida em:
-- Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
-- Mais ...
-
-<br><br>
-**Operação B2C (São Paulo)**<br>
-
-Esta etapa é subdividida em:
-- Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
-- Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
-- Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
-- Mais ... 
-
-<br><br>
-**Preparação para a operação B2B2C**<br>
-
-Esta etapa é subdividida em:
-- . 
-
-<br><br><br>
-
-
-<p align="center"><a href="#portuguese">voltar</a><br><br></p>
-
-## 
-
-<br>
-
-### Preparação para a operação manual B2B. 
-
-...
-
-
-
-##
-
-### Operação manual B2B.
-
-...
-
-
-
-
-
-## 
-
-### Testes de conceito e estudos de viabilidade
-
-<br>
 
 **Estudos de viabilidade**<br>
 O método de ensino desenvolvido pela empresa assume premissas tanto quanto à adaptação da estratégia de aprendizagem quanto dos modelos de inteligência artificial. Assim, serão efetuados dois estudos de viabilidade:
@@ -254,31 +251,86 @@ Recursos
 
 <a name="desenvolvimento"></a> 
 
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
+
 ## 
 
+
+
+
+
+
+<br><br> 
+
 ### Desenvolvimento do software
+
+**Desenvolvimento do software**<br>
+
+Esta etapa é subdividida em:
+- Construção da infra estrutura de testes.
+- Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX). <a href="#desenvolvimento">ver mais</a>
+
+<br><br>
 
 Ações em delineamento <a href="#portuguese">voltar</a><br><br>
 
 
 <a name="mercado"></a> 
 
-##
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
+
+## 
+
+
+
+
+
+
+<br><br>
 
 ### Preparação para a operação B2C
 
 <br>
+
+**Preparação para a operação B2C**<br>
+
+Esta etapa é subdividida em:
+- Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
+- Mais ...
+
+
 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 <a name="abertura"></a> 
 
-##
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
+
+## 
+
+
+
+
+
+
+<br><br>
 
 ### Operação B2C (São Paulo)
 
 **ABERTURA FORMAL DA EMPRESA** <br>
+
+<br><br>
+**Operação B2C (São Paulo)**<br>
+
+Esta etapa é subdividida em:
+- Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
+- Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
+- Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
+- Mais ... 
+
+
+<br><br><br>
 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
@@ -298,7 +350,16 @@ Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 
-##
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
+
+## 
+
+
+
+
+
+
+<br><br>
 
 ### Preparação para a operação B2B2C
 .
