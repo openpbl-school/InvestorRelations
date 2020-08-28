@@ -30,7 +30,7 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+## <br>
 
 
 
