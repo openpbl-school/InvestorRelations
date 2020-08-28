@@ -3,21 +3,21 @@
 <a name="portuguese"></a> 
 <br>
 
-## START-UP DA EMPRESA
+## STARTUP DA EMPRESA
 
 No plano de negócios, o período de **startup** é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa. Esta seção detalha este período de aproximadamente dois anos que prepara a empresa para a atuação escalável B2B2C. 
 
 ### Roadmap
 
 As etapas previstas para este período de startup são:
-1. Preparação para a operação manual B2B.
-2. Operação manual B2B.
-3. Testes de conceito e estudos de viabilidade.
-4. Desenvolvimento do software.
-5. Preparação para a operação B2C.
-6. Operação B2C (São Paulo). 
-7. Preparação para a operação B2B2C.
-8. Preparação para a profissionalização da empresa.<br><br>
+1. Preparação para a operação manual B2B.<a href="#prep-b2b">ver mais</a>.
+2. Operação manual B2B.<a href="#ope-b2b">ver mais</a>.
+3. Testes de conceito e estudos de viabilidade. <a href="#testes">ver mais</a>.
+4. Desenvolvimento do software. <a href="#desenvolvimento">ver mais</a>
+5. Preparação para a operação B2C. <a href="#prep-b2c">ver mais</a>
+6. Operação B2C (São Paulo). <a href="#ope-b2c">ver mais</a>
+7. Preparação para a operação B2B2C.<a href="#prep-b2b2c">ver mais</a>.
+8. Preparação para a profissionalização da empresa.<br><br> <a href="#prep-prof">ver mais</a>
 
 Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
@@ -41,7 +41,7 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
 
 
-
+<a name="prep-b2b"></a>
 
 <br><br>
 
@@ -54,11 +54,7 @@ Esta etapa é subdividida em:
 - Elaboração da planilha de precificação (concluído).
 - Definição do preço de lançamento e política de descontos (concluído).
 - Definição das comissão de venda (concluído).
-- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>.
-
-<br><br>
-
-
+- Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>.<br><br>
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
@@ -67,7 +63,7 @@ Esta etapa é subdividida em:
 
 
 
-
+<a name="ope-b2b"></a>
 
 <br><br>
 
@@ -78,13 +74,7 @@ Esta etapa é subdividida em:
 Esta etapa é subdividida em:
 - Fomento de parcerias com consultorias de RH (iniciado).
 - Início da prospecção comercial (iniciado).
-- Ofertas e fechamento.
-
-<br><br>
-
-
-
-
+- Ofertas e fechamento.<br><br>
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
@@ -93,7 +83,7 @@ Esta etapa é subdividida em:
 
 
 
-
+<a name="testes"></a>
 
 <br><br> 
 
@@ -104,7 +94,7 @@ Esta etapa é subdividida em:
 **Testes de conceito e estudos de viabilidade**<br>
 
 Esta etapa é subdividida em:
-- Elaborar testes com um “**concierge MVP**”. <a href="#concierge">ver mais</a>.
+- Elaborar testes com um “**concierge MVP**”. 
 - Validar algumas premissas de **custos** e de **desempenho acadêmico**.
 
 <br><br>
@@ -128,7 +118,6 @@ No estudo de viabilidade do e-learning, serão testadas as seguintes premissas:
 
 <br>
 
-<a name="concierge"></a>
 
 **Concierge MVP**<br>
 
@@ -248,9 +237,6 @@ Recursos
 
 <br><br> 
 
-
-<a name="desenvolvimento"></a> 
-
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
 ## 
@@ -258,7 +244,7 @@ Recursos
 
 
 
-
+<a name="desenvolvimento"></a> 
 
 <br><br> 
 
@@ -268,14 +254,9 @@ Recursos
 
 Esta etapa é subdividida em:
 - Construção da infra estrutura de testes.
-- Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX). <a href="#desenvolvimento">ver mais</a>
+- Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX). 
 
 <br><br>
-
-Ações em delineamento <a href="#portuguese">voltar</a><br><br>
-
-
-<a name="mercado"></a> 
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
@@ -284,7 +265,7 @@ Ações em delineamento <a href="#portuguese">voltar</a><br><br>
 
 
 
-
+<a name="prep-b2c"></a> 
 
 <br><br>
 
@@ -295,15 +276,8 @@ Ações em delineamento <a href="#portuguese">voltar</a><br><br>
 **Preparação para a operação B2C**<br>
 
 Esta etapa é subdividida em:
-- Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. <a href="#mercado">ver mais</a>
+- Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. 
 - Mais ...
-
-
-
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
-
-
-<a name="abertura"></a> 
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
@@ -312,7 +286,7 @@ Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 
-
+<a name="ope-b2c"></a> 
 
 <br><br>
 
@@ -320,35 +294,29 @@ Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 **ABERTURA FORMAL DA EMPRESA** <br>
 
-<br><br>
+<br>
+
 **Operação B2C (São Paulo)**<br>
 
 Esta etapa é subdividida em:
-- Constituição formal da empresa na **cidade São Paulo**. <a href="#abertura">ver mais</a>
+- Constituição formal da empresa na **cidade São Paulo**. 
 - Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
-- Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. <a href="#lancamento">ver mais</a>
+- Lançamento das primeiras trilhas, validação das **premissas de mercado** utilizadas no plano de negócios e ajustes na campanha. 
 - Mais ... 
 
-
-<br><br><br>
-
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
+<br><br>
 
 
-<a name="estoque"></a> 
-<br>
 
 **ESTOQUE INICIAL DE TÍTULOS** <br> 
 Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
-<a name="lancamento"></a> 
-<br>
 
 **LANÇAMENTO DOS CURSOS** <br>
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
+Ações em delineamento <a href="#portuguese">voltar</a> 
 
-
+<br><br>
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
@@ -357,7 +325,7 @@ Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 
 
 
-
+<a name="prep-b2b2c"></a> 
 
 <br><br>
 
@@ -366,5 +334,24 @@ Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
 .
 .
 ...
+
+<br><br>
+
+<p align="center"><a href="#portuguese">voltar</a><br><br></p>
+
+## 
+
+
+
+
+<a name="prep-prof"></a> 
+
+<br><br>
+
+### Preparação para a operação B2B2C
+.
+.
+.
+
 
 ## 
