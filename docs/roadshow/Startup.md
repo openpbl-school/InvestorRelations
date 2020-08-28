@@ -41,14 +41,52 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
 ### Preparação para a operação manual B2B. 
 
-**Preparação para a operação manual B2B**<br>
-
 Esta etapa é subdividida em:
-- Elaboração dos argumentos de venda.
+- Elaboração dos argumentos de venda B2B.
 - Elaboração da planilha de precificação (concluído).
 - Definição do preço de lançamento e política de descontos (concluído).
 - Definição das comissão de venda (concluído).
 - Elaboração da proposta comercial <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">(concluído)</a>.<br><br>
+
+**Argumentos de venda B2B**<br>
+
+<br><br>
+
+**planilha de precificação**<br>
+
+<p align="center">
+  <img src="img/startup-plan-precif.png" width="700"><br>
+  <im>Roadmap para o período de lançamento da empresa</im>
+</p>
+
+<br><br>
+
+**preço de lançamento e política de descontos**<br>
+
+<br><br>
+
+**comissão de venda**<br>
+
+<br><br>
+
+**proposta comercial**<br>
+
+<p align="center">
+  <img src="img/startup-proposta-b2b-1.png" width="700"><br>
+  <im>Roadmap para o período de lançamento da empresa</im>
+</p>
+
+<p align="center">
+  <img src="img/startup-proposta-b2b-2.png" width="700"><br>
+  <im>Roadmap para o período de lançamento da empresa</im>
+</p>
+
+<p align="center">
+  <img src="img/startup-proposta-b2b-3.png" width="700"><br>
+  <im>Roadmap para o período de lançamento da empresa</im>
+</p>
+
+<br><br>
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
@@ -63,12 +101,22 @@ Esta etapa é subdividida em:
 
 ### Operação manual B2B.
 
-**Operação manual B2B**<br>
-
 Esta etapa é subdividida em:
 - Fomento de parcerias com consultorias de RH (iniciado).
 - Início da prospecção comercial (iniciado).
 - Ofertas e fechamento.<br><br>
+
+**Parcerias com consultorias de RH**<br>
+
+<br><br>
+
+**prospecção comercial**<br>
+
+<br><br>
+
+**Ofertas e fechamento**<br>
+
+<br><br>
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
@@ -98,20 +146,19 @@ O método de ensino desenvolvido pela empresa assume premissas tanto quanto à a
 - Viabilidade do e-learning
 - Viabilidade do modelo de inteligência artificial
 
-<br> 
+<br><br>
 
 **Viabilidade do e-learning**<br>
 
 No estudo de viabilidade do e-learning, serão testadas as seguintes premissas: 
 - Número de 10 participantes é suficiente para uma dinâmica de discussão da PBL.
 
-<br>
+<br><br>
 
 **Viabilidade do modelo de inteligência artificial**<br>
 - .
 
-<br>
-
+<br><br>
 
 **Concierge MVP**<br>
 
@@ -197,7 +244,7 @@ Locação das salas, locação de equipamentos de captação, tais como microfon
   <im>Premissas da etapa de discussão para execução do concierge MVP</im>
 </p>
 
-<br>
+<br><br>
 
 **Recursos adicionais** <br>
 
@@ -247,8 +294,20 @@ Recursos
 **Desenvolvimento do software**<br>
 
 Esta etapa é subdividida em:
-- Construção da infra estrutura de testes.
+- Construção da infraestrutura de testes.
 - Planejamento e codificação dos componentes de software do **sistema educacional proprietário** da empresa (CAPEX). 
+
+<br><br>
+
+**Infraestrutura de testes**<br>
+
+<br><br>
+
+**Arquitetura do software**<br>
+
+<br><br>
+
+**Codificação do software**<br>
 
 <br><br>
 
@@ -273,6 +332,20 @@ Esta etapa é subdividida em:
 - Estudo para **escolha das trilhas funcionais** para oferta inicial na cidade São Paulo. 
 - Mais ...
 
+<br><br>
+
+**Pesquisa de mercado**<br>
+
+<br><br>
+
+**Ambientes web de conversão**<br>
+
+<br><br>
+
+**Estoque inicial de títulos**<br> 
+
+<br><br>
+
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
 ## 
@@ -286,12 +359,6 @@ Esta etapa é subdividida em:
 
 ### Operação B2C (São Paulo)
 
-**ABERTURA FORMAL DA EMPRESA** <br>
-
-<br>
-
-**Operação B2C (São Paulo)**<br>
-
 Esta etapa é subdividida em:
 - Constituição formal da empresa na **cidade São Paulo**. 
 - Produção do estoque mínimo inicial de títulos (CAPEX). <a href="#estoque">ver mais</a>
@@ -300,15 +367,11 @@ Esta etapa é subdividida em:
 
 <br><br>
 
+**Constituição da empresa**<br>
 
+<br><br>
 
-**ESTOQUE INICIAL DE TÍTULOS** <br> 
-Ações em delineamento <a href="#portuguese">voltar</a> <br><br>
-
-
-
-**LANÇAMENTO DOS CURSOS** <br>
-Ações em delineamento <a href="#portuguese">voltar</a> 
+**Lançamento dos cursos**<br>
 
 <br><br>
 
