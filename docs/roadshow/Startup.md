@@ -92,7 +92,7 @@ Esta etapa é subdividida em:
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+##  <br>
 
 
 
@@ -122,7 +122,7 @@ Esta etapa é subdividida em:
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+##  <br>
 
 
 
@@ -278,7 +278,7 @@ Recursos
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+##  <br>
 
 
 
@@ -309,7 +309,7 @@ Esta etapa é subdividida em:
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+##  <br>
 
 
 
@@ -340,7 +340,7 @@ Esta etapa é subdividida em:
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+##  <br>
 
 
 
@@ -369,7 +369,7 @@ Esta etapa é subdividida em:
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+##  <br>
 
 
 
@@ -388,7 +388,7 @@ Esta etapa é subdividida em:
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+##  <br>
 
 
 
@@ -408,4 +408,4 @@ Esta etapa é subdividida em:
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
-## 
+##  <br>
