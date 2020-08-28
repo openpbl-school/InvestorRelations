@@ -10,14 +10,14 @@ No plano de negócios, o período de **startup** é definido entre a data do pri
 ### Roadmap
 
 As etapas previstas para este período de startup são:
-1. Preparação para a operação manual B2B.<a href="#prep-b2b">ver mais</a>.
-2. Operação manual B2B.<a href="#ope-b2b">ver mais</a>.
-3. Testes de conceito e estudos de viabilidade. <a href="#testes">ver mais</a>.
-4. Desenvolvimento do software. <a href="#desenvolvimento">ver mais</a>
-5. Preparação para a operação B2C. <a href="#prep-b2c">ver mais</a>
-6. Operação B2C (São Paulo). <a href="#ope-b2c">ver mais</a>
-7. Preparação para a operação B2B2C.<a href="#prep-b2b2c">ver mais</a>.
-8. Preparação para a profissionalização da empresa.<br><br> <a href="#prep-prof">ver mais</a>
+1. Preparação para a operação manual B2B.  <a href="#prep-b2b">ver mais</a>.
+2. Operação manual B2B.  <a href="#ope-b2b">ver mais</a>.
+3. Testes de conceito e estudos de viabilidade.  <a href="#testes">ver mais</a>.
+4. Desenvolvimento do software.  <a href="#desenvolvimento">ver mais</a>
+5. Preparação para a operação B2C.  <a href="#prep-b2c">ver mais</a>
+6. Operação B2C (São Paulo).  <a href="#ope-b2c">ver mais</a>
+7. Preparação para a operação B2B2C.  <a href="#prep-b2b2c">ver mais</a>.
+8. Preparação para a profissionalização da empresa.  <a href="#prep-prof">ver mais</a>.<br><br> 
 
 Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
@@ -27,12 +27,6 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 </p>
 
 <br><br>
-
-
-
-
-
-
 
 <p align="center"><a href="#portuguese">voltar</a><br><br></p>
 
@@ -348,7 +342,8 @@ Ações em delineamento <a href="#portuguese">voltar</a>
 
 <br><br>
 
-### Preparação para a operação B2B2C
+### Preparação para a profissionalização da empresa
+
 .
 .
 .
