@@ -243,58 +243,58 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
 
 
 
+
+
+
 <a name="proposta"></a>
 <br>
 
 ## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
 
-A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, seria **candidata natural** para suprir a atual demanda do mercado educacional. Contudo, a PBL ainda encontra alguns **obstáculos** para **execução em larga escala**.<br><br>
+A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, uma **candidata natural** para suprir a atual demanda do mercado educacional. Entretanto, isso não ocorre porque existem alguns **obstáculos** para sua **execução em larga escala**. Por esta razão, os idealizadores desenvolveram uma estratégia com ações para contornar estes obstáculos.<br><br>
 
 <p align="center">
   <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
   <em>Pela PBL, os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.<br> Fonte:<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank"> The Interdisciplinary Journal of Problem-based Learning</a>.</em>
-</p><br>
+</p><br><br>
 
 **Escalando a PBL** <br>
 
-O caminho escolhido para aproveitar a atual janela de oportunidades é buscar formas viáveis de contornar os obstáculos para escalar o processo de execução da PBL. Os **obstáculos** para **execução em larga escala** das atividades educacionais típicas da PBL são: 
-- Seu processo de execução requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
-- O paradigma da **execução 100% digital** das **Edtechs** ainda não foi capaz de resolver o problema da **qualidade da interação síncrona** entre alunos, fundamental para a execução da PBL.
+Os dois principais **obstáculos** para execução da PBL **em larga escala**  são: 
+- A PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
+- A **interação síncrona** na etapa de discussão da PBL é considerada uma atividade crítica para a qualidade do método e a **execução 100% digital** ainda não é capaz de substituir as sessões presenciais tutoradas. 
 
-Para dar **escalabilidade à execução da PBL**, os idealizadores do projeto desenvolveram um modelo **inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** no processo de execução de experiências PBL. 
-
-Diferentemente do paradigma de execução 100% digital que se baseia na escala, indiscriminada, todas as atividades educacionais, a **essência inovadora** do modelo proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
+Com base nos obstáculos acima, os idealizadores desenvolveram um **método inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**. Diferentemente do paradigma de execução 100% digital que escala, da mesma forma, todas as atividades, a **essência inovadora** do método proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png" width="800"><br>
-  <em>Intervenção em cada uma das etapas clássicas do processo de execução da PBL.</em>
-</p><br>
+  <em>Intervenção em cada uma das etapas clássicas do processo de execução.</em>
+</p><br><br>
 
-A **complementação estratégica** das ações propostas no modelo, podem ser avaliadas:
-1. Quanto à utilização de **ativos de terceiros**: 
+A seguir, a justificativa de cada intervenção proposta na estratégia para escalar o processo de execução da PBL: 
+1. Utilização de **ativos de terceiros**: 
  - A utilização de **espaços físicos** de terceiros garante o nível de disponibilidade do recurso, mesmo com o aumento das atividades da empresa;
  - A adoção de espaços físicos, cuja oferta já consideram as facilities atendimento, limpeza, segurança, agendamento, etc, permite que a gestão seja tratada como a gestão de um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
- - A substituição de docentes por profissionais experientes de mercado viabiliza a produção de conteúdo que pode, simultaneamente, suportar a capacitação **funcional** e **setorial**.<br>
+ - A substituição de docentes por profissionais experientes de mercado sem qualquer skill acadêmico viabiliza a produção escalável de conteúdo.<br>
 
-2. Quanto ao uso intensivo de **inteligência artificial**: 
+2. Uso intensivo de **inteligência artificial**: 
  - A IA viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
  - A IA automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
- - A "**atomização**" da sessão presencial proporciona um ambiente controlado propício para aplicar modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
+
+Além da contribuição individual de cada intervenção, é importante destacar uma importante integração estratégica entre duas delas. Além de contribuir para a escala da PBL via custos, a "**atomização**" da sessão presencial também proporciona um ambiente mais propício para a aplicação de modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
 
 **Método de ensino** <br>
 
-Baseado no modelo proposto, os idealizadores desenvolveram um **método** com **três sub-processos**:
+Baseada na estratégia proposta, os idealizadores desenvolveram um **método** composto de **três processos** que, de forma integrada, executam o processo completo da PBL:
 1. Extração automatizada de cenários reais;
 2. Eliminação individualizada das deficiências técnicas;
-3. Atomização e automatização das discussões;
-
-Cada um destes processos responde **de forma integrada** pela intervenção em uma ou mais etapas do processo completo de execução da PBL.<br><br>
+3. Atomização e automatização das discussões;<br><br>
 
 **Extração Automatizada de Cenários Reais** <br>
 
-A produção de conteúdo para PBL envolve a *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de "cenários reais" é executada por docentes "criadores de conteúdo" cuja tarefa é entrevistar profissionais e especialistas de mercado para explicitar **cenários do dia-a-dia profissional** e seus possíveis **problemas associados**. 
+Na PBL tradicional, a produção de conteúdo consiste na *"elaboração pedagogicamente estruturada de cenários descritivos de problemas”*. Tradicionalmemte esta elaboração de cenários é executada por docentes "criadores de conteúdo", cuja tarefa é entrevistar **profissionais experientes de mercado** para buscar insights em relatos de **cenários reais** do dia-a-dia profissional, bem como os possíveis **problemas associados** à eles. 
 
-Ao contrário da elaboração tradicional, a **Extração Automatizada de Cenários Reais** prevê a **interação direta** dos especialistas como um software do tipo *"expert system"*. Os “títulos” e cenários são sugeridos pelos especialistas ao interagirem com o *expert system*, mas o texto final é estruturado por um *software de IA*, treinado pela técnica de *"machine learning"*. <br><br>
+Ao contrário do processo tradicional, a **Extração Automatizada de Cenários Reais** consiste na **interação direta e amigável** destes profissionais experientes com um software do tipo *"expert system"*. Os “títulos” e cenários são sugeridos pelos profissionais, mas o texto final é estruturado por um *software de IA*, treinado pela técnica de *"machine learning"*. <br><br>
 
 <p align="center">
 <img src="img/sum_processo1.png" width="800"><br>
@@ -303,38 +303,34 @@ Ao contrário da elaboração tradicional, a **Extração Automatizada de Cenár
 
 **Eliminação Individualizada das Deficiências Técnicas** <br> 
 
-Na etapa de *“self-directed learning” (SDL)* do processo de execução da PBL, os alunos *"identificam e buscam os conhecimentos necessários para resolver o problema a que foram submetidos"*. 
+Na etapa de *“self-directed learning” (SDL)* do processo de execução da PBL, os alunos *"identificam e buscam os conhecimentos necessários para resolver o problema a que foram submetidos"*. Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. 
 
-Tradicionalmente, cada aluno é responsável por identificar suas deficiências e buscar as fontes de conhecimento para corrigi-las. O principal objetivo do processo de **Eliminação Individualizada das Deficiências Técnicas** é acelerar a fase da SDL. 
-
-Um *"assessment online"* testa de forma personalizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte do processo da PBL.<br><br>
+No processo proposto de **Eliminação Individualizada das Deficiências Técnicas**, a SDL é acelerada. Um *"assessment online"* testa de forma personalizada os conhecimentos dos alunos e um software do tipo *recommender system* aponta as fontes de conteúdo e as opções de capacitação. O processo utiliza ainda o conceito de **nano certificação** (proprietária ou de terceiros) para habilitar os alunos à etapa seguinte do processo da PBL.<br><br>
 
 <p align="center">
 <img src="img/sum_processo2.png" width="800"><br>
 <em>Adaptive learning para acelerar a fase de "self-directed learning" dos alunos.</em>
-</p><br>
+</p><br><br>
 
 **Atomização e Automatização das Discussões** <br>
 
-Tradicionalmente, as sessões presenciais de discussão de problemas são reuniões com 40 alunos ou mais, uma vez que, quanto maior o número de alunos, menor o impacto do valor da apropriação do custo da infra-estrutura física no preço unitário dos cursos. Para isso, as escolas tradicionais investem em **salas** e **equipamentos sofisticados** para garantir a qualidade das interações entre os alunos, mesmo com discussões em grandes grupos.<br><br>
+Na PBL tradicional, as sessões presenciais de discussão de problemas são reuniões com 40 alunos ou mais, uma vez que, quanto maior o número de alunos, menor é o impacto do valor da apropriação do custo da infraestrutura física no preço unitário dos cursos. Por esse motivo, as escolas tradicionais investem em **salas** e **equipamentos sofisticados** como forma de garantir a qualidade das interações entre os alunos, mesmo com discussões em grandes grupos.<br><br>
 
 <p align="center">
 <img src="img/harvard-classroom.png" width="600"><br>
 <em>Harvard Classroom: a escola investe em infraestrutura e equipamentos para manter a qualidade das discussões em grupos grandes de alunos.</em>
 </p><br>
 
-No processo de **Atomização e Automatização das Discussões**, as sessões presenciais de discussão são reuniões de 10 alunos no máximo, agendadas conforme demanda em *espaços compartilhados de trabalho (coworking)*. 
+No processo proposto de **Atomização e Automatização das Discussões**, as sessões presenciais de discussão são reuniões de 10 alunos no máximo, agendadas conforme demanda em *espaços compartilhados de trabalho (coworking)*. 
 
-A dinâmica de uma sessão é conduzida por um tutor via *videoconference* com o auxílio de um *Process management software* que, entre outras coisas, propõe e controla o tempo das atividades, orienta a elaboração das perguntas, define os grupos para exercícios e exibe material multimidia auxiliar. 
+A dinâmica da sessão é conduzida por um tutor, via *videoconference*, com o auxílio de um *Process management software* que, entre outras coisas, propõe e controla o tempo das atividades, orienta a elaboração das perguntas, define os grupos para exercícios e exibe o material multimidia auxiliar. 
 
 A avaliação do desempenho individual dos alunos nas discussões é executada por *software de IA*, treinado pela técnica de *"machine learning"*, que também edita automaticamente o vídeo com a gravação da sessão.<br><br>
 
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
 <em>Sessão presencial atomizada e assistida por software.</em>
-</p>
-
-<br>
+</p><br><br>
 
 **Sistema de ensino profissionalizante baseado em problemas** <br>
 
