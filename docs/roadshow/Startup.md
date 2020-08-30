@@ -163,10 +163,35 @@ Esta etapa é subdividida em:
 ### Testes de conceito e estudos de viabilidade
 
 Esta etapa é subdividida em:
+- Validar pesquisa com alunos;
 - Elaborar testes com um “**concierge MVP**”. 
 - Validar algumas premissas de **custos** e de **desempenho acadêmico**.
 
 <br><br>
+
+**Benefícios para os alunos da trilha de especialização baseada em problemas** <br>
+
+As competências comportamentais desenvolvidas pela **trilha de especialização baseada em problemas** melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira. Para avaliar a reação destas hipóteses entre alunos de escolas profissionalizantes, os idealizadores utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. 
+
+A pesquisa entrevistou 120 alunos concluintes de cursos de graduação em economia, engenharia e administração sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. O questionário da pesquisa continha nove questões do tipo múltipla escolha com o objetivo de medir a percepção de valor nas diversas experiências de aprendizagem de programas profissionalizantes online e presencial. 
+
+Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da importância das competências comportamentais para os alunos entrevistados.<br><br>
+
+<p align="center">
+<img src="img/pesquisa-quadro-resumo.png" width="800">
+</p>
+<p align="center">
+<em>Os resultados quantitativos da pesquisa foram validados em entrevistas qualitativas posteriores. A pesquisa completa pode ser acessada em <a href="https://docs.google.com/forms/d/1AtVWKqeECtwsmQpiBUlhZVVezaOU_rUCCRduIeS1CpA/edit#responses" target="_blank">pesquisa</a>.</em>
+</p>
+
+<br>
+
+As respostas dos entrevistados para estas duas questões evidenciam fortemente as seguintes hipóteses: 
+1. Para os alunos, as **avaliações da capacidade de resolução de problemas** são as **mais importantes** de um curso profissionalizante;
+2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho.<br><br>
+
+
+
 
 **Estudos de viabilidade**<br>
 O método de ensino desenvolvido pela empresa assume premissas tanto quanto à adaptação da estratégia de aprendizagem quanto dos modelos de inteligência artificial. Assim, serão efetuados dois estudos de viabilidade:
