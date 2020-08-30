@@ -438,13 +438,18 @@ Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores de
 
 ### Posicionamento e proposta de valor
 
-A OpenPBL se posiciona como uma **Edtech**, detentora de uma **tecnologia educacional própria** que beneficia os players dos segmentos de **formação profissionalizante** e **educação corporativa** por viabilizar a **redução substancial dos custos** de desenvolvimento de competências comportamantais profissionais. 
+A OpenPBL se posiciona como uma **Edtech**, detentora de uma **tecnologia educacional própria** que **reduz substancialmente os custos** de desenvolvimento de competências comportamantais profissionais pelo método **ativo**. 
 
-A **tecnologia educacional** desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na tradicional *problem-based learning*.<br>
+A **tecnologia educacional** desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.<br>
 
 O posicionamento da empresa está refletido na sua **missão** e **proposta de valor** ao mercado: <br> 
 
-`&nbsp;&nbsp;&nbsp;*"**Democratizar** o acesso à **educação profissional baseada em problemas** para desenvolver as **competências do futuro** em um número cada vez maior de profissionais.”*` <br><br>
+&nbsp;&nbsp;&nbsp;*"**Democratizar** o acesso à **educação profissional baseada em problemas** para desenvolver as **competências do futuro** em um número cada vez maior de profissionais.”* <br><br>
+
+
+### Receitas 
+
+As receitas da empresa são provenientes do licenciamento do **sistema de ensino baseado em problemas** em todas as suas **formas de distribuição**, a saber **B2B2C**, **B2B** e **B2C**. <br><br>
 
 
 ### Produtos
@@ -453,72 +458,61 @@ O posicionamento da empresa está refletido na sua **missão** e **proposta de v
 
 **Sistema de Ensino baseado em problemas (B2B2C)** <br>
 
-O **sistema de ensino baseado em problemas** é principal produto gerador de receitas recorrentes da empresa. O sistema automatiza a **criação** e a **execução** de **trilhas de especialização baseadas em problemas** para acelerar o desenvolvimento de competências comportamentais profissionais. 
+O principal produto gerador de receitas recorrentes da empresa é o seu **sistema de ensino baseado em problemas**. 
 
-O público-alvo das **trilhas de especialização baseadas em problemas** é composto por **entrantes no mercado de trabalho** e **profissionais de todos os níveis hierárquicos** com o objetivo comum de se diferenciarem pela eficiência na execução de suas tarefas. 
+O sistema de software automatiza a **criação** e a **execução** de **trilhas de especialização baseadas em problemas** para acelerar o desenvolvimento de competências comportamentais profissionais. O valor mensal por usuário não deve ser superior à **US $ 5,00** `(R$ 25,00)`.
 
-Os clientes-alvo são empresas que podem utilizar o **sistema de ensino baseado em problemas** para capacitar seus alunos e colaboradores (B2B2C) com custos menores do que as métodologias **ativas** disponíveis. Neste sentido, o sistema de ensino ajuda:  
-1. **Escolas profissionalizantes** a ampliarem suas receitas com a oferta de produtos baseados na PBL e; 
-2. **Empresas** a promover o **desenvolvimento de competências comportamentais** em seus funcionários e colaboradores.
+Clientes-alvo
+Os clientes-alvo são empresas que utilizam o **sistema de ensino baseado em problemas** para capacitar seus **alunos** e **colaboradores** com custos menores que as demais metodologias **ativas** disponíveis. No **segmento das escolas profissionalizantes** os clientes-alvo são as instituições de ensino superior e as escolas de ensino técnico de nível médio. No **segmento da educação corporativa** os clientes-alvo são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo.
 
-O Sistema de Ensino orienta o desenvolvimento sistemático de **cursos** baseados na PBL totalmente **customizados**. Neste caso, os problemas abordados nos cursos podem ser propostos por funcionários e colaboradores dos clientes. 
+Benefícios para os clientes
+A redução do custo de execução da PBL com a utilização do **sistema de ensino baseado em problemas**:  
+- Permite que **escolas profissionalizantes** ampliem suas receitas pela oferta adicional de novos produtos baseados na PBL; 
+- Ajuda **empresas** a promover o **desenvolvimento de competências comportamentais** para um número maior de colaboradores.
 
-As ofertas comerciais para licenciamento do **sistema de ensino baseado em problemas** envolvem ainda:
+Customização
+O **sistema de ensino baseado em problemas** orienta a empresa no desenvolvimento de **cursos** totalmente **customizados**. Neste caso, os problemas abordados nos cursos das **trilhas de especialização baseadas em problemas** podem ser propostos por funcionários e colaboradores da própria empresa clientes. 
+
+Serviços envolvidos 
+As ofertas comerciais para licenciamento do **sistema de ensino baseado em problemas** envolvem:
 - O valor dos serviços de **implantação** do sistema;
-- O prazo de vigência do contrato de licenciamento, não inferior a **24 meses**;
-- As faixas de franquia divididas por **quantidade de usuários** para a utilização ilimitada do sistema;
-- O **valor mensal por usuário** para cada faixa de franquia.<br><br>
+- Um prazo de vigência do contrato de licenciamento não inferior a **24 meses**;
+- O **valor mensal por usuário** para cada faixa de **número de usuários** para a utilização ilimitada do sistema;<br><br>
 
-Estes valores mensais por usuário não devem ser superiores à **US $ 5,00** `(R$ 25,00)`. <br><br>
-
-
-**Trilhas de especialização baseadas em problemas para empresas (B2B)** <br>
+ <br><br>
  
-Um mercado derivado da oferta B2B2C surge diante da possibilidade de abordar empresas de **forma consultiva** para a ofertar **soluções de educação corporativa** que utilizam o do **sistema de ensino baseado em problemas**. 
+<!--
+O público-alvo das **trilhas de especialização baseadas em problemas** são os **entrantes no mercado de trabalho** e os **profissionais de todos os níveis hierárquicos** com o objetivo comum de se tornarem mais eficientes na execução de suas tarefas.
+-->
 
-As possíveis soluções se estendem desde o planejamento até a gestão da execução de um **projeto de educação corporativa baseado em *Problem-based Learning*.** 
+**Projeto e execução de trilhas de especialização baseadas em problemas para empresas (B2B)** <br>
+ 
+O mercado B2B surge diante da possibilidade de abordar empresas de **forma consultiva** para a ofertar **soluções de educação corporativa** que utilizem as **trilhas de especialização baseadas em problemas**. Neste sentido, o **projeto e execução de trilhas de especialização baseadas em problemas para empresas** deve ser visto como uma nova forma de distribuição do **sistema de ensino baseado em problemas**.
+ 
+Clientes-alvo e benefícios
+Os clientes-alvo e benefícios do produto são essencialmente os mesmos que para a oferta do sistema, com a diferença dos serviços ofertados de **desenvolvimento** e **operação** das trilhas.     
 
-Estas soluções são: 
-- **Soluções de Planejamento Educacional.** As soluções para essa etapa têm caráter de consultoria educacional para os profissionais de T&D. 
+Customização
+As possíveis soluções de educação corporativa se estendem desde o **planejamento** até a **gestão da execução** de um **projeto de educação corporativa baseado em problemas**. Estas soluções são: 
+- **Soluções de Planejamento Educacional.** As soluções para essa etapa têm caráter de consultoria educacional para os profissionais de T&D, responsáveis por desenvolver e gerenciar projetos de educação corporativa. 
 - **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
 - **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
 - **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
 - **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br>
 
-*Os profissionais de Treinamento e Desenvolvimento (T&D) das empresas são os responsáveis por desenvolver e gerenciar projetos de educação corporativa.* <br><br>
+
+**Trilhas de especialização baseadas em problemas para profissionais e alunos de escolas de formação (B2C)** 
+
+O mercado B2C surge diante da possibilidade de ofertar trilhas e cursos baseados em problemas **diretamente** para profissionais e alunos de escolas de formação. Neste sentido, a oferta direta de **trilhas de especialização baseadas em problemas** também deve ser vista como mais uma forma de distribuição do **sistema de ensino baseado em problemas**.  <br><br>
 
 
-**Trilhas de especialização baseadas em problemas para o varejo (B2C)** 
+### Escola profissionalizante 
 
-Um outro mercado derivado da oferta B2B2C é a oferta de trilhas e cursos baseados em problemas diretamente para público-alvo do varejo. Os clientes desta forma de distribuição do sistema de ensino são os mesmo usuários do produto B2B2C.  <br><br>
-
-
-### Clientes-alvo
-
-No **segmento das escolas profissionalizantes** os clientes-alvo são as instituições de ensino superior e as escolas de ensino técnico de nível médio. Para estas escolas, a utilização do **Sistema de Ensino OpenPBL** promove a **participação continuada** dos alunos em "experiências PBL" que os **diferenciam** no mercado de trabalho. 
- No **segmento da educação corporativa** os clientes-alvo são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo. <br><br>
-
-
-### Receitas 
-
-As principais receitas da empresa são provenientes do licenciamento do sistema de ensino para **empresas** e **escolas de formação profissional** (B2B2C).
-
-As receitas da OpenPBL são provenientes de duas fontes: 
-- do **licenciamento** do **Sistema de Ensino OpenPBL** para escolas profissionalizantes e;
-- da **venda de cursos profissionalizantes** para **profissionais** e **entrantes no mercado de trabalho**.<br><br>
-
-
-### Escola profissionalizante OpenPBL 
-
-Além das receitas oriundas da venda de cursos profissionalizantes, a **Escola profissionalizante OpenPBL** tem a função estratégica de **tangibilizar** os benefícios do **Sistema de Ensino OpenPBL**, à medida que promove ações para comunicar o sucesso dos seus alunos no mercado de trabalho.
-
-Os problemas abordados nos cursos da Escola profissionalizante OpenPBL são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. Cada título pode ser adquirido de forma **avulsa** pelo preço-alvo de **US $ 60,00** `(R$ 320,00)` ou adquiridos em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
-
-A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a **Escola Profissionalizante OpenPBL** como uma **instituição de ensino segmentada por perfis funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
+Além das receitas oriundas da venda de cursos profissionalizantes como canal de distribuição do **sistema de ensino baseado em problemas**, a criação de uma **escola profissionalizante OpenPBL** tem a função estratégica de **tangibilizar** os benefícios do sistema à medida que a empresa pode promover ações para comunicar o sucesso dos seus alunos no mercado de trabalho.
 
 **Público-alvo da escola** <br>
 
-Os cursos e programas da **Escola OpenPBL** são destinados à **profissionais** (e aspirantes) com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio de competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
+Os cursos e programas da **escola profissionalizante OpenPBL** são destinados à **profissionais** (e aspirantes) com o **objetivo comum** de se diferenciarem no mercado de trabalho pelo domínio de competências comportamentais, cada vez mais demandadas por empresas e organizações. <br><br>
 
 <p align="center">
   <img src="img/sum_quadro2.png" width="700"><br>
@@ -537,9 +531,7 @@ A combinação das **três classes** de público-alvo da escola com os dois **do
 </p>
 <p align="center">
 <em>Segmentos-alvo da OpenPBL e os segmentos tradicionais do mercado educacional.</em>
-</p>
-
-<br>
+</p><br><br>
 
 **Comunicação dos diferenciais da escola** <br>
 
@@ -553,6 +545,13 @@ Estes atributos norteiam a estratégia de comunicação para venda B2C da escola
 
 *Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br><br>
 
+**Catálogo de cursos** <br> 
+
+Os problemas abordados nos cursos da **Escola profissionalizante OpenPBL** são propostos por **profissionais experientes** do mercado e cada problema específico origina a oferta de um **título no catálogo** da OpenPBL. 
+
+Cada título pode ser adquirido de forma **avulsa** por um preço não superior a **US $ 60,00** `(R$ 320,00)` ou adquiridos em conjunto, com os títulos agrupados em **trilhas funcionais**, planejadas para promover a capacitação do aluno nas diversas **"funções"** da carreira profissional escolhida.
+
+A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas de disciplinas") é a principal ação estratégica com vistas a posicionar a **Escola Profissionalizante OpenPBL** como uma **instituição de ensino segmentada por perfis funcionais"** e não por áreas do conhecimento como é usual no mercado de educação profissionalizante. <br><br> 
 
 
 <p align="center">
@@ -598,21 +597,38 @@ O time executivo montado para a fase inicial da empresa é composto por profissi
 <em>Time executivo.</em>
 </p><br>
 
-Os perfis profissionais complementares credenciam o time executivo na fase de *startup* do plano de negócios.  
 - Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Jorge Cataldo</a>).
 - Perfil executivo (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Eduardo Pitombo</a>). 
 - Perfil executivo (<a href="https://www.linkedin.com/in/silvio-samuel-cfp/">Sílvio Samuel</a>). 
 - Perfil executivo (<a href="https://www.linkedin.com/in/tonlobo/">Everton Bonifácio</a>).<br><br>
 
+
 ### Roadmap
 
+No plano de negócios, o período de startup é definido entre a data do primeiro aporte de capital e o final do segundo ano de operação da empresa. Esta seção detalha este período de aproximadamente dois anos que prepara a empresa para a atuação escalável B2B2C.
+
+Roadmap
+As etapas previstas para este período de startup são:
+
+Preparação para a operação manual B2B. 
+Operação manual B2B. ver mais.
+Testes de conceito e estudos de viabilidade. 
+Desenvolvimento do software. ver mais
+Preparação para a operação B2C. ver mais
+Operação B2C (São Paulo). ver mais
+Preparação para a operação B2B2C. ver mais.
+Preparação para a profissionalização da empresa. ver mais.
+
+Abaixo o planejamento e o status atual da execução das etapas.
 
 Do lançamento da empresa até o **final do segundo ano de operação**, os objetivos do startup são:
 1. Estudos de viabilidade, pesquisas de mercado e testes para validar as premissas do plano de negócios;
 2. Desenvolver e ofertar cursos PBL para empresas (B2B);
 3. Ampliar oferta de cursos e iniciar a automação do processo (IA);
 4. Finalizar automação e iniciar oferta no varejo (B2C) para fortalecimento da marca;
-5. Lançar o Sistema de Ensino baseado em Problemas (B2B2C);<br><br> 
+5. Lançar o Sistema de Ensino baseado em Problemas (B2B2C);
+
+<br><br> 
 
 
 **Startup** <br>
