@@ -384,13 +384,14 @@ Cada curso da trilha pode ser configurado para **acelerar o desenvolvimento** de
 
 **Sistema de ensino profissionalizante baseado em problemas** <br>
 
-Os idealizadores propõem que os seis **componentes de software** que **automatizam** os três processos do método de ensino proposto sejam **integrados** por um **sistema de software**, cujo objetivo é garantir a **eficácia** e **escalabilidade** da execução conjunta. São estes componentes:
+Os idealizadores propõem que os sete **componentes de software** que **automatizam** os três processos do método de ensino proposto sejam **integrados** por um **sistema de software**, cujo objetivo é garantir a **eficácia** e **escalabilidade** da execução conjunta. São estes componentes:
  - **"*Expert system*"** capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
  - **"*Machine learning model*"** capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
  - **"*Adaptive learning system*"** para acelerar a etapa de SDL (self-directed learning) dos alunos.
  - **"*Recommender system*"** para recomendação do conteúdo de apoio na etapa de SDL do método. 
  - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
- - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
+ - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.
+ - **API** para integração com bases de dados de redes sociais de cunho profissional.<br>
  
 Um sistema de software capaz de automatizar a **criação** e a **gestão** de **trilhas de especialização baseadas em problemas** torna-se uma tecnologia extremamente útil para players dos segmentos de **formação profissionalizante** e **educação corporativa**. Entretanto, mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** que garanta a execução **contínua** e **escalável** de **cursos profissionalizantes** com dinâmicas ancoradas na execução da poderosa *problem-based learning*.
 
@@ -439,7 +440,7 @@ automatizar a **criação** e a **gestão** de **trilhas de especialização bas
 
 ### Produtos
 
-**Sistema de Ensino baseado em problemas (B2B2C) ** <br>
+**Sistema de Ensino baseado em problemas (B2B2C)** <br>
 
 O Sistema de Ensino baseado em problemas é principal produto gerador de receitas recorrentes da empresa. O sistema automatiza a **criação** e a **execução** de trilhas de capacitação para acelerar o desenvolvimento de competências comportamentais profissionais. 
 
@@ -477,7 +478,6 @@ Os profissionais de Treinamento e Desenvolvimento (T&D) destas empresas são os 
 O Sistema de Ensino viabiliza o desenvolvimento sistemático de trilhas e cursos baseados em problemas que podem ser ofertados ao mercado de varejo. Os clientes desta forma de distribuição do sistema de ensino são os mesmo usuários do produto B2B2C.  <br><br>
 
 
-
 ### Clientes-alvo
 
 No **segmento das escolas profissionalizantes** os clientes-alvo são as instituições de ensino superior e as escolas de ensino técnico de nível médio. Para estas escolas, a utilização do **Sistema de Ensino OpenPBL** promove a **participação continuada** dos alunos em "experiências PBL" que os **diferenciam** no mercado de trabalho. 
@@ -491,7 +491,6 @@ As principais receitas da empresa são provenientes do licenciamento do sistema 
 As receitas da OpenPBL são provenientes de duas fontes: 
 - do **licenciamento** do **Sistema de Ensino OpenPBL** para escolas profissionalizantes e;
 - da **venda de cursos profissionalizantes** para **profissionais** e **entrantes no mercado de trabalho**.<br><br>
-
 
 
 ### Escola profissionalizante OpenPBL 
@@ -565,50 +564,41 @@ Estes atributos norteiam a estratégia de comunicação para venda B2C da escola
 <br>
 
 ## EXECUÇÃO DO PLANO DE NEGÓCIOS
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br><br>
+
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br><br> 
+
+Em especial, os empreendedores têm experiências complementares na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
+1. Grande abrangência territorial e diversidade de infraestrutura presencial;
+2. Grande quantidade e dispersão dos colaboradores envolvidos; 
+3. Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
+4. Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
+5. Grande necessidade de engajamento e fidelização dos colaboradores.<br><br>
+
+### Time executivo
+
+O time executivo montado para a fase inicial da empresa é composto por profissionais com experiência em educação e finanças.
 
  <p align="center">
 <img src="img/socios-linkedin.png" width="700"><br>
 <em>Time executivo.</em>
 </p><br>
 
-Os perfis profissionais complementares credenciam os idealizadores a liderarem a fase de *startup* do plano de negócios.  
+Os perfis profissionais complementares credenciam o time executivo na fase de *startup* do plano de negócios.  
 - Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Jorge Cataldo</a>).
 - Perfil executivo (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Eduardo Pitombo</a>). 
 - Perfil executivo (<a href="https://www.linkedin.com/in/silvio-samuel-cfp/">Sílvio Samuel</a>). 
-- Perfil executivo (<a href="https://www.linkedin.com/in/tonlobo/">Everton Bonifácio</a>).<br> 
- 
-Em especial, os empreendedores têm experiências complementares na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
-1. Grande abrangência territorial e diversidade de infraestrutura presencial;
-2. Grande quantidade e dispersão dos colaboradores envolvidos; 
-3. Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
-4. Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
-5. Grande necessidade de engajamento e fidelização dos colaboradores.<br>
+- Perfil executivo (<a href="https://www.linkedin.com/in/tonlobo/">Everton Bonifácio</a>).<br><br>
 
-<br><br>
+### Roadmap
 
-**Roadmap** <br>
 
 Do lançamento da empresa até o **final do segundo ano de operação**, os objetivos do startup são:
 1. Estudos de viabilidade, pesquisas de mercado e testes para validar as premissas do plano de negócios;
 2. Desenvolver e ofertar cursos PBL para empresas (B2B);
 3. Ampliar oferta de cursos e iniciar a automação do processo (IA);
 4. Finalizar automação e iniciar oferta no varejo (B2C) para fortalecimento da marca;
-5. Lançar o Sistema de Ensino baseado em Problemas (B2B2C);
+5. Lançar o Sistema de Ensino baseado em Problemas (B2B2C);<br><br> 
 
-<br><br> 
-
-
-**Greenfield** <br>
-
-No Brasil, a <a href="http://inep.gov.br/microdados" target="_blank">base de dados do MEC/INEP</a> é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente **8.450.000** de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.256.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
-
-A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante por apresentar **grande densidade populacional**, **grande variedade de cursos de graduação**, além de **muitas oções de co-workings**. Segundo o INEP, o tamanho do segmento II na cidade de São Paulo é de **130.000** potenciais alunos.<br><br>
-
-<p align="center">
-<img src="img/2018-sao-paulo-market.png" width="600"><br>
-<em>Alunos concluintes em 2018 na cidade de São Paulo.</em>
-</p><br>
 
 **Startup** <br>
 
@@ -622,8 +612,74 @@ O *startup* da empresa, previsto para o seu **primeiro ano** de operação, tem 
 
 O detalhamento da etapa de *startup* pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank_"> OpenPBL - Startup</a><br><br>
 
+**Novas frentes de negócios** <br>
 
-**Comercialização B2C** <br>
+A partir do desenvolvimento do sistema educacional será possível a expansão dos negócios da empresa em **três novas frentes**:
+- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Greenfield*);
+- Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
+- Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
+
+Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
+
+
+**Greenfield** <br>
+
+No Brasil, a <a href="http://inep.gov.br/microdados" target="_blank">base de dados do MEC/INEP</a> é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente **8.450.000** de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.256.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
+
+A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante por apresentar **grande densidade populacional**, **grande variedade de cursos de graduação**, além de **muitas oções de co-workings**. Segundo o INEP, o tamanho do segmento II na cidade de São Paulo é de **130.000** potenciais alunos.<br><br>
+
+<p align="center">
+<img src="img/2018-sao-paulo-market.png" width="600"><br>
+<em>Alunos concluintes em 2018 na cidade de São Paulo.</em>
+</p><br>
+
+
+### Operações
+
+O planejamento das operações da empresas está dividido segundo as áreas de execução:
+- Operações comerciais - Atração
+- Operações comerciais – Conversão
+- Conversão online
+- Produção de conteúdo
+- Execução presencial
+- Execução online
+- Suporte à carreira<br><br>
+
+
+**Operações comerciais - Atração**<br>
+
+1. Estratégia operacional 
+- Produção publicitária: (1) peças de comunicação digital (banners, posts, ...) e; (2) peças de comunicação tradicional (apresentações, ...); 
+- Portfolio de ações de atração distribuído entre: (1) agências de marketing digital; (2) agências de publicidade tradicional (incluindo OOH); (3) agências de eventos e; (4) ações próprias;<br><br> 
+
+2. Atividades e responsabilidades da área: **Atração de leads B2B e B2C** 
+- Gestão da produção publicitária;
+- Gestão da comunicação digital (adwords, redes sociais, sites, ...);
+- Gestão da comunicação em veículos tradicionais; 
+- Gestão dos eventos;
+- Gestão do agendamento de visitas às empresas.<br><br> 
+
+
+**Operações comerciais – Conversão B2B**
+
+A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas.
+
+A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br>
+
+1. Estratégia operacional
+- Política de canais B2C baseada em parcerias com empresas ativadoras de tráfego e conversão do público-alvo:
+Marketplaces digitais: (1) generalistas (Amazon, ...); (2) foco educacional (Udemy, ...);
+- Escolas profissionalizantes: (1) ensino médio; (2) instituições de ensino superior - IES;
+- Agências recrutadoras: (1) generalistas; (2) especialistas; 
+- Política de canais B2B baseada em parcerias com empresas de representação comercial;
+- Modelos de parceria desde a simples geração de leads até o faturamento e repasse (subcontratação);<br><br> 
+
+2. Atividades e responsabilidades da área: **Conversão de leads**
+- Gestão do pipeline B2C (online e offline);
+- Gestão do pipeline B2B.<br><br> 
+
+
+**Operações comerciais – Conversão B2C**
 
 A política de **canais B2C** para os **dois primeiros anos de operação** deve se basear em **parcerias** firmadas com empresas **ativadoras de tráfego** e empresas especializadas na **conversão** do público-alvo. Entre estes:
 - Marketplaces digitais com foco educacional (*Udemy, ...*); 
@@ -644,67 +700,29 @@ A **estratégia de comunicação** para atração e conversão de leads contém 
 <em><a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home" target="_blank">Ensaio da HomePage</a>.</em>
 </p>
 
-<br>
-
-**Comercialização B2B** <br>
-
-A Política de **canais B2B** para os **dois primeiros anos de operação** deve se basear em **parcerias** estabelecidas com **associações** profissionais, **cooperativas**, **empresas de representação comercial** e organizações empresariais diversas.
-
-A partir da conclusão do **sistema educacional**, prevista para o início do segundo ano de operação, a atuação B2B deverá incluir também as **instituções de ensino de nível médio e superior** e **empresas de grande e médio porte** como clientes-alvo. <br><br>
-
-
-### Operações
-Blá blá Graças ao modelo escalável utilizado, o desempenho simulado acima poderá ser replicado para garantir uma rápida expansão das atividades da escola. Para is. <br><br> 
-
-**Operações comerciais - Atração**<br>
-
-Estratégia operacional 
-- Produção publicitária: (1) peças de comunicação digital (banners, posts, ...) e; (2) peças de comunicação tradicional (apresentações, ...); 
-- Portfolio de ações de atração distribuído entre: (1) agências de marketing digital; (2) agências de publicidade tradicional (incluindo OOH); (3) agências de eventos e; (4) ações próprias;<br><br> 
-
-Atividades e responsabilidades da área: **Atração de leads** 
-- Gestão da produção publicitária;
-- Gestão da comunicação digital (adwords, redes sociais, sites, ...);
-- Gestão da comunicação em veículos tradicionais; 
-- Gestão dos eventos;
-- Gestão do agendamento de visitas às empresas.<br><br> 
-
-
-**Operações comerciais – Conversão**
-
-Estratégia operacional
-- Política de canais B2C baseada em parcerias com empresas ativadoras de tráfego e conversão do público-alvo:
-Marketplaces digitais: (1) generalistas (Amazon, ...); (2) foco educacional (Udemy, ...);
-- Escolas profissionalizantes: (1) ensino médio; (2) instituições de ensino superior - IES;
-- Agências recrutadoras: (1) generalistas; (2) especialistas; 
-- Política de canais B2B baseada em parcerias com empresas de representação comercial;
-- Modelos de parceria desde a simples geração de leads até o faturamento e repasse (subcontratação);<br><br> 
-
-Atividades e responsabilidades da área: **Conversão de leads**
-- Gestão do pipeline B2C (online e offline);
-- Gestão do pipeline B2B.<br><br> 
+<br><br>
 
 
 **Conversão online**
 
-Estratégia operacional
+1. Estratégia operacional
 - Elementos da conversão online web: (1) landing pages; (2) páginas de nutrição; (3) páginas de catálogo;
 - Landing Pages: páginas únicas para cada segmento do PA . Calls to action: (1) ir para o catálogo; (2) saber mais detalhes;
 - Páginas de nutrição: Páginas com mais informações sobre o método, processo, etc. Call to action: (1) ir para o catálogo;
 - Páginas de catálogo: baseada em parcerias com empresas de representação comercial. Call to action: (1) ir para checkout;<br><br> 
 
-Atividades e responsabilidades da área: **conversão online**
+2. Atividades e responsabilidades da área: **conversão online**
 - Gestão do pipeline B2C online;<br><br> 
 
 
 **Produção de conteúdo**
 
-Estratégia operacional
+1. Estratégia operacional
 - Conteúdo PBL: remuneração dos especialistas-autores com royalties pela utilização dos problemas sugeridos, contextualizados e desenvolvidos por eles nas SessõesPBL;
 - Programa de treinamento de especialistas-autores e tutores na elaboração e condução de conteúdo PBL;
 - Produção de conteúdo de apoio em material rico (vídeo, imagem, texto, links,..);<br><br> 
 
-Atividades e responsabilidades da área: **produção de conteúdo**
+2. Atividades e responsabilidades da área: **produção de conteúdo**
 - Gestão da captação de autores e tutores;
 - Gestão do relacionamento e suporte de atendimento aos autores e tutores; 
 - Gestão do treinamento dos autores e tutores;
@@ -713,21 +731,21 @@ Atividades e responsabilidades da área: **produção de conteúdo**
 
 **Execução presencial**
 
-Estratégia operacional
+1. Estratégia operacional
 - Execução das sessões presenciais em salas de reunião para 10 pessoas, agendadas sob demanda em espaços para coworking; 
 - Programa de parcerias de permutas com empresas fornecedoras de espaços para coworking;<br><br> 
 
-Atividades e responsabilidades da área: **execução presencial** 
+2. Atividades e responsabilidades da área: **execução presencial** 
 - Gestão de contratos e parcerias com empresas fornecedoras de espaços para coworking;
 - Controle da qualidade da infraestrutura e facilities das sessões presenciais. <br><br> 
 
 
 **Execução online** 
 
-Estratégia operacional
+1. Estratégia operacional
 - Utilização do software open-source OpenPBL App como engine para a gestão do processo de aprendizagem; <br><br>  
 
-Atividades e responsabilidades da área: **execução online** 
+2. Atividades e responsabilidades da área: **execução online** 
 - Gestão da infraestrutura digital do LMS;
 - Gestão dos indicadores de desempenho do LMS (acesso, disponibilidade, segurança, ...);
 - Gestão do suporte de atendimento aos alunos.<br><br> 
@@ -735,18 +753,18 @@ Atividades e responsabilidades da área: **execução online**
 
 **Suporte à carreira**
 
-Estratégia operacional
+1. Estratégia operacional
 - Acompanhamento dos “indicadores de empregabilidade” dos ex-alunos no mercado de trabalho;  
 - Integração dos “indicadores de desempenho” dos alunos às bases comerciais de dados para recrutamento (LinkedIn, ...); 
 - Convênios com empresas de intermediação de recrutamento e seleção;<br><br> 
 
-Atividades e responsabilidades da área: **suporte de carreira** 
+2. Atividades e responsabilidades da área: **suporte de carreira** 
 - Gestão dos “indicadores de empregabilidade”;
 - Gestão dos contratos com empresas recrutadoras;
 - Gestão do atendimento de suporte à carreira para os alunos.<br><br> 
 
 
-**Desempenho global** <br>
+### Simulações de desempenho
 
 Simulações financeiras do modelo de negócios mostram que, com um **investimento inicial** mínimo de **US $ 60.000** `(R$ 327.000)` para a **produção de conteúdo** e **capital de giro**, é possível atingir uma base de **760 alunos** (0,6% do mercado alvo) na escola profissionalizante e **7.500 alunos** licenciados no Sistema de Ensino (1,7% do mercado alvo) e **receitas líquidas** de **US $ 1,94 milhão** `(R$ 10,7 milhões)` (EBITDA 42% RL) no **quinto ano** de operação da empresa. 
 
@@ -789,10 +807,9 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
 <a name="expansao"></a>
 <br>
 
-## EXPANSÃO
-Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da escola**. Para isso, é necessário o desenvolvimento do **Sistema Educacional OpenPBL** para automatizar os processos e etapas do método.<br><br>
+## Sistema de software 
 
-
+Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da empresa**. Para isso, é necessário o desenvolvimento do **Sistema de Ensino** para automatizar os processos e etapas do método.<br><br>
 
 **Desenvolvimento de software** <br>
 
@@ -881,14 +898,7 @@ Os principais recursos para o gerenciamento de experiências de aprendizagem for
 
 A página inicial do projeto do aplicativo OpenPBL App pode ser acessada (em inglês) pelo link:<a href="https://openpbl.github.io/app-docs/" target="_blank_"> OpenPBL - Free and opensource software</a><br><br>
 
-**Novas frentes de negócios** <br>
 
-A partir do desenvolvimento do sistema educacional será possível a expansão dos negócios da empresa em **três novas frentes**:
-- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Greenfield*);
-- Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
-- Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
-
-Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.
 
 <br><br>
 
