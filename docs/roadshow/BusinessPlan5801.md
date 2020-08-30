@@ -264,7 +264,7 @@ Os dois principais **obstáculos** para execução da PBL **em larga escala**  s
 - A PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
 - A **interação síncrona** na etapa de discussão da PBL é considerada uma atividade crítica para a qualidade do método e a **execução 100% digital** ainda não é capaz de substituir as sessões presenciais tutoradas. 
 
-Com base nos obstáculos acima, os idealizadores desenvolveram um **método inovador**, baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**. Diferentemente do paradigma de execução 100% digital que escala, da mesma forma, todas as atividades, a **essência inovadora** do método proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**, conforme mostra o diagrama a seguir.<br><br>
+Os idealizadores desenvolveram um **método inovador** baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** cujo objetivo principal é contornar estes obstáculos para gerar economias de escala. Diferentemente do paradigma 100% digital que gera economias de escala em todas as atividades da mesma forma, a **essência** do método proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**.<br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png" width="800"><br>
@@ -272,6 +272,7 @@ Com base nos obstáculos acima, os idealizadores desenvolveram um **método inov
 </p><br><br>
 
 A seguir, a justificativa de cada intervenção proposta na estratégia para escalar o processo de execução da PBL: 
+
 1. Utilização de **ativos de terceiros**: 
  - A utilização de **espaços físicos** de terceiros garante o nível de disponibilidade do recurso, mesmo com o aumento das atividades da empresa;
  - A adoção de espaços físicos, cuja oferta já consideram as facilities atendimento, limpeza, segurança, agendamento, etc, permite que a gestão seja tratada como a gestão de um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
@@ -281,11 +282,15 @@ A seguir, a justificativa de cada intervenção proposta na estratégia para esc
  - A IA viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
  - A IA automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; 
 
-Além da contribuição individual de cada intervenção, é importante destacar uma importante integração estratégica entre duas delas. Além de contribuir para a escala da PBL via custos, a "**atomização**" da sessão presencial também proporciona um ambiente mais propício para a aplicação de modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
+3. Integração estratégica <br>
+Além de contribuir individualmente para a escala da PBL via custos, a "**atomização**" da sessão presencial também proporciona, com o emprego de equipamentos simples apenas, um ambiente viável para a aplicação de modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
 
-**Método de ensino** <br>
+**Método de ensino profissionalizante** <br>
 
-Baseada na estratégia proposta, os idealizadores desenvolveram um **método** composto de **três processos** que, de forma integrada, executam o processo completo da PBL:
+Baseada na estratégia proposta, os idealizadores desenvolveram um **método de ensino profissionalizante** composto por **três processos-chave**. Cada um dos cursos profissionalizantes gerenciados pelo sistema de ensino proposto deve 
+
+O método permite a criação e a gestão sistemática de **cursos de especialização**, onde cada curso proporciona ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema real e típico de sua carreira profissional:
+
 1. Extração automatizada de cenários reais;
 2. Eliminação individualizada das deficiências técnicas;
 3. Atomização e automatização das discussões;<br><br>
@@ -332,47 +337,39 @@ A avaliação do desempenho individual dos alunos nas discussões é executada p
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br><br>
 
-**Sistema de ensino profissionalizante baseado em problemas** <br>
+**Trilha de especialização baseada em problemas** <br>
 
-Os seis **componentes de software** que **automatizam** o método de ensino proposto são **integrados** por um **sistema de software** cujo objetivo é garantir a **eficácia** e **escalabilidade** da execução conjunta. São eles:
- - **"*Expert system*"** capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
- - **"*Machine learning model*"** capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
- - **"*Adaptive learning system*"** para acelerar a etapa de SDL (self-directed learning) dos alunos.
- - **"*Recommender system*"** para recomendação do conteúdo de apoio na etapa de SDL do método. 
- - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
- - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
- 
-O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.github.io/app-docs/" target="_blank">Arquitetura OpenPBL</a>.<br>
-
-Um software capaz de automatizar e escalar um **método de ensino baseado em problemas** torna-se uma tecnologia extremamente útil para players do segmento de **educação profissionalizante**. Entretanto, mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** sob a forma de um **sistema de ensino** que garante a execução **contínua** e **escalável** de **cursos profissionalizantes** com dinâmicas baseadas unicamente na *problem-based learning*. <br><br>
-
-**Dinâmica de aprendizagem do sistema de ensino** <br>
-
-Cada um dos **cursos profissionalizantes** gerenciados pelo sistema de ensino proposto deve proporcionar ao aluno uma **experiência de aprendizagem completa** baseada na discussão de um problema **real** e **típico** de sua carreira profissional. 
+A Trilha de especialização baseada em problemas é um conjunto sequencial de cursos, **complementares à formação profissional técnica**, com o objetivo de desenvolver competências comportamentais pelo **método ativo** da PBL. Cada curso da trilha proporciona ao aluno uma de experiência de aprendizagem completa baseada na discussão de um problema real e típico de sua função. 
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online** que correspondem a 95% da carga horária total do curso e; 
 2. Uma etapa final de **discussão**, composta de uma sessão **presencial** de três horas, conduzida por um **tutor**, onde **dez alunos** se reunem por **três horas** para **analisar** as possíveis soluções para o problema proposto no curso. 
 
-Na etapa de **preparação**, o aluno: 
+Na etapa de **preparação** de **cada curso** da trilha, o aluno: 
 1. Recebe o **conteúdo descritivo** do problema abordado no curso, bem como todo o material de apoio para o seu entendimento;
-2. Tem os **conhecimentos técnicos** necessários para a análise do problema **aferidos** *online* por **testes adaptados** para a sua proficiência no assunto; 
+2. É **avaliado** de forma adaptativa, através de testes *online*, quanto ao seu nível de proficiência nos **conhecimentos técnicos** necessários para a análise e solução do problema; 
 3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências de conhecimento técnico;
-4. Ao final, **propõe a sua solução** (ou soluções) para o problema objeto do curso.<br>
+4. Ao final da etapa, **propõe a sua solução** (ou soluções) para o problema objeto do curso.<br>
 
 Na etapa de **discussão**, o aluno: 
+1. Participa de uma **sessão presencial** de **três horas**, em **turmas com dez alunos**, para discussões em torno do problema proposto no curso;
+
+A sessão é conduzida por um tutor especialista, via webconference, e realizada em ambiente que dispõe dos recursos tecnológicos necessários para o desenvolvimento de competências comportamentais conforme a metodologia proposta.
+
+Como **feedback** da sua atuação em cada curso da trilha de especialização, o aluno recebe:
+1. Os resultados dos testes de conhecimento técnico que fez ao longo do curso;
+2. O **registro audiovisual** da sua participação na sessão presencial de discussões;
+3. A **avaliação comentada** do seu desempenho na solução do problema proposto no curso.<br><br> 
+ 
+<!--
 1. Recebe uma lista com opções de **locais** e **horários** disponíveis para a sessão presencial, contendo detalhes da **infraestrutura**, **facilidades** e perfil do **tutor** responsável; 
 2. Agenda a data e o local mais adequados para participar da sessão;
 3. Participa da **dinâmica de discussões** em torno do problema proposto no curso, conduzidas pelo **tutor** da sessão.<br>
-
-Como *feedback* da sua atuação no curso, o aluno recebe: 
-1. Os **resultados dos testes** de conhecimento técnico; 
-2. O **registro audiovisual** da sua participação na sessão presencial de discussões; 
-3. A **avaliação do seu desempenho** na solução do problema proposto no curso.<br><br>
+-->
 
 **Objetivos de aprendizagem dos cursos** <br>
 
-A dinâmica proposta pelo sistema de ensino busca desenvolver no alunos as **competências comportamentais** de **um ou mais** grupos a seguir: 
+Cada curso da trilha pode ser configurado para **acelerar o desenvolvimento** de uma ou mais das seguintes competências comportamentais:
 - Estruturação de **problemas mal definidos**; 
 - Tomada de decisão envolvendo **incertezas** e objetivos conflitantes; 
 - Tomada de decisão envolvendo **restrições** orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance; 
@@ -380,9 +377,9 @@ A dinâmica proposta pelo sistema de ensino busca desenvolver no alunos as **com
 - Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
 - Visão orçamentária e atitude empreendedora.<br><br>
 
-**Benefícios para usuários do sistema de ensino profissionalizante**<br>
+**Benefícios para os alunos da trilha de especialização baseada em problemas **<br>
 
-As competências comportamentais desenvolvidas pelo **sistema de ensino baseado em problemas** proposto melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira. Para avaliar a reação destas hipóteses entre alunos de escolas profissionalizantes, os idealizadores utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. 
+As competências comportamentais desenvolvidas pela **trilha de especialização baseada em problemas** melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira. Para avaliar a reação destas hipóteses entre alunos de escolas profissionalizantes, os idealizadores utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. 
 
 A pesquisa entrevistou 120 alunos concluintes de cursos de graduação em economia, engenharia e administração sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. O questionário da pesquisa continha nove questões do tipo múltipla escolha com o objetivo de medir a percepção de valor nas diversas experiências de aprendizagem de programas profissionalizantes online e presencial. 
 
@@ -399,7 +396,21 @@ Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da
 
 As respostas dos entrevistados para estas duas questões evidenciam fortemente as seguintes hipóteses: 
 1. Para os alunos, as **avaliações da capacidade de resolução de problemas** são as **mais importantes** de um curso profissionalizante;
-2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho. 
+2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho.<br><br>
+
+**Sistema de ensino profissionalizante baseado em problemas** <br>
+
+Os idealizadores propõem que os seis **componentes de software** que **automatizam** os três processos do método de ensino proposto sejam **integrados** por um **sistema de software**, cujo objetivo é garantir a **eficácia** e **escalabilidade** da execução conjunta. São estes componentes:
+ - **"*Expert system*"** capaz de parametrizar as relações causais entre o problema proposto por um especialista e as competências comportamentais que se propõe desenvolver nos alunos.
+ - **"*Machine learning model*"** capaz de produzir automaticamente os "cenários de problemas" com títulos em **português**, **inglês** e **espanhol**.
+ - **"*Adaptive learning system*"** para acelerar a etapa de SDL (self-directed learning) dos alunos.
+ - **"*Recommender system*"** para recomendação do conteúdo de apoio na etapa de SDL do método. 
+ - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
+ - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.<br>
+ 
+Um sistema de software capaz de automatizar a **criação** e a **gestão** de **trilhas de especialização baseadas em problemas** torna-se uma tecnologia extremamente útil para players dos segmentos de **formação profissionalizante** e **educação corporativa**. Entretanto, mais do que um sistema de software, os idealizadores propõem uma nova **tecnologia educacional** que garanta a execução **contínua** e **escalável** de **cursos profissionalizantes** com dinâmicas ancoradas na execução da poderosa *problem-based learning*.
+
+O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.github.io/app-docs/" target="_blank">Arquitetura OpenPBL</a>.<br><br>
 
 <br><br>
 
