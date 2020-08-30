@@ -339,7 +339,12 @@ A avaliação do desempenho individual dos alunos nas discussões é executada p
 
 **Trilha de especialização baseada em problemas** <br>
 
-A Trilha de especialização baseada em problemas é um conjunto sequencial de cursos, **complementares à formação profissional técnica**, com o objetivo de desenvolver competências comportamentais pelo **método ativo** da PBL. Cada curso da trilha proporciona ao aluno uma de experiência de aprendizagem completa baseada na discussão de um problema real e típico de sua função. 
+A Trilha de especialização baseada em problemas é um conjunto sequencial de cursos, **complementares à formação profissional técnica**, com o objetivo de desenvolver competências comportamentais pelo **método ativo** da PBL. Cada curso da trilha proporciona ao aluno uma de experiência de aprendizagem completa baseada na discussão de um problema real e típico de sua função.<br><br>
+
+<p align="center">
+<img src="img/trilha-especializacao.png" width="700"><br>
+<em>Sessão presencial atomizada e assistida por software.</em>
+</p><br><br>
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online** que correspondem a 95% da carga horária total do curso e; 
