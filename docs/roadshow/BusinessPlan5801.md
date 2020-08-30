@@ -342,24 +342,24 @@ A avaliação do desempenho individual dos alunos nas discussões é executada p
 A Trilha de especialização baseada em problemas é um conjunto sequencial de cursos, **complementares à formação profissional técnica**, com o objetivo de desenvolver competências comportamentais pelo **método ativo** da PBL. Cada curso da trilha proporciona ao aluno uma de experiência de aprendizagem completa baseada na discussão de um problema real e típico de sua função.<br><br>
 
 <p align="center">
-<img src="img/trilha-especializacao.png" width="700"><br>
-<em>Sessão presencial atomizada e assistida por software.</em>
+<img src="img/trilha-especializacao.png" width="600"><br>
+<em>rilha de especialização baseada em problemas.</em>
 </p><br><br>
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
 1. Uma etapa preliminar de **preparação**, com atividades **online** que correspondem a 95% da carga horária total do curso e; 
-2. Uma etapa final de **discussão**, composta de uma sessão **presencial** de três horas, conduzida por um **tutor**, onde **dez alunos** se reunem por **três horas** para **analisar** as possíveis soluções para o problema proposto no curso. 
+2. Uma etapa final de **discussão**, composta de uma sessão **presencial** de três horas, conduzida por um **tutor**, onde **dez alunos** se reunem por **três horas** para **analisar** as possíveis soluções para o problema proposto no curso. <br><br>
 
 Na etapa de **preparação** de **cada curso** da trilha, o aluno: 
 1. Recebe o **conteúdo descritivo** do problema abordado no curso, bem como todo o material de apoio para o seu entendimento;
 2. É **avaliado** de forma adaptativa, através de testes *online*, quanto ao seu nível de proficiência nos **conhecimentos técnicos** necessários para a análise e solução do problema; 
 3. Recebe **recomendações personalizadas** de fontes de conteúdo para eliminar possíveis deficiências de conhecimento técnico;
-4. Ao final da etapa, **propõe a sua solução** (ou soluções) para o problema objeto do curso.<br>
+4. Ao final da etapa, **propõe a sua solução** (ou soluções) para o problema objeto do curso.<br><br>
 
 Na etapa de **discussão**, o aluno: 
-1. Participa de uma **sessão presencial** de **três horas**, em **turmas com dez alunos**, para discussões em torno do problema proposto no curso;
+1. Participa de uma **sessão presencial** de **três horas**, em **turmas com dez alunos**, para discussões em torno do problema proposto no curso;<br>
 
-A sessão é conduzida por um tutor especialista, via webconference, e realizada em ambiente que dispõe dos recursos tecnológicos necessários para o desenvolvimento de competências comportamentais conforme a metodologia proposta.
+A sessão é conduzida por um tutor especialista, via webconference, e realizada em ambiente que dispõe dos recursos tecnológicos necessários para o desenvolvimento de competências comportamentais conforme a metodologia proposta.<br><br>
 
 Como **feedback** da sua atuação em cada curso da trilha de especialização, o aluno recebe:
 1. Os resultados dos testes de conhecimento técnico que fez ao longo do curso;
@@ -381,27 +381,6 @@ Cada curso da trilha pode ser configurado para **acelerar o desenvolvimento** de
 - Atuação sob **pressão** de prazo, desempenho e opiniões diversas; 
 - Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
 - Visão orçamentária e atitude empreendedora.<br><br>
-
-**Benefícios para os alunos da trilha de especialização baseada em problemas **<br>
-
-As competências comportamentais desenvolvidas pela **trilha de especialização baseada em problemas** melhoram o **desempenho do aluno na resolução de problemas profissionais** e **aumentam a eficiência** da sua atuação no dia-a-dia da carreira. Para avaliar a reação destas hipóteses entre alunos de escolas profissionalizantes, os idealizadores utilizaram os resultados de uma pesquisa quantitativa voluntária realizada recentemente no Brasil. 
-
-A pesquisa entrevistou 120 alunos concluintes de cursos de graduação em economia, engenharia e administração sobre **atividades educacionais** usualmente empregadas em programas **profissionalizantes**. O questionário da pesquisa continha nove questões do tipo múltipla escolha com o objetivo de medir a percepção de valor nas diversas experiências de aprendizagem de programas profissionalizantes online e presencial. 
-
-Duas questões avaliaram diretamente a receptividade dos benefícios da PBL e da importância das competências comportamentais para os alunos entrevistados.<br><br>
-
-<p align="center">
-<img src="img/pesquisa-quadro-resumo.png" width="800">
-</p>
-<p align="center">
-<em>Os resultados quantitativos da pesquisa foram validados em entrevistas qualitativas posteriores. A pesquisa completa pode ser acessada em <a href="https://docs.google.com/forms/d/1AtVWKqeECtwsmQpiBUlhZVVezaOU_rUCCRduIeS1CpA/edit#responses" target="_blank">pesquisa</a>.</em>
-</p>
-
-<br>
-
-As respostas dos entrevistados para estas duas questões evidenciam fortemente as seguintes hipóteses: 
-1. Para os alunos, as **avaliações da capacidade de resolução de problemas** são as **mais importantes** de um curso profissionalizante;
-2. O alunos percebem com importância semelhante as **competências comportamentais** que, segundo o Fórum Econômico Mundial, **diferencia** os trabalhadores do futuro no mercado de trabalho.<br><br>
 
 **Sistema de ensino profissionalizante baseado em problemas** <br>
 
