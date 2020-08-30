@@ -431,20 +431,20 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 
 <a name="negocio"></a>
 <br>
-n
+
 ## O NEGÓCIO 
 
-Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores decidiram criar a empresa **OpenPBL** para atuar o setor educacional. <br><br>
+Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores decidiram criar a empresa **OpenPBL** para atuar no setor educacional. <br><br>
 
 ### Posicionamento e proposta de valor
 
 A OpenPBL se posiciona como uma **Edtech**, detentora de uma **tecnologia educacional própria** que beneficia os players dos segmentos de **formação profissionalizante** e **educação corporativa** por viabilizar a **redução substancial dos custos** de desenvolvimento de competências comportamantais profissionais. 
 
-A **tecnologia educacional** desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na tradicional *problem-based learning*.<br><br>
+A **tecnologia educacional** desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na tradicional *problem-based learning*.<br>
 
-O posicionamento da empresa está refletido claramente na sua **missão** e **proposta de valor** ao mercado: <br> 
+O posicionamento da empresa está refletido na sua **missão** e **proposta de valor** ao mercado: <br> 
 
-&nbsp;&nbsp;&nbsp;*"**Democratizar** o acesso à **educação profissional baseada em problemas** para desenvolver as **competências do futuro** em um número cada vez maior de profissionais.”* <br><br>
+`&nbsp;&nbsp;&nbsp;*"**Democratizar** o acesso à **educação profissional baseada em problemas** para desenvolver as **competências do futuro** em um número cada vez maior de profissionais.”*` <br><br>
 
 
 ### Produtos
