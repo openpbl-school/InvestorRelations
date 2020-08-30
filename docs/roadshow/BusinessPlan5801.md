@@ -342,8 +342,8 @@ A avaliação do desempenho individual dos alunos nas discussões é executada p
 A Trilha de especialização baseada em problemas é um conjunto sequencial de cursos, **complementares à formação profissional técnica**, com o objetivo de desenvolver competências comportamentais pelo **método ativo** da PBL. Cada curso da trilha proporciona ao aluno uma de experiência de aprendizagem completa baseada na discussão de um problema real e típico de sua função.<br><br>
 
 <p align="center">
-<img src="img/trilha-especializacao.png" width="600"><br>
-<em>rilha de especialização baseada em problemas.</em>
+<img src="img/trilha-especializacao.png" width="500"><br>
+<em>Trilha de especialização baseada em problemas.</em>
 </p><br><br>
 
 Os cursos têm **formato padronizado** na modalidade **híbrida** (ou semi-presencial) e são executados sempre em duas etapas:
@@ -422,7 +422,12 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 <br>
 
 ## O NEGÓCIO 
-Para monetizar o **sistema de ensino** desenvolvido, os idealizadores do projeto criaram a **OpenPBL**, uma edtech cuja missão é *"**popularizar** e **democratizar** o **ensino profissionalizante baseado em problemas**".*
+Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores criaram a **OpenPBL**, uma edtech cuja missão e "proposta de valor" é <br> 
+
+*"**Democratizar** o acesso à educação profissional baseada em problemas para desenvolver as competências do futuro em um número cada vez maior de profissionais.”* <br><br>
+
+Seu posiA OpenPBL desenvolveu um sistema de ensino profissionalizante de baixo custo para gerenciar a execução de cursos que adotam a problem-based learning.
+
 
 As receitas da OpenPBL são provenientes de duas fontes: 
 - do **licenciamento** do **Sistema de Ensino OpenPBL** para escolas profissionalizantes e;
