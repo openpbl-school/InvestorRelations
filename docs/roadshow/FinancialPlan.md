@@ -1,12 +1,10 @@
 <p align="center">    
     <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
-    ·
+    .
     <a href="#portuguese">Portuguese</a>
-    ·
-    <a href="#chinese">Chinese</a>
 </p>
+
+<!--
 
 <a name="english"></a>
 <br>
@@ -66,6 +64,7 @@ Financial plan of the 2020 fundraising Business Plan.<br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
+-->
 
 <a name="portuguese"></a> 
 <br>
