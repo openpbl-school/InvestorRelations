@@ -657,13 +657,30 @@ As simulações utilizaram **premissas de marketing e custos** para modelar o **
   <img src="img/overall-performance.png" width="500">
 </p>
 <p align="center"><em>Desempenho da simulação para 5 anos de operação da empresa.</em>
-</p> 
-
-<br>
+</p> <br><br>
 
 **Plano financeiro** <br>
 
-O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a>
+O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank_"> OpenPBL - Plano Financeiro</a><br><br>
+
+
+### Novas frentes de negócio 
+A partir do desenvolvimento do **software do sistema educacional**, será possível a expansão dos negócios da empresa com a replicação do roadmap comercial em outras cidades, inclusive de outros países (*Greenfields*).
+
+Estas novas frentes comerciais têm potencial de **multiplicar o desempenho** da empresa simulado na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
+
+**Greenfield** <br>
+
+No Brasil, a <a href="http://inep.gov.br/microdados" target="_blank">base de dados do MEC/INEP</a> é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente **8.450.000** de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.256.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
+
+A cidade de São Paulo foi escolhida para o lançamento da empresa por apresentar **grande densidade populacional**, **grande variedade de cursos de graduação**, além de **muitas opções de co-workings**. Segundo o INEP, o tamanho do segmento II na cidade de São Paulo é de **130.000** potenciais alunos.<br><br>
+
+<p align="center">
+<img src="img/2018-sao-paulo-market.png" width="600"><br>
+<em>Alunos concluintes em 2018 na cidade de São Paulo.</em>
+</p><br>
+
+
 
 <br><br>
 
@@ -690,31 +707,9 @@ O Plano financeiro detalhado com todas as planilhas pode ser acessado pelo link:
 <a name="expansao"></a>
 <br>
 
-### Expansão 
+## Sistema de software 
 
-
-### Novas frentes de negócio 
-A partir do desenvolvimento do sistema educacional será possível a expansão dos negócios da empresa em **três novas frentes**:
-- Implantação da *Escola Profissionalizante OpenPBL* em outras cidades, inclusive de outros países (*Greenfield*);
-- Venda do *Sistema Educacional OpenPBL* para instituições de ensino utilizarem como complemento de suas atividades educacionais;
-- Venda de projetos capacitação baseados em PBL para empresas utilizarem como complemento de suas atividades de educação corporativa;<br><br>
-
-Estas três novas frentes de negócios têm potencial de **multiplicar o desempenho** simulado da empresa na seção anterior. Para serem exploradas, as novas frentes necessitarão de investimentos adicionais, cuja aplicação deverá nortear as discussões acerca da **estratégia de expansão** da empresa a partir do ano 2 de operação.<br><br> 
-
-**Greenfield** <br>
-
-No Brasil, a <a href="http://inep.gov.br/microdados" target="_blank">base de dados do MEC/INEP</a> é considerada uma fonte confiável de dados estratificados do **segmento II**, ou seja, *"alunos em fase de conclusão dos seus cursos profissionalizantes de nível superior"*. Segundo o INEP, o Brasil registrou em 2018, um total de aproximadamente **8.450.000** de alunos universitários matriculados em instituições públicas e privadas, dentre estes, cerca de **1.256.000** (ou 15% dos matriculados) pertencem ao segmento II do público-alvo da escola por estarem concluindo seus programas de capacitação profissionalizante. 
-
-A cidade de São Paulo foi escolhida para o lançamento da escola profissionalizante por apresentar **grande densidade populacional**, **grande variedade de cursos de graduação**, além de **muitas oções de co-workings**. Segundo o INEP, o tamanho do segmento II na cidade de São Paulo é de **130.000** potenciais alunos.<br><br>
-
-<p align="center">
-<img src="img/2018-sao-paulo-market.png" width="600"><br>
-<em>Alunos concluintes em 2018 na cidade de São Paulo.</em>
-</p><br>
-
-### Sistema de software 
-
-Graças ao modelo escalável utilizado, o **desempenho** simulado acima poderá ser replicado para garantir uma rápida **expansão das atividades da empresa**. Para isso, é necessário o desenvolvimento do **Sistema de Ensino** para automatizar os processos e etapas do método.<br><br>
+Graças ao modelo escalável utilizado, o **desempenho** da empresa poderá ser replicado para uma rápida **expansão das atividades da empresa**. Para isso, é necessário o desenvolvimento do **sistema de software** para automatizar os processos e etapas do **Sistema de Ensino**.<br><br>
 
 **Desenvolvimento de software** <br>
 
@@ -734,75 +729,9 @@ Os **sete** componentes que compõem o software do **Sistema de Ensino OpenPBL**
 
 OPEN-PBL APP é um software de **código aberto** que gerencia **experiências de aprendizagem baseadas em problemas** tomadas na educação profissional. As escolas podem usar o OPEN-PBL APP **gratuitamente** para garantir que suas experiências de aprendizagem estejam alinhadas com a estrutura teórica e as melhores práticas da aprendizagem baseada em problemas. As pequenas empresas também podem aproveitar os benefícios da abordagem de aprendizagem baseada em problemas usando o OPEN-PBL APP **gratuitamente** no treinamento e desenvolvimento de seus funcionários. <br>
 
-**O que é PBL** <br>
-A Aprendizagem Baseada em Problemas (PBL) é uma estratégia de aprendizagem adotada - total ou parcialmente - por algumas escolas em sua arquitetura educacional. No PBL, os alunos aprendem **resolvendo problemas** e **refletindo sobre suas experiências**. Eles trabalham em pequenos grupos colaborativos onde aprendem o que precisam para resolver um problema apresentado a eles. Nesse contexto, o professor atua mais como um facilitador para orientar a aprendizagem do aluno do que como um detentor de conhecimento, como nas abordagens tradicionais de aprendizagem. <br>
+As funcionalidades do aplicativo de código aberto OpenPBL podem ser acessadas pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/SoftwareDevelopment#portuguese" target="_blank_"> OpenPBL - Aplicativo</a><br><br>
 
-Harvard, Minerva e a escola de tecnologia '42' são alguns exemplos de iniciativas bem-sucedidas de uso do PBL para desenvolver ** habilidades profissionais superiores **. A força da adoção da estratégia PBL na educação profissional está no **pragmatismo** de suas experiências de aprendizagem, o que ajuda a **acelerar o ganho de empregabilidade** dos alunos no mercado de trabalho. <br> <br>
-
-**Por que usar o OPEN-PBL APP** <br>
-Apesar das vantagens de adotar arquiteturas educacionais baseadas em PBL, apenas algumas escolas adotam totalmente a abordagem PBL porque ela requer recursos acadêmicos mais caros, pois são geralmente escassos e pouco escaláveis. O OPEN-PBL APP ajuda escolas e empresas a lidar com essas restrições, fornecendo um conjunto de recursos para gerenciar a execução de **trilhas de aula para discutir a resolução de casos de problemas**, como aulas de estudo de caso médico e empresarial, sessões para discussão de tecnologia soluções de projetos e muito mais. Para garantir a integridade do processo de aplicação do tutorial PBL, OPENPBL APP:
-- Interage com os professores para ajudá-los a criar e disseminar problemas de caso (CP), e avaliar o desempenho dos alunos nas aulas de discussão do CP.
-- Interage com os alunos para ajudá-los a pesquisar e aprender as habilidades acadêmicas necessárias para a análise do PC e preparar os argumentos individuais para a discussão do PC. <br> <br>
-
-O conjunto de recursos do OPEN-PBL APP permite que escolas e empresas adotem a estratégia PBL em sua arquitetura e sistemas educacionais sem a necessidade de adquirir recursos acadêmicos caros e não escaláveis. Assim, eles podem garantir a aplicação adequada e medição da eficácia das arquiteturas educacionais para:
-- Implantar **sitemas educacionais totalmente centrados no aluno** adotando o uso de PBL; ou
-- Basta **adicionar algumas experiências PBL** aos sistemas de ensino que usam atualmente. <br><br>
-
-
-**CONCEPTUALIZAÇÃO E DESENVOLVIMENTO DE OPEN-PBL**
-
-O processo de conceituação e delineamento da arquitetura do OPEN-PBL APP originou-se da pesquisa de doutorado do Departamento de Informática da PUC-Rio. Atualmente, o desenvolvimento do código é coordenado por OPEN-PBL.ORG, que é responsável por aplicar as melhores práticas internacionais para a criação, versionamento e licenciamento de **código livre**. <br>
-
-**Universalização do PBL** <br>
-A missão principal do OPEN-PBL.ORG é promover o uso do PBL por organizações sociais, governos e pequenas empresas que, de outra forma, não teriam acesso aos recursos necessários para sua adoção. <br>
-
-**Licenciamento** <br>
-A licença para usar o OPEN-PBL APP é BSD. O código, bem como todas as instruções para sua implantação segura, podem ser acessados ​​em github.com/openpbl. <br>
-
-**Monitorar as práticas PBL** <br>
-O OPEN-PBL.ORG mantém, em parceria com *”The Interdisciplinary Journal of Problem-Based Learning”*, a publicação de um monitor de novos **estudos acadêmicos e casos de aplicação PBL**. O conteúdo do **PBL Monitor** é direcionado a professores, educadores, profissionais de T&D e executivos de educação interessados em acompanhar os desenvolvimentos e discussões sobre a estratégia de aprendizagem do PBL. <br>
-
-**Suporte para ações sociais** <br>
-OPEN-PBL.ORG mantém programa de consultoria voluntária para a implementação gratuita da aplicação OPEN-PBL em iniciativas educacionais promovidas por prefeituras e entidades sem fins lucrativos. <br><br>
-
-<p align="center">
-  <img src="img/app-diagrams.png" width="700">
-</p>
-<p align="center"><em>Diagramas de entidade-relacionamento.</em>
-</p> 
-
-<br>
-
-**AMBIENTES OPEN-PBL COM O GOOGLE CLASSROOM APP**
-
-**Ambientes Virtuais de Aprendizagem**<br>
-O OPEN-PBL usa o ambiente virtual do aplicativo gratuito Google Classroom (GC) como interface padrão para interagir com (e entre) os atores envolvidos no processo de aprendizagem. A interação é feita nos seguintes ambientes:
-- Ambiente de CG de interação individual com cada aluno;
-- Ambiente de CG de interação individual com cada professor;
-- Ambiente de CG compartilhado por grupos de professores, dedicado ao desenvolvimento estruturado de cada “caso-problema” (CP);
-- Ambiente de CG de interação individual com cada aluno, dedicado à pesquisa e avaliação de proficiência em cada disciplina pré-requisito para análise de PC;
-- Ambiente de CG compartilhado por grupos de alunos, dedicado ao estudo preliminar e à elaboração dos argumentos de análise do CP;
-- Ambiente GC compartilhado por alunos e professores, destinado à preparação preliminar para as aulas de discussão em PC;<br><br>
-
-**RECURSOS PRINCIPAIS DO OPEN-PBL**
-
-**Planejamento instrucional e design**
-As principais funcionalidades para o planejamento e execução instrucional fornecidas pelo OPEN-PBL APP nos ambientes de GC de interação do professor e aluno são:
-- Auxiliar professores na criação estruturada de CP;
-- Divulgar o CP e todo o material complementar associado aos alunos interessados;
-- Avaliar a proficiência dos alunos em tópicos acadêmicos, pré-requisitos para análise de CP;
-- Auxiliar o professor na preparação e execução das aulas de discussão do CP;
-- Registrar a participação dos alunos nas aulas de discussão do CP;
-- Auxiliar na avaliação e classificação da participação dos alunos nas aulas de discussão do CP;<br><br>
-
-**Experiências de aprendizagem**
-Os principais recursos para o gerenciamento de experiências de aprendizagem fornecidos pelo OPEN-PBL APP em ambientes de interação de professores e alunos do GC são:
-- Crie um ambiente propício para a pesquisa em cada assunto de pré-requisito para a análise de CP;
-- Criar um ambiente de discussão entre os alunos para elaboração dos argumentos de análise do CP;
-- Criar um ambiente de explicação consolidada da aprendizagem coletiva gerada em cada sessão de discussão de um PC;<br><br>
-
-A página inicial do projeto do aplicativo OpenPBL App pode ser acessada (em inglês) pelo link:<a href="https://openpbl.github.io/app-docs/" target="_blank_"> OpenPBL - Free and opensource software</a><br><br>
-
+A página inicial do projeto *open source* do aplicativo OpenPBL App pode ser acessada (em inglês) pelo link:<a href="https://openpbl.github.io/app-docs/" target="_blank_"> OpenPBL - Free and opensource software</a><br><br>
 
 
 <br><br>
