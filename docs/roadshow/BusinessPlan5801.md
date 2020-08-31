@@ -645,7 +645,7 @@ O planejamento das operações da empresas está dividido segundo as áreas de e
 
 **Plano Operacional** <br>
 
-O Plano Operacional detalhado com os job descriptions relevantes pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/OperationalPlan#portuguese" target="_blank_"> OpenPBL - Plano Operacional</a><br><br>
+O Plano Operacional detalhado com os job descriptions relevantes pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/OperationsPlan#portuguese" target="_blank_"> OpenPBL - Plano Operacional</a><br><br>
 
 **Operações comerciais - Atração**<br>
 
