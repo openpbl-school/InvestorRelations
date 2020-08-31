@@ -255,46 +255,49 @@ A PBL é comprovadamente **eficaz** no desenvolvimento de competências comporta
 
 ### Escalando a PBL
 
-A Aprendizagem Baseada em Problemas é uma estratégia de aprendizagem **ativa**, ou seja, onde o aluno tem um papel relevante no processo de ensino, e **centrada no aluno**, ou seja, onde cada aluno aprende de forma individualizada. 
+A **Aprendizagem Baseada em Problemas** é uma estratégia de aprendizagem **ativa**, ou seja, o aluno é co-responsável por seu aprendizado. Além disso, a PBL é **centrada no aluno**, ou seja, onde cada aluno aprende de forma individualizada. 
 
-A execução da PBL é adotada - total ou parcialmente - por escolas em uma arquitetura educacional com **duas etapas**. Na **etapa de preparação**, os alunos trabalham individualmente ou em pequenos grupos colaborativos onde aprendem o que precisam para resolver um problema apresentado a eles. Na **etapa de discussão**, o professor atua mais como um facilitador para orientar a aprendizagem do aluno do que como um detentor de conhecimento, como nas abordagens tradicionais de aprendizagem. 
+Tradicionalmente, a PBL é executada em **duas etapas**. Na **etapa de preparação**, os alunos trabalham individualmente ou em pequenos grupos colaborativos onde aprendem o que precisam para resolver um problema apresentado a eles. Na **etapa de discussão** das soluções para o problema, o professor atua mais como um facilitador para orientar a aprendizagem do aluno do que como um detentor de conhecimento como nas abordagens tradicionais. 
 
-A força da adoção da PBL na **educação profissional** está no **pragmatismo das experiências de aprendizagem**, o que ajuda a acelerar o ganho de empregabilidade dos alunos no mercado de trabalho.
+A força da adoção da PBL na **educação profissional** está no **pragmatismo das experiências de aprendizagem**, o que ajuda a acelerar o ganho de empregabilidade dos alunos no mercado de trabalho.<br><br>
 
 <p align="center">
   <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
   <em>Pela PBL, os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.<br> Fonte:<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank"> The Interdisciplinary Journal of Problem-based Learning</a>.</em>
 </p><br><br>
 
-Os dois principais **obstáculos** para execução da PBL **em larga escala**  são: 
+Os dois principais **obstáculos** para execução da PBL **em larga escala** são: 
 - A PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
 - A **interação síncrona** na etapa de discussão da PBL é considerada uma atividade crítica para a qualidade do método e a **execução 100% digital** ainda não é capaz de substituir as sessões presenciais tutoradas. 
 
-Os idealizadores desenvolveram um **método inovador** baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial** cujo objetivo principal é contornar estes obstáculos para gerar economias de escala. Diferentemente do paradigma 100% digital que gera economias de escala em todas as atividades da mesma forma, a **essência** do método proposto consiste em escalar **cada etapa** do processo de execução da PBL de forma **única**.<br><br>
+**Modelo inovador** <br>
+Para contornar os obstáculos para execução da PBL em larga escala, os idealizadores desenvolveram um **modelo inovador** baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**. 
+
+Diferentemente do "paradigma 100% digital" adotado por Edtechs para gerar economias de escala, a **essência** do novo modelo propõe escalar **cada etapa** do processo de execução da PBL de forma **única**. O resultado é um modelo **híbrido** (ou semi-presencial), porém com grande capacidade de gerar economias de escala. <br><br>
 
 <p align="center">
   <img src="img/sum_quadro3.png" width="800"><br>
   <em>Intervenção em cada uma das etapas clássicas do processo de execução.</em>
 </p><br><br>
 
-A seguir, a justificativa de cada intervenção proposta na estratégia para escalar o processo de execução da PBL: 
+A seguir, a justificativa de cada intervenção proposta no modelo para escalar o processo de execução da PBL: 
 
 1. Utilização de **ativos de terceiros**: 
- - A utilização de **espaços físicos** de terceiros garante o nível de disponibilidade do recurso, mesmo com o aumento das atividades da empresa;
- - A adoção de espaços físicos, cuja oferta já consideram as facilities atendimento, limpeza, segurança, agendamento, etc, permite que a gestão seja tratada como a gestão de um custo direto e não mais como um custo fixo, apropriável por chave de rateio;
- - A substituição de docentes por profissionais experientes de mercado sem qualquer skill acadêmico viabiliza a produção escalável de conteúdo.<br><br>
+ - A utilização de **espaços físicos** de terceiros garante o nível de disponibilidade de salas, mesmo com o aumento das atividades da empresa;
+ - A adoção de espaços físicos, cuja oferta já consideram as facilities atendimento, limpeza, segurança, agendamento, etc, permite que a gestão seja tratada como a gestão de um custo direto e não como um custo fixo apropriável por chave de rateio;
+ - A substituição de docentes por profissionais de mercado sem qualquer skill acadêmico viabiliza a produção escalável de conteúdo.<br><br>
 
 2. Uso intensivo de **inteligência artificial**: 
  - A IA viabiliza a “extração” (e a codificação) da experiência dos profissionais de mercado;
- - A IA automatiza algumas tarefas docentes e reduz drasticamente o custo da operação; <br><br>
+ - A IA automatiza algumas tarefas docentes e reduz substancialmente o custo da operação; <br><br>
 
 3. Integração estratégica <br>
-Além de contribuir individualmente para a escala da PBL via custos, a "**atomização**" da sessão presencial também proporciona, com o emprego de equipamentos simples apenas, um ambiente viável para a aplicação de modelos de reconhecimento facial, transcrição, Processamento de linguagem Natural (NLP) e algoritmos de clusterização obtidos por *machine learning*.<br><br>
+Além de contribuir individualmente para escalar a PBL via custos, a "**atomização**" da sessão presencial também proporciona um **ambiente viável** para a aplicação de modelos de *machine learning* com o emprego de equipamentos simples.<br><br>
 
 
 ### Método de ensino profissionalizante
 
-Baseada na estratégia proposta, os idealizadores desenvolveram um **método de ensino profissionalizante** que permite a **criação** e a **gestão sistemática** de **cursos de especialização profissional**. Cada curso executado pelo método proporciona ao aluno uma experiência de aprendizagem **completa** baseada na discussão de um problema real e típico de sua carreira profissional.
+Baseado no modelo proposto, os idealizadores desenvolveram um **método de ensino profissionalizante** que permite a **criação** e a **gestão sistemática** de **cursos de especialização profissional** baseados em problemas. Cada curso embute um **ciclo PBL completo** baseado na discussão de um problema real e típico de sua carreira profissional.
 
 Os **três processos-chave** do método são: 
 1. Extração automatizada de cenários reais;
@@ -336,7 +339,7 @@ No processo proposto de **Atomização e Automatização das Discussões**, as s
 
 A dinâmica da sessão é conduzida por um tutor, via *videoconference*, com o auxílio de um *Process management software* que, entre outras coisas, propõe e controla o tempo das atividades, orienta a elaboração das perguntas, define os grupos para exercícios e exibe o material multimidia auxiliar. 
 
-A avaliação do desempenho individual dos alunos nas discussões é executada por *software de IA*, treinado pela técnica de *"machine learning"*, que também edita automaticamente o vídeo com a gravação da sessão.<br><br>
+A avaliação do desempenho individual dos alunos nas discussões é executada por *software de IA*, treinado por um conjunto de técnicas de *"machine learning"* (reconhecimento facial, transcrição, Processamento de linguagem Natural - NLP e algoritmos de clusterização)., que também edita automaticamente o vídeo com a gravação da sessão.<br><br>
 
 <p align="center">
 <img src="img/sum_processo3.png" width="800"><br>
@@ -399,7 +402,7 @@ Os idealizadores propõem que os sete **componentes de software** que **automati
  - **"*Recommender system*"** para recomendação do conteúdo de apoio na etapa de SDL do método. 
  - **"*Process management system*"** para assistir e orientar os tutores na condução das sessões presenciais de discussão.
  - **"*Machine learning model*"** capaz de editar e avaliar automaticamente o desempenho filmado dos alunos nas sessões de discussão.
- - **API** para integração com bases de dados de redes sociais de cunho profissional.<br>
+ - **API** para integração com bases de dados de redes sociais de cunho profissional.<br><br>
  
 **Tecnologia educacional** <br>
 
@@ -436,47 +439,40 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 
 Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores decidiram criar a empresa educacional **OpenPBL**. <br><br>
 
-### Posicionamento e proposta de valor
+### Posicionamento
 
-O posicionamento da empresa é explicitado na sus descrição:
+A OpenPBL é uma **Edtech** detentora de uma **tecnologia educacional própria** que **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.<br><br>
 
-&nbsp;&nbsp;&nbsp;*A OpenPBL é uma **Edtech** detentora de uma **tecnologia educacional própria** que **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.*<br>
 
-O posicionamento da empresa está refletido também na sua **missão** e **proposta de valor** ao mercado: <br> 
+### Proposta de valor 
 
-&nbsp;&nbsp;&nbsp;*"**Democratizar** o acesso à **educação profissional baseada em problemas** para desenvolver as **competências do futuro** em um número cada vez maior de profissionais.”* <br><br>
+**Democratizar** o acesso à **educação profissional baseada em problemas** para desenvolver as **competências do futuro** em um número cada vez maior de profissionais.”<br><br>
 
 
 ### Receitas 
 
-As receitas da empresa são provenientes da exploração do **sistema de ensino baseado em problemas** em todas as suas **formas de distribuição**, a saber: (1) o licenciamento **B2B2C**; (2) as soluções corporativos **B2B** e; (3) os cursos **B2C**. <br><br>
+As receitas da empresa são provenientes da exploração de todas as **formas de distribuição** do seu **sistema de ensino baseado em problemas**. O sistema de ensino é distribuido via: (1) licenciamento do software para empresas **B2B2C**; (2) soluções para educação corporativa **B2B** e; (3) Programas educacionais **B2C**. <br><br>
 
 
 ### Produtos
 
-<br>
+O principal produto gerador de receitas recorrentes da empresa é o seu **sistema de ensino baseado em problemas**. <br><br>
 
 **Sistema de Ensino baseado em problemas (B2B2C)** <br>
 
-O principal produto gerador de receitas recorrentes da empresa é o seu **sistema de ensino baseado em problemas**. 
-
 O sistema de software automatiza a **criação** e a **execução** de **trilhas de especialização baseadas em problemas** para acelerar o desenvolvimento de competências comportamentais profissionais. O valor mensal por usuário não deve ser superior à **US $ 5,00** `(R$ 25,00)`.
 
-Clientes-alvo <br>
-Os clientes-alvo são empresas que utilizam o **sistema de ensino baseado em problemas** para capacitar seus **alunos** e **colaboradores** com custos menores que as demais metodologias **ativas** disponíveis. 
+**Clientes-alvo**. Os clientes-alvo do **Sistema de Ensino baseado em problemas (B2B2C)** são empresas que o utilizam para capacitar seus **alunos** e **colaboradores** com custos menores que as demais metodologias **ativas** disponíveis. 
 
 No **segmento das escolas profissionalizantes** os clientes-alvo são as instituições de ensino superior e as escolas de ensino técnico de nível médio. No **segmento da educação corporativa** os clientes-alvo são **grandes e médias empresas ou organizações** que viabilizem relacionamento de parceria e recorrência comercial de longo prazo.
 
-Benefícios para os clientes <br>
-A redução do custo de desenvolvimento de competências comportamentais profissionais com a utilização do **sistema de ensino baseado em problemas**:  
+**Benefícios para os clientes**. A redução do custo de desenvolvimento de competências comportamentais profissionais com a utilização do **sistema de ensino baseado em problemas**:  
 - Permite que **escolas profissionalizantes** ampliem suas receitas pela oferta adicional de novos produtos para desenvolvimento de competências comportamentais; 
 - Ajuda **empresas** a promover o desenvolvimento de competências comportamentais para um número maior de colaboradores.
 
-Customização <br>
-O **sistema de ensino baseado em problemas** orienta a empresa no desenvolvimento de **cursos** totalmente **customizados**. Neste caso, os problemas abordados nos cursos das **trilhas de especialização baseadas em problemas** podem ser propostos por funcionários e colaboradores da própria empresa cliente. 
+**Customização**. O **sistema de ensino baseado em problemas** orienta a empresa no desenvolvimento de **cursos** totalmente **customizados**. Neste caso, os problemas abordados nos cursos das **trilhas de especialização baseadas em problemas** podem ser propostos por funcionários e colaboradores da própria empresa cliente. 
 
-Serviços envolvidos <br>
-As ofertas comerciais para licenciamento do **sistema de ensino baseado em problemas** envolvem:
+**Serviços envolvidos**. As ofertas comerciais para licenciamento do **sistema de ensino baseado em problemas** envolvem:
 - O valor dos serviços de **implantação** do sistema;
 - Um prazo de vigência do contrato de licenciamento não inferior a **24 meses**;
 - O **valor mensal por usuário** para cada faixa de **número de usuários** para a utilização ilimitada do sistema;<br><br>
@@ -487,30 +483,27 @@ O público-alvo das **trilhas de especialização baseadas em problemas** são o
 
 **Projeto e execução de trilhas de especialização baseadas em problemas para empresas (B2B)** <br>
  
-O mercado B2B surge com a possibilidade de abordar empresas de **forma consultiva** para a ofertar **soluções de educação corporativa** que utilizem as **trilhas de especialização baseadas em problemas**. Neste sentido, o **projeto e execução de trilhas de especialização baseadas em problemas para empresas** deve ser visto como uma nova forma de distribuição do **sistema de ensino baseado em problemas**.
+O mercado B2B surge com a possibilidade de abordar empresas de **forma consultiva** para a ofertar **soluções completas de educação corporativa** que utilizem as **trilhas de especialização baseadas em problemas**. Neste sentido, o **projeto e execução de trilhas de especialização baseadas em problemas para empresas** deve ser visto como uma nova forma de distribuição do **sistema de ensino baseado em problemas**.
  
-Clientes-alvo e benefícios <br>
-Os clientes-alvo e benefícios deste produto são essencialmente os mesmos que a oferta do **sistema de ensino baseado em problemas**. Contudo, neste caso, o sistema de ensino não é licenciado, mas utilizado para o **desenvolvimento** e **operação** de cursos customizados para empresas e escolas de formação. O modelo de receitas passa a ser de um Preço por curso por funcionário.    
+**Clientes-alvo e benefícios**. Os clientes-alvo e benefícios deste produto são essencialmente os mesmos que a oferta do **sistema de ensino baseado em problemas**. Contudo, neste caso, o sistema de ensino não é licenciado, mas utilizado para o **desenvolvimento** e **operação** de cursos customizados para empresas e escolas de formação. O modelo de receitas passa a ser de um Preço por curso por funcionário.    
 
-Customização <br>
-As possíveis soluções de educação corporativa englobam desde o **planejamento** até a **gestão da execução** de um **projeto de educação corporativa baseado em problemas**. Estas soluções são: 
+**Customização**. As possíveis soluções de educação corporativa englobam desde o **planejamento** até a **gestão da execução** de um **projeto de educação corporativa baseado em problemas**. Estas soluções são: 
 - **Soluções de Planejamento Educacional.** As soluções para essa etapa têm caráter de consultoria educacional para os profissionais de T&D, responsáveis por desenvolver e gerenciar projetos de educação corporativa. 
 - **Soluções de Aprendizagem.** São os objetos de aprendizagem propriamente ditos. Esses objetos podem estar no acervo da OpenPBL ou requerer a produção de conteúdos customizados.
 - **Soluções de Engajamento.** São soluções utilizadas nos projetos onde a adesão do colaborador é facultativa.
 - **Soluções de Execução.** São soluções para a execução da capacitação propriamente ditas. Essas soluções disponibilizam a infraestrutura presencial ou online necessárias.
 - **Soluções de Gestão da Execução.** É o conjunto de soluções para acompanhamento e controle dos projetos de capacitação pelo profissional de T&D.<br><br>
 
-
 **Trilhas de especialização baseadas em problemas para profissionais e alunos de escolas de formação (B2C)** 
 
 O mercado B2C surge diante da possibilidade de ofertar trilhas e cursos baseados em problemas **diretamente** para profissionais e alunos de escolas de formação. Neste sentido, a oferta direta de **trilhas de especialização baseadas em problemas** também deve ser vista como mais uma forma de distribuição do **sistema de ensino baseado em problemas**. 
 
-A exploração desta classe de produtos é detalhada na seção seguinte sobre as **escolas profissionalizantes baseadas em problemas** <br><br>
+A exploração desta classe de produtos é detalhada na próxima seção sobre as **escolas profissionalizantes baseadas em problemas** <br><br>
 
 
 ### Escolas profissionalizantes baseadas em problemas
 
-Além das receitas oriundas da venda de cursos profissionalizantes como canal de distribuição do **sistema de ensino baseado em problemas**, a criação de **escolas profissionalizantes baseadas em problemas** tem a função estratégica de **tangibilizar** os benefícios do sistema de ensino à medida que a OpenPBL pode promover ações para comunicar o sucesso dos seus alunos no mercado de trabalho.<br>
+Além das receitas oriundas da venda de cursos profissionalizantes como canal de distribuição do **sistema de ensino baseado em problemas**, a criação de **escolas profissionalizantes baseadas em problemas** tem a função estratégica de **tangibilizar** os benefícios do sistema de ensino à medida que a OpenPBL pode promover ações para comunicar o sucesso dos seus alunos no mercado de trabalho.<br><br>
 
 **Público-alvo da escola** <br>
 
@@ -520,9 +513,7 @@ Os cursos e programas da **escola profissionalizante OpenPBL** são destinados �
   <img src="img/sum_quadro2.png" width="700"><br>
 </p>
 <p align="center"><em>Usuários-alvo com necessidades diversas e em fases distintas da carreira.</em>
-</p>
-
-<br>
+</p><br><br>
 
 **Mercado da escola** <br>
 
@@ -583,16 +574,18 @@ A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas
 
 Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br>
 
-Em especial, os empreendedores têm experiências complementares na execução de *projetos complexos de educação corporativa*, isto é, projetos que apresentam:
+Em especial, os empreendedores têm experiências complementares na execução de **projetos complexos de educação corporativa**, isto é, projetos que apresentam:
 1. Grande abrangência territorial e diversidade de infraestrutura presencial;
 2. Grande quantidade e dispersão dos colaboradores envolvidos; 
 3. Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
 4. Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
 5. Grande necessidade de engajamento e fidelização dos colaboradores.<br><br>
 
+Acesse <a href="https://github.com/openpbl-school/InvestorRelations/edit/master/docs/roadshow/BusinessPlan5801.md"> Portfolio de Projetos Complexos</a> para uma lista completa.<br><br>
+
 ### Time executivo
 
-O time executivo montado para a fase inicial da empresa é composto por profissionais com experiência nos setores de educação e finanças.<br><br> 
+O time executivo montado para a fase inicial da empresa é composto por profissionais com experiência nos setores de **educação** e **finanças**.<br><br> 
 
  <p align="center">
 <img src="img/socios-linkedin.png" width="700"><br>
@@ -607,7 +600,7 @@ O time executivo montado para a fase inicial da empresa é composto por profissi
 
 ### Start-up 
 
-Para este plano de negócios, o período de startup é definido entre a **data do primeiro aporte de capital** e o **final do segundo ano de operação** da empresa. Esta seção detalha este período de aproximadamente dois anos de preparação da empresa para a atuação escalável B2B2C.
+Neste plano de negócios, o período de **start-up da empresa** é definido entre a **data do primeiro aporte de capital** e o **final do segundo ano de operação**. Esta seção detalha o período de aproximadamente dois anos que vai preparar a empresa para a atuação escalável B2B2C a partir do terceiro ano.<br><br>
 
 **Roadmap**<br> 
 
