@@ -600,9 +600,7 @@ O time executivo montado para a fase inicial da empresa é composto por profissi
 
 ### Start-up 
 
-Neste plano de negócios, o período de **start-up da empresa** é definido entre a **data do primeiro aporte de capital** e o **final do segundo ano de operação**. Esta seção detalha o período de aproximadamente dois anos que vai preparar a empresa para a atuação escalável B2B2C a partir do terceiro ano.<br><br>
-
-**Roadmap**<br> 
+Neste plano de negócios, o período de **start-up da empresa** é definido entre a **data do primeiro aporte de capital** e o **final do segundo ano de operação**. Esta seção detalha o período de aproximadamente dois anos que vai preparar a empresa para a atuação escalável B2B2C a partir do terceiro ano.<br>
 
 As etapas previstas para este período de startup são:
 1. Preparação para a operação manual B2B. 
@@ -619,10 +617,7 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 <p align="center">
   <img src="img/startup-roadmap.png" width="700"><br>
   <im>Roadmap para o período de lançamento da empresa</im>
-</p>
-
-<br><br
-
+</p><br><br>
 
 **Objetivos** <br>
 
@@ -644,10 +639,13 @@ O planejamento das operações da empresas está dividido segundo as áreas de e
 - Operações comerciais – Conversão
 - Conversão online
 - Produção de conteúdo
-- Execução presencial
 - Execução online
+- Execução presencial
 - Suporte à carreira<br><br>
 
+**Plano Operacional** <br>
+
+O Plano Operacional detalhado com os job descriptions relevantes pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/OperationalPlan#portuguese" target="_blank_"> OpenPBL - Plano Operacional</a><br><br>
 
 **Operações comerciais - Atração**<br>
 
