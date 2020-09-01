@@ -48,7 +48,7 @@ A
 
 >A plataforma de aprendizagem baseada em problemas que usa inteligência artificial para reduzir os custos do desenvolvimento de competências comportamentais profissionais.
 
-<p align="center">
+<p align="left">
  Publicada em: <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>
 </p><br>
 
@@ -56,14 +56,14 @@ A
 ### Full description 
 *(max. 500 caracteres).*<br>
 
->A OpenPBL é uma Edtech que desenvolve e licencia acesso à uma plataforma de aprendizagem baseada em problemas de baixo custo que usa Inteligência Artificial para desenvolver habilidades comportamentais profissionais em programas educacionais de empresas e escolas profissionalizantes.
->...
->As empresas exigem cada vez mais de seus funcionários as habilidades comportamentais profissionais que lhes permitam não apenas alcançar os resultados esperados, mas também alcançá-los da maneira mais eficiente possível.
+>A OpenPBL é uma Edtech que desenvolve e licencia acesso à uma plataforma de aprendizagem baseada em problemas de baixo custo que usa Inteligência Artificial para desenvolver habilidades comportamentais profissionais em programas educacionais de empresas e escolas profissionalizantes.<br>
+>...<br>
+>As empresas exigem cada vez mais de seus funcionários as habilidades comportamentais profissionais que lhes permitam não apenas alcançar os resultados esperados, mas também alcançá-los da maneira mais eficiente possível.<br>
 >
->A Aprendizagem Baseada em Problemas, ou simplesmente o PBL, é uma estratégia de aprendizado comprovadamente eficaz para o desenvolvimento desse tipo de habilidades comportamentais profissionais. No entanto, os cursos de escolas que tradicionalmente aplicam o processo completo da PBL, como Harvard, Minerva School e École 42, não são acessíveis à maioria dos profissionais.
+>A Aprendizagem Baseada em Problemas, ou simplesmente o PBL, é uma estratégia de aprendizado comprovadamente eficaz para o desenvolvimento desse tipo de habilidades comportamentais profissionais. No entanto, os cursos de escolas que tradicionalmente aplicam o processo completo da PBL, como Harvard, Minerva School e École 42, não são acessíveis à maioria dos profissionais.<br>
 >
->A missão do OpenPBL é democratizar a "educação profissional baseada em problemas", permitindo o acesso popular à experiências de aprendizagem baseadas em problemas típicos da carreira.
->...
+>A missão do OpenPBL é democratizar a "educação profissional baseada em problemas", permitindo o acesso popular à experiências de aprendizagem baseadas em problemas típicos da carreira.<br>
+>...<br>
 >Atualmente, a empresa está promovendo um roadshow para captação de recursos. Mais detalhes em https://bit.ly/OpenPBL-Business-Pitch.
 
 <p align="left">
