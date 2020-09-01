@@ -77,14 +77,14 @@ A
 
 ## Quick facts that are always in the Pitchdeck
 
-### Business Model<br>*(How do you generate revenue? Who pays for your service?).*<br>
+### Business Model 
+*(How do you generate revenue? Who pays for your service?).*<br>
 >A maior parte das receitas é proveniente do licenciamento do sistema de ensino para empresas e escolas de formação profissional (B2B2C). As demais receitas são provenientes da venda de cursos para empresas (B2B) e para o varejo (B2C).<br><br>
->
+><br>
 
-**Product and Technology**<br> 
+### Product and Technology**<br> 
 *(How does your product work? How's the user journey?).*<br>
 >O produto principal é um sistema de ensino profissionalizante que utiliza Inteligência Artificial para gerenciar a execução de cursos que adotam a Problem Based Learning como estratégia de aprendizagem.<br><br>
->
 
 **Competitive Differentiation**<br> 
 *(Why you? What makes your business stand out from its competitors?).*<br>
