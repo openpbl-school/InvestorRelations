@@ -45,11 +45,11 @@ A
 
 <br>
 
-###Problem. 
+### Problem. 
 **What problem your startup solves.**<br>
 Alto custo de empresas e escolas para desenvolver competências comportamentais.<br><br>
 
-####Solution.
+#### Solution.
 **(how your startup intends to solve this problem)**<br>
 Sistema de ensino baseado em problemas, eficaz para desenvolver competências comportamentais. <br><br>
 
