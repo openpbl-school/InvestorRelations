@@ -39,13 +39,18 @@ A
 
 ## OpenPBL Quick Facts
 
+<br><br> 
+
 ### Quick facts that is always in the elevator pitch (max. 100 caracteres)
 
-**Problem. What problem your startup solves.**<br>
+<br>
+
+###Problem. 
+**What problem your startup solves.**<br>
 Alto custo de empresas e escolas para desenvolver competências comportamentais.<br><br>
 
-**Solution
-(how your startup intends to solve this problem)**<br>
+####Solution.
+**(how your startup intends to solve this problem)**<br>
 Sistema de ensino baseado em problemas, eficaz para desenvolver competências comportamentais. <br><br>
 
 **Value Proposition
