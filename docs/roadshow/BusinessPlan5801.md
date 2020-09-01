@@ -80,11 +80,12 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <a name="pitchdeck"></a>
 <br>
 
-**[PITCHDECK]**
+## Pitchdeck
+*(Repositório com todas as informações complementares ao Plano de Negócios)*<br>
 
 > **Apresentações**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_31ago20.pdf" target="_blank">Pitchdeck</a>
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/QuickFacts#portuguese" target="_blank">Pitchdeck</a>
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/QuickFacts#portuguese" target="_blank">Quick Facts</a>
 >
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
