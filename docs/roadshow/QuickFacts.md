@@ -48,10 +48,8 @@ A
 
 >A plataforma de aprendizagem baseada em problemas que usa inteligência artificial para reduzir os custos do desenvolvimento de competências comportamentais profissionais.
 
-<br>
-
 <p align="center">
- <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
+ Publicada em: <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>
 </p><br>
 
 
@@ -143,7 +141,7 @@ A
 ### Competitive Differentiation
 *(Why you? What makes your business stand out from its competitors?).*<br>
 
->A empresa é pioneira na abordagem low-cost para democratização do acesso ao ensino profissionalizante baseado em problemas.<br><br>
+>A empresa é pioneira na abordagem low-cost para democratização do acesso ao ensino profissionalizante baseado em problemas.
 
 <br>
 
