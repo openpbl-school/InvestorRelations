@@ -50,6 +50,11 @@ A
 
 <br>
 
+<p align="center">
+ <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
+</p><br>
+
+
 ### Full description 
 *(max. 500 caracteres).*<br>
 
@@ -63,7 +68,7 @@ A
 >...
 >Atualmente, a empresa está promovendo um roadshow para captação de recursos. Mais detalhes em https://bit.ly/OpenPBL-Business-Pitch.
 
-<br>
+<br><br>
 
 
 ## Quick facts that are always in the "Elevator Pitch" (max. 100 caracteres)
@@ -159,7 +164,7 @@ A
 <br>
 
 
-### Growth Strategy*
+### Growth Strategy
 *(How's your roadmap for the future?).*<br>
 
 >1. Elaborar testes para validar as premissas de custos;
