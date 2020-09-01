@@ -73,11 +73,11 @@ A
 >Empresas e escolas que aplicam metodologias ativas, parcial ou integralmente.<br><br>
 >
 
+<br><br>
 
 ## Quick facts that are always in the Pitchdeck
 
-### Business Model<br>
-*(How do you generate revenue? Who pays for your service?).*<br>
+### Business Model<br>*(How do you generate revenue? Who pays for your service?).*<br>
 >A maior parte das receitas é proveniente do licenciamento do sistema de ensino para empresas e escolas de formação profissional (B2B2C). As demais receitas são provenientes da venda de cursos para empresas (B2B) e para o varejo (B2C).<br><br>
 >
 
