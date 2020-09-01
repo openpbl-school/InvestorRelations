@@ -41,7 +41,7 @@ A
 
 <br>
 
-### Quick facts that is always in the elevator pitch (max. 100 caracteres)
+## Quick facts that are always in the elevator pitch (max. 100 caracteres)
 
 **Problem (What problem your startup solves).**<br>
 Alto custo de empresas e escolas para desenvolver competências comportamentais.<br><br>
@@ -62,9 +62,11 @@ Bench. em custos: École42, Paris, Fr. – Bench. em processo: Minerva, San Fran
 Empresas e escolas que aplicam metodologias ativas, parcial ou integralmente.<br><br>
 
 
-## Quick facts that is always in the Pitchdeck
+## Quick facts that are always in the Pitchdeck
 
-**Business Model (How do you generate revenue? Who pays for your service?).**<br>
+**Business Model**
+
+**(How do you generate revenue? Who pays for your service?).**<br>
 A maior parte das receitas é proveniente do licenciamento do sistema de ensino para empresas e escolas de formação profissional (B2B2C). As demais receitas são provenientes da venda de cursos para empresas (B2B) e para o varejo (B2C).<br><br>
  
 **Product and Technology (How does your product work? How's the user journey?).**<br>
