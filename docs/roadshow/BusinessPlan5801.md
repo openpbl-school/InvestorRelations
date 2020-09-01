@@ -82,21 +82,21 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 
 **[PITCHDECK]**
 
+> **Apresentações**  :
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_31ago20.pdf" target="_blank">Pitchdeck</a>
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/QuickFacts#portuguese" target="_blank">Pitchdeck</a>
+>
 > **Publições em listas de startups**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 > <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 > 
 > **Páginas institucionais**  :
-> <a href="https://www.linkedin.com/company/openpbl" target="_blank">Website</a> .
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
-> <a href="" target="_blank">Boiler Plate para imprensa</a> 
+> <a href="" target="_blank">Imprensa</a> 
 > 
 > **Redes sociais**  :
 > <a href="https://www.linkedin.com/company/openpbl" target="_blank">LinkedIn</a> .
 > <a href="" target="_blank">Twitter</a>
-> 
-> **Apresentações**  :
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_07ago20.pdf" target="_blank">Pitchdeck</a>
 > 
 > **Produtos**  :
 > <a href="https://openpbl-school.github.io/CustomerAcquisition/lp/home#start" target="_blank">Home Page (Ensaio)</a> .
