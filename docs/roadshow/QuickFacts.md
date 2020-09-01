@@ -1,9 +1,11 @@
-<!--
+
 <p align="center">    
     <a href="#english">English</a>
     ·
     <a href="#portuguese">Portuguese</a>
 </p>
+
+<!--
 
 <a name="english"></a>
 <br>
