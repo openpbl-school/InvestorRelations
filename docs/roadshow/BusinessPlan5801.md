@@ -79,22 +79,21 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 </p>
 
 <a name="pitchdeck"></a>
-
 <br>
 
 ## Pitchdeck
-(Repositório com todas as informações complementares ao Plano de Negócios)<br><br>
+Repositório com todas as informações complementares ao Plano de Negócios.<br><br>
 
 > **Informações e fatos relevantes**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_31ago20.pdf" target="_blank">Pitchdeck</a> . 
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/QuickFacts#portuguese" target="_blank">Quick Facts</a>
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/QuickFacts#portuguese" target="_blank">Quick Facts</a>
 >
 > **Publições em listas de funding**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 > <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 > 
 > **Páginas institucionais**  :
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre a OpenPBL</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/About#portuguese" target="_blank">Sobre</a> .
 > <a href="" target="_blank">Imprensa</a> 
 > 
 > **Redes sociais**  :
@@ -116,10 +115,10 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > <a href="" target="_blank">Proposta sistema de ensino</a>
 > 
 > **Plano financeiro**  :
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a> .
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Plano Financeiro</a>
 >
 > **Startup da empresa**  :
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Ações do Startup</a></p>
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Roadmap</a></p>
 
 ## <br>
 
