@@ -66,6 +66,10 @@ A
 >...
 >Atualmente, a empresa está promovendo um roadshow para captação de recursos. Mais detalhes em https://bit.ly/OpenPBL-Business-Pitch.
 
+<p align="left">
+ Publicada em: <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a>
+</p>
+
 <br><br>
 
 
