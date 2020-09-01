@@ -88,7 +88,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_31ago20.pdf" target="_blank">Pitchdeck</a> . 
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/QuickFacts#portuguese" target="_blank">Quick Facts</a>
 >
-> **Publições em listas de funding**  :
+> **Listas públicas de funding**  :
 > <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">Crunchbase</a> . 
 > <a href="https://gust.com/companies/openpbl" target="_blank">Gust</a>
 > 
