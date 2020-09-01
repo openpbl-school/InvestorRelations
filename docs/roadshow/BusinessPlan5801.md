@@ -109,9 +109,9 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#portuguese" target="_blank">Argumentos B2C</a>
 > 
 > **Conversão B2B**  :
-> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial</a> . 
+> <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/proposta_B2B_22ago20.pdf" target="_blank">Proposta comercial B2B</a> . 
 > <a href="" target="_blank">Argumentos B2B</a> .
-> <a href="" target="_blank">Conversão B2B (Sistema)</a> .
+> <a href="" target="_blank">Conversão B2B2C</a> .
 > <a href="" target="_blank">Proposta sistema de ensino</a>
 > 
 > **Plano financeiro**  :
