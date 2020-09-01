@@ -81,7 +81,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <br>
 
 ## Pitchdeck
-*(Repositório com todas as informações complementares ao Plano de Negócios)*<br>
+(Repositório com todas as informações complementares ao Plano de Negócios)<br><br>
 
 > **Apresentações**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_31ago20.pdf" target="_blank">Pitchdeck</a>
@@ -120,6 +120,15 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank">Ações do Startup</a></p>
 
 ## <br>
+
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a></p>
 
 <br><br><br>
 
