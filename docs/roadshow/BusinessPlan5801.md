@@ -449,6 +449,51 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 
 Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores decidiram criar a empresa educacional **OpenPBL**. <br><br>
 
+### Visão
+
+A .<br><br>
+
+### Proposta de valor
+
+A .<br><br>
+
+### Problema
+
+A .<br><br>
+
+### Solução
+
+A .<br><br>
+
+### Produto
+
+A .<br><br>
+
+### Receitas 
+
+A .<br><br>
+
+### Roadmap
+
+A .<br><br>
+
+### Time
+
+A .<br><br>
+
+### Desempenho
+
+A .<br><br>
+
+### Expansão
+
+A .<br><br>
+
+### Funding 
+
+A .<br><br>
+
+------------------------------------------------------
 ### Posicionamento
 
 A OpenPBL é uma **Edtech** detentora de uma **tecnologia educacional própria** que **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.<br><br>
