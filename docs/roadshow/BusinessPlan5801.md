@@ -50,12 +50,14 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
 <br>
 
 <p align="center">
-    <a href="#pitchdeck"> [Pitchdeck] </a> .
-    <a href="#problema"> O Problema </a> ·
-    <a href="#proposta"> A Proposta </a> .
-    <a href="#negocio"> O Negócio </a> .
-    <a href="#execucao"> Execução </a> .
-    <a href="#expansao"> Expansão </a> .
+    <a href="#visao"> Visão </a> ·
+    <a href="#problema"> Problema </a> ·
+    <a href="#solucao"> Solução </a> .
+    <a href="#negocio"> Negócio </a> .
+    <a href="#roadmap"> Roadmap </a> .
+    <a href="#competicao"> Competição </a> .
+    <a href="#time"> Time </a> .   
+    <a href="#financas"> Financeiro </a> .   
     <a href="#financiamento"> Financiamento </a></p>
     
 <br><br>
@@ -85,23 +87,23 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 As ideias a seguir compõem um resumo do plano de negócios da empresa para o atual roadshow de captação de recursos. Cada seção é detalhada ao longo deste texto.<br><br>
 
 #### Visão e proposta de valor 
-A **aprendizagem baseada em problemas** é um método ATIVO e extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais. 
+Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. Em consequência, algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. Por outro lado, a **aprendizagem baseada em problemas** é um método ATIVO e extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais. 
 
-Por outro lado, num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros e algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica.
-
-Para monetizar o **sistema de ensino baseado em problemas**, 
-
-Diante desta realidades, os idealizadores decidiram criar a empresa educacional **OpenPBL** norteada pela proposta de valor:
+Diante desta realidade, os idealizadores decidiram criar a empresa educacional **OpenPBL** norteada pela seguinte proposta de valor:
 
 *“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br><br>
+
+Ver mais em: <a href="#visao"> Visão </a> ·
 
 #### Problema e mercado
 Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, **empresas** e **escolas de educação profissional** não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.
 
-O mercado de especialização profissisonal é segmentado em: NÍVEL MÉDIO e NÍVEL SUPERIOR. Este último possui ainda um segmento especial de EDUCAÇÃO EXECUTIVA. No Brasil, estes segmentos apresentam os seguintes números: 
+O mercado de especialização profissisonal para o varejo é segmentado em: **nível médio** e **nível superior**. Este último possui ainda uma divisão especial de **educação executiva**. Quando a especialização é patrocinada por empresas, este segmento recebe o nome de **educação corporativa**. Juntos, eEstes segmentos apresentam os seguintes números: 
 - 1,9 milhões de técnicos treinados por ano no nível médio.
 - 5,7 milhões de pós-graduados por ano no nível superior.
-- R$ 5 bi anual de contratação de serviços de educação corporativa.<br><br>
+- R$ 5 bi anual de contratação de serviços de educação corporativa.
+
+Ver mais em: <a href="#problema"> Problema </a><br><br>
 
 #### Solução 
 No cenário de negócios atual, a OpenPBL se posiciona como uma **Edtech** detentora de uma **tecnologia educacional própria** que ajuda empresas e escolas a explorarem as oportunidades de mercado de especialização profissional. <br><br>
@@ -112,6 +114,7 @@ No cenário de negócios atual, a OpenPBL se posiciona como uma **Edtech** deten
 <p align="center"><em>Mercado potencial inexplorado no primeiro quadrante.</em>
 </p><br><br>
 
+Ver mais em: <a href="#solucao"> Solução </a><br><br>
 
 #### Produto
 A OpenPBL desenvolveu um sistema de ensino profissionalizante de baixo custo para acelerar o desenvolvimento de competências comportamentais. O sistema **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.
@@ -127,7 +130,7 @@ O sistema de ensino automatiza a **criação** e **execução** de trilhas de ca
 </p>
 <p align="center"><em>Trilhas de especialização baseadas em problemas.</em>
 </p>
-
+    
 <br>
 
 #### Modelo de receitas 
@@ -135,7 +138,9 @@ As receitas da empresa são provenientes do licenciamento do sistema de ensino p
 
 Benefícios para os clientes:
 1. Estado da arte em desenvolvimento de competências comportamentais com custos acessíveis.
-2. Viabiliza a oferta de novos programas de capacitação.<br><br>
+2. Viabiliza a oferta de novos programas de capacitação.
+
+Ver mais em: <a href="#negocio"> Negócio </a> .<br><br>
 
 #### Roadmap
 Do lançamento da empresa até o final do segundo ano de operação, os objetivos do startup são:
@@ -143,13 +148,19 @@ Do lançamento da empresa até o final do segundo ano de operação, os objetivo
 2. Elaborar testes de conceito e estudos de viabilidade;
 3. Iniciar a automação do método de ensino;
 4. Suportar a oferta de cursos PBL para o varejo (São Paulo) em parceria com escolas profissionais de nicho; 
-5. Concluir a automação e lançar o Sistema de Ensino Profissional Baseado em Problemas (B2B2C);<br><br>
+5. Concluir a automação e lançar o Sistema de Ensino Profissional Baseado em Problemas (B2B2C);
+
+Ver mais em: <a href="#roadmap"> Roadmap </a><br><br>
 
 #### Competição
-Competidores. Ajudam empresas e escolas a se tornarem mais competitivas.<br><br>
+Competidores. Ajudam empresas e escolas a se tornarem mais competitivas.
+
+Ver mais em: <a href="#competicao"> Competição </a><br><br>
 
 #### Time
-Os empreendedores são profissionais com 20+ anos de experiência na condução de unidades de negócios de instituições de ensino superior de grande porte.<br><br>
+Os empreendedores são profissionais com 20+ anos de experiência na condução de unidades de negócios de instituições de ensino superior de grande porte.
+
+Ver mais em: <a href="#time"> Time </a><br><br>
 
 ##### Desempenho financeiro
 As simulações financeiras apontam para um desempenho nos 5 primeiros anos de operação da empresa:
@@ -158,45 +169,47 @@ As simulações financeiras apontam para um desempenho nos 5 primeiros anos de o
 - 16 cursos;
 - 2 perfis funcionais;
 - Licença:
-- US $ 5,3 (R$ 29) por aluno por mês;
+- US $ 5,3 `(R$ 29)` por aluno por mês;
 - Franquia 250 alunos;
 - Contrato 24 meses; 
 
 **Investimentos** 
 - Produção de conteúdo.
-- US $ 60.000 (R$ 327.000);
+- US $ 60.000 `(R$ 327.000)`;
 - Desenvolvimento de software.
-- US $ 72.000 (R$ 400.000);
+- US $ 72.000 `(R$ 400.000)`;
 
 **Ano 5**
 - 20 clientes;
 - 7.500 alunos licenciados;
-- ROL US $ 620 mil (R$ 3,4 milhões);
+- ROL US $ 620 mil `(R$ 3,4 milhões)`;
 - EBITDA de 42% ROL;
 
 **Valuation**
-- US $ 2,4 milhões (R$ 13 milhões)
+- US $ 2,4 milhões `(R$ 13 milhões)`
 - FCD (WAAC de 14,5% a.a.);<br><br>
 
-**Expansão**
-Resultados de EBITDA em tormo de 40% têm potencial para se consolidar como um importante "motor de geração de caixa" na expansão da empresa. O roadmap para essa expansão é:<br>
+**Expansão**<br>
+Resultados de EBITDA em tormo de 40% têm potencial para consolidar um importante "motor de geração de caixa" na expansão da empresa. O roadmap para essa expansão é:
+- Fase 1: Motor de geração de caixa. Validação das premissas para escala e EBITDA na faixa de 40%.<br>
+- Fase 2: Novas “praças” de atuação. Expansão do escopo de setores, perfis funcionais e competências.<br>
+- Fase 3: Internacionalização. Sem barreiras relevantes para a produção de conteúdo em outras línguas.
 
-Motor de geração de caixa. Validação das premissas para escala e EBITDA na faixa de 40%.<br>
-Novas “praças” de atuação. Expansão do escopo de setores, perfis funcionais e competências.<br>
-Internacionalização. Sem barreiras relevantes para a produção de conteúdo em outras línguas.<br><br>
+Ver mais em: <a href="#financiamento"> Financiamento </a><br><br>
 
-#### Funding 
-Para atingir os objetivos da primeira etapa, a empresa necessita de US $ 132.000 (R$ 727.000):
-- US $ 60.000 (R$ 327.000) serão utilizados como capital de giro para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e;
-- US $ 72.000 (R$ 400.000) serão utilizados para desenvolver os componentes de software para automatizar o sistema de ensino.<br><br>
-
+#### Financiamento e uso dos recursos 
 Todas as etapas do plano de negócios serão financiadas por capital de risco e a principal “regra de saída” para atrair investidores é a venda estratégica da empresa para um grupo educacional.
 
-Oferta. A empresa publicou a oferta de venda de 16% de participação por US $ 33.000 (R$ 182.000), acenando com um retorno nominal estimado da ordem de 35% a.a.(WAAC de 14,5% a.a.).<br><br>
+Para atingir os objetivos da primeira etapa, a empresa necessita de US $ 132.000 `(R$ 727.000)`:
+- US $ 60.000 `(R$ 327.000)` serão utilizados como capital de giro para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e;
+- US $ 72.000 `(R$ 400.000)` serão utilizados para desenvolver os componentes de software para automatizar o sistema de ensino.<br><br>
+
+A empresa publicou a **oferta** de venda de 16% de participação por US $ 33.000 `(R$ 182.000)`, acenando com um retorno nominal estimado da ordem de 35% a.a.(WAAC de 14,5% a.a.).
+
+Ver mais em: <a href="#financiamento"> Financiamento </a><br><br>
 
 #### Informações complementares
-
-Repositório com todas as informações complementares ao Plano de Negócios.<br><br>
+Repositório com as informações complementares ao Plano de Negócios.<br><br>
 
 > **Informações e fatos relevantes**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_31ago20.pdf" target="_blank">Pitchdeck</a> . 
@@ -237,11 +250,13 @@ Repositório com todas as informações complementares ao Plano de Negócios.<br
 ## <br>
 
 <p align="center">
-    <a href="#problema"> O Problema </a> ·
-    <a href="#proposta"> A Proposta </a> .
-    <a href="#negocio"> O Negócio </a> .
-    <a href="#execucao"> Execução </a> .
-    <a href="#expansao"> Expansão </a> .
+    <a href="#visao"> Visão </a> ·
+    <a href="#problema"> Problema </a> ·
+    <a href="#solucao"> Solução </a> .
+    <a href="#negocio"> Negócio </a> .
+    <a href="#roadmap"> Roadmap </a> .
+    <a href="#competicao"> Competição </a> .
+    <a href="#time"> Time </a> .   
     <a href="#financiamento"> Financiamento </a></p>
 
 <br><br><br>
@@ -256,10 +271,7 @@ Repositório com todas as informações complementares ao Plano de Negócios.<br
 <a name="visao"></a> 
 <br>
 
-visao
-
 ## VISÃO E PROPOSTA DE VALOR
-
 
 ### Cenário atual
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**.
@@ -379,8 +391,6 @@ Não por acaso, oito das dez competências profissionais mais desejadas para os 
 <a name="problema"></a> 
 <br> 
 
-<problema>
-
 ## O PROBLEMA E A OPORTUNIDADE
 
 ### Desequilíbrio de mercado
@@ -437,10 +447,8 @@ Os dois principais **obstáculos** para execução da PBL **em larga escala** s�
 
 
 
-<a name="proposta"></a>
+<a name="solucao"></a>
 <br>
-
-<proposta>
 
 ## SOLUÇÃO 
 
@@ -611,8 +619,6 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 
 <a name="negocio"></a>
 <br>
-
-<negocio> 
     
 ## MODELO DE NEGÓCIOS / MODELO DE RECEITAS
 
@@ -738,10 +744,8 @@ A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas
 
 
 
-<a name="execucao"></a> 
+<a name="roadmap"></a> 
 <br>
-
-<execucao>
     
 ## TRAÇÃO E VALIDAÇÃO / ROADMAP
 
@@ -796,8 +800,6 @@ O detalhamento da etapa de *startup* pode ser acessado pelo link:<a href="https:
 
 <a name="competicao"></a> 
 <br>
-
-<competicao>
     
 ## COMPETIÇÃO
 
@@ -833,8 +835,6 @@ Neste plan
 
 <a name="time"></a> 
 <br>
-
-<time>
 
 ## TIME
 
