@@ -450,34 +450,33 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores decidiram criar a empresa educacional **OpenPBL**. <br><br>
 
 ### Pitchdeck
+As ideias a seguir compõem o pitchdeck da empresa para o roadshow de captação de recursos. 
 
 #### Visão
-Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. Por outro lado, a aprendizagem baseada em problemas é um método ATIVO e extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais. 
+A aprendizagem baseada em problemas é um método ATIVO e extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais. Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica.<br><br>
 
 #### Proposta de valor
-“Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro” <br><br>
+“Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.”<br><br>
 
 #### Problema
-Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, empresas e escolas não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.<br><br>
+Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, **empresas** e **escolas de educação profissional** não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.<br><br>
 
 #### Mercado
-O mercado de especialização profissisonal pode ser segmentado em: NÍVEL MÉDIO e NÍVEL SUPERIOR. Este último tem um segmento especial de EDUCAÇÃO EXECUTIVA.
+O mercado de especialização profissisonal pode ser segmentado em: NÍVEL MÉDIO e NÍVEL SUPERIOR. Este último possui um segmento especial de EDUCAÇÃO EXECUTIVA.
 
 No Brasil os segmentos apresentam os seguintes números: 
 
-NÍVEL MÉDIO
+NÍVEL MÉDIO<br>
 1,9 milhões de técnicos treinados por ano.
 
-NÍVEL SUPERIOR
+NÍVEL SUPERIOR<br>
 5,7 milhões de pós-graduados por ano.
 
-EDUCAÇÃO CORPORATIVA
-R$ 5 bi anual de contratação de serviços.
-
-<br><br>
+EDUCAÇÃO CORPORATIVA<br>
+R$ 5 bi anual de contratação de serviços.<br><br>
 
 #### Solução
-Empresas e escolas têm uma excelende janela de oportunidades de mercado para explorar.
+Empresas e escolas têm uma excelende janela de oportunidades de mercado para explorar.<br><br>
 
 <p align="center">
   <img src="img/oportunidade-mercado.png" width="700"><br>
@@ -486,43 +485,45 @@ Empresas e escolas têm uma excelende janela de oportunidades de mercado para ex
 </p><br><br>
 
 #### Posicionamento
-A OpenPBL é uma **Edtech** detentora de uma **tecnologia educacional própria** que **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.<br><br>
-
+No cenário de negócios acima, a OpenPBL se posiciona como uma **Edtech** detentora de uma **tecnologia educacional própria** que ajuda empresas e escolas a explorarem as oportunidades de mercado de especialização profissional. <br><br>
 
 #### Produto
-A OpenPBL desenvolveu um sistema de ensino profissionalizante de baixo custo para acelerar o desenvolvimento de competências comportamentais.
+A OpenPBL desenvolveu um sistema de ensino profissionalizante de baixo custo para acelerar o desenvolvimento de competências comportamentais. O sistema **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.
 
 O custo baixo é conseguido com o emprego de: 
 1. **Ativos de terceiros**, que garantem a disponibilidade com o aumento das atividades da empresa.
 2. **Inteligência artificial**, que reduz os custos de produção de conteúdo e avaliação dos alunos
 
-O sistema de ensino automatiza o desenvolvimento e execução de trilhas de capacitação profissional com experiências de aprendizagem PBL completas.
+O sistema de ensino automatiza o desenvolvimento e execução de trilhas de capacitação profissional com experiências de aprendizagem PBL completas.<br><br>
 
 <p align="center">
-  <img src="img/product-overall1.png" width="800"><br>
+  <img src="img/product-overall1.png" width="900"><br>
 </p>
 <p align="center"><em>Trilhas de especialização baseadas em problemas.</em>
-</p><br><br>
+</p>
+
+<br>
 
 #### Receitas 
 As receitas da empresa são provenientes do licenciamento do sistema de ensino para empresas e escolas de formação profissional (B2B2C).
 
-**Benefícios para os clientes:** 
+Benefícios para os clientes:
 1. Estado da arte em desenvolvimento de competências comportamentais com custos acessíveis.
 2. Viabiliza a oferta de novos programas de capacitação.<br><br>
 
 #### Roadmap
 Do lançamento da empresa até o final do segundo ano de operação, os objetivos do startup são:
-1.Suportar a oferta de cursos PBL para empresas em parceria com consultorias especializadas; 
-2.Elaborar testes de conceito e estudos de viabilidade;
-3.Iniciar a automação do método de ensino;
-4.Suportar a oferta de cursos PBL para o varejo (São Paulo) em parceria com escolas profissionais de nicho; 
-5.Concluir a automação e lançar o Sistema de Ensino Profissional Baseado em Problemas (B2B2C);<br><br>
+1. Suportar a oferta de cursos PBL para empresas em parceria com consultorias especializadas; 
+2. Elaborar testes de conceito e estudos de viabilidade;
+3. Iniciar a automação do método de ensino;
+4. Suportar a oferta de cursos PBL para o varejo (São Paulo) em parceria com escolas profissionais de nicho; 
+5. Concluir a automação e lançar o Sistema de Ensino Profissional Baseado em Problemas (B2B2C);<br><br>
 
-### Time
+#### Time
 Os empreendedores são profissionais com 20+ anos de experiência na condução de unidades de negócios de instituições de ensino superior de grande porte.<br><br>
 
-#### Desempenho
+##### Desempenho
+As simulações financeiras apontam para um desempenho nos 5 primeiros anos de operação da empresa:
 
 **Ano 1**
 - 16 cursos;
@@ -544,18 +545,21 @@ Os empreendedores são profissionais com 20+ anos de experiência na condução 
 - ROL US $ 620 mil (R$ 3,4 milhões);
 - EBITDA de 42% ROL;
 
-
 **Valuation**
 - US $ 2,4 milhões (R$ 13 milhões)
 - FCD (WAAC de 14,5% a.a.);<br><br>
 
 #### Expansão
+Resultados de EBITDA em tormo de 40% têm potencial para se consolidar como um importante "motor de geração de caixa" na expansão da empresa. O roadmap para essa expansão é:
 
-Motor de geração de caixa. Validação das premissas para escala e EBITDA na faixa de 40%.
+Motor de geração de caixa. <br>
+Validação das premissas para escala e EBITDA na faixa de 40%.<br>
 
-Novas “praças” de atuação. Expansão do escopo de setores, perfis funcionais e competências.
+Novas “praças” de atuação.<br> 
+Expansão do escopo de setores, perfis funcionais e competências.<br>
 
-Internacionalização(?) Sem barreiras relevantes para a produção de conteúdo em outras línguas.<br><br>
+Internacionalização(?) <br>
+Sem barreiras relevantes para a produção de conteúdo em outras línguas.<br><br>
 
 #### Funding 
 Para atingir os objetivos da primeira etapa, a empresa necessita de US $ 132.000 (R$ 727.000):
