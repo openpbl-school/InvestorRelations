@@ -151,6 +151,9 @@ Do lançamento da empresa até o final do segundo ano de operação, os objetivo
 4. Suportar a oferta de cursos PBL para o varejo (São Paulo) em parceria com escolas profissionais de nicho; 
 5. Concluir a automação e lançar o Sistema de Ensino Profissional Baseado em Problemas (B2B2C);<br><br>
 
+#### Competição
+Competidores. Ajudam empresas e escolas a se tornarem mais competitivas.<br><br>
+
 #### Time
 Os empreendedores são profissionais com 20+ anos de experiência na condução de unidades de negócios de instituições de ensino superior de grande porte.<br><br>
 
@@ -261,31 +264,10 @@ Repositório com todas as informações complementares ao Plano de Negócios.<br
 
 
 
-## VISÃO E PROPOSTA DE VALOR
-
-## O PROBLEMA E A OPORTUNIDADE
-
-## SOLUÇÃO PROPOSTA
-
-## MODELO DE NEGÓCIOS / MODELO DE RECEITAS
-
-## TRAÇÃO E VALIDAÇÃO / ROADMAP
-
-## COMPETIÇÃO
-
-## TIME
-
-## FINANCEIRO
-
-## FINANCIAMENTO E USO DOS RECURSOS 
-
-
-
-
-
 <a name="visao"></a> 
 <br>
 
+<visao>
 
 ## VISÃO E PROPOSTA DE VALOR
 
@@ -376,13 +358,39 @@ Não por acaso, oito das dez competências profissionais mais desejadas para os 
 
 ### Proposta de valor 
 
+“Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.” <br><br>
 
 
-----------------------------------------
+<br><br>
+
+
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a></p>
+    
+## <br>
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
 
 
 <a name="problema"></a> 
 <br> 
+
+<problema>
 
 ## O PROBLEMA E A OPORTUNIDADE
 
@@ -392,9 +400,7 @@ Se por um lado, conforme observado pelo Fórum Econômico Mundial, as empresas d
 
 Grande parte deste desequilíbrio ocorre porque as escolas que atuam tradicionalmente neste segmento não geram **economias de escala suficientes** para **popularizarem seus cursos**. Nem mesmo a recente introdução de tecnologias digitais nas práticas educacionais foi capaz de estimular a universalização deste tipo de programa.  
 
-Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.
-
-<br><br>
+Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.<br><br>
 
 
 ### Escalando a PBL
@@ -417,6 +423,7 @@ A força da adoção da PBL na **educação profissional** está no **pragmatism
 Os dois principais **obstáculos** para execução da PBL **em larga escala** são: 
 - A PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
 - A **interação síncrona** na etapa de discussão da PBL é considerada uma atividade crítica para a qualidade do método e a **execução 100% digital** ainda não é capaz de substituir as sessões presenciais tutoradas. <br><br>
+
 
 ### Estratégias e posicionamento 
 
@@ -443,6 +450,8 @@ Os dois principais **obstáculos** para execução da PBL **em larga escala** s�
 
 <a name="proposta"></a>
 <br>
+
+<proposta>
 
 ## SOLUÇÃO 
 
@@ -524,6 +533,7 @@ A avaliação do desempenho individual dos alunos nas discussões é executada p
 <em>Sessão presencial atomizada e assistida por software.</em>
 </p><br><br>
 
+
 ## Trilha de especialização baseada em problemas 
 
 A **Trilha de Especialização Baseada em Problemas** é um conjunto sequencial de cursos, **complementares à formação profissional técnica** do aluno, com o objetivo de desenvolver competências comportamentais pelo **método ativo** da PBL. Cada curso da trilha proporciona ao aluno uma de experiência de aprendizagem completa baseada na discussão de um problema real e típico de sua função.<br><br>
@@ -571,6 +581,7 @@ Cada curso da trilha pode ser configurado para **acelerar o desenvolvimento** de
 - Atuação em **equipe** sujeita às dinâmicas de cooperação, competição, liderança e negociação; 
 - Visão orçamentária e atitude empreendedora.<br><br>
 
+
 ## Sistema de ensino profissionalizante baseado em problemas
 
 Os idealizadores propõem que os sete **componentes de software** que **automatizam** os três processos do método de ensino proposto sejam **integrados** por um **sistema de software**, cujo objetivo é garantir a **eficácia** e **escalabilidade** da execução conjunta. São estes componentes:
@@ -612,18 +623,11 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 <a name="negocio"></a>
 <br>
 
+<negocio> 
+    
 ## MODELO DE NEGÓCIOS / MODELO DE RECEITAS
 
 Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores decidiram criar a empresa educacional **OpenPBL**. <br><br>
-
-
-
-
-
-
-
-
-------------------------------------------------------
 
 
 ### Receitas 
@@ -749,6 +753,8 @@ A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas
 <a name="execucao"></a> 
 <br>
 
+<execucao>
+    
 ## TRAÇÃO E VALIDAÇÃO / ROADMAP
 
 
@@ -803,9 +809,11 @@ O detalhamento da etapa de *startup* pode ser acessado pelo link:<a href="https:
 <a name="competicao"></a> 
 <br>
 
+<competicao>
+    
 ## COMPETIÇÃO
 
-### Start-up 
+###  
 
 Neste plan
 
@@ -837,6 +845,8 @@ Neste plan
 
 <a name="time"></a> 
 <br>
+
+<time>
 
 ## TIME
 
@@ -910,6 +920,8 @@ O Plano Operacional detalhado com o detalhamento das funções relevantes pode s
 <a name="simulacao"></a> 
 <br>
 
+<simulacao> 
+    
 ## FINANCEIRO
 
 ### Simulações de desempenho
@@ -949,6 +961,8 @@ A cidade de São Paulo foi escolhida para o lançamento da empresa por apresenta
 <a name="expansao"></a>
 <br>
 
+<expansao> 
+    
 ### Sistema de software 
 
 Graças ao modelo escalável utilizado, o **desempenho** da empresa poderá ser replicado para uma rápida **expansão das atividades da empresa**. Para isso, é necessário o desenvolvimento do **sistema de software** para automatizar os processos e etapas do **Sistema de Ensino**.<br><br>
@@ -1000,6 +1014,8 @@ A página inicial do projeto *open source* do aplicativo OpenPBL App pode ser ac
 <a name="financiamento"></a>
 <br>
 
+<financiamento>
+    
 ## FINANCIAMENTO E USO DOS RECURSOS 
 
 
