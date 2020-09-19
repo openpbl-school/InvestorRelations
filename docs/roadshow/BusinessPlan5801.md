@@ -84,28 +84,30 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <br>
 
 ## Pitchdeck
-As ideias a seguir compõem um resumo do plano de negócios da empresa para o atual roadshow de captação de recursos. Cada seção é detalhada ao longo deste texto.<br><br>
+As ideias a seguir compõem um resumo executivo do plano de negócios da OpenPBL para o atual roadshow de captação de recursos. Cada seção é detalhada mais à frente.<br><br>
 
 #### Visão e proposta de valor 
-Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. Em consequência, algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. Por outro lado, a **aprendizagem baseada em problemas** é um método ATIVO e extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais. 
+Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. 
 
-Diante desta realidade, os idealizadores decidiram criar a empresa educacional **OpenPBL** norteada pela seguinte proposta de valor:
+A **aprendizagem baseada em problemas** é uma tradicional estratégia de aprendizagem que pode ser muito útil neste cenário. Entretanto, apesar de ser um método extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais, a PBL clássica não é acessível para a grande maioria dos profissionais.  
+
+Diante desta realidade, os idealizadores decidiram criar a empresa **OpenPBL** norteada pela seguinte proposta de valor:
 
 *“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br><br>
 
 Ver mais em: <a href="#visao"> Visão </a> ·
 
-#### Problema e mercado
+#### O problema
 Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, **empresas** e **escolas de educação profissional** não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.
 
-O mercado de especialização profissisonal para o varejo é segmentado em: **nível médio** e **nível superior**. Este último possui ainda uma divisão especial de **educação executiva**. Quando a especialização é patrocinada por empresas, este segmento recebe o nome de **educação corporativa**. Juntos, eEstes segmentos apresentam os seguintes números: 
+O mercado de especialização profissisonal para o varejo é segmentado em: **nível médio** e **nível superior**. Este último possui ainda uma divisão especial de **educação executiva**. Quando a especialização é patrocinada por empresas, este segmento recebe o nome de **educação corporativa**. Juntos, estes segmentos apresentam os seguintes números: 
 - 1,9 milhões de técnicos treinados por ano no nível médio.
 - 5,7 milhões de pós-graduados por ano no nível superior.
 - R$ 5 bi anual de contratação de serviços de educação corporativa.
 
 Ver mais em: <a href="#problema"> Problema </a><br><br>
 
-#### Solução 
+#### A solução 
 No cenário de negócios atual, a OpenPBL se posiciona como uma **Edtech** detentora de uma **tecnologia educacional própria** que ajuda empresas e escolas a explorarem as oportunidades de mercado de especialização profissional. <br><br>
 
 <p align="center">
@@ -134,7 +136,7 @@ O sistema de ensino automatiza a **criação** e **execução** de trilhas de ca
 <br>
 
 #### Modelo de receitas 
-As receitas da empresa são provenientes do licenciamento do sistema de ensino para empresas e escolas de formação profissional (B2B2C).
+As receitas da empresa são provenientes do **licenciamento** do sistema de ensino para empresas e escolas de formação profissional (B2B2C).
 
 Benefícios para os clientes:
 1. Estado da arte em desenvolvimento de competências comportamentais com custos acessíveis.
@@ -153,7 +155,7 @@ Do lançamento da empresa até o final do segundo ano de operação, os objetivo
 Ver mais em: <a href="#roadmap"> Roadmap </a><br><br>
 
 #### Competição
-Competidores. Ajudam empresas e escolas a se tornarem mais competitivas.
+São competidores da OpenPBL os negócios que também ajudam empresas e escolas a se tornarem mais competitivas, seja pela redução de custo, seja pela possibilidade de viabilizar novos produtos.
 
 Ver mais em: <a href="#competicao"> Competição </a><br><br>
 
@@ -272,6 +274,17 @@ Repositório com as informações complementares ao Plano de Negócios.<br><br>
 <br>
 
 ## VISÃO E PROPOSTA DE VALOR
+
+...
+Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. 
+
+A **aprendizagem baseada em problemas** é uma tradicional estratégia de aprendizagem que pode ser muito útil neste cenário. Entretanto, apesar de ser um método extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais, a PBL clássica não é acessível para a grande maioria dos profissionais.  
+
+Diante desta realidade, os idealizadores decidiram criar a empresa **OpenPBL** norteada pela seguinte proposta de valor:
+
+*“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br><br>
+...
+
 
 ### Cenário atual
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**.
@@ -393,6 +406,17 @@ Não por acaso, oito das dez competências profissionais mais desejadas para os 
 
 ## O PROBLEMA E A OPORTUNIDADE
 
+...
+Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, **empresas** e **escolas de educação profissional** não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.
+
+O mercado de especialização profissisonal para o varejo é segmentado em: **nível médio** e **nível superior**. Este último possui ainda uma divisão especial de **educação executiva**. Quando a especialização é patrocinada por empresas, este segmento recebe o nome de **educação corporativa**. Juntos, estes segmentos apresentam os seguintes números: 
+- 1,9 milhões de técnicos treinados por ano no nível médio.
+- 5,7 milhões de pós-graduados por ano no nível superior.
+- R$ 5 bi anual de contratação de serviços de educação corporativa.
+
+...
+
+
 ### Desequilíbrio de mercado
 
 Se por um lado, conforme observado pelo Fórum Econômico Mundial, as empresas demandam cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
@@ -451,6 +475,32 @@ Os dois principais **obstáculos** para execução da PBL **em larga escala** s�
 <br>
 
 ## SOLUÇÃO 
+
+...
+No cenário de negócios atual, a OpenPBL se posiciona como uma **Edtech** detentora de uma **tecnologia educacional própria** que ajuda empresas e escolas a explorarem as oportunidades de mercado de especialização profissional. <br><br>
+
+<p align="center">
+  <img src="img/oportunidade-mercado.png" width="700"><br>
+</p>
+<p align="center"><em>Mercado potencial inexplorado no primeiro quadrante.</em>
+</p><br><br>
+...
+
+
+A OpenPBL desenvolveu um sistema de ensino profissionalizante de baixo custo para acelerar o desenvolvimento de competências comportamentais. O sistema **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.
+
+O custo baixo é conseguido com o emprego de: 
+1. **Ativos de terceiros**, que garantem a disponibilidade com o aumento das atividades da empresa.
+2. **Inteligência artificial**, que reduz os custos de produção de conteúdo e avaliação dos alunos
+
+O sistema de ensino automatiza a **criação** e **execução** de trilhas de capacitação profissional compostas por experiências de aprendizagem PBL completas.<br><br>
+
+<p align="center">
+  <img src="img/product-overall1.png" width="900"><br>
+</p>
+<p align="center"><em>Trilhas de especialização baseadas em problemas.</em>
+</p>
+
 
 
 ### Modelo inovador
@@ -623,6 +673,15 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 ## MODELO DE NEGÓCIOS / MODELO DE RECEITAS
 
 
+...
+As receitas da empresa são provenientes do **licenciamento** do sistema de ensino para empresas e escolas de formação profissional (B2B2C).
+
+Benefícios para os clientes:
+1. Estado da arte em desenvolvimento de competências comportamentais com custos acessíveis.
+2. Viabiliza a oferta de novos programas de capacitação.
+
+...
+
 
 ### Receitas 
 
@@ -749,6 +808,17 @@ A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas
     
 ## TRAÇÃO E VALIDAÇÃO / ROADMAP
 
+...
+Do lançamento da empresa até o final do segundo ano de operação, os objetivos do startup são:
+1. Suportar a oferta de cursos PBL para empresas em parceria com consultorias especializadas; 
+2. Elaborar testes de conceito e estudos de viabilidade;
+3. Iniciar a automação do método de ensino;
+4. Suportar a oferta de cursos PBL para o varejo (São Paulo) em parceria com escolas profissionais de nicho; 
+5. Concluir a automação e lançar o Sistema de Ensino Profissional Baseado em Problemas (B2B2C);
+...
+
+
+
 
 ### Start-up 
 
@@ -803,6 +873,10 @@ O detalhamento da etapa de *startup* pode ser acessado pelo link:<a href="https:
     
 ## COMPETIÇÃO
 
+...
+São competidores da OpenPBL os negócios que também ajudam empresas e escolas a se tornarem mais competitivas, seja pela redução de custo, seja pela possibilidade de viabilizar novos produtos.
+...
+
 ###  
 
 Neste plan
@@ -837,6 +911,13 @@ Neste plan
 <br>
 
 ## TIME
+
+
+#### Time
+
+...
+Os empreendedores são profissionais com 20+ anos de experiência na condução de unidades de negócios de instituições de ensino superior de grande porte.
+...
 
 
 Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br>
@@ -911,6 +992,44 @@ O Plano Operacional detalhado com o detalhamento das funções relevantes pode s
 <simulacao> 
     
 ## FINANCEIRO
+
+...
+As simulações financeiras apontam para um desempenho nos 5 primeiros anos de operação da empresa:
+
+**Ano 1**
+- 16 cursos;
+- 2 perfis funcionais;
+- Licença:
+- US $ 5,3 `(R$ 29)` por aluno por mês;
+- Franquia 250 alunos;
+- Contrato 24 meses; 
+
+**Investimentos** 
+- Produção de conteúdo.
+- US $ 60.000 `(R$ 327.000)`;
+- Desenvolvimento de software.
+- US $ 72.000 `(R$ 400.000)`;
+
+**Ano 5**
+- 20 clientes;
+- 7.500 alunos licenciados;
+- ROL US $ 620 mil `(R$ 3,4 milhões)`;
+- EBITDA de 42% ROL;
+
+**Valuation**
+- US $ 2,4 milhões `(R$ 13 milhões)`
+- FCD (WAAC de 14,5% a.a.);<br><br>
+
+**Expansão**<br>
+Resultados de EBITDA em tormo de 40% têm potencial para consolidar um importante "motor de geração de caixa" na expansão da empresa. O roadmap para essa expansão é:
+- Fase 1: Motor de geração de caixa. Validação das premissas para escala e EBITDA na faixa de 40%.<br>
+- Fase 2: Novas “praças” de atuação. Expansão do escopo de setores, perfis funcionais e competências.<br>
+- Fase 3: Internacionalização. Sem barreiras relevantes para a produção de conteúdo em outras línguas.
+
+...
+
+
+
 
 ### Simulações de desempenho
 
@@ -1005,6 +1124,18 @@ A página inicial do projeto *open source* do aplicativo OpenPBL App pode ser ac
 <financiamento>
     
 ## FINANCIAMENTO E USO DOS RECURSOS 
+
+...
+Todas as etapas do plano de negócios serão financiadas por capital de risco e a principal “regra de saída” para atrair investidores é a venda estratégica da empresa para um grupo educacional.
+
+Para atingir os objetivos da primeira etapa, a empresa necessita de US $ 132.000 `(R$ 727.000)`:
+- US $ 60.000 `(R$ 327.000)` serão utilizados como capital de giro para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e;
+- US $ 72.000 `(R$ 400.000)` serão utilizados para desenvolver os componentes de software para automatizar o sistema de ensino.<br><br>
+
+A empresa publicou a **oferta** de venda de 16% de participação por US $ 33.000 `(R$ 182.000)`, acenando com um retorno nominal estimado da ordem de 35% a.a.(WAAC de 14,5% a.a.).
+...
+
+
 
 
 ## FINANCIAMENTO E GOVERNANÇA
