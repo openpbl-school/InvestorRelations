@@ -204,7 +204,7 @@ Oferta. A empresa publicou a oferta de venda de 16% de participação por US $ 3
 
 #### Informações complementares
 
-**Repositório com todas as informações complementares ao Plano de Negócios.**<br><br>
+Repositório com todas as informações complementares ao Plano de Negócios.<br><br>
 
 > **Informações e fatos relevantes**  :
 > <a href="https://openpbl-school.github.io/InvestorRelations/roadshow/files/openpbl_pitchdeck_31ago20.pdf" target="_blank">Pitchdeck</a> . 
@@ -259,10 +259,38 @@ Oferta. A empresa publicou a oferta de venda de 16% de participação por US $ 3
 
 
 
-<a name="problema"></a> 
-<br>
+
+
+## VISÃO E PROPOSTA DE VALOR
 
 ## O PROBLEMA E A OPORTUNIDADE
+
+## SOLUÇÃO PROPOSTA
+
+## MODELO DE NEGÓCIOS / MODELO DE RECEITAS
+
+## TRAÇÃO E VALIDAÇÃO / ROADMAP
+
+## COMPETIÇÃO
+
+## TIME
+
+## FINANCEIRO
+
+## FINANCIAMENTO E USO DOS RECURSOS 
+
+
+
+
+
+<a name="visao"></a> 
+<br>
+
+
+## VISÃO E PROPOSTA DE VALOR
+
+
+### Cenário atual
 Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Segundo o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>, os conhecimentos e habilidades técnicas são importantes, mas o que **diferencia** os profissionais num mundo cada vez mais globalizado, dinâmico e automatizado é o domínio de algumas importantes **competências comportamentais**.
 
 Para os especialistas consultados na pesquisa, certas competências, tais como "tomar decisões corretas em ambientes de incerteza", "atuar sob pressão da opinião pública" e "negociar internamente com a equipe" são fundamentais para que colaboradores, não só alcancem os **resultados esperados** por suas empresas, mas que o façam da forma **mais eficiente** possível. <br><br>
@@ -345,7 +373,20 @@ O que torna a *Problem Based Learning* relevante é a replicação do processo n
 
 Não por acaso, oito das dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo, segundo o Fórum Econômico Mundial, são competências comportamentais que aumentam a eficiência da execução das tarefas profissionais.<br><br>
 
-**Desequilíbrio de mercado**<br>
+
+### Proposta de valor 
+
+
+
+----------------------------------------
+
+
+<a name="problema"></a> 
+<br> 
+
+## O PROBLEMA E A OPORTUNIDADE
+
+### Desequilíbrio de mercado
 
 Se por um lado, conforme observado pelo Fórum Econômico Mundial, as empresas demandam cada vez mais profissionais com competências comportamentais, por outro lado, estes mesmos profissionais encontram muitas dificuldades para desenvolvê-las num prazo razoável, uma vez que **a oferta de cursos e programas educacionais** específicos para esse fim **não é suficiente** para atender os requisitos de **preço** e **disponibilidade** do mercado.
 
@@ -354,6 +395,34 @@ Grande parte deste desequilíbrio ocorre porque as escolas que atuam tradicional
 Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e programas educacionais para desenvolvimento competências comportamentais, experientes executivos do setor educacional identificaram uma excelente **janela de oportunidades** a ser explorada.
 
 <br><br>
+
+
+### Escalando a PBL
+
+A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, uma **candidata natural** para suprir a atual demanda do mercado educacional. Entretanto, isso não ocorre porque existem alguns **obstáculos** para sua **execução em larga escala**. Por esta razão, os idealizadores desenvolveram uma estratégia com ações para contornar estes obstáculos.<br><br>
+
+...
+
+A **Aprendizagem Baseada em Problemas** é uma estratégia de aprendizagem **ativa**, ou seja, o aluno é co-responsável por seu aprendizado. Além disso, a PBL é **centrada no aluno**, ou seja, onde cada aluno aprende de forma individualizada. 
+
+Tradicionalmente, a PBL é executada em **duas etapas**. Na **etapa de preparação**, os alunos trabalham individualmente ou em pequenos grupos colaborativos onde aprendem o que precisam para resolver um problema apresentado a eles. Na **etapa de discussão** das soluções para o problema, o professor atua mais como um facilitador para orientar a aprendizagem do aluno do que como um detentor de conhecimento como nas abordagens tradicionais. 
+
+A força da adoção da PBL na **educação profissional** está no **pragmatismo das experiências de aprendizagem**, o que ajuda a acelerar o ganho de empregabilidade dos alunos no mercado de trabalho.<br><br>
+
+<p align="center">
+  <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
+  <em>Pela PBL, os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.<br> Fonte:<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank"> The Interdisciplinary Journal of Problem-based Learning</a>.</em>
+</p><br><br>
+
+Os dois principais **obstáculos** para execução da PBL **em larga escala** são: 
+- A PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
+- A **interação síncrona** na etapa de discussão da PBL é considerada uma atividade crítica para a qualidade do método e a **execução 100% digital** ainda não é capaz de substituir as sessões presenciais tutoradas. <br><br>
+
+### Estratégias e posicionamento 
+
+
+<br><br>
+
 
 <p align="center">
     <a href="#pitchdeck"> [Pitchdeck] </a> .
@@ -372,37 +441,14 @@ Diante deste cenário, de desequilíbrio entre a oferta e a demanda de cursos e 
 
 
 
-
-
-
-
-
-
 <a name="proposta"></a>
 <br>
 
-## PROPOSTA PARA EXPLORAR A OPORTUNIDADE DE MERCADO
+## SOLUÇÃO 
 
-A PBL é comprovadamente **eficaz** no desenvolvimento de competências comportamentais e, portanto, uma **candidata natural** para suprir a atual demanda do mercado educacional. Entretanto, isso não ocorre porque existem alguns **obstáculos** para sua **execução em larga escala**. Por esta razão, os idealizadores desenvolveram uma estratégia com ações para contornar estes obstáculos.<br><br>
 
-### Escalando a PBL
+### Modelo inovador
 
-A **Aprendizagem Baseada em Problemas** é uma estratégia de aprendizagem **ativa**, ou seja, o aluno é co-responsável por seu aprendizado. Além disso, a PBL é **centrada no aluno**, ou seja, onde cada aluno aprende de forma individualizada. 
-
-Tradicionalmente, a PBL é executada em **duas etapas**. Na **etapa de preparação**, os alunos trabalham individualmente ou em pequenos grupos colaborativos onde aprendem o que precisam para resolver um problema apresentado a eles. Na **etapa de discussão** das soluções para o problema, o professor atua mais como um facilitador para orientar a aprendizagem do aluno do que como um detentor de conhecimento como nas abordagens tradicionais. 
-
-A força da adoção da PBL na **educação profissional** está no **pragmatismo das experiências de aprendizagem**, o que ajuda a acelerar o ganho de empregabilidade dos alunos no mercado de trabalho.<br><br>
-
-<p align="center">
-  <img src="img/pbl_tutorial2_pt-br.png" width="500"><br>
-  <em>Pela PBL, os alunos aprendem resolvendo problemas e refletindo sobre suas experiências.<br> Fonte:<a href="https://docs.lib.purdue.edu/ijpbl/" target="_blank"> The Interdisciplinary Journal of Problem-based Learning</a>.</em>
-</p><br><br>
-
-Os dois principais **obstáculos** para execução da PBL **em larga escala** são: 
-- A PBL requer que dois dos mais relevantes **recursos educacionais** em termos de custo -**docentes** e **infraestrutura física**- sejam **desenvolvidos sob medida** para cada instituição de ensino.
-- A **interação síncrona** na etapa de discussão da PBL é considerada uma atividade crítica para a qualidade do método e a **execução 100% digital** ainda não é capaz de substituir as sessões presenciais tutoradas. 
-
-**Modelo inovador** <br>
 Para contornar os obstáculos para execução da PBL em larga escala, os idealizadores desenvolveram um **modelo inovador** baseado na utilização de **ativos de terceiros** e no uso intensivo de **inteligência artificial**. 
 
 Diferentemente do "paradigma 100% digital" adotado por Edtechs para gerar economias de escala, a **essência** do novo modelo propõe escalar **cada etapa** do processo de execução da PBL de forma **única**. O resultado é um modelo **híbrido** (ou semi-presencial), porém com grande capacidade de gerar economias de escala. <br><br>
@@ -563,13 +609,18 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 
 
 
-
 <a name="negocio"></a>
 <br>
 
-## O NEGÓCIO 
+## MODELO DE NEGÓCIOS / MODELO DE RECEITAS
 
 Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores decidiram criar a empresa educacional **OpenPBL**. <br><br>
+
+
+
+
+
+
 
 
 ------------------------------------------------------
@@ -693,35 +744,12 @@ A oferta dos títulos sob a forma de "trilhas funcionais" (ao invés de "trilhas
 
 
 
+
+
 <a name="execucao"></a> 
 <br>
 
-## EXECUÇÃO DO PLANO DE NEGÓCIOS
-
-Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br>
-
-Em especial, os empreendedores têm experiências complementares na execução de **projetos complexos de educação corporativa**, isto é, projetos que apresentam:
-1. Grande abrangência territorial e diversidade de infraestrutura presencial;
-2. Grande quantidade e dispersão dos colaboradores envolvidos; 
-3. Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
-4. Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
-5. Grande necessidade de engajamento e fidelização dos colaboradores.<br><br>
-
-Acesse <a href="https://github.com/openpbl-school/InvestorRelations/edit/master/docs/roadshow/BusinessPlan5801.md"> Portfolio de Projetos Complexos</a> para uma lista completa.<br><br>
-
-### Time executivo
-
-O time executivo montado para a fase inicial da empresa é composto por profissionais com experiência nos setores de **educação** e **finanças**.<br><br> 
-
- <p align="center">
-<img src="img/socios-linkedin.png" width="700"><br>
-<em>Time executivo.</em>
-</p><br>
-
-- Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Jorge Cataldo</a>).
-- Perfil executivo (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Eduardo Pitombo</a>). 
-- Perfil executivo (<a href="https://www.linkedin.com/in/silvio-samuel-cfp/">Sílvio Samuel</a>). 
-- Perfil executivo (<a href="https://www.linkedin.com/in/tonlobo/">Everton Bonifácio</a>).<br><br>
+## TRAÇÃO E VALIDAÇÃO / ROADMAP
 
 
 ### Start-up 
@@ -756,6 +784,89 @@ Abaixo o planejamento e o status atual da execução das etapas.<br><br>
 
 O detalhamento da etapa de *startup* pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#portuguese" target="_blank_"> OpenPBL - Startup</a><br><br>
 
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a></p>
+
+## <br>
+
+<br><br><br>
+
+
+
+
+<a name="competicao"></a> 
+<br>
+
+## COMPETIÇÃO
+
+### Start-up 
+
+Neste plan
+
+<br><br>
+
+
+
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a></p>
+
+## <br>
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
+
+<a name="time"></a> 
+<br>
+
+## TIME
+
+
+Os empreendedores que conceberam o projeto e desenvolveram o plano de negócios são profissionais com 20 anos de experiência na condução de **unidades de negócios** de instituições de ensino superior de **grande porte**.<br>
+
+Em especial, os empreendedores têm experiências complementares na execução de **projetos complexos de educação corporativa**, isto é, projetos que apresentam:
+1. Grande abrangência territorial e diversidade de infraestrutura presencial;
+2. Grande quantidade e dispersão dos colaboradores envolvidos; 
+3. Integração de diversas estratégias instrucionais (EAD, Presencial,...) num mesmo projeto;  
+4. Complexidade técnica e inovação das ferramentas tecnológicas envolvidas;
+5. Grande necessidade de engajamento e fidelização dos colaboradores.<br><br>
+
+Acesse <a href="https://github.com/openpbl-school/InvestorRelations/edit/master/docs/roadshow/BusinessPlan5801.md"> Portfolio de Projetos Complexos</a> para uma lista completa.<br><br>
+
+### Time executivo
+
+O time executivo montado para a fase inicial da empresa é composto por profissionais com experiência nos setores de **educação** e **finanças**.<br><br> 
+
+ <p align="center">
+<img src="img/socios-linkedin.png" width="700"><br>
+<em>Time executivo.</em>
+</p><br>
+
+- Perfil executivo (<a href="https://www.linkedin.com/in/jorgecataldo/">Jorge Cataldo</a>).
+- Perfil executivo (<a href="https://www.linkedin.com/in/eduardo-pitombo-62b76ab/">Eduardo Pitombo</a>). 
+- Perfil executivo (<a href="https://www.linkedin.com/in/silvio-samuel-cfp/">Sílvio Samuel</a>). 
+- Perfil executivo (<a href="https://www.linkedin.com/in/tonlobo/">Everton Bonifácio</a>).<br><br>
+
+
 
 ### Operações
 
@@ -772,6 +883,34 @@ O planejamento das operações da empresas está dividido segundo as áreas de e
 
 O Plano Operacional detalhado com o detalhamento das funções relevantes pode ser acessado pelo link:<a href="https://openpbl-school.github.io/InvestorRelations/roadshow/OperationsPlan#portuguese" target="_blank_"> OpenPBL - Plano Operacional</a><br><br>
 
+
+<p align="center">
+    <a href="#pitchdeck"> [Pitchdeck] </a> .
+    <a href="#problema"> O Problema </a> ·
+    <a href="#proposta"> A Proposta </a> .
+    <a href="#negocio"> O Negócio </a> .
+    <a href="#execucao"> Execução </a> .
+    <a href="#expansao"> Expansão </a> .
+    <a href="#financiamento"> Financiamento </a></p>
+
+## <br>
+
+<br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+<a name="simulacao"></a> 
+<br>
+
+## FINANCEIRO
 
 ### Simulações de desempenho
 
@@ -807,33 +946,10 @@ A cidade de São Paulo foi escolhida para o lançamento da empresa por apresenta
 </p><br>
 
 
-
-<br><br>
-
-<p align="center">
-    <a href="#pitchdeck"> [Pitchdeck] </a> .
-    <a href="#problema"> O Problema </a> ·
-    <a href="#proposta"> A Proposta </a> .
-    <a href="#negocio"> O Negócio </a> .
-    <a href="#execucao"> Execução </a> .
-    <a href="#expansao"> Expansão </a> .
-    <a href="#financiamento"> Financiamento </a></p>
-    
-## <br>
-
-<br><br><br>
-
-
-
-
-
-
-
-
 <a name="expansao"></a>
 <br>
 
-## Sistema de software 
+### Sistema de software 
 
 Graças ao modelo escalável utilizado, o **desempenho** da empresa poderá ser replicado para uma rápida **expansão das atividades da empresa**. Para isso, é necessário o desenvolvimento do **sistema de software** para automatizar os processos e etapas do **Sistema de Ensino**.<br><br>
 
@@ -881,9 +997,11 @@ A página inicial do projeto *open source* do aplicativo OpenPBL App pode ser ac
 
 
 
-
 <a name="financiamento"></a>
 <br>
+
+## FINANCIAMENTO E USO DOS RECURSOS 
+
 
 ## FINANCIAMENTO E GOVERNANÇA
 Todas as etapas previstas no plano de negócios serão financiadas por **capital de risco** captado através de rodadas públicas. Os roadshows de captação são abertos e publicados em <a href="https://www.crunchbase.com/organization/openpbl#section-overview" target="_blank">CrunchBase.com</a>. <br><br>
