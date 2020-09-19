@@ -95,7 +95,7 @@ Diante desta realidade, os idealizadores decidiram criar a empresa **OpenPBL** n
 
 *“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br>
 
-Ver mais em: <a href="#visao"> Visão </a> ·
+Ver mais em: <a href="#visao"> Visão </a><br><br>
 
 #### O problema
 Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, **empresas** e **escolas de educação profissional** não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.
@@ -117,7 +117,7 @@ Ver mais em: <a href="#solucao"> Solução </a><br><br>
 #### Modelo de receitas 
 As receitas da empresa são provenientes do **licenciamento** do sistema de ensino para empresas e escolas de educação profissional (B2B2C).
 
-Ver mais em: <a href="#negocio"> Negócio </a> .<br><br>
+Ver mais em: <a href="#negocio"> Negócio </a><br><br>
 
 #### Roadmap
 Do lançamento da empresa até o final do segundo ano de operação, os objetivos do startup são:
