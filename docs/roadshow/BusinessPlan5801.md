@@ -84,7 +84,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 <br>
 
 ## Pitchdeck
-As ideias a seguir compõem um resumo executivo do plano de negócios da OpenPBL para o atual roadshow de captação de recursos. Cada seção é detalhada mais à frente.<br><br>
+As ideias a seguir compõem um resumo do plano de negócios da OpenPBL para o atual roadshow de captação de recursos. Cada seção é detalhada mais à frente.<br><br>
 
 #### Visão e proposta de valor 
 Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. 
@@ -93,54 +93,29 @@ A **aprendizagem baseada em problemas** é uma tradicional estratégia de aprend
 
 Diante desta realidade, os idealizadores decidiram criar a empresa **OpenPBL** norteada pela seguinte proposta de valor:
 
-*“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br><br>
+*“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br>
 
 Ver mais em: <a href="#visao"> Visão </a> ·
 
 #### O problema
 Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, **empresas** e **escolas de educação profissional** não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.
 
-O mercado de especialização profissisonal para o varejo é segmentado em: **nível médio** e **nível superior**. Este último possui ainda uma divisão especial de **educação executiva**. Quando a especialização é patrocinada por empresas, este segmento recebe o nome de **educação corporativa**. Juntos, estes segmentos apresentam os seguintes números: 
-- 1,9 milhões de técnicos treinados por ano no nível médio.
-- 5,7 milhões de pós-graduados por ano no nível superior.
-- R$ 5 bi anual de contratação de serviços de educação corporativa.
+O mercado de especialização profissisonal para o varejo é segmentado em: **nível médio** e **nível superior**. Quando a especialização é patrocinada por empresas, este segmento recebe o nome de **educação corporativa**. Juntos, estes segmentos apresentam: 1,9 milhões de técnicos treinados por ano no nível médio; 5,7 milhões de pós-graduados por ano no nível superior e R$ 5 bi anual de contratação de serviços de educação corporativa.
 
 Ver mais em: <a href="#problema"> Problema </a><br><br>
 
 #### A solução 
-No cenário de negócios atual, a OpenPBL se posiciona como uma **Edtech** detentora de uma **tecnologia educacional própria** que ajuda empresas e escolas a explorarem as oportunidades de mercado de especialização profissional. <br><br>
 
-<p align="center">
-  <img src="img/oportunidade-mercado.png" width="700"><br>
-</p>
-<p align="center"><em>Mercado potencial inexplorado no primeiro quadrante.</em>
-</p><br><br>
+A OpenPBL desenvolveu um **sistema de ensino profissionalizante** de **baixo custo** para acelerar o desenvolvimento de competências comportamentais que ajuda empresas e escolas a explorarem as oportunidades de mercado de especialização profissional.
+
+O sistema **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.
+
+O custo baixo é conseguido com o emprego de: **Ativos de terceiros**, que garantem a disponibilidade com o aumento das atividades da empresa e **inteligência artificial**, que reduz os custos de produção de conteúdo e avaliação dos alunos. O sistema de ensino automatiza a **criação** e **execução** de trilhas de capacitação profissional compostas por experiências de aprendizagem PBL completas chamadas de **"trilhas de especialização baseadas em problemas"**.
 
 Ver mais em: <a href="#solucao"> Solução </a><br><br>
 
-#### Produto
-A OpenPBL desenvolveu um sistema de ensino profissionalizante de baixo custo para acelerar o desenvolvimento de competências comportamentais. O sistema **reduz substancialmente os custos** de desenvolvimento de competências comportamentais profissionais pelo método **ativo**. A tecnologia desenvolvida pela empresa garante a execução **contínua** e **escalável** de **cursos profissionalizantes** baseados na *problem-based learning*.
-
-O custo baixo é conseguido com o emprego de: 
-1. **Ativos de terceiros**, que garantem a disponibilidade com o aumento das atividades da empresa.
-2. **Inteligência artificial**, que reduz os custos de produção de conteúdo e avaliação dos alunos
-
-O sistema de ensino automatiza a **criação** e **execução** de trilhas de capacitação profissional compostas por experiências de aprendizagem PBL completas.<br><br>
-
-<p align="center">
-  <img src="img/product-overall1.png" width="900"><br>
-</p>
-<p align="center"><em>Trilhas de especialização baseadas em problemas.</em>
-</p>
-    
-<br>
-
 #### Modelo de receitas 
-As receitas da empresa são provenientes do **licenciamento** do sistema de ensino para empresas e escolas de formação profissional (B2B2C).
-
-Benefícios para os clientes:
-1. Estado da arte em desenvolvimento de competências comportamentais com custos acessíveis.
-2. Viabiliza a oferta de novos programas de capacitação.
+As receitas da empresa são provenientes do **licenciamento** do sistema de ensino para empresas e escolas de educação profissional (B2B2C).
 
 Ver mais em: <a href="#negocio"> Negócio </a> .<br><br>
 
@@ -155,7 +130,7 @@ Do lançamento da empresa até o final do segundo ano de operação, os objetivo
 Ver mais em: <a href="#roadmap"> Roadmap </a><br><br>
 
 #### Competição
-São competidores da OpenPBL os negócios que também ajudam empresas e escolas a se tornarem mais competitivas, seja pela redução de custo, seja pela possibilidade de viabilizar novos produtos.
+São competidores da OpenPBL os negócios que também ajudam empresas e escolas a se tornarem mais competitivas na exploração das oportunidades do mercado, seja pela redução de custo, seja pela possibilidade de viabilizar novos produtos.
 
 Ver mais em: <a href="#competicao"> Competição </a><br><br>
 
@@ -165,44 +140,19 @@ Os empreendedores são profissionais com 20+ anos de experiência na condução 
 Ver mais em: <a href="#time"> Time </a><br><br>
 
 ##### Desempenho financeiro
-As simulações financeiras apontam para um desempenho nos 5 primeiros anos de operação da empresa:
+As simulações financeiras da operação da empresa apontam que com um valor de licença de US $ 5,3 `(R$ 29)` por aluno por mês, é possível atingir 20 clientes e 7.500 alunos licenciados com receitas de  US $ 620 mil `(R$ 3,4 milhões)` e EBITDA de 42% ROL no quinto ano. Um valuation de US $ 2,4 milhões `(R$ 13 milhões)` por FDC.
 
-**Ano 1**
-- 16 cursos;
-- 2 perfis funcionais;
-- Licença:
-- US $ 5,3 `(R$ 29)` por aluno por mês;
-- Franquia 250 alunos;
-- Contrato 24 meses; 
+Resultados de EBITDA em tormo de 40% têm potencial para consolidar um importante "motor de geração de caixa" na expansão da empresa. 
 
-**Investimentos** 
-- Produção de conteúdo.
-- US $ 60.000 `(R$ 327.000)`;
-- Desenvolvimento de software.
-- US $ 72.000 `(R$ 400.000)`;
-
-**Ano 5**
-- 20 clientes;
-- 7.500 alunos licenciados;
-- ROL US $ 620 mil `(R$ 3,4 milhões)`;
-- EBITDA de 42% ROL;
-
-**Valuation**
-- US $ 2,4 milhões `(R$ 13 milhões)`
-- FCD (WAAC de 14,5% a.a.);<br><br>
-
-**Expansão**<br>
-Resultados de EBITDA em tormo de 40% têm potencial para consolidar um importante "motor de geração de caixa" na expansão da empresa. O roadmap para essa expansão é:
-- Fase 1: Motor de geração de caixa. Validação das premissas para escala e EBITDA na faixa de 40%.<br>
-- Fase 2: Novas “praças” de atuação. Expansão do escopo de setores, perfis funcionais e competências.<br>
+O roadmap para essa expansão é:
+- Fase 1: Validar o motor de geração de caixa. Validação das premissas para escala e EBITDA na faixa de 40%.<br>
+- Fase 2: Explorar novas “praças” de atuação. Expansão do escopo de setores, perfis funcionais e competências.<br>
 - Fase 3: Internacionalização. Sem barreiras relevantes para a produção de conteúdo em outras línguas.
 
 Ver mais em: <a href="#financiamento"> Financiamento </a><br><br>
 
 #### Financiamento e uso dos recursos 
-Todas as etapas do plano de negócios serão financiadas por capital de risco e a principal “regra de saída” para atrair investidores é a venda estratégica da empresa para um grupo educacional.
-
-Para atingir os objetivos da primeira etapa, a empresa necessita de US $ 132.000 `(R$ 727.000)`:
+Todas as etapas do plano de negócios serão financiadas por capital de risco. Para atingir os objetivos da primeira etapa, a empresa necessita de US $ 132.000 `(R$ 727.000)`, dos quais:
 - US $ 60.000 `(R$ 327.000)` serão utilizados como capital de giro para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e;
 - US $ 72.000 `(R$ 400.000)` serão utilizados para desenvolver os componentes de software para automatizar o sistema de ensino.<br><br>
 
