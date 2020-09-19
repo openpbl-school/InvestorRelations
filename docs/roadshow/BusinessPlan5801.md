@@ -449,31 +449,53 @@ O draft da arquitetura do sistema pode ser acessado em <a href="https://openpbl.
 
 Para monetizar o **sistema de ensino baseado em problemas**, os idealizadores decidiram criar a empresa educacional **OpenPBL**. <br><br>
 
-### Visão
+### Pitchdeck
+
+#### Visão
+Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica.
+
+A aprendizagem baseada em problemas é um método ATIVO e extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais.
+
+.<br><br>
+
+#### Proposta de valor
 
 A .<br><br>
 
-### Proposta de valor
+#### Problema
+
+Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos,......empresas e escolas não conseguem ampliar a oferta de especialização pelo método ATIVO por causa dos altos custos envolvidos.<br><br>
+
+#### Mercado
 
 A .<br><br>
 
-### Problema
+
+#### Solução
 
 A .<br><br>
 
-### Solução
+#### Produto
 
-A .<br><br>
+Produto. Sistema de ensino de baixo custo para acelerar o desenvolvimento de competências comportamentais.
 
-### Produto
+Ativos de terceiros garantem a disponibilidade com o aumento das atividades da empresa.
+Inteligência artificial reduz os custos de produção de conteúdo e avaliação dos alunos
 
-A .<br><br>
+O sistema de ensino automatiza o desenvolvimento e execução de trilhas de capacitação profissional com experiências de aprendizagem PBL completas.
 
-### Receitas 
+.<br><br>
 
-A .<br><br>
+#### Receitas 
 
-### Roadmap
+As receitas da empresa são provenientes do licenciamento do sistema de ensino para empresas e escolas de formação profissional (B2B2C).
+
+Benefícios para os clientes. 
+1.Estado da arte em desenvolvimento de competências comportamentais com custos acessíveis.
+2. Viabiliza a oferta de novos programas de capacitação.
+.<br><br>
+
+#### Roadmap
 
 A .<br><br>
 
@@ -481,15 +503,15 @@ A .<br><br>
 
 A .<br><br>
 
-### Desempenho
+#### Desempenho
 
 A .<br><br>
 
-### Expansão
+#### Expansão
 
 A .<br><br>
 
-### Funding 
+#### Funding 
 
 A .<br><br>
 
@@ -501,7 +523,7 @@ A OpenPBL é uma **Edtech** detentora de uma **tecnologia educacional própria**
 
 ### Proposta de valor 
 
-**Democratizar** o acesso à **educação profissional baseada em problemas** para desenvolver as **competências do futuro** em um número cada vez maior de profissionais.”<br><br>
+“Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro” <br><br>
 
 
 ### Receitas 
