@@ -988,10 +988,8 @@ O Plano Operacional detalhado com o detalhamento das funções relevantes pode s
 
 
 
-<a name="simulacao"></a> 
+<a name="financas"></a> 
 <br>
-
-<simulacao> 
     
 ## FINANCEIRO
 
@@ -1068,9 +1066,7 @@ A cidade de São Paulo foi escolhida para o lançamento da empresa por apresenta
 
 
 <a name="expansao"></a>
-<br>
-
-<expansao> 
+<br> 
     
 ### Sistema de software 
 
