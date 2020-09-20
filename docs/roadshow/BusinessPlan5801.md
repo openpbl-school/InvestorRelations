@@ -126,12 +126,24 @@ O sistema **reduz substancialmente os custos** de desenvolvimento de competênci
 
 O custo baixo é conseguido com o emprego de: **Ativos de terceiros**, que garantem a disponibilidade com o aumento das atividades da empresa e **inteligência artificial**, que reduz os custos de produção de conteúdo e avaliação dos alunos. O sistema de ensino automatiza a **criação** e **execução** de trilhas de capacitação profissional compostas por experiências de aprendizagem PBL completas chamadas de **"trilhas de especialização baseadas em problemas"**.
 
-Ver mais em: <a href="#solucao"> Solução </a><br><br>
+<p align="center"> 
+    <img src="img/Slide7.JPG" width="300"> .    
+    <img src="img/Slide8.JPG" width="300"> .    
+    <img src="img/Slide9.JPG" width="300"><br>      
+    Ver mais em: <a href="#solucao"> Solução </a>
+</p>
+
+<br>
 
 #### Modelo de receitas 
 As receitas da empresa são provenientes do **licenciamento** do sistema de ensino para empresas e escolas de educação profissional (B2B2C).
 
-Ver mais em: <a href="#negocio"> Negócio </a><br><br>
+<p align="center"> 
+    <img src="img/Slide10.JPG" width="300"><br>      
+    Ver mais em: <a href="#negocio"> Negócio </a>
+</p>
+
+<br>
 
 #### Roadmap
 Do lançamento da empresa até o final do segundo ano de operação, os objetivos do startup são:
@@ -141,17 +153,32 @@ Do lançamento da empresa até o final do segundo ano de operação, os objetivo
 4. Suportar a oferta de cursos PBL para o varejo (São Paulo) em parceria com escolas profissionais de nicho; 
 5. Concluir a automação e lançar o Sistema de Ensino Profissional Baseado em Problemas (B2B2C);
 
-Ver mais em: <a href="#roadmap"> Roadmap </a><br><br>
+<p align="center"> 
+    <img src="img/Slide11.JPG" width="300"><br>      
+    Ver mais em: <a href="#roadmap"> Roadmap </a>
+</p>
+
+<br>
 
 #### Competição
 São competidores da OpenPBL os negócios que também ajudam empresas e escolas a se tornarem mais competitivas na exploração das oportunidades do mercado, seja pela redução de custo, seja pela possibilidade de viabilizar novos produtos.
 
-Ver mais em: <a href="#competicao"> Competição </a><br><br>
+<p align="center"> 
+    <img src="img/Slide12.JPG" width="300"><br>      
+    Ver mais em: <a href="#competicao"> Competição </a>
+</p>
+
+<br>
 
 #### Time
 Os empreendedores são profissionais com 20+ anos de experiência na condução de unidades de negócios de instituições de ensino superior de grande porte.
 
-Ver mais em: <a href="#time"> Time </a><br><br>
+<p align="center"> 
+    <img src="img/Slide13.JPG" width="300"><br>      
+    Ver mais em: <a href="#time"> Time </a>
+</p>
+
+<br>
 
 ##### Desempenho financeiro
 As simulações financeiras da operação da empresa apontam que com um valor de licença de US $ 5,3 `(R$ 29)` por aluno por mês, é possível atingir 20 clientes e 7.500 alunos licenciados com receitas de  US $ 620 mil `(R$ 3,4 milhões)` e EBITDA de 42% ROL no quinto ano. Um valuation de US $ 2,4 milhões `(R$ 13 milhões)` por FDC.
@@ -163,7 +190,13 @@ O roadmap para essa expansão é:
 - Fase 2: Explorar novas “praças” de atuação. Expansão do escopo de setores, perfis funcionais e competências.<br>
 - Fase 3: Internacionalização. Sem barreiras relevantes para a produção de conteúdo em outras línguas.
 
-Ver mais em: <a href="#financiamento"> Financiamento </a><br><br>
+<p align="center"> 
+    <img src="img/Slide14.JPG" width="300"> .    
+    <img src="img/Slide15.JPG" width="300">><br>         
+    Ver mais em: <a href="#financas"> Financeiro </a>
+</p>
+
+<br>
 
 #### Financiamento e uso dos recursos 
 Todas as etapas do plano de negócios serão financiadas por capital de risco. Para atingir os objetivos da primeira etapa, a empresa necessita de US $ 132.000 `(R$ 727.000)`, dos quais:
@@ -172,7 +205,12 @@ Todas as etapas do plano de negócios serão financiadas por capital de risco. P
 
 A empresa publicou a **oferta** de venda de 16% de participação por US $ 33.000 `(R$ 182.000)`, acenando com um retorno nominal estimado da ordem de 35% a.a.(WAAC de 14,5% a.a.).
 
-Ver mais em: <a href="#financiamento"> Financiamento </a><br><br>
+<p align="center">   
+    <img src="img/Slide16.JPG" width="300">><br>      
+    Ver mais em: <a href="#financiamento"> Financiamento </a>
+</p>
+
+<br>
 
 #### Informações complementares
 Repositório com as informações complementares ao Plano de Negócios.<br><br>
