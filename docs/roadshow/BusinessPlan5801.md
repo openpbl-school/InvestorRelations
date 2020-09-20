@@ -90,7 +90,7 @@ As ideias a seguir compõem um resumo do plano de negócios da OpenPBL para o at
 
 <p align="center"> 
     <img src="img/Slide2.JPG" width="700"><br>
-    Ensaio da homepage B2C
+    Ver mais em: <a href="#visao"> Visão </a>
 </p>
 
 Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. 
@@ -101,7 +101,12 @@ Diante desta realidade, os idealizadores decidiram criar a empresa **OpenPBL** n
 
 *“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br>
 
-Ver mais em: <a href="#visao"> Visão </a><br><br>
+<p align="center"> 
+    <img src="img/Slide2.JPG" width="700"><br>
+    Ver mais em: <a href="#visao"> Visão </a>
+</p>
+
+<br>
 
 #### O problema
 Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, **empresas** e **escolas de educação profissional** não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.
