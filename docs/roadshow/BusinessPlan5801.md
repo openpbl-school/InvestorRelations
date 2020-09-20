@@ -87,6 +87,12 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 As ideias a seguir compõem um resumo do plano de negócios da OpenPBL para o atual roadshow de captação de recursos. Cada seção é detalhada mais à frente.<br><br>
 
 #### Visão e proposta de valor 
+
+<p align="center"> 
+    <img src="img/slide2.png" width="700"><br>
+    Ensaio da homepage B2C
+</p>
+
 Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. 
 
 A **aprendizagem baseada em problemas** é uma tradicional estratégia de aprendizagem que pode ser muito útil neste cenário. Entretanto, apesar de ser um método extremamente poderoso para acelerar o desenvolvimento NATURAL de competências comportamentais, a PBL clássica não é acessível para a grande maioria dos profissionais.  
