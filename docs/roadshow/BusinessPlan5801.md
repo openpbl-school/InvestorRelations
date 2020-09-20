@@ -192,7 +192,7 @@ O roadmap para essa expansão é:
 
 <p align="center"> 
     <img src="img/Slide14.JPG" width="300"> .    
-    <img src="img/Slide15.JPG" width="300">><br>         
+    <img src="img/Slide15.JPG" width="300"><br>         
     Ver mais em: <a href="#financas"> Financeiro </a>
 </p>
 
@@ -206,7 +206,7 @@ Todas as etapas do plano de negócios serão financiadas por capital de risco. P
 A empresa publicou a **oferta** de venda de 16% de participação por US $ 33.000 `(R$ 182.000)`, acenando com um retorno nominal estimado da ordem de 35% a.a.(WAAC de 14,5% a.a.).
 
 <p align="center">   
-    <img src="img/Slide16.JPG" width="300">><br>      
+    <img src="img/Slide16.JPG" width="300"><br>      
     Ver mais em: <a href="#financiamento"> Financiamento </a>
 </p>
 
