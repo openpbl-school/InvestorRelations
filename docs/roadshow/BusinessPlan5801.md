@@ -135,7 +135,7 @@ O custo baixo é conseguido com o emprego de: **Ativos de terceiros**, que garan
 
 <br>
 
-#### Modelo de receitas 
+#### MODELO DE RECEITAS 
 As receitas da empresa são provenientes do **licenciamento** do sistema de ensino para empresas e escolas de educação profissional (B2B2C).
 
 <p align="center"> 
@@ -145,7 +145,7 @@ As receitas da empresa são provenientes do **licenciamento** do sistema de ensi
 
 <br>
 
-#### Roadmap
+#### ROADMAP
 Do lançamento da empresa até o final do segundo ano de operação, os objetivos do startup são:
 1. Suportar a oferta de cursos PBL para empresas em parceria com consultorias especializadas; 
 2. Elaborar testes de conceito e estudos de viabilidade;
@@ -160,7 +160,7 @@ Do lançamento da empresa até o final do segundo ano de operação, os objetivo
 
 <br>
 
-#### Competição
+#### COMPETIÇÃO
 São competidores da OpenPBL os negócios que também ajudam empresas e escolas a se tornarem mais competitivas na exploração das oportunidades do mercado, seja pela redução de custo, seja pela possibilidade de viabilizar novos produtos.
 
 <p align="center"> 
@@ -170,7 +170,7 @@ São competidores da OpenPBL os negócios que também ajudam empresas e escolas 
 
 <br>
 
-#### Time
+#### TIME
 Os empreendedores são profissionais com 20+ anos de experiência na condução de unidades de negócios de instituições de ensino superior de grande porte.
 
 <p align="center"> 
@@ -180,7 +180,7 @@ Os empreendedores são profissionais com 20+ anos de experiência na condução 
 
 <br>
 
-##### Desempenho financeiro
+##### DESEMPENHO FINANCEIRO
 As simulações financeiras da operação da empresa apontam que com um valor de licença de US $ 5,3 `(R$ 29)` por aluno por mês, é possível atingir 20 clientes e 7.500 alunos licenciados com receitas de  US $ 620 mil `(R$ 3,4 milhões)` e EBITDA de 42% ROL no quinto ano. Um valuation de US $ 2,4 milhões `(R$ 13 milhões)` por FDC.
 
 Resultados de EBITDA em tormo de 40% têm potencial para consolidar um importante "motor de geração de caixa" na expansão da empresa. 
@@ -198,7 +198,7 @@ O roadmap para essa expansão é:
 
 <br>
 
-#### Financiamento e uso dos recursos 
+#### FINANCIAMENTO E USO DOS RECURSOS
 Todas as etapas do plano de negócios serão financiadas por capital de risco. Para atingir os objetivos da primeira etapa, a empresa necessita de US $ 132.000 `(R$ 727.000)`, dos quais:
 - US $ 60.000 `(R$ 327.000)` serão utilizados como capital de giro para o lançamento da primeira unidade da empresa na cidade de São Paulo (Brasil) e;
 - US $ 72.000 `(R$ 400.000)` serão utilizados para desenvolver os componentes de software para automatizar o sistema de ensino.<br><br>
@@ -212,7 +212,7 @@ A empresa publicou a **oferta** de venda de 16% de participação por US $ 33.00
 
 <br>
 
-#### Informações complementares
+#### INFORMAÇÕES COMPLEMENTARES
 Repositório com as informações complementares ao Plano de Negócios.<br><br>
 
 > **Informações e fatos relevantes**  :
