@@ -86,12 +86,7 @@ No presente roadshow (publicado em <a href="https://www.crunchbase.com/organizat
 ## Pitchdeck
 As ideias a seguir compõem um resumo do plano de negócios da OpenPBL para o atual roadshow de captação de recursos. Cada seção é detalhada mais à frente.<br><br>
 
-#### Visão e proposta de valor 
-
-<p align="center"> 
-    <img src="img/Slide2.JPG" width="700"><br>
-    Ver mais em: <a href="#visao"> Visão </a>
-</p>
+#### VISÃO E PROPOSTA DE VALOR
 
 Num mundo globalizado, dinâmico e automatizado, os conhecimentos e habilidades técnicas se mostram cada vez mais efêmeros. Algumas competências comportamentais, antes exigidas apenas do C-level das organizações, começam a ser demandadas de profissionais em níveis cada vez mais próximos da base da pirâmide hierárquica. 
 
@@ -99,7 +94,7 @@ A **aprendizagem baseada em problemas** é uma tradicional estratégia de aprend
 
 Diante desta realidade, os idealizadores decidiram criar a empresa **OpenPBL** norteada pela seguinte proposta de valor:
 
-*“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br>
+*“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br><br>
 
 <p align="center"> 
     <img src="img/Slide2.JPG" width="700"><br>
@@ -108,14 +103,20 @@ Diante desta realidade, os idealizadores decidiram criar a empresa **OpenPBL** n
 
 <br>
 
-#### O problema
+#### O PROBLEMA
 Apesar da crescente importância de algumas competências comportamentais para profissionais de todos os níveis hierárquicos, **empresas** e **escolas de educação profissional** não conseguem ampliar a oferta de **especialização** pelo método ATIVO por causa dos altos custos envolvidos.
 
 O mercado de especialização profissisonal para o varejo é segmentado em: **nível médio** e **nível superior**. Quando a especialização é patrocinada por empresas, este segmento recebe o nome de **educação corporativa**. Juntos, estes segmentos apresentam: 1,9 milhões de técnicos treinados por ano no nível médio; 5,7 milhões de pós-graduados por ano no nível superior e R$ 5 bi anual de contratação de serviços de educação corporativa.
 
-Ver mais em: <a href="#problema"> Problema </a><br><br>
+<p align="center"> 
+    <img src="img/Slide2.JPG" width="700"><br>
+    Ver mais em: <a href="#problema"> Problema </a>
+</p>
 
-#### A solução 
+<br>
+
+
+#### A SOLUÇÃO  
 
 A OpenPBL desenvolveu um **sistema de ensino profissionalizante** de **baixo custo** para acelerar o desenvolvimento de competências comportamentais que ajuda empresas e escolas a explorarem as oportunidades de mercado de especialização profissional.
 
