@@ -1064,9 +1064,6 @@ A cidade de São Paulo foi escolhida para o lançamento da empresa por apresenta
 <em>Alunos concluintes em 2018 na cidade de São Paulo.</em>
 </p><br>
 
-
-<a name="expansao"></a>
-<br> 
     
 ### Sistema de software 
 
@@ -1118,8 +1115,6 @@ A página inicial do projeto *open source* do aplicativo OpenPBL App pode ser ac
 
 <a name="financiamento"></a>
 <br>
-
-<financiamento>
     
 ## FINANCIAMENTO E USO DOS RECURSOS 
 
