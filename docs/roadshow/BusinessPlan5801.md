@@ -89,7 +89,7 @@ As ideias a seguir compõem um resumo do plano de negócios da OpenPBL para o at
 #### Visão e proposta de valor 
 
 <p align="center"> 
-    <img src="img/slide2.jpg" width="700"><br>
+    <img src="img/Slide2.JPG" width="700"><br>
     Ensaio da homepage B2C
 </p>
 
