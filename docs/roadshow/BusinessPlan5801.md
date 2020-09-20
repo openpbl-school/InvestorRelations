@@ -97,7 +97,10 @@ Diante desta realidade, os idealizadores decidiram criar a empresa **OpenPBL** n
 *“**Simplificamos a educação profissional baseada em problemas para democratizar o acesso às competências do futuro.**”*<br><br>
 
 <p align="center"> 
-    <img src="img/Slide2.JPG" width="700"><br>
+    <img src="img/Slide2.JPG" width="600"><br>
+    <img src="img/Slide3.JPG" width="600"><br>    
+    <img src="img/Slide4.JPG" width="600"><br>    
+    <img src="img/Slide5.JPG" width="600"><br>      
     Ver mais em: <a href="#visao"> Visão </a>
 </p>
 
@@ -109,7 +112,7 @@ Apesar da crescente importância de algumas competências comportamentais para p
 O mercado de especialização profissisonal para o varejo é segmentado em: **nível médio** e **nível superior**. Quando a especialização é patrocinada por empresas, este segmento recebe o nome de **educação corporativa**. Juntos, estes segmentos apresentam: 1,9 milhões de técnicos treinados por ano no nível médio; 5,7 milhões de pós-graduados por ano no nível superior e R$ 5 bi anual de contratação de serviços de educação corporativa.
 
 <p align="center"> 
-    <img src="img/Slide2.JPG" width="700"><br>
+    <img src="img/Slide6.JPG" width="600"><br>
     Ver mais em: <a href="#problema"> Problema </a>
 </p>
 
