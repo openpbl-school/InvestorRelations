@@ -14,11 +14,33 @@
 
 
 <a name="como-funciona"></a>
+
+<br>
+<p align="center"> 
+    <img src="img/site-banner1.png" width="1000">
+</p>
+
+<br>
+<p align="center"> 
+    <img src="img/site-banner1.png" width="1000">
+</p>
+
+
+<a name="footer"></a>
 <br>
 
+<br>
+<p align="center"> 
+    <img src="img/site-banner1.png" width="1000">
+</p>
+
+<p align="left">
+  <a href="#portuguese"> <b>Voltar</b></a></p>
 
 
-
+## <br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
