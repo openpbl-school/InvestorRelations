@@ -2,15 +2,25 @@
 
 <br>
 
-## MENU HORIZONTAL 
+<p align="left">
+  <a href="#visao"> <b>OpenBPL</b></a> ·
+    <a href="#como-funciona"> Como funciona </a> ·
+    <a href="#catalogo"> Catálogo de cursos </a> .
+    <a href="#experimentar"> Experimentar</a></p>
 
+<p align="center"> 
+    <img src="img/site-banner1.png" width="1000">
+</p>
+
+
+<a name="como-funciona"></a>
 <br>
 
-**Logo** |.........................................| Link: **Como funciona**  |  Link: **Catálogo** | Botão: **Experimentar**
 
-<br><br>
 
-...
+
+
+
 
 ## CALL TO ACTION 
 
