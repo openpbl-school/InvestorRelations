@@ -3,7 +3,7 @@
 <br>
 
 <p align="left">
-  <a href="#visao"> <b>OpenBPL</b></a>.                                                         ·
+  <a href="#portuguese"> <b>OpenBPL</b></a>.                                                         ·
     <a href="#como-funciona"> Como funciona </a> ·
     <a href="#catalogo"> Catálogo de cursos </a> .
     <a href="#experimentar"> Experimentar</a></p>
@@ -34,7 +34,7 @@
     <img src="img/site-banner1.png" width="1000">
 </p>
 
-<p align="left">
+<p align="center">
   <a href="#portuguese"> <b>Voltar</b></a></p>
 
 
